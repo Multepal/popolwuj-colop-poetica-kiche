@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Popol Wuj: Versión Poética K'iche'</title>
+                <author>Colop, Sam</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Cholsamaj</publisher>
+                <pubPlace>Iximulew</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+        </encodingDesc>
+        <editorialDesc>
+        </editorialDesc>
+        <profileDesc>
+        <langUsage>
+            <language ident="quc">K'iche'</language>
+            <language ident="spa">Español</language>
+        </langUsage>
+        </profileDesc>
+    </teiHeader>
+</TEI>
