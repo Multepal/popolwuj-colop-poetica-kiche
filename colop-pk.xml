@@ -71,7 +71,7 @@
                 <pb xml:id="colop1999-007"/>
                 <div type="toc">
                     <note resp="editor">We might want to include graphics for the Maya numbers</note>
-                    <note resp="editor">Reminder to go back and include Spanish accents</note>
+                    <note resp="editor">Reminder to go back and include Spanish accents and format page nums better</note>
                     <head>CHOLAJEM</head>
                     <list>
                         <item>ABREVIATURAS  9</item>
@@ -88,118 +88,35 @@
                         <item>K'ATE K'UT KIK'ISIK CHIK 35</item>
                     </list>
                     <l><hi rend="emph">UKAB'</hi></l>
-                    ARE K'UT XA JUB'IQ' SAQNATONOJ UWACH ULEW
-
-                    K'EJE K'UT XCHIQAB'IJ CHIK TA XKAMIK WUQUB' KAK'IX
-                    WA'E CHI K'UTE UB' ANOJ CHIK SIPAKNA
-
-                    ARE CHIK UCH'AKATAJIK, UKAMIK SIPAKNA
-
-                    ll
-
-                    49
-
-                    JUNCHI
-
-                    :11
-
-                    52
-
-                    ARE CHI K'UT XCHIQAB'IJ CHIK UB'I'
-                    KIQAJAW RI JUNAJPU, XB' ALANKE
-
-                    :111
-
-                    57
-
-                    ARE CHI K'UT XCHIQAB'IJ' CHIK KIB'E'IK CHI XIB' ALB' A
-
-                    ~
-
-                    60
-
-                    K'UT XCHIQAB'IJ UB'IXIK
-
-                    ROX
-
-                    K' ATE PUCH TA XEB'EK JUN JUNAJPU, WUQUB' JUNAJPU
-
-                    63
-
-                    K'ATE K'UT XE'OPONIK PA Q'EQUMAJA
-
-                    64
-
-                    WA CHI K'UTE UTZIJOXIK JUN Q' APOJ
-
-                    :1
-
-                    67
-
-                    ARE K'UTE K'O RI UCHUCH JUN B' ATZ', JUN CHOWEN
-
-                    :11
-
-                    72
-
-                    ARE CHIK XCHIQATZJOJ KALAXIK JUNAJPU XB' ALANKE
-
-                    m
-
-                    74
-
-                    TAXE B'E K'UTCHILA'
-
-                    :111
-
-                    77
-
-                    K'ATE K'UT XUKAQ'AT ULA CH'O RI KIK'
-
-                    :1
-
-                    87
-
-                    TA XEPE K'UT NIMA JOK K'U KIB'E
-                    RI K' AJOLAB ' CHI KOCHOCH
-
-                    :I
-
-                    88
-
-                    CHUXE' CHE',Q'ANTE',
-
-                    UB'I'
-
-                    TAXE B'E K'UT
-
-                    K'ATE K'UT TA XE'OK PA Q'EQUMAJA
-                    ARE K'UT WA 'E KIN AB' AL, KIKAMIK JUNAJPU, XB' ALANKE
-
-                    92
-
-                    Ill
-                    ·I
-
-                    95
-                    106
+                    <list>
+                        <item>ARE K'UT XA JUB'IQ' SAQNATONOJ UWACH ULEW 39</item>
+                        <item>K'EJE K'UT XCHIQAB'IJ CHIK TA XKAMIK WUQUB' KAK'IX    40</item>
+                        <item>WA'E CHI K'UTE UB' ANOJ CHIK SIPAKNA  45</item>
+                        <item>ARE CHIK UCH'AKATAJIK, UKAMIK SIPAKNA 49</item>
+                        <item>JUN CHI K'UT XCHIQAB'IJ UB'IXIK   52</item>
+                    </list>
+                    <l><hi rend="emph">ROX</hi></l>
+                    <list>
+                        <item>ARE CHI K'UT XCHIQAB'IJ CHIK UB'I' KIQAJAW RI JUNAJPU, XB'ALANKE  57</item>
+                        <item>ARE CHI K'UT XCHIQAB'IJ' CHIK KIB'E'IK CHI XIB'ALB'A  60</item>
+                        <item>K'ATE PUCH TA XEB'EK JUN JUNAJPU, WUQUB' JUNAJPU  63</item>
+                        <item>K'ATE K'UT XE'OPONIK PA Q'EQUMA JA    64</item>
+                        <item>WA CHI K'UTE UTZIJOXIK JUN Q'APOJ     67</item>
+                        <item>ARE K'UTE K'O RI UCHUCH JUN B'ATZ', JUN CHOWEN    72</item>
+                        <item>ARE CHIK XCHIQATZJOJ KALAXIK JUNAJPU XB'ALANKE   74</item>
+                        <item>TA XEB'E K'UT CHILA' CHUXE' CHE', Q'ANTE', UB'I'    77</item>
+                        <item>K'ATE K'UT XUKAQ'AT ULA CH'O RI KIK'  87</item>
+                        <item>TA XEPE K'UT NIMA JOK K'U KIB'E RI K'AJOLAB' CHI KOCHOCH    88</item>
+                        <item>TA XEB'E K'UT     92</item>
+                        <item>K'ATE K'UT TA XE'OK PA Q'EQUMA JA      95</item>
+                        <item>ARE K'UT WA'E KINAB'AL, KIKAMIK JUNAJPU, XB'ALANKE    106</item>
                 <pb xml:id="colop1999-008"/>
-                    K' ATE PUCH URAYINIK, UMALINIK PU KIK'UX AJAWAB'
-                    CHI RE KJXALOJ JUNAJPU, XBALANKE
-
-                    :11
-
-                    ARE K'UT KOQ'IK, KASIK'IN RI KATI'T CHUWACH RI AJ,
-                    RI XKITIK KANOQ
-
-                    112
-
-                    Ill 115
-                    ·Ill 116
-
-                    ARE K'U RI NAB'E KIQAJAW
-
-                    UKAJ
+                        <item>K' ATE PUCH URAYINIK, UMALINIK PU KIK'UX AJAWAB' CHI RE KIXALOJ JUNAJPU, XBALANKE</item>
+                        <item>ARE K'UT KOQ'IK, KASIK'IN RI KATI'T CHUWACH RI AJ, RI XKITIK KANOQ</item>
+                        <item>ARE K'U RI NAB'E KIQAJAW</item>
+                    </list>
+                    <l><hi rend="emph">UKAJ</hi></l>
+                    <list>
                     WA'E K'UT UTIKERIK TA XNA'OJIK WINAQ, TA XTZUKUX
                     PUCH RI CHOK lITYO'JIL WINAQ
                     WA'E KIB'I NAB'E WINAQ XETZ' AQIK, XEB'ITIK
@@ -212,80 +129,19 @@
                     K' ATE PUCH XEB'EK
                     WA'E K'UTE KIMOLOWIK KIB' KONOJEL AMAQ'
                     ARE CHIK WI XCHIQAB'IJ CHIK KIKAMIK
-
-                    ml 119
-
-                    ·I
-                    ·I
-                    ·I
-                    :I
-                    :I
-
-                    121
-
-                    ·I
-                    II
-                    I
-                    II
-                    :1 m
-                    :1 ·Ill
-                    :1 :Ill
-                    :I
-                    :I H
-
-                    126
-                    130
-                    145
-
-                    150
-                    154
-                    156
-                    158
-                    162
-                    169
-
-                    RO '
-
+                    </list>
+                    <l><hi rend="emph">RO'</hi></l>
+                    <list>
                     TA XE'UL CHI K'U CHIRI'
-
-                    :I :II 173
-                    :I ·Ill 176
-
                     WA'E K'UTE KIB'I' AJAWAB' CHUWACH KAWIQIB'
-
-                    H
-
-                    181
-
                     ARE CHI K'U AJAWAB' WA' CHUCHA NIJA' IB' AB'
-
-                    11
-
-                    182
-
                     ARE CHI K'UT AJAW K'ICHE' WA'
 
-                    11
-
-                    182
-
                     KA'IB' CHINAMIT CHI NAY PUCH SAQIKIB' AJAWAB'
-
-                    H
-                    H
-
-                    182
-
-                    H ·II
-
-                    191
 
                     K' ATE PUCH TA XKIK'UXLAJ KIB'IK
 
                     WA' CHI K'UTE KIB'I' CHIK UWAQ LE' AJAW
-
-                    185
-
                     ARE K'UT XCHIQAB'IJ CHIK UB'I'
                     ROCHOCH KAB' AWIL
                     ARE CHI K'UT XCHIQACHOLO ULE'EL AJAWAB' RUK'
@@ -293,39 +149,18 @@
 
                     ARE UB'INA'M WI B'ELEJEB' CHINAMIT CHI KAWIQIB'
 
-                    H ·Ill 196
-                    H :Ill 198
-                    H :Ill 198
-
                     WA K'lITE RECH NIJA'IB' AB'
-
-                    H ml
 
                     ARE CHIK XCHIQAB'IJ RAJAWAL JUJUN
                     CHI NIM JA
 
-                    H rn1 199
-
                     ARE CHI K'UT RECH AJAW K'ICHE'
-
-                    II
-                    II
-                    II
 
                     ARE CHI XCHIQAB'IJ CHIK RE CHINAMIT
 
                     ARE K'U RI E OXIB' CHI NIM CHOKOJ
                     BIBLIOGRAFiA
-
-                    8
-
-                    ©
-                    ©
-
-                    199
-                    200
-                    200
-                    203
+                    </list>
                 </div>
                 <pb xml:id="colop1999-009"/>
                     ABREVIATURAS
