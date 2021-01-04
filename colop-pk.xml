@@ -27,7 +27,7 @@
         </profileDesc>
     </teiHeader>
     <text>
-        <body>
+        <front>
             <div type="introduction">
                 <pb xml:id="colop1999-001" />
                     Popol Wuj
@@ -838,6 +838,8 @@
 
                     19
             </div>
+        </front>
+        <body>
             <div type="NAB'E">
             <pb xml:id="colop1999-022"/>
                 NAB'E
