@@ -69,67 +69,29 @@
                     <l>lmpreso en Guatemala C.A.</l>
                 <pb xml:id="colop1999-006" />
                 <pb xml:id="colop1999-007"/>
-                    CHOLAJEM
-                    ABREVIATURAS
-
-                    ll
-                    ·II
-                    :II
-
-                    PRESENTACI6N
-                    INTRODUCCI6N
-
-                    9
-                    11
-
-                    13
-
-                    NAB'E
-                    ARE' UXE' OJER TZIJ W ARAL K'ICHE' UB'I'
-
-                    21
-
-                    ARE' UTZIJOXIK WA'E
-
-                    23
-
-                    TA XWINAQIR K'U RI ULEW KUMAL
-                    K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ' AQ
-                    WINAQ B'IT KUMAL TZ' AQOL B'ITOL, ALOM, K' AJOLOM
-                    K' ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL
-                    K' ATE K'UT KIK'ISIK CHIK
-
-                    ·I
-
-                    26
-
-                    II
-                    ·II
-                    Ill
-
-                    30
-
-                    35
-
-                    llll
-
-                    39
-
-                    ~
-
-                    40
-
-                    31
-
-                    UKAB '
-                    ARE K'UT XA JUB'IQ' SAQNAlDNOJ
-
-                    UWACH ULEW
+                <div type="toc">
+                    <note resp="editor">We might want to include graphics for the Maya numbers</note>
+                    <note resp="editor">Reminder to go back and include Spanish accents</note>
+                    <head>CHOLAJEM</head>
+                    <list>
+                        <item>ABREVIATURAS  9</item>
+                        <item>PRESENTACION  11</item>
+                        <item>INTRODUCCION  13</item>
+                    </list>
+                    <l><hi rend="emph">NAB'E</hi></l>
+                    <list>
+                        <item>ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'  21</item>
+                        <item>ARE' UTZIJOXIK WA'E   23</item>
+                        <item>TA XWINAQIR K'U RI ULEW KUMAL 26</item>
+                        <item>K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ, WINAQ B'IT KUMAL TZ'AQOL, B'ITOL, ALOM, K'AJOLOM   30</item>
+                        <item>K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL    31</item>
+                        <item>K'ATE K'UT KIK'ISIK CHIK 35</item>
+                    </list>
+                    <l><hi rend="emph">UKAB'</hi></l>
+                    ARE K'UT XA JUB'IQ' SAQNATONOJ UWACH ULEW
 
                     K'EJE K'UT XCHIQAB'IJ CHIK TA XKAMIK WUQUB' KAK'IX
                     WA'E CHI K'UTE UB' ANOJ CHIK SIPAKNA
-
-                    45
 
                     ARE CHIK UCH'AKATAJIK, UKAMIK SIPAKNA
 
@@ -364,6 +326,7 @@
                     200
                     200
                     203
+                </div>
                 <pb xml:id="colop1999-009"/>
                     ABREVIATURAS
 
