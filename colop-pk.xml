@@ -257,7 +257,7 @@
                     <l>Matthias Abram</l>
                     <l>PEMBI</l>
                 <pb xml:id="colop1999-013" />
-                    INTRODUCCI6N
+                    <l><hi rend="bold">INTRODUCCION</hi></l>
 
                     Esta version K'iche' del Popol Wujesta preparada para que lectores con conocimiento de ese idioma tengan un acercamiento substancial al texto que contiene la mitologia y la historia del Pueblo MayaK'iche'. Si bien, el original del documento quiza este perdido definitivamente, la copia mas antigua con que se dispone a la fecha, es la
                     copia que Ximenez realizo a principios del siglo XVIII, de una version
@@ -617,8 +617,10 @@
             </div>
         </front>
         <body>
+            <pb xml:id="colop1999-019" />
+            <pb xml:id="colop1999-020" />
+            <pb xml:id="colop1999-021" />
             <div type="NAB'E">
-            <pb xml:id="colop1999-022"/>
                 NAB'E
 
                 ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'
