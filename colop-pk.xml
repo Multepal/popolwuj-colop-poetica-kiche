@@ -117,49 +117,36 @@
                     </list>
                     <l><hi rend="emph">UKAJ</hi></l>
                     <list>
-                    WA'E K'UT UTIKERIK TA XNA'OJIK WINAQ, TA XTZUKUX
-                    PUCH RI CHOK lITYO'JIL WINAQ
-                    WA'E KIB'I NAB'E WINAQ XETZ' AQIK, XEB'ITIK
-                    ARE K'UT UXE' QECH, RI OJ K'ECHE' WINAQ
-                    ARE K'UT UB'I JUYUB' WA'
-                    WA'E K'UTE' USAQIRIK, UWACHINIKPUCH Q'U, IK', CH'UMIL
-                    WA K'UTE' KIK' ATONIK
-                    WA'E UTIKARIK CHIK RELEQ' AXIK WINAQ, AMAQ'
-                    ARE K'U WA' UK' AMII UNA'OJ AMAQ'
-                    K' ATE PUCH XEB'EK
-                    WA'E K'UTE KIMOLOWIK KIB' KONOJEL AMAQ'
-                    ARE CHIK WI XCHIQAB'IJ CHIK KIKAMIK
+                        <item>WA'E K'UT UTIKERIK TA XNA'OJIK WINAQ, TA XTZUKUX PUCH RI CHOK UTYO'JIL WINAQ  119</item>
+                        <item>WA'E KIB'I NAB'E WINAQ XETZ'AQIK, XEB'ITIK   121</item>
+                        <item>ARE K'UT UXE' QECH, RI OJ K'ECHE' WINAQ   126</item>
+                        <item>ARE K'UT UB'I JUYUB' WA'  130</item>
+                        <item>WA'E K'UTE' USAQIRIK, UWACHINIK PUCH Q'IJ, IK', CH'UMIL 145</item>
+                        <item>WA K'UTE' KIK' ATONIK 150</item>
+                        <item>WA'E UTIKARIK CHIK RELEQ'AXIK WINAQ, AMAQ'   154</item>
+                        <item>ARE K'U WA' UK'AMIK UNA'OJ AMAQ' 156</item>
+                        <item>K'ATE PUCH XEB'EK    158</item>
+                        <item>WA'E K'UTE KIMOLOWIK KIB' KONOJEL AMAQ'   162</item>
+                        <item>ARE CHIK WI XCHIQAB'IJ CHIK KIKAMIK   169</item>
                     </list>
                     <l><hi rend="emph">RO'</hi></l>
                     <list>
-                    TA XE'UL CHI K'U CHIRI'
-                    WA'E K'UTE KIB'I' AJAWAB' CHUWACH KAWIQIB'
-                    ARE CHI K'U AJAWAB' WA' CHUCHA NIJA' IB' AB'
-                    ARE CHI K'UT AJAW K'ICHE' WA'
-
-                    KA'IB' CHINAMIT CHI NAY PUCH SAQIKIB' AJAWAB'
-
-                    K' ATE PUCH TA XKIK'UXLAJ KIB'IK
-
-                    WA' CHI K'UTE KIB'I' CHIK UWAQ LE' AJAW
-                    ARE K'UT XCHIQAB'IJ CHIK UB'I'
-                    ROCHOCH KAB' AWIL
-                    ARE CHI K'UT XCHIQACHOLO ULE'EL AJAWAB' RUK'
-                    KIB'I' KONOJEL AJAWAB' XCHIQAB'IJ CHIK
-
-                    ARE UB'INA'M WI B'ELEJEB' CHINAMIT CHI KAWIQIB'
-
-                    WA K'lITE RECH NIJA'IB' AB'
-
-                    ARE CHIK XCHIQAB'IJ RAJAWAL JUJUN
-                    CHI NIM JA
-
-                    ARE CHI K'UT RECH AJAW K'ICHE'
-
-                    ARE CHI XCHIQAB'IJ CHIK RE CHINAMIT
-
-                    ARE K'U RI E OXIB' CHI NIM CHOKOJ
-                    BIBLIOGRAFiA
+                        <item>K'ATE PUCH TA XKIK'UXLAJ KIB'IK   173</item>
+                        <item>TA XE'UL CHI K'U CHIRI'   176</item>
+                        <item>WA'E K'UTE KIB'I' AJAWAB' CHUWACH KAWIQIB'    181</item>
+                        <item>ARE CHI K'U AJAWAB' WA' CHUCHA NIJA'IB'AB'   182</item>
+                        <item>ARE CHI K'UT AJAW K'ICHE' WA' 182</item>
+                        <item>KA'IB' CHINAMIT CHI NAY PUCH SAQIKIB' AJAWAB' 182</item>
+                        <item>WA' CHI K'UTE KIB'I' CHIK UWAQ LE' AJAW   185</item>
+                        <item>ARE K'UT XCHIQAB'IJ CHIK UB'I' ROCHOCH KAB'AWIL  191</item>
+                        <item>ARE CHI K'UT XCHIQACHOLO ULE'EL AJAWAB' RUK' KIB'I' KONOJEL AJAWAB' XCHIQAB'IJ CHIK   196</item>
+                        <item>ARE CHI XCHIQAB'IJ CHIK RE CHINAMIT   198</item>
+                        <item>ARE UB'INA'M WI B'ELEJEB' CHINAMIT CHI KAWIQIB'   198</item>
+                        <item>WA K'UTE RECH NIJA'IB'AB' 199</item>
+                        <item>ARE CHIK XCHIQAB'IJ RAJAWAL JUJUN CHI NIM JA  199</item>
+                        <item>ARE CHI K'UT RECH AJAW K'ICHE'    200</item>
+                        <item>ARE K'U RI E OXIB' CHI NIM CHOKOJ 200</item>
+                        <item>BIBLIOGRAFIA  203</item>
                     </list>
                 </div>
                 <pb xml:id="colop1999-009"/>
