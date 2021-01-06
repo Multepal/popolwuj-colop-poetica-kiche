@@ -150,41 +150,26 @@
                     </list>
                 </div>
                 <pb xml:id="colop1999-009"/>
-                    ABREVIATURAS
-
-                    1, 2, 3
-                    adv.
-                    art.
-                    asp.
-                    dat.
-                    det.
-                    intr.
-                    lit.
-                    pl.
-                    pos .
-                    pp .
-                    ps.
-                    refl.
-                    suf.
-                    sust.
-                    verb.
-
-                    Primera, segunda, tercera
-                    Adverbio
-                    Articulo
-                    Aspecto
-                    Dativo
-                    De term.in a ti vo
-                    Intransitivo
-                    Literalmente
-                    Plural
-                    Posesivo
-                    Persona plural
-                    Persona singular
-                    Reflexivo
-                    Sufijo
-                    Sustantivo
-                    Verbo
+                <div type="glossary">
+                    <list type="gloss">
+                        <head>ABREVIATURAS</head>
+                        <label>1, 2, 3</label>  <item>Primera, segunda, tercera</item>
+                        <label>adv.</label> <item>Adverbio</item>
+                        <label>art.</label> <item>Articulo</item>
+                        <label>asp.</label> <item>Aspecto</item>
+                        <label>dat.</label> <item>Dativo</item>
+                        <label>det.</label> <item>Determinativo</item>
+                        <label>intr.</label>    <item>Intransitivo</item>
+                        <label>lit.</label> <item>Literalmente</item>
+                        <label>pl.</label>  <item>Plural</item>
+                        <label>pos.</label> <item>Posesivo</item>
+                        <label>pp.</label>  <item>Persona plural</item>
+                        <label>ps.</label>  <item>Persona singular</item>
+                        <label>refl.</label>    <item>Reflexivo</item>
+                        <label>suf.</label> <item>Sufijo</item>
+                        <label>sust.</label>    <item>Sustantivo</item>
+                        <label>verb.</label>    <item>Verbo</item>
+                    </list>
                 <pb xml:id="colop1999-010"/>
                 <pb xml:id="colop1999-011"/>
                     PRESENTACI6N
