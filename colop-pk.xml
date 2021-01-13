@@ -32,14 +32,14 @@
                 <pb xml:id="colop1999-000" />
                     <titlepage>
                         <head>Popol Wuj</head>
-                        <l>Version Poetica K'iche'</l>
+                        <l>Versión Poética K'iche'</l>
                         <l>Sam Colop</l>
                     </titlepage>
                 <pb xml:id="colop1999-001" />
                 <pb xml:id="colop1999-002" />
                 <pb xml:id="colop1999-003" />
                     <l>POPOL WUJ</l>
-                    <l>Version Poetica K'iche'</l>
+                    <l>Versión Poética K'iche'</l>
                     <note resp="editor">How should we encode the stamp?</note>
                     <l>SAM COLOP</l>
                     <l>PEMBI-GTZ</l>
@@ -51,33 +51,32 @@
                     <l>ri kuk'utu.</l>
                     <l><hi rend="italic">Ta Chuxoq!</hi></l>
                 <pb xml:id="colop1999-005" />
-                    <l>ISBN 99922-53 -00-2</l>
-                    <l>1<hi rend="superscript">ra</hi> edicion 1999, 1,800 ejemplares en pasta flexible.</l>
+                    <l>ISBN 99922-53-00-2</l>
+                    <l>1<hi rend="superscript">ra</hi> edición 1999, 1,800 ejemplares en pasta flexible.</l>
                     <copyright>Sam Colop</copyright>
-                    <copyright>Proyecto de Educacion Maya Bilingue Intercultural PEMBI, GTZ</copyright>
+                    <copyright>Proyecto de Educación Maya Bilingüe Intercultural PEMBI, GTZ</copyright>
                     <l>4a. Ave. 1-74 Zona 9, Quetzaltenango</l>
                     <l>Tel: (502) 7635907</l>
                     <copyright>CHOLSAMAJ</copyright>
                     <l>1<hi rend="superscript">ra</hi> Ave. 9-18 Zona 1, Guatemala.</l>
                     <l>Tel: (502) 2325417, 2325959</l>
                     <l>E-mail: cholsamaj@micro.com.gt</l>
-                    <p>Este libro fue encargado por el Proyecto de Educacion Maya Bilingue lntercultural. Convenio de
-                    Cooperacion Tecnica entre el Ministerio de Educacion y la Cooperacion Tecnica Alemana para el
+                    <p>Este libro fue encargado por el Proyecto de Educación Maya Bilingüe lntercultural. Convenio de
+                    Cooperación Técnica entre el Ministerio de Educación y la Cooperación Técnica Alemana para el
                     Desarrollo. Agencia de la GTZ en Guatemala.</p>
-                    <l>Impresion cofinanciada por USIS</l>
-                    <l>Xtzaj pa I.ximulew</l>
+                    <l>Impresión cofinanciada por USIS</l>
+                    <l>Xtzaj pa Iximulew</l>
                     <l>lmpreso en Guatemala C.A.</l>
                 <pb xml:id="colop1999-006" />
                 <pb xml:id="colop1999-007" />
             </div>
             <div type="toc">
                 <note resp="editor">We might want to include graphics for the Maya numbers</note>
-                <note resp="editor">Reminder to go back and include Spanish accents and format page nums better</note>
                 <head>CHOLAJEM</head>
                 <list>
                     <item>ABREVIATURAS  9</item>
-                    <item>PRESENTACION  11</item>
-                    <item>INTRODUCCION  13</item>
+                    <item>PRESENTACIÓN  11</item>
+                    <item>INTRODUCCIÓN  13</item>
                 </list>
                 <l><hi rend="emph">NAB'E</hi></l>
                 <list>
