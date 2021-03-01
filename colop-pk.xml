@@ -658,7 +658,7 @@
                                                             Kamul Iyom,
                                                             Kamul Mamom.
                                                             Chucha'xik pa K'iche' tzij.
-                <note type="Colop">Aqui se identifica el nombre del libro como Popo Wuj y en la parte final
+                <note n="1" place="margin" type="Colop">Aqui se identifica el nombre del libro como Popo Wuj y en la parte final
                 como Popol Wuj. En el texto tambien encontramos la palabra popol en otras frases, como
                 en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la epoca
                 se encuentran registrados los terminos popol, popol ech, popol ja, popol tzij.
@@ -741,156 +741,110 @@
                                     k'akotzob'ik,
                                     jun ta kasilob'ik,
                 <note resp="editor" date="10/28/20">Not sure what to do with Colop notes yet.</note>
-                <note type="Colop"> Quiere decir no
-                Es equivalente a maja'</note>
+                <note n="2" place="margin" type="Colop"> Quiere decir no
+                Es equivalente a <hi rend="bold">maja'</hi></note>
                 <pb xml:id="colop1999-024"/>
-
-                •
-                ....
-
                 kumal kab'an taj,
                 k'akotz kab'an taj pa kaj:
                 xa ma k'o wi naki la' k'olik yakalik,
                 xa remanik ja',
-                xa li' anik palo,
+                xa li'anik palo,
                 xa utukel remanik,
                 xa ma k'o wi naki la' lo k'olik;
                 xa kachamanik,
-                katz'ininik chi q'equ'm,
-                chi aq'ab'.
+                   katz'ininik chi q'equ'm,
+                               chi aq'ab'.
 
-                3
+                <note n="3" place="margin" type="Colop"> Literalmente 'su estado' o su esencia
+                Se deriva del verb **k'oje'**, 'estar' (Basseta)</note>
+                <note n="4" place="margin" type="Colop">El texto dice *quehe*, que se transcribe *k'ehe 
+                y cuya variante dialectal es **k'aje'**, 'asi pues, como, de esta manera'.
+                Es la forma antigua del adverbio **je** (Ximenez, Basseta).</note>
+                <note n="5" place="margin" type="Colop"></note>
 
-                l1teralmente 'su estado '
-                osu esencia
-                Se deriva def verbo
-                k'oje', 'estar' (Ba~ta).
-                4
-                El texto dice quehe,
-                que se transcribe k'eje
-                y cuya van:mte dialectal
-                es k'aje' , 'as/ pues ,
-                como ,
-                de esta nwnera' Es /,1
-                form,1 antigua def
-                ,1dverbio je (Ximenez ,
-                Basseta).
-
-                5 ' Yt ,1mbien '. Nay,
-                'tambien ', puch, 'y' .
-
-                Xa utukel ri Tz' aqol,
-                B'itol,
-                Tepew,
-                Q'ukumatz,
-                eAlom,
-                e K'ajolom k'o pa ja'
-                saqtetoj e k' o wi.
+                Xa utukel ri Tz'aqol,
+                             B'itol,
+                             Tepew,
+                             Q'ukumatz,
+                             e Alom,
+                             e K'ajolom k'o pa ja'
+                             saqtetoj e k'o wi.
                 E muqutal pa q'uq',
-                pa raxon;
+                          pa raxon;
                 are ub'inam wi ri Q'ukumatz.
                 E nimaq etamanel,
-                e nimaq ajna' oj chi kik' oje'ik. 3
-                K'eje 4 k'ut xax k'o wi ri kaj
-                k' o wi nay puch 5 Uk'ux Kaj,
+                e nimaq ajna'oj chi kik'oje'ik.
+                K'eje k'ut xax k'o wi ri kaj
+                k'o wi nay puch Uk'ux Kaj,
                 are' ub'i' ri kab'awil. Chuchaxik.
                 Ta xpe k'ut utzij waral,
                 xul kuk' ri Tepew,
-                Q'ukumatz waral chi q'equmal
-                chi aq'ab'al;
-                xch 'aw ruk' ri Tepew,
-                Q'ukumatz.
+                            Q'ukumatz waral chi q'equmal
+                                            chi aq'ab'al;
+                xch'aw ruk' ri Tepew,
+                               Q'ukumatz.
                 Xecha' k'ut:
-                ta xena ' ojinik,
+                ta xena'ojinik,
                 ta xeb'isonik,
-                xeriqo kib',
-                xkikuch kitzij,
-                kina' oj;
-
-                24
-
-                •
-
+                   xeriqo kib',
+                   xkikuch kitzij,
+                           kina'oj;
+                <pb xml:id="colop1999-025"/>
                 ta xq'alaj,
                 ta xkik'uxlaj kib' xe' wi saq,
-                ta xq' alaj puch winaq;
+                ta xq'alaj puch winaq;
                 ta xkina'ojij utz'uqik,
-                uwinaqirik che',
-                k'a'm,
-                utz'uquxik puch k'aslem
-                winaqirem
+                              uwinaqirik che',
+                                         k'a'm,
+                              utz'uquxik puch k'aslem
+                                              winaqirem
                 chi q' equmal,
                 chi aq'ab'al; rumal ri Uk'ux Kaj, Jun Raqan ub'i;
-                Kaqulja Jun Raqan, nab'e;
-                ukab ' k'ut, Ch'ipi Kaqulja;
-                rox chik, Raxa Kaqulja;
-                chi e k'u oxib' ri ', Uk 'ux Kaj.
+                                       Kaqulja Jun Raqan, nab'e;
+                                       ukab' k'ut, Ch'ipi Kaqulja;
+                                       rox chik, Raxa Kaqulja;
+                 chi e k'u oxib' ri', Uk'ux Kaj.
                 Ta xe'ul kuk' ri Tepew,
-                Q'ukumatz,
+                                 Q'ukumatz,
                 ta xna'ojixik saq k'aslem:
                 -Jupa cha ta chawaxoq,
-                ta saqiroq puch? 6
+                          ta saqiroq puch?
                 Apachinaq tzuqul,
-                k'ool?
+                          k'ool?
                 Ta chuxoq!
                 Kixnojin taj:
                 Are ri ja' chel taj!,
-                chi jama' taj!
+                           chi jama' taj!
                 Chiwinaqir wa ulew,
-                ulaqel ta k'u rib '
+                              ulaqel ta k'u rib '
                 Ch'ata k'ut .
                 Ta chawaxoq,
-                ta aqiroq kaj,
-                ulew!
-                Mata k'ut uq 'ijilab'al,
-                uq'ala'ib'al 7 ri qatz 'aq
-                ri qab 'it.
-                Ta winaqiroq: winaq tz'a q,
-                winaq b'it! Xecha' k'ut.
+                ta saqiroq kaj,
+                           ulew!
+                Mata k'ut uq'ijilab'al,
+                          uq'ala'ib'al ri qatz'aq
+                                       ri qab 'it.
+                Ta winaqiroq: winaq tz'aq,
+                              winaq b'it! Xecha' k'ut.
 
-                25
+                <note n="6" place="margin" type="Colop">El texto dice saqiro en vez de
+                saqiroq. La omision de la q final parece un error de copia en virtud
+                de que sintacticamente la clausula es imperativa. Esto se corroborra,
+                ademas, unas lineas mas abajo donde vuelve a repetirse la misma
+                formula verbal: <hi rend="bold">ta chawaxoq, ta saqiroq...</hi>
+                </note>
 
-                6
+                <note n="7" place="margin" type="Colop">El texto dice <hi rend="bold">v calaibal</hi>.
+                Chavez lo transcribe como <hi rend="bold">u kalibal</hi>, 'lugar de contemplacion';
+                Edmonson como <hi rend="bold">U q'alajib'a'l</hi>, 'glorificacion' y Tedlock como
+                <hi rend="bold">uq'alaib'al</hi>, 'proclamacion'. En cualquiera de los casos, se hace
+                referencia a un lugar de adoracion o admiracion. El termino tiene relacion con 
+                <hi rend="bold">q'alib'al</hi>, que quiere decir 'trono, asiento principal, espaldar
+                de caciques' (Ximenez, Coto)
+                </note>
 
-                Fl fe'fodice s,1qiro en
-                l'ez de saqiroq. ui
-                omisi6n de la q fin,11
-                p,1rece un error de copia
-                en virtud de que
-                sint,ictimmente
-                la c/Jusul,1 es impemtiv.1 .
-                F.stose corroborm,
-                ,1demas, un,1s lineas mas
-                ,1bajo donde vLJelve
-                a repetirse la misma
-                formula 1·erb,1I: ta
-                chawaxoq,
-                ta saqiroq ...
-                7
-
-                El texto dicev calaibal.
-                Chavez lo transcribe
-                como u kailbal, 'lugar de
-                contempl,1cion',
-                Edmonson como U
-                q'alajib'a'l, 'glorificaci6n '
-                y Tedlock como
-                uq'alaib'al,
-                'proclanwcion '.
-                Fn CLJ.ilquier,1
-                de los
-                c,1sos,se hace referenci,1 a
-                Lin !LJgardeadoraci6n o
-                admir,1cion Fl termino
-                tiene rel.icion con
-                q'alib'al, que quiere decir
-                'trono, 1sientoprincipal,
-                esp,1ldar de caciqLJes'
-                (l(imenez, Coto).
-
+                <pb xml:id="colop1999-026"/>
                 TA XWINAQIR K'U RI ULEW KUMAL
-
-                8
 
                 Lib'aj chi' es un,1 Frase
 
