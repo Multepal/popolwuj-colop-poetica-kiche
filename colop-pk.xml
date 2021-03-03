@@ -27,424 +27,195 @@
         </profileDesc>
     </teiHeader>
     <text>
-        <body>
-            <div type="introduction">
+        <front>
+            <div type="publication">
+                <pb xml:id="colop1999-000" />
+                    <titlepage>
+                        <head>Popol Wuj</head>
+                        <l>Versión Poética K'iche'</l>
+                        <l>Sam Colop</l>
+                    </titlepage>
                 <pb xml:id="colop1999-001" />
-                    Popol Wuj
-                    Version Poetica K'iche'
-                    
-                    Sam Colop
-                <pb xml:id="colop1999-002"/>
-                <pb xml:id="colop1999-003"/>
-                <pb xml:id="colop1999-004"/>
-                    POPOL WUJ
-                    Version Poetica K'iche'
-
-                    SAM COLOP
-
-                    PEMBI-GTZ
-                    CHOLSAMAJ
-                <pb xml:id="colop1999-005"/>
-
-                    K'o nab'e wujil
-                    ojer tz'ib' am puch.
-                    Xchiqasik'ij b' a ri kub'ij
-                    ri kuk'utu.
-
-                    Ta Chuxoq!
-                <pb xml:id="colop1999-006"/>
-                    ISBN 99922-53 -00-2
-                    l'" edici6n 1999, 1,800 ejemplares en pasta flexible.
-                    © SamColop
-                    © Proyecto de Educaci6n Maya Bilingiie Intercultural
-
-                    PEMBI, GTZ
-
-                    4a . Ave. 1-74 Zona 9, Quetzaltenango
-                    Tel: (502) 7635907
-                    ©
-
-                    CHOLSAMAJ
-
-                    l'" Ave. 9-18 Zona 1, Guatemala .
-                    Tel: (502) 2325417, 2325959
-                    E-mail : cholsamaj@micro.com.gt
-
-                    Este libro fue encargado por el Proyecto de Educaci6n Maya Bilingiie lntercultural. Convenio de
-                    Cooperaci6n Tecnica entre el Ministerio de Educaci6n y la Cooperaci6n Tecnica Alemana para el
-                    Desarrollo . Agencia de la GTZ en Guatemala .
-
-                    Impresi6n cofinanciada por USIS
-
-                    Xtzaj pa I.ximulew
-                    lmpreso en Guatemala C. A.
-                <pb xml:id="colop1999-007"/>
-                    CHOLAJEM
-                    ABREVIATURAS
-
-                    ll
-                    ·II
-                    :II
-
-                    PRESENTACI6N
-                    INTRODUCCI6N
-
-                    9
-                    11
-
-                    13
-
-                    NAB'E
-                    ARE' UXE' OJER TZIJ W ARAL K'ICHE' UB'I'
-
-                    21
-
-                    ARE' UTZIJOXIK WA'E
-
-                    23
-
-                    TA XWINAQIR K'U RI ULEW KUMAL
-                    K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ' AQ
-                    WINAQ B'IT KUMAL TZ' AQOL B'ITOL, ALOM, K' AJOLOM
-                    K' ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL
-                    K' ATE K'UT KIK'ISIK CHIK
-
-                    ·I
-
-                    26
-
-                    II
-                    ·II
-                    Ill
-
-                    30
-
-                    35
-
-                    llll
-
-                    39
-
-                    ~
-
-                    40
-
-                    31
-
-                    UKAB '
-                    ARE K'UT XA JUB'IQ' SAQNAlDNOJ
-
-                    UWACH ULEW
-
-                    K'EJE K'UT XCHIQAB'IJ CHIK TA XKAMIK WUQUB' KAK'IX
-                    WA'E CHI K'UTE UB' ANOJ CHIK SIPAKNA
-
-                    45
-
-                    ARE CHIK UCH'AKATAJIK, UKAMIK SIPAKNA
-
-                    ll
-
-                    49
-
-                    JUNCHI
-
-                    :11
-
-                    52
-
-                    ARE CHI K'UT XCHIQAB'IJ CHIK UB'I'
-                    KIQAJAW RI JUNAJPU, XB' ALANKE
-
-                    :111
-
-                    57
-
-                    ARE CHI K'UT XCHIQAB'IJ' CHIK KIB'E'IK CHI XIB' ALB' A
-
-                    ~
-
-                    60
-
-                    K'UT XCHIQAB'IJ UB'IXIK
-
-                    ROX
-
-                    K' ATE PUCH TA XEB'EK JUN JUNAJPU, WUQUB' JUNAJPU
-
-                    63
-
-                    K'ATE K'UT XE'OPONIK PA Q'EQUMAJA
-
-                    64
-
-                    WA CHI K'UTE UTZIJOXIK JUN Q' APOJ
-
-                    :1
-
-                    67
-
-                    ARE K'UTE K'O RI UCHUCH JUN B' ATZ', JUN CHOWEN
-
-                    :11
-
-                    72
-
-                    ARE CHIK XCHIQATZJOJ KALAXIK JUNAJPU XB' ALANKE
-
-                    m
-
-                    74
-
-                    TAXE B'E K'UTCHILA'
-
-                    :111
-
-                    77
-
-                    K'ATE K'UT XUKAQ'AT ULA CH'O RI KIK'
-
-                    :1
-
-                    87
-
-                    TA XEPE K'UT NIMA JOK K'U KIB'E
-                    RI K' AJOLAB ' CHI KOCHOCH
-
-                    :I
-
-                    88
-
-                    CHUXE' CHE',Q'ANTE',
-
-                    UB'I'
-
-                    TAXE B'E K'UT
-
-                    K'ATE K'UT TA XE'OK PA Q'EQUMAJA
-                    ARE K'UT WA 'E KIN AB' AL, KIKAMIK JUNAJPU, XB' ALANKE
-
-                    92
-
-                    Ill
-                    ·I
-
-                    95
-                    106
-                <pb xml:id="colop1999-008"/>
-                    K' ATE PUCH URAYINIK, UMALINIK PU KIK'UX AJAWAB'
-                    CHI RE KJXALOJ JUNAJPU, XBALANKE
-
-                    :11
-
-                    ARE K'UT KOQ'IK, KASIK'IN RI KATI'T CHUWACH RI AJ,
-                    RI XKITIK KANOQ
-
-                    112
-
-                    Ill 115
-                    ·Ill 116
-
-                    ARE K'U RI NAB'E KIQAJAW
-
-                    UKAJ
-                    WA'E K'UT UTIKERIK TA XNA'OJIK WINAQ, TA XTZUKUX
-                    PUCH RI CHOK lITYO'JIL WINAQ
-                    WA'E KIB'I NAB'E WINAQ XETZ' AQIK, XEB'ITIK
-                    ARE K'UT UXE' QECH, RI OJ K'ECHE' WINAQ
-                    ARE K'UT UB'I JUYUB' WA'
-                    WA'E K'UTE' USAQIRIK, UWACHINIKPUCH Q'U, IK', CH'UMIL
-                    WA K'UTE' KIK' ATONIK
-                    WA'E UTIKARIK CHIK RELEQ' AXIK WINAQ, AMAQ'
-                    ARE K'U WA' UK' AMII UNA'OJ AMAQ'
-                    K' ATE PUCH XEB'EK
-                    WA'E K'UTE KIMOLOWIK KIB' KONOJEL AMAQ'
-                    ARE CHIK WI XCHIQAB'IJ CHIK KIKAMIK
-
-                    ml 119
-
-                    ·I
-                    ·I
-                    ·I
-                    :I
-                    :I
-
-                    121
-
-                    ·I
-                    II
-                    I
-                    II
-                    :1 m
-                    :1 ·Ill
-                    :1 :Ill
-                    :I
-                    :I H
-
-                    126
-                    130
-                    145
-
-                    150
-                    154
-                    156
-                    158
-                    162
-                    169
-
-                    RO '
-
-                    TA XE'UL CHI K'U CHIRI'
-
-                    :I :II 173
-                    :I ·Ill 176
-
-                    WA'E K'UTE KIB'I' AJAWAB' CHUWACH KAWIQIB'
-
-                    H
-
-                    181
-
-                    ARE CHI K'U AJAWAB' WA' CHUCHA NIJA' IB' AB'
-
-                    11
-
-                    182
-
-                    ARE CHI K'UT AJAW K'ICHE' WA'
-
-                    11
-
-                    182
-
-                    KA'IB' CHINAMIT CHI NAY PUCH SAQIKIB' AJAWAB'
-
-                    H
-                    H
-
-                    182
-
-                    H ·II
-
-                    191
-
-                    K' ATE PUCH TA XKIK'UXLAJ KIB'IK
-
-                    WA' CHI K'UTE KIB'I' CHIK UWAQ LE' AJAW
-
-                    185
-
-                    ARE K'UT XCHIQAB'IJ CHIK UB'I'
-                    ROCHOCH KAB' AWIL
-                    ARE CHI K'UT XCHIQACHOLO ULE'EL AJAWAB' RUK'
-                    KIB'I' KONOJEL AJAWAB' XCHIQAB'IJ CHIK
-
-                    ARE UB'INA'M WI B'ELEJEB' CHINAMIT CHI KAWIQIB'
-
-                    H ·Ill 196
-                    H :Ill 198
-                    H :Ill 198
-
-                    WA K'lITE RECH NIJA'IB' AB'
-
-                    H ml
-
-                    ARE CHIK XCHIQAB'IJ RAJAWAL JUJUN
-                    CHI NIM JA
-
-                    H rn1 199
-
-                    ARE CHI K'UT RECH AJAW K'ICHE'
-
-                    II
-                    II
-                    II
-
-                    ARE CHI XCHIQAB'IJ CHIK RE CHINAMIT
-
-                    ARE K'U RI E OXIB' CHI NIM CHOKOJ
-                    BIBLIOGRAFiA
-
-                    8
-
-                    ©
-                    ©
-
-                    199
-                    200
-                    200
-                    203
-                <pb xml:id="colop1999-009"/>
-                    ABREVIATURAS
-
-                    1, 2, 3
-                    adv.
-                    art.
-                    asp.
-                    dat.
-                    det.
-                    intr.
-                    lit.
-                    pl.
-                    pos .
-                    pp .
-                    ps.
-                    refl.
-                    suf.
-                    sust.
-                    verb.
-
-                    Primera, segunda, tercera
-                    Adverbio
-                    Articulo
-                    Aspecto
-                    Dativo
-                    De term.in a ti vo
-                    Intransitivo
-                    Literalmente
-                    Plural
-                    Posesivo
-                    Persona plural
-                    Persona singular
-                    Reflexivo
-                    Sufijo
-                    Sustantivo
-                    Verbo
-                <pb xml:id="colop1999-010"/>
-                <pb xml:id="colop1999-011"/>
-                    PRESENTACI6N
-
-                    El Popol Wuj fue escrito en idioma K'iche', con caracteres latinos
-                    en el siglo dieciseis. Es uno de los libros mas irnportantes que el Pueblo Maya haya escrito. Desde que el padre Ximenez, lo obtuvo en el
-                    convento de Chichicastenango, ha despertado interes en otros Pueblos Indigenas de America, y entre la comunidad academica internacional.
-                    La prirnera edici6n impresa fue publicada en Viena (1857) por
-                    Scherzer de la traducci6n que hiciera el mismo padre Ximenez de su
+                <pb xml:id="colop1999-002" />
+                <pb xml:id="colop1999-003" />
+                    <l>POPOL WUJ</l>
+                    <l>Versión Poética K'iche'</l>
+                    <note resp="editor">How should we encode the stamp?</note>
+                    <l>SAM COLOP</l>
+                    <l>PEMBI-GTZ</l>
+                    <l>CHOLSAMAJ</l>
+                <pb xml:id="colop1999-004" />
+                    <l><hi rend="italic">K'o nab'e wujil</hi></l>
+                    <l><hi rend="italic">ojer tz'ib'am puch.</hi></l>
+                    <l>Xchiqasik'ij b'a ri kub'ij</l>
+                    <l>ri kuk'utu.</l>
+                    <l><hi rend="italic">Ta Chuxoq!</hi></l>
+                <pb xml:id="colop1999-005" />
+                    <l>ISBN 99922-53-00-2</l>
+                    <l>1<hi rend="superscript">ra</hi> edición 1999, 1,800 ejemplares en pasta flexible.</l>
+                    <copyright>Sam Colop</copyright>
+                    <copyright>Proyecto de Educación Maya Bilingüe Intercultural PEMBI, GTZ</copyright>
+                    <l>4a. Ave. 1-74 Zona 9, Quetzaltenango</l>
+                    <l>Tel: (502) 7635907</l>
+                    <copyright>CHOLSAMAJ</copyright>
+                    <l>1<hi rend="superscript">ra</hi> Ave. 9-18 Zona 1, Guatemala.</l>
+                    <l>Tel: (502) 2325417, 2325959</l>
+                    <l>E-mail: cholsamaj@micro.com.gt</l>
+                    <p>Este libro fue encargado por el Proyecto de Educación Maya Bilingüe lntercultural. Convenio de
+                    Cooperación Técnica entre el Ministerio de Educación y la Cooperación Técnica Alemana para el
+                    Desarrollo. Agencia de la GTZ en Guatemala.</p>
+                    <l>Impresión cofinanciada por USIS</l>
+                    <l>Xtzaj pa Iximulew</l>
+                    <l>lmpreso en Guatemala C.A.</l>
+                <pb xml:id="colop1999-006" />
+                <pb xml:id="colop1999-007" />
+            </div>
+            <div type="toc">
+                <note resp="editor">We might want to include graphics for the Maya numbers</note>
+                <head>CHOLAJEM</head>
+                <list>
+                    <item>ABREVIATURAS  9</item>
+                    <item>PRESENTACIÓN  11</item>
+                    <item>INTRODUCCIÓN  13</item>
+                </list>
+                <l><hi rend="emph">NAB'E</hi></l>
+                <list>
+                    <item>ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'  21</item>
+                    <item>ARE' UTZIJOXIK WA'E   23</item>
+                    <item>TA XWINAQIR K'U RI ULEW KUMAL 26</item>
+                    <item>K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ, WINAQ B'IT KUMAL TZ'AQOL, B'ITOL, ALOM, K'AJOLOM   30</item>
+                    <item>K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL    31</item>
+                    <item>K'ATE K'UT KIK'ISIK CHIK 35</item>
+                </list>
+                <l><hi rend="emph">UKAB'</hi></l>
+                <list>
+                    <item>ARE K'UT XA JUB'IQ' SAQNATONOJ UWACH ULEW 39</item>
+                    <item>K'EJE K'UT XCHIQAB'IJ CHIK TA XKAMIK WUQUB' KAK'IX    40</item>
+                    <item>WA'E CHI K'UTE UB' ANOJ CHIK SIPAKNA  45</item>
+                    <item>ARE CHIK UCH'AKATAJIK, UKAMIK SIPAKNA 49</item>
+                    <item>JUN CHI K'UT XCHIQAB'IJ UB'IXIK   52</item>
+                </list>
+                <l><hi rend="emph">ROX</hi></l>
+                <list>
+                    <item>ARE CHI K'UT XCHIQAB'IJ CHIK UB'I' KIQAJAW RI JUNAJPU, XB'ALANKE  57</item>
+                    <item>ARE CHI K'UT XCHIQAB'IJ' CHIK KIB'E'IK CHI XIB'ALB'A  60</item>
+                    <item>K'ATE PUCH TA XEB'EK JUN JUNAJPU, WUQUB' JUNAJPU  63</item>
+                    <item>K'ATE K'UT XE'OPONIK PA Q'EQUMA JA    64</item>
+                    <item>WA CHI K'UTE UTZIJOXIK JUN Q'APOJ     67</item>
+                    <item>ARE K'UTE K'O RI UCHUCH JUN B'ATZ', JUN CHOWEN    72</item>
+                    <item>ARE CHIK XCHIQATZJOJ KALAXIK JUNAJPU XB'ALANKE   74</item>
+                    <item>TA XEB'E K'UT CHILA' CHUXE' CHE', Q'ANTE', UB'I'    77</item>
+                    <item>K'ATE K'UT XUKAQ'AT ULA CH'O RI KIK'  87</item>
+                    <item>TA XEPE K'UT NIMA JOK K'U KIB'E RI K'AJOLAB' CHI KOCHOCH    88</item>
+                    <item>TA XEB'E K'UT     92</item>
+                    <item>K'ATE K'UT TA XE'OK PA Q'EQUMA JA      95</item>
+                    <item>ARE K'UT WA'E KINAB'AL, KIKAMIK JUNAJPU, XB'ALANKE    106</item>
+                <pb xml:id="colop1999-008" />
+                    <item>K' ATE PUCH URAYINIK, UMALINIK PU KIK'UX AJAWAB' CHI RE KIXALOJ JUNAJPU, XBALANKE</item>
+                    <item>ARE K'UT KOQ'IK, KASIK'IN RI KATI'T CHUWACH RI AJ, RI XKITIK KANOQ</item>
+                    <item>ARE K'U RI NAB'E KIQAJAW</item>
+                </list>
+                <l><hi rend="emph">UKAJ</hi></l>
+                <list>
+                    <item>WA'E K'UT UTIKERIK TA XNA'OJIK WINAQ, TA XTZUKUX PUCH RI CHOK UTYO'JIL WINAQ  119</item>
+                    <item>WA'E KIB'I NAB'E WINAQ XETZ'AQIK, XEB'ITIK   121</item>
+                    <item>ARE K'UT UXE' QECH, RI OJ K'ECHE' WINAQ   126</item>
+                    <item>ARE K'UT UB'I JUYUB' WA'  130</item>
+                    <item>WA'E K'UTE' USAQIRIK, UWACHINIK PUCH Q'IJ, IK', CH'UMIL 145</item>
+                    <item>WA K'UTE' KIK' ATONIK 150</item>
+                    <item>WA'E UTIKARIK CHIK RELEQ'AXIK WINAQ, AMAQ'   154</item>
+                    <item>ARE K'U WA' UK'AMIK UNA'OJ AMAQ' 156</item>
+                    <item>K'ATE PUCH XEB'EK    158</item>
+                    <item>WA'E K'UTE KIMOLOWIK KIB' KONOJEL AMAQ'   162</item>
+                    <item>ARE CHIK WI XCHIQAB'IJ CHIK KIKAMIK   169</item>
+                </list>
+                <l><hi rend="emph">RO'</hi></l>
+                <list>
+                    <item>K'ATE PUCH TA XKIK'UXLAJ KIB'IK   173</item>
+                    <item>TA XE'UL CHI K'U CHIRI'   176</item>
+                    <item>WA'E K'UTE KIB'I' AJAWAB' CHUWACH KAWIQIB'    181</item>
+                    <item>ARE CHI K'U AJAWAB' WA' CHUCHA NIJA'IB'AB'   182</item>
+                    <item>ARE CHI K'UT AJAW K'ICHE' WA' 182</item>
+                    <item>KA'IB' CHINAMIT CHI NAY PUCH SAQIKIB' AJAWAB' 182</item>
+                    <item>WA' CHI K'UTE KIB'I' CHIK UWAQ LE' AJAW   185</item>
+                    <item>ARE K'UT XCHIQAB'IJ CHIK UB'I' ROCHOCH KAB'AWIL  191</item>
+                    <item>ARE CHI K'UT XCHIQACHOLO ULE'EL AJAWAB' RUK' KIB'I' KONOJEL AJAWAB' XCHIQAB'IJ CHIK   196</item>
+                    <item>ARE CHI XCHIQAB'IJ CHIK RE CHINAMIT   198</item>
+                    <item>ARE UB'INA'M WI B'ELEJEB' CHINAMIT CHI KAWIQIB'   198</item>
+                    <item>WA K'UTE RECH NIJA'IB'AB' 199</item>
+                    <item>ARE CHIK XCHIQAB'IJ RAJAWAL JUJUN CHI NIM JA  199</item>
+                    <item>ARE CHI K'UT RECH AJAW K'ICHE'    200</item>
+                    <item>ARE K'U RI E OXIB' CHI NIM CHOKOJ 200</item>
+                    <item>BIBLIOGRAFIA  203</item>
+                </list>
+            </div>
+            <div type="glossary" subtype="abbreviations">
+                <pb xml:id="colop1999-009" />
+                <list type="gloss">
+                    <head>ABREVIATURAS</head>
+                    <label>1, 2, 3</label>  <item>Primera, segunda, tercera</item>
+                    <label>adv.</label> <item>Adverbio</item>
+                    <label>art.</label> <item>Articulo</item>
+                    <label>asp.</label> <item>Aspecto</item>
+                    <label>dat.</label> <item>Dativo</item>
+                    <label>det.</label> <item>Determinativo</item>
+                    <label>intr.</label>    <item>Intransitivo</item>
+                    <label>lit.</label> <item>Literalmente</item>
+                    <label>pl.</label>  <item>Plural</item>
+                    <label>pos.</label> <item>Posesivo</item>
+                    <label>pp.</label>  <item>Persona plural</item>
+                    <label>ps.</label>  <item>Persona singular</item>
+                    <label>refl.</label>    <item>Reflexivo</item>
+                    <label>suf.</label> <item>Sufijo</item>
+                    <label>sust.</label>    <item>Sustantivo</item>
+                    <label>verb.</label>    <item>Verbo</item>
+                </list>
+                <pb xml:id="colop1999-010" />
+            </div>
+            <div type="preface">
+                <pb xml:id="colop1999-011" />
+                <head>PRESENTACIÓN</head>
+                <p>El Popol Wuj fue escrito en idioma K'iche', con caracteres latinos en el siglo dieciseis. 
+                    Es uno de los libros más importantes que el Pueblo Maya haya escrito. 
+                    Desde que el padre Ximénez, lo obtuvo en el convento de Chichicastenango, 
+                    ha despertado interés en otros Pueblos Indígenas de America, 
+                    y entre la comunidad académica internacional.</p>
+                <p>La primera edición impresa fue publicada en Viena (1857) por
+                    Scherzer de la traducción que hiciera el mismo padre Ximénez de su
                     copia manuscrita de un original que ya no tenemos, poco antes de
-                    que Brasseur de Bourbourg publicara su edici6n bilingi.ie, en K'iche'
-                    y Frances, con un largo y docto estudio introductorio (Paris, 1861).
-                    En este siglo, a las anteriores le siguen innumerables ediciones en
-                    muchos idiomas. Mencionamos como irnportantes las ediciones de
-                    Schultze-Jena (1944, bilingiie K'iche'-Aleman), la edici6n de Raynaud
-                    en Frances con la traduccion al Castellano por J. M. Gonzales de
-                    Mendoza y Miguel Angel Asturias (1929) y espedficamente en Guatemala los trabajos de Villacorta y Rodas, el de Recinos y otros. Hace
-                    ya mas de cuarenta aii.os (1955) hubo una edicion en K'iche', ligeramente purgada, por parte del Instituto Biblico y a cargo de los esposos Burgess y del informante Patricio Xec. Augustin Estrada Monroy
-                    public6 en 1973, una edicion facsimilar del manuscrito
-                    de
-                    Chichicastenango, con la transcripcion del texto castellano al lado. El
+                    que Brasseur de Bourbourg publicara su edición bilingüe, en K'iche'
+                    y Francés, con un largo y docto estudio introductorio (París, 1861).</p>
+                <p>En este siglo, a las anteriores le siguen innumerables ediciones en
+                    muchos idiomas. Mencionamos como importantes las ediciones de
+                    Schultze-Jena (1944, bilingüe K'iche'-Alemán), la edición de Raynaud
+                    en Francés con la traducción al Castellano por J. M. Gonzáles de
+                    Mendoza y Miguel Angel Asturias (1929) y específicamente en Guatemala 
+                    los trabajos de Villacorta y Rodas, 
+                    el de Recinos y otros. Hace ya más de cuarenta años (1955) hubo una edición en K'iche', 
+                    ligeramente purgada, por parte del Instituto Bíblico 
+                    y a cargo de los esposos Burgess y del informante Patricio Xec. Augustin Estrada Monroy
+                    publicó en 1973, una edición facsimilar del manuscrito
+                    de Chichicastenango, con la transcripción del texto castellano al lado. El
                     manuscrito es conservado en Newberry Library de Chicago, a donde
-                    llego como donacion, con el fondo Aubin, a su vez comprado en la
-                    subasta de la biblioteca de Brasseur (Paris, 1878).
-                    Circulan muchas traducciones al Castellano, la mas popular parece ser la de Albertina Saravia y la mas difundida la de Adrian Recinos.
-                    Hubo, en nuestras dfas, una retraduccion de la version de Saravia al
-                    K'iche', que esta en las librerfas. Hace cuatro afios, aparecio la excelente traduccion al Ingles, sobre un trabajo critico del original K'iche',
-                    por Dennis Tedlok. En 1971 salio, en la Tulane University, la edicion
-                    bilingi.ie K'iche'- Ingles del estudioso M. Edmonson . Y en 1997 se
-                    volvio a editar el interesante trabajo de don Adrian Ines Chavez que
-                    pone el texto del manuscrito original al lado de una redaccion en 'escritura ortografica' K'iche' y coloca las respectivas traducciones al Castellano, una literal y la otra interpretativa.
-                    Son innurnerables las ediciones para nifios, con dibujos y sin dibujos, hasta existe una version en tiritas, publicada en el periodico 'El
-                    Regional'. En el festival Paiz de la Antigua Guatemala este aii.o aparecio una version trabajada para teatro y hablada en varios idiomas.
-
-                    Se supone que la version encontrada por el padre Ximenez deriva
+                    llegó como donación, con el fondo Aubin, a su vez comprado en la
+                    subasta de la biblioteca de Brasseur (París, 1878).</p>
+                <p>Circulan muchas traducciones al Castellano, la más popular parece ser la de Albertina Saravia 
+                    y la más difundida la de Adrián Recinos. Hubo, en nuestras días, 
+                    una retraducción de la versión de Saravia al K'iche', 
+                    que está en las librerías. Hace cuatro años, 
+                    apareció la excelente traducción al Inglés, sobre un trabajo crítico del original K'iche',
+                    por Dennis Tedlok. En 1971 salió, en la Tulane University, la edición
+                    bilingüe K'iche'- Inglés del estudioso M. Edmonson. Y en 1997 se
+                    volvió a editar el interesante trabajo de don Adrián Inés Chávez que 
+                    pone el texto del manuscrito original al lado de una redacción 
+                    en 'escritura ortográfica' K'iche' y coloca las respectivas traducciones al Castellano, 
+                    una literal y la otra interpretativa.</p> 
+                <p>Son innumerables las ediciones para niños, 
+                    con dibujos y sin dibujos, hasta existe una versión en tiritas, publicada en el periódico 
+                    'El Regional'. En el festival Paiz de la Antigua Guatemala 
+                    este año aparecio una versión trabajada para teatro y hablada en varios idiomas.</p>
+                <pb xml:id="colop1999-012" />
+                <p>Se supone que la version encontrada por el padre Ximenez deriva
                     de una transcripcion de uno o varios libros anteriores, probablemente
                     escritos con la escritura maya (glifos) y sin duda basados en la rica
                     tradicion oral. Una parte del texto nos remite a la cosmogonia maya,
@@ -452,133 +223,181 @@
                     Colhuacan y de Mexico y, en Guatemala, en el Titulo de los Sen.ores
                     de Totonicapan. La otra parte es la historia y la elaboracion mitica de
                     la migracion y de la conquista de los K'iche', bajo el liderazgo de sus
-                    linajes sagrados.
-                    Durante los trabajos en el Proyecto de Educacion Bilingiie
-                    Intercultural PEMBI, nos limos cuenta que los colaboradores y jovenes academicos mayas que habian leido el Popol Wuj, lo habian leido
+                    linajes sagrados.</p>
+                <p>Durante los trabajos en el Proyecto de Educacion Bilingiie
+                    Intercultural PEMBI, nos limos cuenta que los colaboradores 
+                    y jovenes academicos mayas que habian leido el Popol Wuj, lo habian leido
                     en Castellano y que no circulaba una version facilmente accesible en
-                    K'iche'. La de los esposos Burgess no esta en venta desde mas de veinte afi.os y la retraduccion de Rodrigo Guarchaj, aun siendo una iniciativa loable, no le hace justicia al texto original.
-                    Para el Pueblo Maya yen especial para la comunidad K'iche' es
+                    K'iche'. La de los esposos Burgess no esta en venta 
+                    desde mas de veinte afi.os y la retraduccion de Rodrigo Guarchaj, 
+                    aun siendo una iniciativa loable, no le hace justicia al texto original.</p>
+                <p>Para el Pueblo Maya yen especial para la comunidad K'iche' es
                     fundamental que se tenga a la mano el texto original del Popol Wuj,
                     como una guia en la dificil interpretacion de la memoria historica y
-                    de la tradici6n que genera la identidad de un Pueblo.
-                    Sam Colop, por su origen k'iche', preparacion academica y trayectoria, asumi6 la preparacion de esta version poetica del texto y
+                    de la tradici6n que genera la identidad de un Pueblo.</p>
+                <p>Sam Colop, por su origen k'iche', preparacion academica y trayectoria, 
+                    asumi6 la preparacion de esta version poetica del texto y
                     proponer una clave de lectura, tanto para abrir el tesoro del libro a los
-                    interesados K'iche' hablantes, como para volver accesible la fascinante mistica y la profunda poesia del texto.
-                    Quien escribiera, hace centenares de afi.os,la introducci6n al Popol
+                    interesados K'iche' hablantes, como para volver accesible 
+                    la fascinante mistica y la profunda poesia del texto.</p>
+                <p>Quien escribiera, hace centenares de afi.os,la introducci6n al Popol
                     Wuj, empieza razonando que ya habiendose irnplantado y difundido
                     el cristianismo, era menester recordar la creencia y la vision de los
                     antepasados, para no perder la riqueza de la tradici6n. Muy similar
-                    recomendacion tendriarnos que forrnular ahora, en un mundo de febril y fundamentales carnbios, donde la sincronia contradictoria del
+                    recomendacion tendriarnos que forrnular ahora, en un mundo de febril 
+                    y fundamentales carnbios, donde la sincronia contradictoria del
                     Internet y del azad6n parece disolverse a expensas del azad6n. A ellos,
                     a los maestros, a la~ escuelas mayas, al Pueblo Maya en general, ya la
-                    comunidad K'iche'.
-                    El Proyecto de Educaci6n Bilingiie Intercultural PEMBI y el Centro Educativo y Cultural Maya Cholsamaj, entregamos conjuntamente, esta version del Popol Wuj en K'iche', para que los lectores lo lean,
+                    comunidad K'iche'.</p>
+                <p>El Proyecto de Educaci6n Bilingiie Intercultural PEMBI 
+                    y el Centro Educativo y Cultural Maya Cholsamaj, entregamos conjuntamente, 
+                    esta version del Popol Wuj en K'iche', para que los lectores lo lean,
                     lo mediten, lo transmitan y lo tengan bien cerca como propio, como
                     una guia en el camino hacia una nueva Guatemala, carnino que se
-                    prospecta dificil y precisa de luz e iluminacion.
-                    Matthias Abram
-                    PEMBI
-
-                    12
-
-                    INTRODUCCI6N
-
-                    Esta version K'iche' del Popol Wujesta preparada para que lectores con conocimiento de ese idioma tengan un acercamiento substancial al texto que contiene la mitologia y la historia del Pueblo MayaK'iche'. Si bien, el original del documento quiza este perdido definitivamente, la copia mas antigua con que se dispone a la fecha, es la
+                    prospecta dificil y precisa de luz e iluminacion.</p>
+                <l>Matthias Abram</l>
+                <l>PEMBI</l>
+                <pb xml:id="colop1999-013" />
+                <l><hi rend="bold">INTRODUCCION</hi></l>
+                <p>Esta version K'iche' del Popol Wujesta preparada para que 
+                    lectores con conocimiento de ese idioma tengan 
+                    un acercamiento substancial al texto que contiene 
+                    la mitologia y la historia del Pueblo Maya K'iche'. 
+                    Si bien, el original del documento quiza este perdido definitivamente, 
+                    la copia mas antigua con que se dispone a la fecha, es la
                     copia que Ximenez realizo a principios del siglo XVIII, de una version
                     alfabetica anterior escrita a mediados del siglo XVI por autores
                     K'iche'ib'. El manuscrito de Ximenez se encuentra en la actualidad en
-                    la Biblioteca de Newberry, Chicago. La presente publicacion se fundarnenta en la version K'iche' de ese manuscrito, el cual y entre otros,
+                    la Biblioteca de Newberry, Chicago. La presente publicacion 
+                    se fundarnenta en la version K'iche' de ese manuscrito, el cual y entre otros,
                     ha sido publicado en forma facsirnilar por Estrada Monroy (1973),
                     transcrito y publicado por Schultze-Jena (1944), Burgess-Xec (1955),
-                    Edmonson (1971) y Chavez (1978).
-                    Algo interesante que hay que resaltar del rnanuscrito de Ximenez
-                    es que, quiza sin advertirlo, copio el texto K'iche' (adernas de traducirlo al castellano), de manera tal que dejo evidencias de la autoria
+                    Edmonson (1971) y Chavez (1978).</p>
+                <p>Algo interesante que hay que resaltar del rnanuscrito de Ximenez
+                    es que, quiza sin advertirlo, copio el texto K'iche' (adernas de traducirlo al castellano), 
+                    de manera tal que dejo evidencias de la autoria
                     multip le de la version previa, copia que a su vez apunta hacia una
-                    version jeroglifica anterior. En el texto, por ejernplo, se aprecia la tecnica de inserci6n vocalica que facilita la silabificacion, lo cual es una
+                    version jeroglifica anterior. En el texto, por ejernplo, se aprecia 
+                    la tecnica de inserci6n vocalica que facilita la silabificacion, 
+                    lo cual es una
                     caracteristica de la escritura jeroglifica rnaya. Asi se lee q'ana kotz'i'j,
                     en lugar q'an k'otz'i'j, 'flores amarillas'; q'eqa b'e , en lugar de q'eq
                     b'e, 'camino negro'. Tambien se encuentran varios encabezados de
                     texto (caption texts), que sugieren que los autores K'iche'ib' estaban
                     transc ribiendo el texto de una version jeroglifica o que se referian a
-                    un texto con esas caracteristicas. Ademas estan las repetidas ocasiones en que se rnenciona la existencia de un texto antiguo donde los
+                    un texto con esas caracteristicas. Ademas estan las repetidas ocasiones 
+                    en que se rnenciona la existencia de un texto antiguo donde los
                     ancestros podian ver, entiendase leer o interpretar hechos pasados,
                     corno predecir ciertos eventos. Es asi corno Q'ukumatz y K'otuja, de
                     la Sta. generacion; Kikab' y Kawisimaj, de la 6a. o 7ma. generacion
-                    (ver nota p. 197), tenian un librodonde podian veresos acontecirnientos y, ese libro era llamado por ellos: Popol Wuj (p. 171 de esta version; Recino s p. 146; Chavez p. 107). Recuerdese aqui que los espafioles llegaron cuando gobemaban los de la decimo segunda generacion!
-                    A lo anterior se agrega el tema de la correlaci6n astronornica. En el
+                    (ver nota p. 197), tenian un librodonde podian veresos acontecirnientos y, 
+                    ese libro era llamado por ellos: Popol Wuj (p. 171 de esta version; 
+                    Recino s p. 146; Chavez p. 107). Recuerdese aqui que los espafioles 
+                    llegaron cuando gobemaban los de la decimo segunda generacion!</p>
+                <p>A lo anterior se agrega el tema de la correlaci6n astronornica. En el
                     Popol Wuj se describen ceremonias de caracter religioso relacionadas
                     con la rnitad de un Tun (9X20 = 180 dias); con el ciclo de 260 dias
-                    (13X20 = calendario sacro); y con el periodo de 340 dias (17X20) referente a Venus (Edmonson 1971:243, Tedlock, 1996:329-330). Esa correlaci6n se confirrna a traves de la invocacion con la cual los propios
+                    (13X20 = calendario sacro); y con el periodo de 340 dias (17X20) 
+                    referente a Venus (Edmonson 1971:243, Tedlock, 1996:329-330). 
+                    Esa correlaci6n se confirrna a traves de la invocacion con la cual los propios
                     ofrendantes iniciaban sus rogativas: Aq'aroq At oob' ruq'ij, 'Oh tu, el
                     de los 5 dias 1 . Esto es Venus, cuyo aparecimiento dclico solo sucede
                     en los 5 dias queen idiorna k'iche' y que conforrne al C6dice de Dresde
-                    son: Ajpu, Ajmaq, E, Q'anil, K'at.
-
-                    Trild11c1dopor Rec,no .,
+                    son: Ajpu, Ajmaq, E, Q'anil, K'at.</p>
+                <p type="note">Trild11c1dopor Rec,no .,
                     (p . 147coma, ",Oh tu
                     hermosura de/ dlnf'
-
-                    1
-
                     Chilvtfz (p 107) como ,
                     "1C,torlil1, Ayudad ill din"
                     Tedlock (p 192) coma,
-
                     ";WilJ/1 on th,s blessed
                     d,1y'' Burges/ Yec(p 286
                     ·•Oh tu de c,nco glorw ., "
-
                     Edmonson (p 2./4} Ila,/
-                    you of the f,.-,, dilvs "
-
-                    EL LENGUAJE DEL POPOL WU]
-
-                    El lenguaje en el que esta escrito el Popol Wuj combina la poesia y
-                    la prosa, algunas veces la poesia es densa y otras se manifiesta sutilmente entre el tejido verbal con el que esta redactado el texto. Es
-                    decir, el lenguaje en el que esta escrito el Popol Wuj es artistico, ademas de su propio contenido mito-hist6rico . Es por eso que a la presente publicaci6n se le subtitula versi6n poetica.
-                    La poesia en el Popol Wuj, como en la poesia mesoamericana se
+                    you of the f,.-,, dilvs "</p>
+                <pb xml:id="colop1999-014" />
+                <p>En la copia de Ximenez tambien se percibe una variacion dialectal
+                    entre los au tores K'iche'ib'. Asf se puede leer en determinadas 
+                    secciones K'iche' yen otras K'eche'; mi'al y me'al; k'ichejal y k'echelaj,
+                    nimarisaj y nimarisay; que agua se escribe a', ja' e incluso ya', etc.
+                    Esto ultimo induce a pensar que uno de los autores provenfa de una
+                    zona fronteriza Kaqchikel. Y es que los autores K'iche'ib' eran Nim
+                    Chokojde los linajes Kaweq/ Nija'ib' ab' y Ajaw K iche'; 
+                    ellos eran "madres de la palabra, 
+                    padres de la palabra" como se identifican en el
+                    mismo Popol Wuj. Tedlock (1996:57), sugiere que el Nim Chokoj de'
+                    los Kaweq, era quien fue bautizado con el nombre castellano de Cris- ·
+                    tobal Velasco.</p>
+                <p>Es probable que para el lector apresurado, esta version resulte un
+                    poco dificil de leer al principio; pero la intencion es hacer asequible el
+                    texto sin alejarlo demasiado del que esta contenido en la copia mas
+                    antigua con que se dispone . Aquf se debe advertir que silos que 
+                    trascribieron el texto al alfabeto latino lo hicieron bajo circunstancias de
+                    persecucion religiosa y aun asf nos legaron este texto unico en su genera. 
+                    Que ese documento fue posteriormente copiado por Ximenez,
+                    fraile que llego a creer que el autor de aquel libro habia sido el mismo
+                    Satanas. Ahora entonces, lo menos que se puede hacer, es intentar
+                    una aproximacion al texto en el idioma original con el que fue escrito .
+                    Para facilitar su lectura, esta version se acompafla con notas de pie de
+                    pagina que sirven de guia para comprender ciertos terminos en desuso; 
+                    para aclarar datos, registrar divergencias, etc.</p>
+                <p>El texto se divide en cinco partes. La primera parte abarca desde
+                    el origen de la palabra hasta la destruccion de los seres de madera. 
+                    La segunda parte se refiere a los seres que quisieron arrogarse 
+                    una divinidad que no les correspondia y son derrotados por los gemelos,
+                    Junajpu e lxb'alanke. La tercera parte contiene una regresion a una
+                    epoca mftica anterior que comienza con el nacimiento de Jun Junajpu,
+                    Wuqub' Junajpu, padres de los heroes gemelos. Luego se narra la ida
+                    y derrota de Jun Junajpu y Wuqub' Junajpu en Xib'alb 'a; 
+                    la concepcion de los heroes gemelos que, eventualmente, llegaran a derrotar a
+                    Xib'alb'a para luego ascender al infinito y convertirse en astros celestes. 
+                    La cuarta parte corresponde a la creacion de los primeros seres
+                    humanos, de donde se origina el genero humano actual. Tambien se
+                    cuenta el nacimiento del sol, el establecimiento de los primeros pueblos, 
+                    sus nawales, sus peregrinajes y sus batallas . Termina esa seccion
+                    con el retorno y desaparicion de los cuatro primeros seres humanos.
+                    La quinta parte desarrolla la historia que corresponde a la segunda
+                    generacion de ancestros hasta el establecimiento del pueblo K'iche'
+                    en Sahta Cruz del K'iche', incluyendo una breve mencion 
+                    de las primeras consecuencias de la invasion hispana.</p>
+                <pb xml:id="colop1999-015" />
+                <l><hi rend="bold">EL LENGUAJE DEL POPOL WUJ</hi></l>
+                <p>El lenguaje en el que esta escrito el Popol Wuj combina la poesia y
+                    la prosa, algunas veces la poesia es densa y otras se manifiesta 
+                    sutilmente entre el tejido verbal con el que esta redactado el texto. Es
+                    decir, el lenguaje en el que esta escrito el Popol Wuj es artistico, 
+                    ademas de su propio contenido mito-hist6rico . 
+                    Es por eso que a la presente publicaci6n se le subtitula versi6n poetica.</p>
+                <p>La poesia en el Popol Wuj, como en la poesia mesoamericana se
                     caracteriza por el verso paralelo. El paralelismo, sin embargo, no debe
                     concebirse como la contigiiidad de dos lineas unicamente (pareados);
                     porque tambien hay tripletes y cuartetos. En el verso K'iche', como
-                    en el verso maya, la correspondencia verbal es principalmente semantica, antes que sintactica o fonol6gica. De alli que comparativamente
+                    en el verso maya, la correspondencia verbal es principalmente semantica, 
+                    antes que sintactica o fonol6gica. De alli que comparativamente
                     se diga, si la rima de] verso en otras culturas es fono16gica/ la rima de]
-                    verso maya es semantica.
-                    Para una mejor percepci6n del lenguaje en este libro K'iche ', se
+                    verso maya es semantica.</p>
+                <p>Para una mejor percepci6n del lenguaje en este libro K'iche ', se
                     presentan los siguientes ejemplos. El primer extracto corresponde a
                     las seis lineas con las cuales comienza el documento . El texto que se
-                    analiza es la version K'iche'. La traducci6n al espaftol con que se acompafia y la numeraci6n de las lineas, son para facilitar esta exposici6n:
-
+                    analiza es la version K'iche'. La traducci6n al espaftol con que se acompafia 
+                    y la numeraci6n de las lineas, son para facilitar esta exposici6n:</p>
+                <list>
                     Are uxe' ojer tzij waral K'iche' ub'i'.
                     Waralxchiqatzib'aj wi
                     xchiqatikib 'a' wi ojer tzij
                     utikarib 'al
                     uxe'nab 'al puch ronojel xb' an pa tinamit K' iche '
                     ramaq ' K' iche' winaq .
+
                     Esta es la raiz de la antigua palabra
                     de este lugar llamado K'iche' .
                     Aqui escribiremos
                     implantaremos la antigua palabra,
                     el origen
                     el cornienzo de todo lo que se ha hecho en el Pueblo K'iche'
-
-                    naci6n de la gente K'iche'.
-
-                    1
-                    2
-                    3
-                    4
-                    5
-
-                    6
-
-                    1
-                    2
-                    3
-                    4
-                    5
-                    6
-
-                    En estas lineas todos los versos tienen correlaci6n. En la linea 1 la
+                                        naci6n de la gente K'iche'.
+                </list>
+                <p>En estas lineas todos los versos tienen correlaci6n. En la linea 1 la
                     frase raiz de la antigua palabra es una metafora que se complementa
                     en las siguientes dos lineas por la analogia entre los verbos escribir e
                     implantar . El acto de escribir se equipara al acto de sembrar, el que a
@@ -589,69 +408,32 @@
                     resumptivo wi. EI adverbio waral de la linea 2 ha sido omitida de la
                     linea 3, sin que por esto cambie de significado ese verso. De hecho, en
                     la poesia maya hay una tendencia fuerte a omitir el modificador del
-
-                    15
-
-                    En la copia de Ximenez tambien se percibe una variacion dialectal
-                    entre los au tores K'iche'ib'. Asf se puede leer en determinadas secciones K'iche' yen otras K'eche'; mi'al y me'al; k'ichejal y k'echelaj,
-                    nimarisaj y nimarisay; que agua se escribe a', ja' e incluso ya', etc.
-                    Esto ultimo induce a pensar que uno de los autores provenfa de una
-                    zona fronteriza Kaqchikel. Y es que los autores K'iche'ib' eran Nim
-                    Chokojde los linajes Kaweq/ Nija'ib' ab' y Ajaw K iche'; ellos eran "madres de la palabra, padres de la palabra" como se identifican en el
-                    mismo Popol Wuj. Tedlock (1996:57), sugiere que el Nim Chokoj de'
-                    los Kaweq, era quien fue bautizado con el nombre castellano de Cris- ·
-                    tobal Velasco.
-                    Es probable que para el lector apresurado, esta version resulte un
-                    poco dificil de leer al principio; pero la intencion es hacer asequible el
-                    texto sin alejarlo demasiado del que esta contenido en la copia mas
-                    antigua con que se dispone . Aquf se debe advertir que silos que trascribieron el texto al alfabeto latino lo hicieron bajo circunstancias de
-                    persecucion religiosa y aun asf nos legaron este texto unico en su genera. Que ese documento fue posteriormente copiado por Ximenez,
-                    fraile que llego a creer que el autor de aquel libro habia sido el mismo
-                    Satanas. Ahora entonces, lo menos que se puede hacer, es intentar
-                    una aproximacion al texto en el idioma original con el que fue escrito .
-                    Para facilitar su lectura, esta version se acompafla con notas de pie de
-                    pagina que sirven de guia para comprender ciertos terminos en desuso; para aclarar datos, registrar divergencias, etc.
-                    El texto se divide en cinco partes. La primera parte abarca desde
-                    el origen de la palabra hasta la destruccion de los seres de madera. La
-                    segunda parte se refiere a los seres que quisieron arrogarse una divinidad que no les correspondia y son derrotados por los gemelos ,
-                    Junajpu e lxb'alanke. La tercera parte contiene una regresion a una
-                    epoca mftica anterior que comienza con el nacimiento de Jun Junajpu,
-                    Wuqub' Junajpu, padres de los heroes gemelos. Luego se narra la ida
-                    y derrota de Jun Junajpu y Wuqub' Junajpu en Xib'alb 'a; la concepcion de los heroes gemelos que, eventualmente , llegaran a derrotar a
-                    Xib'alb'a para luego ascender al infinito y convertirse en astros celestes . La cuarta parte corresponde a la creacion de los primeros seres
-                    humanos, de donde se origina el genero humano actual. Tambien se
-                    cuenta el nacimiento del sol, el establecimiento de los primeros pueblos, sus nawales, sus peregrinajes y sus batallas . Termina esa seccion
-                    con el retorno y desaparicion de los cuatro primeros seres humanos.
-                    La quinta parte desarrolla la historia que corresponde a la segunda
-                    generacion de ancestros hasta el establecimiento del pueblo K'iche'
-                    en Sahta Cruz del K'iche', incluyendo una breve mencion de las pri meras consecuencias de la invasion hispana.
-
-                    14
-
                     segundo verso paralelo. En la linea 3, tambien, la frase sustantival
-                    antigua palabra hace eco a la linea 1 y une a ambas, ademas de reiterar la importancia y significado de esa frase.
-                    El verso de la linea 4 y la frase verbal de la line a 5, uxe' nab' al
+                    antigua palabra hace eco a la linea 1 y une a ambas, ademas de 
+                    reiterar la importancia y significado de esa frase.</p>
+                <pb xml:id="colop1999-016" />
+                <p>El verso de la linea 4 y la frase verbal de la line a 5, uxe' nab' al
                     puch, forman una copla sintactica similar. Las frases utikarib'al y
                     uxe'nab'alson locativas, llevan el prefijo u-, 3ps, y el sufijo locativo/
                     instrumental -b'al. Estas dos frases que, literalmente quieren decir 'el
                     lugar en que se implanta/ el lugar en que se enraiza ...' y que estan
-                    atadas por la conjunci6n puch, 'y'; constituyen una dimetafora (paralelismo de dos metaforas). En la linea 5, despues de la frase locativa,
+                    atadas por la conjunci6n puch, 'y'; constituyen 
+                    una dimetafora (paralelismo de dos metaforas). 
+                    En la linea 5, despues de la frase locativa,
                     el paradigma vertical del verso se rompe dando lugar a la prosa para
                     luego establecer un nuevo paradigma con la frase nominal pa tinamit
                     k'iche'. Esta frase se complementa con la linea 6 que, aunque es una
                     aposici6n, conforma con ella un pareado que esta incrustado en el
-                    pareado precedente.
-                    ,,,
-
-                    En las lineas antes descritas tambien existe un juego de sonidos
+                    pareado precedente.</p>
+                <p>En las lineas antes descritas tambien existe un juego de sonidos
                     producido por las derivaciones morfol6gicas entre uxe' y uxe'nab'al;
                     entre la combinaci6n de frases como xchiqatikib'a y utikatib'al; ojer
                     tzij, etcetera. Vemos tambien, que la linea 1, que pareda ser un "verso
                     huerfano" esta en realidad atado a la linea 3 por la frase ojer tzij, ya
-                    las lineas 5 y 6 por el nominativo K'iche'.
-                    En otro parte del texto se decribe el silencio primigenio con los
-                    siguientes versos (n6tese el juego de vocales en negrillas):
-
+                    las lineas 5 y 6 por el nominativo K'iche'.</p>
+                <p>En otro parte del texto se decribe el silencio primigenio con los
+                    siguientes versos (n6tese el juego de vocales en negrillas):</p>
+                <list>
                     Patron de vocales
                     k'a katz'ininoq
                     k' a kachamamoq
@@ -661,25 +443,12 @@
                     katolona' puch
 
                     /iio/
-
-                    1
-
                     /aao/
                     /ioi/
                     /iai/
-
-                    2
-                    3
-                    4
-
                     /oii/
 
-                    5
-
                     /ooa/
-
-                    6
-                    1
 
                     esta en silencio,
                     esta en calma,
@@ -687,168 +456,178 @@
                     esta en calma,
                     existe palpitaci6n,
                     y esta vacio.
-
-                    2
-
-                    3
-                    4
-                    5
-                    6
-
-                    En estos versos se trata de representar a las cosas como si estuvieran presentes (hipotiposis); el silencio originario de la creaci6n es
-                    recreado en lugar de ser narrado . En estas lineas hay asonancia y
-                    aliteraci6n, es decir que hay una repetici6n y juego de vocales y una
+                </list>
+                <p>En estos versos se trata de representar a las cosas como si 
+                    estuvieran presentes (hipotiposis); el silencio originario 
+                    de la creaci6n es recreado en lugar de ser narrado . 
+                    En estas lineas hay asonancia y aliteraci6n, 
+                    es decir que hay una repetici6n y juego de vocales y una
                     repetici6n y juego de consonantes que sirven para conseguir ciertos
-                    efectos, queen este caso es una armonia imitativa del silencio primigenio.
-
-                    16
-
-                    En la primera tripleta, las lineas 1 y 3 tienen la misma raiz verbal
+                    efectos, queen este caso es una armonia imitativa del silencio primigenio.</p>
+                <pb xml:id="colop1999-017" />
+                <p>En la primera tripleta, las lineas 1 y 3 tienen la misma raiz verbal
                     tz'inin-. La primera frase tiene la inflexion imperativa -oq, mientras
                     que la tercera el marcador intransitivo -ik. Estos verbos debian tener la
                     forma tz'ininoqy tz'ininik, sin embargo en el segundo se produce una
                     metatesis en el patron vocalico establecido por el primero (/i/, fol-> fol
                     , Ii/). Aqui encontramos variacion dentro de lo invariable, que es un
-                    principio inherente del verso paralelo. En la segunda tripleta, la asonancia permite a los narradores reproducir el silencio sobre el agua reposada y transmitir la idea de que solo el "sonido del silencio" existia
+                    principio inherente del verso paralelo. En la segunda tripleta, 
+                    la asonancia permite a los narradores reproducir el silencio 
+                    sobre el agua reposada y transmitir la idea de que 
+                    solo el "sonido del silencio" existia
                     en ese entonces. Esto del "sonido del silencio" parece paradojico, pero
-                    es una meta.fora como otra donde se dice "la muerte de la muerte."
-                    En esas tripletas, ademas, vemos que en sus terceras lineas se
+                    es una meta.fora como otra donde se dice "la muerte de la muerte."</p>
+                <p>En esas tripletas, ademas, vemos que en sus terceras lineas se
                     omite el modificador k' a, lo cual tarnbien sucede en el paralelisrno de
                     dos lineas. Esta tendencia esta relacionada a la estructura intema de
                     los pareados pero con una rnanifestacion externa de tres lineas. Esto
-                    quiere decir, que las tripletas tienen dos dirnensiones: una que es estrictarnente formal y que la conforrnan dos lineas; y otra dimension
-                    en la que una tercera linea supra-paralela a las dos primeras .
-                    La otra variante del verso paralelo de dos lineas, corno ya se
+                    quiere decir, que las tripletas tienen dos dirnensiones: 
+                    una que es estrictarnente formal y que 
+                    la conforrnan dos lineas; y otra dimension
+                    en la que una tercera linea supra-paralela a las dos primeras .</p>
+                <p>La otra variante del verso paralelo de dos lineas, corno ya se
                     anticipo, lo constituyen los cuartetos o contiguidad de cuatro versos.
-                    Vease este ejernplo:
+                    Vease este ejernplo:</p>
+                <list>
+                Ju
+                Ju
+                Ju
+                Ju
 
-                    Ju
-                    Ju
-                    Ju
-                    Ju
+                tiq'ab' kaqa muchij
+                tiq'ab' saqi muchit
+                tiq'ab' q'ana muchit
+                tiq' ab' k' a ri nima' q
 
-                    tiq'ab' kaqa muchij
-                    tiq'ab' saqi muchit
-                    tiq'ab' q'ana muchit
-                    tiq' ab' k' a ri nima' q
+                Un recipiente
+                un recipiente
+                un recipiente
+                un recipiente
 
-                    Un recipiente
-                    un recipiente
-                    un recipiente
-                    un recipiente
-
-                    de [flores] rojas
-                    de blancas
-                    de arnarillas
-                    de las grandes .
-
-                    En estos versos, los tres primeros son sirnilares, y el cuarto rornpe con el paradigma de los tres precedentes. Esta estructura se repite
-                    en otros cuartetos; aunque en algunos es el tercer verso el que rornpe
+                de [flores] rojas
+                de blancas
+                de arnarillas
+                de las grandes .
+                </list>
+                <p>En estos versos, los tres primeros son sirnilares, 
+                    y el cuarto rornpe con el paradigma de los tres precedentes. 
+                    Esta estructura se repiteen otros cuartetos; 
+                    aunque en algunos es el tercer verso el que rornpe
                     con el paradigrna, corno en las siguientes lineas que identifican a los
-                    caminos de Xib'alb'a:
-
-                    Junkaqab'e
-                    jun k' ut q' eqa b' e
-                    saqi b'ejun
-                    jun k'utq'ana b'e.
-                    Un carnino rojo
-                    un carnino negro
-                    carnino blanco
-                    un carnino amarillo
-
-                    17
-
-                    Otro aspecto del verso en el Popol Wuj, es el uso de la paronomasia, o sea a la semejanza fonetica entre dos vocablos pero de significado diferente. Este es un artificio literario con diferentes consecuencias. Veamos:
-
-                    Taxkam k! ut ri Wuqub' Kai!ix
-                    Ta xuk' am k! ut uq' ab' ri Junajpu
-                    Fue entonces cuando muri6 Wuqub' Kak'ix
-                    fue entonces cuando recuper6 su brazo Junajpu .
-                    En estos versos, las frases verbales xkam y xuk! am tienen la misma estructura sintactica, una fonologia semejante; pero un significado bastante diferente: 'morir' y 'llevar" literalmente ('recuperar' por
-                    el contexto) .
-                    Otro ejemplo de paronomasia lo constituye el nominativo que
-                    identifica a los 400 muchachos que se convierten en estrellas: cuatrocientos se dice omuch' y cuando suben a la constelaci6n celestial se les
+                    caminos de Xib'alb'a:</p>
+                <list>
+                Junkaqab'e
+                jun k' ut q' eqa b' e
+                saqi b'ejun
+                jun k'utq'ana b'e.
+                Un carnino rojo
+                un carnino negro
+                carnino blanco
+                un carnino amarillo
+                </list>
+                <pb xml:id="colop1999-018" />
+                <p>Otro aspecto del verso en el Popol Wuj, es el uso de la paronomasia, 
+                    o sea a la semejanza fonetica entre dos vocablos pero de
+                    significado diferente. Este es un artificio literario 
+                    con diferentes consecuencias. Veamos:</p>
+                <list>
+                Taxkam k! ut ri Wuqub' Kai!ix
+                Ta xuk' am k! ut uq' ab' ri Junajpu
+                Fue entonces cuando muri6 Wuqub' Kak'ix
+                fue entonces cuando recuper6 su brazo Junajpu .
+                </list>
+                <p>En estos versos, las frases verbales xkam y xuk! am tienen 
+                    la misma estructura sintactica, una fonologia semejante; 
+                    pero un significado bastante diferente: 
+                    'morir' y 'llevar" literalmente ('recuperar' por el contexto).</p>
+                <p>Otro ejemplo de paronomasia lo constituye el nominativo que
+                    identifica a los 400 muchachos que se convierten en estrellas: 
+                    cuatrocientos se dice omuch' y cuando suben a 
+                    la constelaci6n celestial se les
                     denomina motz' que a su vez tiene parecido con mutz, moch y much
                     (ver Edmonson, 1971:48). Este artificio literario tambien lo usan los
-                    gemelos, Junajpu e lxb'alanke, cuando estan en Xib'alb'a, concretamente en Chayim ja. Desde ese lugar mandan a recolectar los cuatro
-                    recipientes de flores y para el efecto Haman a las hormigas identificadas como chay sanik y ch' eken sanik. El objetivo de los gemelos es
+                    gemelos, Junajpu e lxb'alanke, cuando estan en Xib'alb'a, 
+                    concretamente en Chayim ja. 
+                    Desde ese lugar mandan a recolectar los cuatro
+                    recipientes de flores y para el efecto Haman 
+                    a las hormigas identificadas como chay sanik y ch' eken sanik. 
+                    El objetivo de los gemelos es
                     derrotar a sus enemigos y para ello recurren a un juego de palabras
                     cuyos significados les permite lograr ese objetivo . N6tese que ellos
                     estan en, Chayim ja, 'Casa de las obsidianas (que cortan)', identifican
                     a las hormigas como chay sanik, 'hormigas cortadoras' y como ch'eken
-                    sanik, 'hormigas ganadoras '.
-                    Otro de los puntos sobre los cuales el lector debe estar atento, es
+                    sanik, 'hormigas ganadoras '.</p>
+                <p>Otro de los puntos sobre los cuales el lector debe estar atento, es
                     al uso de formas sintacticas en desuso (pero recuperables); tales como
-                    el empleo de la 3ra . persona singular para significar 3ra persona plural; por ejemplo:
-
-                    x-f!-cha'
-
-                    k'u ri
-
-                    Asp.-3ps-verb.
-
-                    k'ajol-ab'
-
-                    adv. art.
-
-                    lit. 'Dijo entonces los j6venes'
-
-                    sust .-pl.
-
-                    'Dijeron entonces los j6venes'
-
-                    Tambien se debe prestar atenci6n a frases verbales con modifi cadores insertos, como se ilustra a continuaci6n:
-
-                    x-e-k'is-war-ik
-
-                    lit. 'Se terminaron de suefto'
-
-                    Asp .-3pp-adv .-verb .-suf .intr.
-
-                    'Durmieron profundamente '
-
-                    Asimismo, hay que percatarse de las frases negativas con adverbio inserto como en ma k'u ja b'i, 'todavia no '; ya la derivaci6n de
-                    frases en las que, hasta el reflexivo puede ser verbalizado, como en:
-
-                    k-ib' -ii
-
-                    k-ib'
-
-                    Asp.-refl .-suf.
-
-                    Asp .-refl.
-
-                    lit . 'Conformarse entre ellos'
-
-                    18
-
-                    Finalmente cabe anotar queen esta version se utiliza el alfabeto
-                    oficial, excepto en lo relativo a las vocales, y que se trata de representar el .texto en la forma mas acorde con el original disponible. El conjunto de vocales del alfabeto oficial no representa a cabalidad el sistema de vocales K'iche', y el sistema tecnico lingiiistico solo es irnportante para especialistas, no para la mayoria de K'iche' hablantes. De
+                    el empleo de la 3ra . persona singular para significar 
+                    3ra persona plural; por ejemplo:</p>
+                <list>
+                x-f!-cha'
+                k'u ri
+                Asp.-3ps-verb.
+                k'ajol-ab'
+                adv. art.
+                lit. 'Dijo entonces los j6venes'
+                sust .-pl.
+                'Dijeron entonces los j6venes'
+                </list>
+                <p>Tambien se debe prestar atenci6n a frases verbales 
+                    con modifi cadores insertos, como se ilustra a continuaci6n:</p>
+                <list>
+                x-e-k'is-war-ik
+                lit. 'Se terminaron de suefto'
+                Asp .-3pp-adv .-verb .-suf .intr.
+                'Durmieron profundamente '
+                </list>
+                <p>Asimismo, hay que percatarse de las frases negativas 
+                    con adverbio inserto como en ma k'u ja b'i, 'todavia no '; 
+                    ya la derivaci6n de frases en las que, 
+                    hasta el reflexivo puede ser verbalizado, como en:</p>
+                <list>
+                k-ib' -ii
+                k-ib'
+                Asp.-refl .-suf.
+                Asp .-refl.
+                lit . 'Conformarse entre ellos'
+                </list>
+                <pb xml:id="colop1999-019" />
+                <p>Finalmente cabe anotar queen esta version se utiliza el alfabeto
+                    oficial, excepto en lo relativo a las vocales, 
+                    y que se trata de representar el .texto en la forma 
+                    mas acorde con el original disponible. 
+                    El conjunto de vocales del alfabeto oficial no representa 
+                    a cabalidad el sistema de vocales K'iche', 
+                    y el sistema tecnico lingiiistico solo es irnportante para especialistas, 
+                    no para la mayoria de K'iche' hablantes. De
                     alli ha surgido una discusion que masque promover la produccion
                     literaria ha resultado en un disuasivo. Por esa razon, aqui se adopta
                     un sistema que puede resultar mas practico y que eventualrnente puede
-                    promover la eficiencia educativa y la produccion de materiales escritos. De esa cuenta solo se explicitan diferencias obviamente relevantes, como las que existen entre chaj, "pino, ocote"; chaj "ceniza" y
+                    promover la eficiencia educativa y la produccion de materiales escritos. 
+                    De esa cuenta solo se explicitan diferencias obviamente relevantes, 
+                    como las que existen entre chaj, "pino, ocote"; chaj "ceniza" y
                     chaaj "juego de pelota"; k'ol, k'ool. Respecto a la puntuacion en citas
                     textuales, la comilla de cierre se escribe despues del punto o despues
                     de otros signos ortograficos para evitar que el apostrofe se confunda
                     con esas comillas. Por ultimo, las citas entre citas, se presentan en
-                    italicas.
-                    Sirva entonces esta nota introductoria como invitacion para leer
-                    el Popol Wz.ifen su version K'iche', esperando que la misma sea accesible al mayor ntimero de lectores posible.
-
-                    19
+                    italicas.</p>
+                <p>Sirva entonces esta nota introductoria como invitacion para leer
+                    el Popol Wz.ifen su version K'iche', 
+                    esperando que la misma sea accesible al mayor ntimero de lectores posible.</p>
+                <pb xml:id="colop1999-020" />
             </div>
-            <div type="NAB'E">
-            <pb xml:id="colop1999-021"/>
-                NAB'E
+        </front>
+        <body>
+            <div type="part">
+            <pb xml:id="colop1999-021" />
+                <head>NAB'E</head>
+                <lg n="1">
+                    <lb n="0" rend="bold" />ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'
+                    <lb n="1" />Waral xchiqatz'ib'aj wi,
+                    <lb n="2" offset="6" />xchiqatikib'a' wi ojer tzij
+                    <lb n="3" />utikarib'al,
+                    <lb n ="4">uxe'nab'al puch ronojel xb'an pa tinamit K'iche'</lb>
+                                        ramaq' K'iche' winaq.
 
-                ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'
-
-                Waral xchiqatz'ib'aj wi,
-                    xchiqatikib'a' wi ojer tzij
-                utikarib'al,
-                uxe'nab'al puch ronojel xb'an pa tinamit K'iche'
-                                                ramaq' K'iche' winaq.
                 Are k'ut xchiqak'am wi:
                 uk'utunisaxik,
                 uq'alajob'isaxik,
@@ -873,17 +652,64 @@
                                                             Mamom,
                                                             Xpiyakok,
                                                             Xmukane, ub'i'.
-            <pb xml:id="colop1999-023"/>
-                ••••
+            <pb xml:id="colop1999-022" />
+                                                            Matzanel,
+                                                            Chuqenel,
+                                                            Kamul Iyom,
+                                                            Kamul Mamom.
+                                                            Chucha'xik pa K'iche' tzij.
+                <note n="1" place="margin" type="Colop">Aqui se identifica el nombre del libro como Popo Wuj y en la parte final
+                como Popol Wuj. En el texto tambien encontramos la palabra popol en otras frases, como
+                en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la epoca
+                se encuentran registrados los terminos popol, popol ech, popol ja, popol tzij.
+                Por esta razon, es plausible creer que en la primera identificacion del libro hubo 
+                un error y se escribio Popo Wuj en lugar del Popol Wuj.
+                </note>
+
+                Ta xkitzijoj ronojel
+                ruk' xkib'an chik 
+                chi saqil k'olem,
+                    saqil tzij.
+                Wa'e xchiqatz'ib'aj chi upam chik
+                                    uch'ab'al Dias,
+                                    pa christianoil chik.
+                xchiqelesaj rumal maja b'i chik ilb'al re Popa Wuj,
+                                                ilb'al saq petenaq ch'aqa palo
+                                                       utzijoxik qamujib'al,
+                                                ilb'al saq k'aslem'; chucha'xik.
+                K'o nab'e wujil,
+                ojer tzib'am puch,
+                xa ewal uwach ilol re,
+                              b'isol re.
+                Nim upe'oxik,
+                utzijoxik puch,
+                ta chi k'is tz'uq ronojel kaj,
+                                          ulew:
+                ukaj tz'uquxik,
+                ukaj xukutaxik,
+                     retaxik;
+                ukaj che'xik,
+                umej k'a'maxik,
+                uyuq k'a'maxik upa kaj,
+                               upa ulew;
+                kaj tz'uq,
+                kaj xukut, chucha'xik rumal ri Tz'aqol,
+                                               B'itol;
+                Uchuch,
+                Uqajaw k'aslem,
+                       Winaqirem:
+                Ab'anel,
+                K'uxlanel;
+            <pb xml:id="colop1999-023" />
                 Alay rech,
                 K'uxlay rech saqil
                             amaqil;
                             saqil al,
-                            saqil k' ajol;
+                            saqil k'ajol;
                 Ajb'is,
                 Ajna'oj chi rech ronojel a ta k'ol wi kaj-ulew,
                                                         cho-palo.
-
+                </lg>
                 ARE UTZIJOXIK WA'E
 
                 k'akatz'ininoq,
@@ -905,7 +731,7 @@
                     ab'aj,
                     jul,
                     siwan,
-                    kim,
+                    k'im,
                     k'ichelaj,
                 xa utukel kaj k'olik.
                 Mawi q'alaj uwach ulew,
@@ -915,232 +741,110 @@
                                     k'akotzob'ik,
                                     jun ta kasilob'ik,
                 <note resp="editor" date="10/28/20">Not sure what to do with Colop notes yet.</note>
-                
-                <note type="Colop"> Quiere decir no
-                Es equivalente a maja'</note>
-
-            <pb xml:id="colop1999-022"/>
-                •••
-                                        Matzanel,
-                                        Chuqenel,
-                                        Kamul Iyom,
-                                        Kamul Mamom.
-                                        Chucha'xik pa K'iche' tzij.
-
-                1
-
-                Aqw se identifica
-                el nombre def libro
-
-                comoPopo Wuj
-                v en la p,1rte final conw
-                Popol Wuj En el tc,to
-                f,imbien encvnfr,11110.,
-                l.i p,il.ibr,1 popol 'n
-                otras tri1 ....es . con10
-                en a1popol (dos I ea•.,) ,
-                popol winaq (cudtro
-                1 ·eces). En lo,
-                drccwn,1nos de /,1t•po,1
-
-                se encuentron
-                fl!gi.strados
-                /vs ternunos popol,
-
-                popol ech, popol ja,
-                popol tzij.
-                I'vr est.1 raz6n,
-                e:; pl,wsible creer
-                queen la primer,1
-                1dentificaciin
-                de! libro hubo un error
-                y se escribio Popo Wuj
-                en lug,ude/Popol Wuj.
-
-                Ta xkitzijoj ronojel
-                ruk' xkib'an chik chi saqil k'olem,
-                saqil tzij.
-                Wa' e xchiqatz'ib' aj chi upam chik
-                uch'ab'al Dias,
-                pa christianoil chik.
-                1
-                xchiqelesaj rumal maja b'i chik ilb'al re Popa Wuj ,
-                ilb'al saq petenaq ch'aqa palo
-                utzijoxik qamujib'al,
-                ilb'al saq k'aslem'; chucha'xik.
-                K' o nab' e wujil,
-                ojer tzib'am puch,
-                xa ewal uwach ilol re,
-                b'isol re.
-                Nim upe' oxik,
-                utzijoxik puch,
-                ta chi k'is tz'uq ronojel kaj,
-                ulew:
-                ukaj tz'uquxik,
-                ukaj xukut~xik,
-                retaxik;
-                ukaj che' xik,
-                umej k'a'maxik,
-                uyuq k'a'maxik upa kaj,
-                upa ulew;
-                kaj tz'uq,
-                kaj xukut, chucha'xik rumal ri Tz'aqol,
-                B'itol;
-                Uchuch,
-                Uqajaw k'aslem,
-                Winaqirem:
-                Ab'anel,
-                K'uxlanel;
-                22
-
+                <note n="2" place="margin" type="Colop"> Quiere decir no
+                Es equivalente a <hi rend="bold">maja'</hi></note>
                 <pb xml:id="colop1999-024"/>
-
-                •
-                ....
-
                 kumal kab'an taj,
                 k'akotz kab'an taj pa kaj:
                 xa ma k'o wi naki la' k'olik yakalik,
                 xa remanik ja',
-                xa li' anik palo,
+                xa li'anik palo,
                 xa utukel remanik,
                 xa ma k'o wi naki la' lo k'olik;
                 xa kachamanik,
-                katz'ininik chi q'equ'm,
-                chi aq'ab'.
+                   katz'ininik chi q'equ'm,
+                               chi aq'ab'.
 
-                3
+                <note n="3" place="margin" type="Colop"> Literalmente 'su estado' o su esencia
+                Se deriva del verb **k'oje'**, 'estar' (Basseta)</note>
+                <note n="4" place="margin" type="Colop">El texto dice *quehe*, que se transcribe *k'ehe 
+                y cuya variante dialectal es **k'aje'**, 'asi pues, como, de esta manera'.
+                Es la forma antigua del adverbio **je** (Ximenez, Basseta).</note>
+                <note n="5" place="margin" type="Colop"></note>
 
-                l1teralmente 'su estado '
-                osu esencia
-                Se deriva def verbo
-                k'oje', 'estar' (Ba~ta).
-                4
-                El texto dice quehe,
-                que se transcribe k'eje
-                y cuya van:mte dialectal
-                es k'aje' , 'as/ pues ,
-                como ,
-                de esta nwnera' Es /,1
-                form,1 antigua def
-                ,1dverbio je (Ximenez ,
-                Basseta).
-
-                5 ' Yt ,1mbien '. Nay,
-                'tambien ', puch, 'y' .
-
-                Xa utukel ri Tz' aqol,
-                B'itol,
-                Tepew,
-                Q'ukumatz,
-                eAlom,
-                e K'ajolom k'o pa ja'
-                saqtetoj e k' o wi.
+                Xa utukel ri Tz'aqol,
+                             B'itol,
+                             Tepew,
+                             Q'ukumatz,
+                             e Alom,
+                             e K'ajolom k'o pa ja'
+                             saqtetoj e k'o wi.
                 E muqutal pa q'uq',
-                pa raxon;
+                          pa raxon;
                 are ub'inam wi ri Q'ukumatz.
                 E nimaq etamanel,
-                e nimaq ajna' oj chi kik' oje'ik. 3
-                K'eje 4 k'ut xax k'o wi ri kaj
-                k' o wi nay puch 5 Uk'ux Kaj,
+                e nimaq ajna'oj chi kik'oje'ik.
+                K'eje k'ut xax k'o wi ri kaj
+                k'o wi nay puch Uk'ux Kaj,
                 are' ub'i' ri kab'awil. Chuchaxik.
                 Ta xpe k'ut utzij waral,
                 xul kuk' ri Tepew,
-                Q'ukumatz waral chi q'equmal
-                chi aq'ab'al;
-                xch 'aw ruk' ri Tepew,
-                Q'ukumatz.
+                            Q'ukumatz waral chi q'equmal
+                                            chi aq'ab'al;
+                xch'aw ruk' ri Tepew,
+                               Q'ukumatz.
                 Xecha' k'ut:
-                ta xena ' ojinik,
+                ta xena'ojinik,
                 ta xeb'isonik,
-                xeriqo kib',
-                xkikuch kitzij,
-                kina' oj;
-
-                24
-
-                •
-
+                   xeriqo kib',
+                   xkikuch kitzij,
+                           kina'oj;
+                <pb xml:id="colop1999-025"/>
                 ta xq'alaj,
                 ta xkik'uxlaj kib' xe' wi saq,
-                ta xq' alaj puch winaq;
+                ta xq'alaj puch winaq;
                 ta xkina'ojij utz'uqik,
-                uwinaqirik che',
-                k'a'm,
-                utz'uquxik puch k'aslem
-                winaqirem
+                              uwinaqirik che',
+                                         k'a'm,
+                              utz'uquxik puch k'aslem
+                                              winaqirem
                 chi q' equmal,
                 chi aq'ab'al; rumal ri Uk'ux Kaj, Jun Raqan ub'i;
-                Kaqulja Jun Raqan, nab'e;
-                ukab ' k'ut, Ch'ipi Kaqulja;
-                rox chik, Raxa Kaqulja;
-                chi e k'u oxib' ri ', Uk 'ux Kaj.
+                                       Kaqulja Jun Raqan, nab'e;
+                                       ukab' k'ut, Ch'ipi Kaqulja;
+                                       rox chik, Raxa Kaqulja;
+                 chi e k'u oxib' ri', Uk'ux Kaj.
                 Ta xe'ul kuk' ri Tepew,
-                Q'ukumatz,
+                                 Q'ukumatz,
                 ta xna'ojixik saq k'aslem:
                 -Jupa cha ta chawaxoq,
-                ta saqiroq puch? 6
+                          ta saqiroq puch?
                 Apachinaq tzuqul,
-                k'ool?
+                          k'ool?
                 Ta chuxoq!
                 Kixnojin taj:
                 Are ri ja' chel taj!,
-                chi jama' taj!
+                           chi jama' taj!
                 Chiwinaqir wa ulew,
-                ulaqel ta k'u rib '
+                              ulaqel ta k'u rib '
                 Ch'ata k'ut .
                 Ta chawaxoq,
-                ta aqiroq kaj,
-                ulew!
-                Mata k'ut uq 'ijilab'al,
-                uq'ala'ib'al 7 ri qatz 'aq
-                ri qab 'it.
-                Ta winaqiroq: winaq tz'a q,
-                winaq b'it! Xecha' k'ut.
+                ta saqiroq kaj,
+                           ulew!
+                Mata k'ut uq'ijilab'al,
+                          uq'ala'ib'al ri qatz'aq
+                                       ri qab 'it.
+                Ta winaqiroq: winaq tz'aq,
+                              winaq b'it! Xecha' k'ut.
 
-                25
+                <note n="6" place="margin" type="Colop">El texto dice saqiro en vez de
+                saqiroq. La omision de la q final parece un error de copia en virtud
+                de que sintacticamente la clausula es imperativa. Esto se corroborra,
+                ademas, unas lineas mas abajo donde vuelve a repetirse la misma
+                formula verbal: <hi rend="bold">ta chawaxoq, ta saqiroq...</hi>
+                </note>
 
-                6
+                <note n="7" place="margin" type="Colop">El texto dice <hi rend="bold">v calaibal</hi>.
+                Chavez lo transcribe como <hi rend="bold">u kalibal</hi>, 'lugar de contemplacion';
+                Edmonson como <hi rend="bold">U q'alajib'a'l</hi>, 'glorificacion' y Tedlock como
+                <hi rend="bold">uq'alaib'al</hi>, 'proclamacion'. En cualquiera de los casos, se hace
+                referencia a un lugar de adoracion o admiracion. El termino tiene relacion con 
+                <hi rend="bold">q'alib'al</hi>, que quiere decir 'trono, asiento principal, espaldar
+                de caciques' (Ximenez, Coto)
+                </note>
 
-                Fl fe'fodice s,1qiro en
-                l'ez de saqiroq. ui
-                omisi6n de la q fin,11
-                p,1rece un error de copia
-                en virtud de que
-                sint,ictimmente
-                la c/Jusul,1 es impemtiv.1 .
-                F.stose corroborm,
-                ,1demas, un,1s lineas mas
-                ,1bajo donde vLJelve
-                a repetirse la misma
-                formula 1·erb,1I: ta
-                chawaxoq,
-                ta saqiroq ...
-                7
-
-                El texto dicev calaibal.
-                Chavez lo transcribe
-                como u kailbal, 'lugar de
-                contempl,1cion',
-                Edmonson como U
-                q'alajib'a'l, 'glorificaci6n '
-                y Tedlock como
-                uq'alaib'al,
-                'proclanwcion '.
-                Fn CLJ.ilquier,1
-                de los
-                c,1sos,se hace referenci,1 a
-                Lin !LJgardeadoraci6n o
-                admir,1cion Fl termino
-                tiene rel.icion con
-                q'alib'al, que quiere decir
-                'trono, 1sientoprincipal,
-                esp,1ldar de caciqLJes'
-                (l(imenez, Coto).
-
+                <pb xml:id="colop1999-026"/>
                 TA XWINAQIR K'U RI ULEW KUMAL
-
-                8
 
                 Lib'aj chi' es un,1 Frase
 
@@ -11627,9 +11331,10 @@
 
                 Xere k'u ri mixutzinik chi konojel K'iche',
                 Sta. Cruz, ub'i'.
-
-                201
-
+            </div>
+        </body>
+        <back>
+            <div type="bibliography">>
                 BIBLIOGRAFfA
 
                 Basseta, Domingo de. «Vocabulario quiche-castellano». Manuscrito (1698?),
@@ -11734,6 +11439,6 @@
 
                 
             </div>
-        </body>
+        </back>
     </text>
 </TEI>
