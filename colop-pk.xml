@@ -657,6 +657,7 @@
                                                             Kamul Iyom,
                                                             Kamul Mamom.
                                                             Chucha'xik pa K'iche' tzij.
+                                                            <!-- slight misalignment, could be because Colop didn't want text to run over -->
                 <note n="1" place="margin" type="Colop">Aqui se identifica el nombre del libro como Popo Wuj y en la parte final
                 como Popol Wuj. En el texto tambien encontramos la palabra popol en otras frases, como
                 en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la epoca
@@ -717,7 +718,7 @@
                 k'akasilanik,
                 k'akalolinik,
                     katolona puch upa kaj.
-
+                <!-- token-internal alignment -->
                 Wa'e k'ute nab'e tzij,
                             nab'e uchan:
                 maja' b'i oq
@@ -739,6 +740,7 @@
                 Maja' b'i naki la' kamolob'ik,
                                     k'akotzob'ik,
                                     jun ta kasilob'ik,
+                <!-- slight character alignment difference in the text here, should it be preserved? -->                     
                 <note resp="editor" date="10/28/20">Not sure what to do with Colop notes yet.</note>
                 <note n="2" place="margin" type="Colop"> Quiere decir no
                 Es equivalente a <hi rend="bold">maja'</hi></note>
@@ -780,6 +782,7 @@
                 xul kuk' ri Tepew,
                             Q'ukumatz waral chi q'equmal
                                             chi aq'ab'al;
+                <!-- alignment difference again Tepew / Q'ukumatz--> 
                 xch'aw ruk' ri Tepew,
                                Q'ukumatz.
                 Xecha' k'ut:
@@ -797,12 +800,15 @@
                                          k'a'm,
                               utz'uquxik puch k'aslem
                                               winaqirem
-                chi q' equmal,
+                <!-- word final alignment occurring here based on the perfect suffix -em ?--> 
+                chi q'equmal,
                 chi aq'ab'al; rumal ri Uk'ux Kaj, Jun Raqan ub'i;
                                        Kaqulja Jun Raqan, nab'e;
                                        ukab' k'ut, Ch'ipi Kaqulja;
                                        rox chik, Raxa Kaqulja;
                  chi e k'u oxib' ri', Uk'ux Kaj.
+                <!-- looking back here again, there seems to be a word final alignment going
+                on again, this time with Uk'ux Kaj  -->
                 Ta xe'ul kuk' ri Tepew,
                                  Q'ukumatz,
                 ta xna'ojixik saq k'aslem:
