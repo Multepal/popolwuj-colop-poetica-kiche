@@ -16,6 +16,10 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
+            <p>For individual lines, there is an @offset attribute that determines how that line aligns with the previous line.
+            This value indicates how many whitespaces must be added to the beginning of the line string 
+            in order to preserve alignment.
+            </p>
         </encodingDesc>
         <editorialDesc>
         </editorialDesc>
@@ -618,62 +622,57 @@
         </front>
         <body>
             <div type="part">
-            <pb xml:id="colop1999-021" />
+                <pb xml:id="colop1999-021" />
                 <head>NAB'E</head>
-                <lg n="1">
-                    <lb n="0" rend="bold" />ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'
-                    <lb n="1" />Waral xchiqatz'ib'aj wi,
-                    <lb n="2" offset="6" />xchiqatikib'a' wi ojer tzij
-                    <lb n="3" />utikarib'al,
-                    <lb n ="4">uxe'nab'al puch ronojel xb'an pa tinamit K'iche'</lb>
-                                        ramaq' K'iche' winaq.
-                Are k'ut xchiqak'am wi:
-                uk'utunisaxik,
-                uq'alajob'isaxik,
-                utzijoxik puch
-                ewaxib'al,
-                saqirib'al rumal Tz'aqol,
-                                B'itol,
-                                Alom,
-                                K'ajolom kib'i'.
-                                Junajpu Wuch',
-                                Junajpu Utiw,
-                                Saqinim Aq
-                                        Sis
-                                Tepew,
-                                Q'ukumatz,
-                                Uk'ux Cho,
-                                Uk'ux Palo,
-                                Ajraxa Laq,
-                                Ajraxa Tzel. Chucha'xik,
-                                            rachb'ixik,
-                                            rachtzijoxik ri Iyom,
-                                                            Mamom,
-                                                            Xpiyakok,
-                                                            Xmukane, ub'i'.
-            <pb xml:id="colop1999-022" />
-                                                            Matzanel,
-                                                            Chuqenel,
-                                                            Kamul Iyom,
-                                                            Kamul Mamom.
-                                                            Chucha'xik pa K'iche' tzij.
+                <l type="head">ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'</l>
+                <l>Waral xchiqatz'ib'aj wi,</l>
+                         <l offset='6'>xchiqatikib'a' wi ojer tzij</l>
+                <l>utikarib'al,</l>
+                <l>uxe'nab'al puch ronojel xb'an pa tinamit K'iche'</l>
+                                                    <l offset='33'>ramaq' K'iche' winaq.</l>
+                <l>Are k'ut xchiqak'am wi:</l>
+                <l>uk'utunisaxik,</l>
+                <l>uq'alajob'isaxik,</l>
+                <l>utzijoxik puch</l>
+                <l>ewaxib'al,</l>
+                <l>saqirib'al rumal Tz'aqol,</l>
+                                    <l offset='17'>B'itol,</l>
+                                    <l offset='17'>Alom,</l>
+                                    <l offset='17'>K'ajolom kib'i'.</l>
+                                    <l offset='17'>Junajpu Wuch',</l>
+                                    <l offset='17'>Junajpu Utiw,</l>
+                                    <l offset='17'>Saqinim Aq</l>
+                                                   <l offset='25'>Sis</l>
+                                    <l offset='17'>Tepew,</l>
+                                    <l offset='17'>Q'ukumatz,</l>
+                                    <l offset='17'>Uk'ux Cho,</l>
+                                    <l offset='17'>Uk'ux Palo,</l>
+                                    <l offset='17'>Ajraxa Laq,</l>
+                                    <l offset='17'>Ajraxa Tzel. Chucha'xik,</l>
+                                                                <l offset='30'>rachb'ixik,</l>
+                                                                <l offset='30'>rachtzijoxik ri Iyom,</l>
+                                                                                               <l offset='46'>Mamom,</l>
+                                                                                               <l offset='46'>Xpiyakok,</l>
+                                                                                               <l offset='46'>Xmukane, ub'i'.</l>
+                <pb xml:id="colop1999-022" />
+                                                                                               <l offset='46'>Matzanel,</l>
+                                                                                               <l offset='46'>Chuqenel,</l>
+                                                                                               <l offset='46'>Kamul Iyom,</l>
+                                                                                               <l offset='46'>Kamul Mamom.</l>
+                                                                                               <l offset='46'>Chucha'xik pa K'iche' tzij.</l>
                                                             <!-- slight misalignment, could be because Colop didn't want text to run over -->
-                <note n="1" place="margin" type="Colop">Aqui se identifica el nombre del libro como Popo Wuj y en la parte final
-                como Popol Wuj. En el texto tambien encontramos la palabra popol en otras frases, como
-                en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la epoca
-                se encuentran registrados los terminos popol, popol ech, popol ja, popol tzij.
-                Por esta razon, es plausible creer que en la primera identificacion del libro hubo 
-                un error y se escribio Popo Wuj en lugar del Popol Wuj.
-                </note>
+                <!-- With some inspiration from https://wwp.northeastern.edu/research/publications/guide/html/referencing_notes.html,
+                I believe it might be a good idea to store notes elsewhere. Especially with a poetic text, including the notes
+                along with the lines seems like it will break the flow of the text. -->
 
-                Ta xkitzijoj ronojel
-                ruk' xkib'an chik 
-                chi saqil k'olem,
-                    saqil tzij.
+                <l>Ta xkitzijoj ronojel</l>
+                <l>ruk' xkib'an chik</l>
+                <l>chi saqil k'olem,</l>
+                       <l offset='4'>saqil tzij.</l>
                 Wa'e xchiqatz'ib'aj chi upam chik
                                     uch'ab'al Dias,
                                     pa christianoil chik.
-                xchiqelesaj rumal maja b'i chik ilb'al re Popa Wuj,
+                xchiqelesaj rumal maja b'i chik ilb'al re <ref target='n1'>Popo Wuj</ref>,
                                                 ilb'al saq petenaq ch'aqa palo
                                                        utzijoxik qamujib'al,
                                                 ilb'al saq k'aslem'; chucha'xik.
@@ -700,6 +699,14 @@
                        Winaqirem:
                 Ab'anel,
                 K'uxlanel;
+
+                <note id="n1" place="left"><seg type="note-symbol"><sup>1</sup></seg>Aqui se identifica el nombre del libro como Popo Wuj y en la parte final
+                como Popol Wuj. En el texto tambien encontramos la palabra popol en otras frases, como
+                en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la epoca
+                se encuentran registrados los terminos popol, popol ech, popol ja, popol tzij.
+                Por esta razon, es plausible creer que en la primera identificacion del libro hubo 
+                un error y se escribio Popo Wuj en lugar del Popol Wuj.
+                </note>
             <pb xml:id="colop1999-023" />
                 Alay rech,
                 K'uxlay rech saqil
@@ -709,7 +716,7 @@
                 Ajb'is,
                 Ajna'oj chi rech ronojel a ta k'ol wi kaj-ulew,
                                                         cho-palo.
-                </lg>
+
                 ARE UTZIJOXIK WA'E
 
                 k'akatz'ininoq,
