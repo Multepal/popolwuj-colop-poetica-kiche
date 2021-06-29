@@ -624,36 +624,38 @@
             <div type="part">
                 <pb xml:id="colop1999-021" />
                 <head>NAB'E</head>
-                <l type="head">ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'</l>
+                <lb /> <!-- potential div marker -->
+                <l>ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'</l>
+                <lb /> <!-- potential div marker -->
                 <l>Waral xchiqatz'ib'aj wi,</l>
-                         <l offset='6'>xchiqatikib'a' wi ojer tzij</l>
+                <space quantity="6" unit="chars" /><l>xchiqatikib'a' wi ojer tzij</l>
                 <l>utikarib'al,</l>
                 <l>uxe'nab'al puch ronojel xb'an pa tinamit K'iche'</l>
-                                                    <l offset='33'>ramaq' K'iche' winaq.</l>
+                <space quantity="33" unit="chars" /><l>ramaq' K'iche' winaq.</l>
                 <l>Are k'ut xchiqak'am wi:</l>
                 <l>uk'utunisaxik,</l>
                 <l>uq'alajob'isaxik,</l>
                 <l>utzijoxik puch</l>
                 <l>ewaxib'al,</l>
                 <l>saqirib'al rumal Tz'aqol,</l>
-                                    <l offset='17'>B'itol,</l>
-                                    <l offset='17'>Alom,</l>
-                                    <l offset='17'>K'ajolom kib'i'.</l>
-                                    <l offset='17'>Junajpu Wuch',</l>
-                                    <l offset='17'>Junajpu Utiw,</l>
-                                    <l offset='17'>Saqinim Aq</l>
-                                                   <l offset='25'>Sis</l>
-                                    <l offset='17'>Tepew,</l>
-                                    <l offset='17'>Q'ukumatz,</l>
-                                    <l offset='17'>Uk'ux Cho,</l>
-                                    <l offset='17'>Uk'ux Palo,</l>
-                                    <l offset='17'>Ajraxa Laq,</l>
-                                    <l offset='17'>Ajraxa Tzel. Chucha'xik,</l>
-                                                                <l offset='30'>rachb'ixik,</l>
-                                                                <l offset='30'>rachtzijoxik ri Iyom,</l>
-                                                                                               <l offset='46'>Mamom,</l>
-                                                                                               <l offset='46'>Xpiyakok,</l>
-                                                                                               <l offset='46'>Xmukane, ub'i'.</l>
+                <space quantity="17" unit="chars" /><l>B'itol,</l>
+                <space quantity="17" unit="chars" /><l>Alom,</l>
+                <space quantity="17" unit="chars" /><l>K'ajolom kib'i'.</l>
+                <space quantity="17" unit="chars" /><l>Junajpu Wuch',</l>
+                <space quantity="17" unit="chars" /><l>Junajpu Utiw,</l>
+                <space quantity="17" unit="chars" /><l>Saqinim Aq</l>
+                <space quantity="25" unit="chars" /><l>Sis</l>
+                <space quantity="17" unit="chars" /><l>Tepew,</l>
+                <space quantity="17" unit="chars" /><l>Q'ukumatz,</l>
+                <space quantity="17" unit="chars" /><l>Uk'ux Cho,</l>
+                <space quantity="17" unit="chars" /><l>Uk'ux Palo,</l>
+                <space quantity="17" unit="chars" /><l>Ajraxa Laq,</l>
+                <space quantity="17" unit="chars" /><l>Ajraxa Tzel. Chucha'xik,</l>
+                <space quantity="30" unit="chars" /><l>rachb'ixik,</l>
+                <space quantity="30" unit="chars" /><l>rachtzijoxik ri Iyom,</l>
+                <space quantity="46" unit="chars" /><l>Mamom,</l>
+                <space quantity="46" unit="chars" /><l>Xpiyakok,</l>
+                <space quantity="46" unit="chars" /><l>Xmukane, ub'i'.</l>
                 <pb xml:id="colop1999-022" />
                                                                                                <l offset='46'>Matzanel,</l>
                                                                                                <l offset='46'>Chuqenel,</l>
