@@ -657,50 +657,50 @@
                 <space quantity="46" unit="chars" /><l>Xpiyakok,</l>
                 <space quantity="46" unit="chars" /><l>Xmukane, ub'i'.</l>
                 <pb xml:id="colop1999-022" />
-                                                                                               <l offset='46'>Matzanel,</l>
-                                                                                               <l offset='46'>Chuqenel,</l>
-                                                                                               <l offset='46'>Kamul Iyom,</l>
-                                                                                               <l offset='46'>Kamul Mamom.</l>
-                                                                                               <l offset='46'>Chucha'xik pa K'iche' tzij.</l>
-                                                            <!-- slight misalignment, could be because Colop didn't want text to run over -->
+                <space quantity="46" unit="chars" /><l>Matzanel,</l>
+                <space quantity="46" unit="chars" /><l>Chuqenel,</l>
+                <space quantity="46" unit="chars" /><l>Kamul Iyom,</l>
+                <space quantity="46" unit="chars" /><l>Kamul Mamom.</l>
+                <space quantity="46" unit="chars" /><l>Chucha'xik pa K'iche' tzij.</l>
+                <space quantity="49" unit="chars" /><l></l>
+                <!-- slight misalignment, could be because Colop didn't want text to run over -->
                 <!-- With some inspiration from https://wwp.northeastern.edu/research/publications/guide/html/referencing_notes.html,
                 I believe it might be a good idea to store notes elsewhere. Especially with a poetic text, including the notes
                 along with the lines seems like it will break the flow of the text. -->
-
                 <l>Ta xkitzijoj ronojel</l>
                 <l>ruk' xkib'an chik</l>
                 <l>chi saqil k'olem,</l>
-                       <l offset='4'>saqil tzij.</l>
-                Wa'e xchiqatz'ib'aj chi upam chik
-                                    uch'ab'al Dias,
-                                    pa christianoil chik.
-                xchiqelesaj rumal maja b'i chik ilb'al re <ref target='n1'>Popo Wuj</ref>,
-                                                ilb'al saq petenaq ch'aqa palo
-                                                       utzijoxik qamujib'al,
-                                                ilb'al saq k'aslem'; chucha'xik.
-                K'o nab'e wujil,
-                ojer tzib'am puch,
-                xa ewal uwach ilol re,
-                              b'isol re.
-                Nim upe'oxik,
-                utzijoxik puch,
-                ta chi k'is tz'uq ronojel kaj,
-                                          ulew:
-                ukaj tz'uquxik,
-                ukaj xukutaxik,
-                     retaxik;
-                ukaj che'xik,
-                umej k'a'maxik,
-                uyuq k'a'maxik upa kaj,
-                               upa ulew;
-                kaj tz'uq,
-                kaj xukut, chucha'xik rumal ri Tz'aqol,
-                                               B'itol;
-                Uchuch,
-                Uqajaw k'aslem,
-                       Winaqirem:
-                Ab'anel,
-                K'uxlanel;
+                <space quantity="4" unit="chars" /><l>saqil tzij.</l>
+                <l>Wa'e xchiqatz'ib'aj chi upam chik</l>
+                <space quantity="24" unit="chars" /><l>uch'ab'al Dias,</l>
+                <space quantity="24" unit="chars" /><l>pa christianoil chik.</l>
+                <l>xchiqelesaj rumal maja b'i chik ilb'al re Popa Wuj,</l>
+                <space quantity="32" unit="chars" /><l>ilb'al saq petenaq ch'aqa palo</l>
+                <space quantity="39" unit="chars" /><l>utzijoxik qamujib'al,</l>
+                <space quantity="32" unit="chars" /><l>ilb'al saq k'aslem'; chucha'xik.</l>
+                <l>K'o nab'e wujil,</l>
+                <l>ojer tzib'am puch,</l>
+                <l>xa ewal uwach ilol re,</l>
+                <space quantity="14" unit="chars" /><l>b'isol re.</l>
+                <l>Nim upe'oxik,</l>
+                <l>utzijoxik puch,</l>
+                <l>ta chi k'is tz'uq ronojel kaj,</l>
+                <space quantity="26" unit="chars" /><l>ulew:</l>
+                <l>ukaj tz'uquxik,</l>
+                <l>ukaj xukutaxik,</l>
+                <space quantity="5" unit="chars" /><l>retaxik;</l>
+                <l>ukaj che'xik,</l>
+                <l>umej k'a'maxik,</l>
+                <l>uyuq k'a'maxik upa kaj,</l>
+                <space quantity="15" unit="chars" /><l>upa ulew;</l>
+                <l>kaj tz'uq,</l>
+                <l>kaj xukut, chucha'xik rumal ri Tz'aqol,</l>
+                <space quantity="31" unit="chars" /><l>B'itol;</l>
+                <l>Uchuch,</l>
+                <l>Uqajaw k'aslem,</l>
+                <space quantity="7" unit="chars" /><l>Winaqirem:</l>
+                <l>Ab'anel,</l>
+                <l>K'uxlanel;</l>
 
                 <note id="n1" place="left"><seg type="note-symbol"><sup>1</sup></seg>Aqui se identifica el nombre del libro como Popo Wuj y en la parte final
                 como Popol Wuj. En el texto tambien encontramos la palabra popol en otras frases, como
@@ -709,61 +709,67 @@
                 Por esta razon, es plausible creer que en la primera identificacion del libro hubo 
                 un error y se escribio Popo Wuj en lugar del Popol Wuj.
                 </note>
-            <pb xml:id="colop1999-023" />
-                Alay rech,
-                K'uxlay rech saqil
-                            amaqil;
-                            saqil al,
-                            saqil k'ajol;
-                Ajb'is,
-                Ajna'oj chi rech ronojel a ta k'ol wi kaj-ulew,
-                                                        cho-palo.
 
-                ARE UTZIJOXIK WA'E
+                <pb xml:id="colop1999-023" />
 
-                k'akatz'ininoq,
-                k'akachamamoq,
-                    katz'inonik,
-                k'akasilanik,
-                k'akalolinik,
-                    katolona puch upa kaj.
-                <!-- token-internal alignment -->
-                Wa'e k'ute nab'e tzij,
-                            nab'e uchan:
-                maja' b'i oq
-                    jun winaq,
-                    jun chikop,
-                    tz'ikin,
-                    kar,
-                    tap,
-                    che',
-                    ab'aj,
-                    jul,
-                    siwan,
-                    k'im,
-                    k'ichelaj,
-                xa utukel kaj k'olik.
-                Mawi q'alaj uwach ulew,
-                xa utukel remanik palo
-                            upa kaj, ronojel.
-                Maja' b'i naki la' kamolob'ik,
-                                    k'akotzob'ik,
-                                    jun ta kasilob'ik,
+                <l>Alay rech,</l>
+                <l>K'uxlay rech saqil</l>
+                <space quantity="13" unit="chars" /><l>amaqil;</l>
+                <space quantity="13" unit="chars" /><l>saqil al,</l>
+                <space quantity="13" unit="chars" /><l>saqil k'ajol;</l>
+                <l>Ajb'is,</l>
+                <l>Ajna'oj chi rech ronojel a ta k'ol wi kaj-ulew,</l>
+                <space quantity="38" unit="chars" /><l>cho-palo.</l>
+                <lb /> <!-- potential div marker -->
+                <l>ARE UTZIJOXIK WA'E</l>
+                <lb /> <!-- potential div marker -->
+                <l>k'akatz'ininoq,</l>
+                <l>k'akachamamoq,</l>
+                <space quantity="3" unit="chars" /><l>katz'inonik,</l>
+                <l>k'akasilanik,</l>
+                <l>k'akalolinik,</l>
+                <space quantity="3" unit="chars" /><l>katolona puch upa kaj.</l>
+                <lb /> <!-- potential div marker -->
+                <l>Wa'e k'ute nab'e tzij,</l>
+                <space quantity="11" unit="chars" /><l>nab'e uchan:</l>
+                <l>maja' b'i oq</l>
+                <space quantity="6" unit="chars" /><l>jun winaq,</l>
+                <space quantity="6" unit="chars" /><l>jun chikop,</l>
+                <space quantity="6" unit="chars" /><l>tz'ikin,</l>
+                <space quantity="6" unit="chars" /><l>kar,</l>
+                <space quantity="6" unit="chars" /><l>tap,</l>
+                <space quantity="6" unit="chars" /><l>che',</l>
+                <space quantity="6" unit="chars" /><l>ab'aj,</l>
+                <space quantity="6" unit="chars" /><l>jul,</l>
+                <space quantity="6" unit="chars" /><l>siwan,</l>
+                <space quantity="6" unit="chars" /><l>k'im,</l>
+                <space quantity="6" unit="chars" /><l>k'ichelaj,</l>
+                <l>xa utukel kaj k'olik.</l>
+                <l>Mawi q'alaj uwach ulew,</l>
+                <l>xa utukel remanik palo</l>
+                <space quantity="12" unit="chars" /><l>upa kaj, ronojel.</l>
+                <l>Maja' b'i naki la' kamolob'ik,</l>
+                <space quantity="19" unit="chars" /><l>k'akotzob'ik,</l>
+                <space quantity="19" unit="chars" /><l>jun ta kasilob'ik,</l>
                 <!-- slight character alignment difference in the text here, should it be preserved? -->                     
+                
                 <note resp="editor" date="10/28/20">Not sure what to do with Colop notes yet.</note>
                 <note n="2" place="margin" type="Colop"> Quiere decir no
                 Es equivalente a <hi rend="bold">maja'</hi></note>
+
                 <pb xml:id="colop1999-024"/>
-                kumal kab'an taj,
-                k'akotz kab'an taj pa kaj:
-                xa ma k'o wi naki la' k'olik yakalik,
-                xa remanik ja',
-                xa li'anik palo,
-                xa utukel remanik,
-                xa ma k'o wi naki la' lo k'olik;
-                xa kachamanik,
-                   katz'ininik chi q'equ'm,
-                               chi aq'ab'.
+                
+                <l>kumal kab'an taj,</l>
+                <l>k'akotz kab'an taj pa kaj:</l>
+                <l>xa ma k'o wi naki la' k'olik yakalik,</l>
+                <l>xa remanik ja',</l>
+                <l>xa li'anik palo,</l>
+                <l>xa utukel remanik,</l>
+                <l>xa ma k'o wi naki la' lo k'olik;</l>
+                <l>xa kachamanik,</l>
+                <space quantity="3" unit="chars" /><l>katz'ininik chi q'equ'm,</l>
+                <space quantity="15" unit="chars" /><l>chi aq'ab'.</l>
+                <lb /> <!-- potential div marker -->
 
                 <note n="3" place="margin" type="Colop"> Literalmente 'su estado' o su esencia
                 Se deriva del verb **k'oje'**, 'estar' (Basseta)</note>
@@ -772,74 +778,74 @@
                 Es la forma antigua del adverbio **je** (Ximenez, Basseta).</note>
                 <note n="5" place="margin" type="Colop"></note>
 
-                Xa utukel ri Tz'aqol,
-                             B'itol,
-                             Tepew,
-                             Q'ukumatz,
-                             e Alom,
-                             e K'ajolom k'o pa ja'
-                             saqtetoj e k'o wi.
-                E muqutal pa q'uq',
-                          pa raxon;
-                are ub'inam wi ri Q'ukumatz.
-                E nimaq etamanel,
-                e nimaq ajna'oj chi kik'oje'ik.
-                K'eje k'ut xax k'o wi ri kaj
-                k'o wi nay puch Uk'ux Kaj,
-                are' ub'i' ri kab'awil. Chuchaxik.
-                Ta xpe k'ut utzij waral,
-                xul kuk' ri Tepew,
-                            Q'ukumatz waral chi q'equmal
-                                            chi aq'ab'al;
-                <!-- alignment difference again Tepew / Q'ukumatz--> 
-                xch'aw ruk' ri Tepew,
-                               Q'ukumatz.
-                Xecha' k'ut:
-                ta xena'ojinik,
-                ta xeb'isonik,
-                   xeriqo kib',
-                   xkikuch kitzij,
-                           kina'oj;
+                <l>Xa utukel ri Tz'aqol,</l>
+                <space quantity="13" unit="chars" /><l>B'itol,</l>
+                <space quantity="13" unit="chars" /><l>Tepew,</l>
+                <space quantity="13" unit="chars" /><l>Q'ukumatz,</l>
+                <space quantity="13" unit="chars" /><l>e Alom,</l>
+                <space quantity="13" unit="chars" /><l>e K'ajolom k'o pa ja'</l>
+                <space quantity="13" unit="chars" /><l>saqtetoj e k'o wi.</l>
+                <l>E muqutal pa q'uq',</l>
+                <space quantity="10" unit="chars" /><l>pa raxon;</l>
+                <l>are ub'inam wi ri Q'ukumatz.</l>
+                <l>E nimaq etamanel,</l>
+                <l>e nimaq ajna'oj chi kik'oje'ik.</l>
+                <l>K'eje k'ut xax k'o wi ri kaj</l>
+                <l>k'o wi nay puch Uk'ux Kaj,</l>
+                <l>are' ub'i' ri kab'awil. Chuchaxik.</l>
+                <l>Ta xpe k'ut utzij waral,</l>
+                <l>xul kuk' ri Tepew,</l>
+                <space quantity="12" unit="chars" /><l>Q'ukumatz waral chi q'equmal</l>
+                <space quantity="28" unit="chars" /><l>chi aq'ab'al;</l>
+                <l>xch'aw ruk' ri Tepew,</l>
+                <space quantity="15" unit="chars" /><l>Q'ukumatz.</l>
+                <l>Xecha' k'ut:</l>
+                <l>ta xena'ojinik,</l>
+                <l>ta xeb'isonik,</l>
+                <space quantity="3" unit="chars" /><l>xeriqo kib',</l>
+                <space quantity="3" unit="chars" /><l>xkikuch kitzij,</l>
+                <space quantity="11" unit="chars" /><l>kina'oj;</l>
+
                 <pb xml:id="colop1999-025"/>
-                ta xq'alaj,
-                ta xkik'uxlaj kib' xe' wi saq,
-                ta xq'alaj puch winaq;
-                ta xkina'ojij utz'uqik,
-                              uwinaqirik che',
-                                         k'a'm,
-                              utz'uquxik puch k'aslem
-                                              winaqirem
-                <!-- word final alignment occurring here based on the perfect suffix -em ?--> 
-                chi q'equmal,
-                chi aq'ab'al; rumal ri Uk'ux Kaj, Jun Raqan ub'i;
-                                       Kaqulja Jun Raqan, nab'e;
-                                       ukab' k'ut, Ch'ipi Kaqulja;
-                                       rox chik, Raxa Kaqulja;
-                 chi e k'u oxib' ri', Uk'ux Kaj.
-                <!-- looking back here again, there seems to be a word final alignment going
-                on again, this time with Uk'ux Kaj  -->
-                Ta xe'ul kuk' ri Tepew,
-                                 Q'ukumatz,
-                ta xna'ojixik saq k'aslem:
-                -Jupa cha ta chawaxoq,
-                          ta saqiroq puch?
-                Apachinaq tzuqul,
-                          k'ool?
-                Ta chuxoq!
-                Kixnojin taj:
-                Are ri ja' chel taj!,
-                           chi jama' taj!
-                Chiwinaqir wa ulew,
-                              ulaqel ta k'u rib '
-                Ch'ata k'ut .
-                Ta chawaxoq,
-                ta saqiroq kaj,
-                           ulew!
-                Mata k'ut uq'ijilab'al,
-                          uq'ala'ib'al ri qatz'aq
-                                       ri qab 'it.
-                Ta winaqiroq: winaq tz'aq,
-                              winaq b'it! Xecha' k'ut.
+
+                <l>ta xq'alaj,</l>
+                <l>ta xkik'uxlaj kib' xe' wi saq,</l>
+                <l>ta xq'alaj puch winaq;</l>
+                <l>ta xkina'ojij utz'uqik,</l>
+                <space quantity="14" unit="chars" /><l>uwinaqirik che',</l>
+                <space quantity="25" unit="chars" /><l>k'a'm,</l>
+                <space quantity="14" unit="chars" /><l>utz'uquxik puch k'aslem</l>
+                <space quantity="30" unit="chars" /><l>winaqirem</l>
+                <l>chi q'equmal,</l>
+                <l>chi aq'ab'al; rumal ri Uk'ux Kaj, Jun Raqan ub'i;</l>
+                <space quantity="23" unit="chars" /><l>Kaqulja Jun Raqan, nab'e;</l>
+                <space quantity="23" unit="chars" /><l>ukab' k'ut, Ch'ipi Kaqulja;</l>
+                <space quantity="23" unit="chars" /><l>rox chik, Raxa Kaqulja;</l>
+                <space quantity="2" unit="chars" /><l>chi e k'u oxib' ri', Uk'ux Kaj.</l>
+                <lb /> <!-- potential div marker -->
+                <l>Ta xe'ul kuk' ri Tepew,</l>
+                <space quantity="17" unit="chars" /><l>Q'ukumatz,</l>
+                <l>ta xna'ojixik saq k'aslem:</l>
+                <l>-Jupa cha ta chawaxoq,</l>
+                <space quantity="10" unit="chars" /><l>ta saqiroq puch?</l>
+                <l>Apachinaq tzuqul,</l>
+                <space quantity="10" unit="chars" /><l>k'ool?</l>
+                <l>Ta chuxoq!</l>
+                <l>Kixnojin taj:</l>
+                <l>Are ri ja' chel taj!,</l>
+                <space quantity="11" unit="chars" /><l>chi jama' taj!</l>
+                <l>Chiwinaqir wa ulew,</l>
+                <space quantity="14" unit="chars" /><l>ulaqel ta k'u rib'</l>
+                <l>Ch'ata k'ut.</l>
+                <l>Ta chawaxoq,</l>
+                <l>ta saqiroq kaj,</l>
+                <space quantity="11" unit="chars" /><l>ulew!</l>
+                <l>Mata k'ut uq'ijilab'al,</l>
+                <space quantity="10" unit="chars" /><l>uq'ala'ib'al ri qatz'aq</l>
+                <space quantity="23" unit="chars" /><l>ri qab'it.</l>
+                <l>Ta winaqiroq: winaq tz'aq,</l>
+                <space quantity="14" unit="chars" /><l>winaq b'it! Xecha' k'ut.</l>
+                <lb /> <!-- potential div marker -->
 
                 <note n="6" place="margin" type="Colop">El texto dice saqiro en vez de
                 saqiroq. La omision de la q final parece un error de copia en virtud
@@ -858,7 +864,8 @@
                 </note>
 
                 <pb xml:id="colop1999-026"/>
-                TA XWINAQIR K'U RI ULEW KUMAL
+                <l>TA XWINAQIR K'U RI ULEW KUMAL</l>
+                <lb /> <!-- potential div marker -->
 
                 <note n="8" place="margin" type="Colop"> <hi rend="bold">Lib'aj</hi> es una frase
                 que Basseta traduce como 'a cada paso o apresuradamente, o con presteza'. Adjunto
@@ -876,91 +883,89 @@
                 ulew 'tierra'.
                 </note>
                 
-                Xa kitzij xk'oje wi uwinaqirik.
-                Chiwinaqir ulew:
-                - Ulew! Xecha.
-                Lib'aj chi' xwinaqirik:
-                k'eje ri xa ta sutz',
-                         xa mayul uwinaqirik,
-                            chi k'u pupuje'ik.
-                <!-- more word-final / morphological alignment here with the phrase final marker/ nominalization  -->
-                Ta xtape pa ja' ri juyub',
-                   jusuk' nima'q juyub' xuxik.
-                <!-- not sure what alignment is going on above, in text seems like juyub' is the intended alignment--> 
-                Xa kinawal,
-                xa kipus xb'anataj wi,
-                una'ojixik juyub',
-                           taq'aj,
-                jusuk' rach winaqirik uq'isisil,
-                                      upachajil uwach.
-                K'eje k'ut xkikot wi ri Q'ukumatz:
-                - Utz mixatulik at Uk'ux Kaj,
-                                at Junraqan,
-                                at puch Ch'ipi Kaqulja,
-                                        Raxa Kaqulja!
-                Xchutzinik qatzak,
-                           qab'it. Xecha' k'ut.
-                Nab'e k'ut xwinaqir ulew,
-                                    juyub'-taq'aj;
-                xch'ob'och'ox ub'e ja':
-                xb'inije'ik k'ole je raqan xo'l taq juyub'
-                xa ch'ob'ol chik xek'oje wi ja,
-                ta xk'utunije'ik nima'q juyub'.
-                K'eje k'ut uwinaqirik ulew ri,
-                ta xwinaqirik kumal ri Uk'ux Kaj,
-                                       Uk'ux Ulew. Ke'ucha' xik.
-                <!-- Ke'ucha'xik in italics: indicator of subsection end--> 
-                Ri' k'ut e nab'e xkinojij,
-                xk'olo wi ri kaj,
-                xk'olo nay puch ulew chi upam ja'.
-                K'eje k'ut uno'jixik ri,
-                ta xkino'jij,
-                ta xkib'isoj rutzinik,
-                             ub'anatajik, kumal.
+                <l>Xa kitzij xk'oje wi uwinaqirik.</l>
+                <l>Chiwinaqir ulew:</l>
+                <l>-Ulew! Xecha.</l>
+                <l>Lib'aj chi' xwinaqirik:</l>
+                <l>k'eje ri xa ta sutz',</l>
+                <space quantity="9" unit="chars" /><l>xa mayul uwinaqirik,</l>
+                <space quantity="11" unit="chars" /><l>chi k'u pupuje'ik.</l>
+                <l>Ta xtape pa ja' ri juyub',</l>
+                <space quantity="5" unit="chars" /><l>jusuk' nima'q juyub' xuxik.</l>
+                <l>Xa kinawal,</l>
+                <l>xa kipus xb'anataj wi,</l>
+                <l>una'ojixik juyub',</l>
+                <space quantity="11" unit="chars" /><l>taq'aj,</l>
+                <l>jusuk' rach winaqirik uq'isisil,</l>
+                <space quantity="22" unit="chars" /><l>upachäjil uwach.</l>
+                <l>K'eje k'ut xkikot wi ri Q'ukumatz:</l>
+                <l>-Utz mixatulik at Uk'ux Kaj,</l>
+                <space quantity="15" unit="chars" /><l>at Junraqan,</l>
+                <space quantity="15" unit="chars" /><l>at puch Ch'ipi Kaqulja,</l>
+                <space quantity="23" unit="chars" /><l>Raxa Kaqulja!</l>
+                <l>Xchutzinik qatzak,</l>
+                <space quantity="11" unit="chars" /><l>qab'it. Xecha' k'ut.</l>
+                <l>Nab'e k'ut xwinaqir ulew,</l>
+                <space quantity="20" unit="chars" /><l>juyub'-taq'aj;</l>
+                <l>xch'ob'och'ox ub'e ja':</l>
+                <l>xb'inije'ik k'ole je raqan xo'l taq juyub'</l>
+                <l>xa ch'ob'ol chik xek'oje wi ja,</l>
+                <l>ta xk'utunije'ik nima'q juyub'.</l>
+                <l>K'eje k'ut uwinaqirik ulew ri,</l>
+                <l>ta xwinaqirik kumal ri Uk'ux Kaj,</l>
+                <space quantity="23" unit="chars" /><l>Uk'ux Ulew. Ke'ucha'xik.</l>
+                <space quantity="9" unit="chars" /><l></l>
+                <l>Ri' k'ut e nab'e xkinojij,</l>
+                <l>xk'olo wi ri kaj,</l>
+                <l>xk'olo nay puch ulew chi upam ja'.</l>
+                <l>K'eje k'ut uno'jixik ri,</l>
+                <l>ta xkino'jij,</l>
+                <l>ta xkib'isoj rutzinik,</l>
+                <space quantity="13" unit="chars" /><l>ub'anatajik, kumal.</l>
+                 
                 <pb xml:id="colop1999-027"/>
 
-                Ta xkino'jij chik uchikopil juyub',
-                                  chajal re ki'chelaj
-                                  ronojel uwinaqil juyub':
-                ri kyej,
-                tz'ikin,
-                koj,
-                b'alam,
-                kumatz,
-                sochoj,
-                kanti,
-                chajal k'a'm.
-                Kacha' ri Alom,
-                          K'ajolom:
-                -Xa pa chi lolinik,
-                ma xa on chi tz'ininik uxe' che',
-                                            k'a'm?
-
-                K'ate utz chi k'oje chajal re. Xecha' k'ut.
-                Ta xkinojij,
-                   xkitzijoj puch;
-                jusuk' xwinaqir kej,
-                                tz'ikin.
-                Ta xkisipaj k'ut rochoch kej,
-                                         tz'ikin:
-                -At kej pa b'e ja',
-                        pa siwan katwar wi;
-                        waral katk'oje' wi;
-                        pa k'im,
-                        pa saqul;
-                        pa k'echelaj kipoqo wi iwib'!
-                Kajkaj ib'inib'al,
-                       ichakab'al, chuxik! Xe'ucha'xik.
-                Ta xkich'ik k'ut kochoch ch'uti tz'ikin,
-                                         nima tz'ikin:
-                -Ix, ix tz'ikin chuwi che',
-                                chuwi k'a'm kixochochin wi,
-                                            kixja'in wi!
-                                chi ri' kixpoq wi,
-                                        kixk'iritaj wi
-                                chuq'ab' che',
-                                chuq'ab' k'a'm! Xe'ucha'xik kyej,
-                                                            tz'ikin.
+                <l>Ta xkino'jij chik uchikopil juyub',</l>
+                <space quantity="18" unit="chars" /><l>chajal re ki'chelaj</l>
+                <space quantity="18" unit="chars" /><l>ronojel uwinaqil juyub':</l>
+                <l>ri kyej,</l>
+                <l>tz'ikin,</l>
+                <l>koj,</l>
+                <l>b'alam,</l>
+                <l>kumatz,</l>
+                <l>sochoj,</l>
+                <l>kanti,</l>
+                <l>chajal k'a'm.</l>
+                <l>Kacha' ri Alom,</l>
+                <space quantity="10" unit="chars" /><l>K'ajolom:</l>
+                <l>-Xa pa chi lolinik,</l>
+                <l>ma xa on chi tz'ininik uxe' che',</l>
+                <space quantity="28" unit="chars" /><l>k'a'm?</l>
+                <l>K'ate utz chi k'oje chajal re. Xecha' k'ut.</l>
+                <l>Ta xkinojij,</l>
+                <space quantity="3" unit="chars" /><l>xkitzijoj puch;</l>
+                <l>jusuk' xwinaqir kej,</l>
+                <space quantity="16" unit="chars" /><l>tz'ikin.</l>
+                <l>Ta xkisipaj k'ut rochoch kej,</l>
+                <space quantity="25" unit="chars" /><l>tz'ikin:</l>
+                <l>-At kej pa b'e ja',</l>
+                <space quantity="8" unit="chars" /><l>pa siwan katwar wi;</l>
+                <space quantity="8" unit="chars" /><l>waral katk'oje' wi;</l>
+                <space quantity="8" unit="chars" /><l>pa k'im,</l>
+                <space quantity="8" unit="chars" /><l>pa saqul;</l>
+                <space quantity="8" unit="chars" /><l>pa k'echelaj kipoqo wi iwib'!</l>
+                <l>Kajkaj ib'inib'al,</l>
+                <space quantity="7" unit="chars" /><l>ichakab'al, chuxik! Xe'ucha'xik.</l>
+                <l>Ta xkich'ik k'ut kochoch ch'uti tz'ikin,</l>
+                <space quantity="25" unit="chars" /><l>nima tz'ikin:</l>
+                <l>-Ix, ix tz'ikin chuwi che',</l>
+                <space quantity="16" unit="chars" /><l>chuwi k'a'm kixochochin wi,</l>
+                <space quantity="28" unit="chars" /><l>kixja'in wi!</l>
+                <space quantity="16" unit="chars" /><l>chi ri' kixpoq wi,</l>
+                <space quantity="24" unit="chars" /><l>kixk'iritaj wi</l>
+                <space quantity="16" unit="chars" /><l>chuq'ab' che',</l>
+                <space quantity="16" unit="chars" /><l>chuq'ab' k'a'm! Xe'ucha'xik kyej,</l>
+                <space quantity="44" unit="chars" /><l>tz'ikin.</l>
 
                 <note n="11" place="margin" type="Colop"> <hi rend="bold">On</hi>, 
                 particula dubitativa (Ximenez, Basseta).
@@ -974,48 +979,49 @@
 
                 <pb xml:id="colop1999-028"/>
 
-                Ta xkib'ano
-                   kib'anoj,
-                ronojel xuk'amo uwarab'al,
-                                uyakalib'al.
-                K'eje k'ut kochoch wi chikop ri ulew xuya'o Alom,
-                                                            K'ajolom;
-                xutzininaq chik ronojel ri kej,
-                                           tz'ikin.
+               <l>Ta xkib'ano</l>
+                <space quantity="3" unit="chars" /><l>kib'anoj,</l>
+                <l>ronojel xuk'amo uwarab'al,</l>
+                <space quantity="16" unit="chars" /><l>uyakalib'al.</l>
+                <l>K'eje k'ut kochoch wi chikop ri ulew xuya'o Alom,</l>
+                <space quantity="44" unit="chars" /><l>K'ajolom;</l>
+                <l>xutzininaq chik ronojel ri kej,</l>
+                <space quantity="27" unit="chars" /><l>tz'ikin.</l>
+                <lb /> <!-- potential div marker -->
+                <l>Ta xe'uchax chi k'ut ri kej,</l>
+                <space quantity="24" unit="chars" /><l>tz'ikin; rumal Tz'aqol,</l>
+                <space quantity="39" unit="chars" /><l>B'itol,</l>
+                <space quantity="39" unit="chars" /><l>Alom,</l>
+                <space quantity="39" unit="chars" /><l>K'ajolom:</l>
+                <l>-Kixch'awoq,</l>
+                <l>Kixsik'inoq!</l>
+                <l>mixyonolikinik,</l>
+                <l>mixsik'inik!</l>
+                <l>Kixch'awajetaj chi jujunal,</l>
+                <space quantity="15" unit="chars" /><l>chu jutaq ch'ob'il,</l>
+                <space quantity="15" unit="chars" /><l>chi jutaq molajil!</l>
+                <l>Xe'ucha'xik ri kej,</l>
+                <space quantity="15" unit="chars" /><l>tz'ikin,</l>
+                <space quantity="15" unit="chars" /><l>koj,</l>
+                <space quantity="15" unit="chars" /><l>b'alam,</l>
+                <space quantity="15" unit="chars" /><l>kumatz.</l>
+                <l>-Chib'ij na k'ut ri qab'i',</l>
+                <l>Kojiqajarisaj, oj ichuch,</l>
+                <space quantity="15" unit="chars" /><l>oj iqajaw!</l>
+                <l>Kixcha' b'a na k'ut:</l>
+                <space quantity="3" unit="chars" /><l>Junraqan,</l>
+                <space quantity="3" unit="chars" /><l>Ch'ipi Kaqulja,</l>
+                <space quantity="3" unit="chars" /><l>Raxa Kaqulja;</l>
+                <space quantity="3" unit="chars" /><l>Uk'ux Kaj,</l>
+                <space quantity="3" unit="chars" /><l>Uk'ux Ulew;</l>
+                <space quantity="3" unit="chars" /><l>Tz'aqol,</l>
+                <space quantity="3" unit="chars" /><l>B'itol;</l>
+                <space quantity="3" unit="chars" /><l>Alom,</l>
+                <space quantity="3" unit="chars" /><l>K'ajolom.</l>
+                <space quantity="3" unit="chars" /><l>Kixch'awoq,</l>
+                <space quantity="3" unit="chars" /><l>Kojiq'ijila'! Xe'ucha'xik.</l>
+                <lb /> <!-- potential div marker -->
 
-                Ta xe'uchax chi k'ut ri kej,
-                                        tz'ikin; rumal Tz'aqol,
-                                                       B'itol,
-                                                       Alom,
-                                                       K'ajolom:
-                - Kixch'awoq,
-                Kixsik'inoq!
-                mixyonolikinik,
-                mixsik'inik!
-                Kixch'awajetaj chi jujunal,
-                               chu jutaq ch'ob'il,
-                               chi jutaq molajil!
-                Xe'ucha'xik ri kej,
-                               tz 'ikin,
-                               koj,
-                               b'alam,
-                               kumatz.
-                -Chib'ij na k'ut ri qab'i',
-                Kojiqajarisaj, oj ichuch,
-                               oj iqajaw!
-                Kixcha' b'a na k'ut:
-                    Junraqan,
-                    Ch'ipi Kaqulja,
-                    Raxa Kaqulja;
-                    Uk'ux Kaj,
-                    Uk'ux Ulew;
-                    Tz'aqol,
-                    B'itol;
-                    Alom,
-                    K'ajolom.
-                    Kixch'awoq,
-                    Kojiq'ijila' ! Xe'ucha'xik.
-                <!-- this alignment differs as well. seems to be aligning with the verb root cha', passing the aspect and person makers -->
                 <note n="13" place="margin" type="Colop"> <hi rend="bold">Ch'ob'il</hi> quiere
                 decir 'especie' o 'grupo'. Se deriva de <hi rend="bold">ch'ob'</hi>, 'orden',
                 <hi rend="bold">ch'ob'o</hi>, 'ordenacion' (Basseta).
@@ -1023,45 +1029,45 @@
 
                 <pb xml:id="colop1999-029"/>
 
-                Ma k'u xutzinik
-                       xech'awik k'eje ta ri winaq.
-                Xa kewachelajik,
-                xa kek'aralajik,
-                xa kewojonik;
-                mawi xwachinik uwach kich'ab'al.
-                Jalajoj xkoq'ib'ej chi kijujunal.
-                Ta xkita ri Tz'aqol,
-                            B'itol,
-                mawi mixutzinik,
-                     mixech'awik.
-                Xecha' chik chi kib'il kib':
-                -Mawi mixutzin ub'ixik qab'i';
-                rumal oj kajtz'aq,
-                      oj pu kajb'it: mawi utz!-
-                Xecha' chik chi kib'il kib' ri Alom,
-                                               K'ajolom.
-                Xe'uchax k'ut:
-                Xa kixjalatajik rumal mawi mixutzinik,
-                                      mawi mixixch'awik.
-                Mi k'u xqajal qatzij;
-                              iwecha',
-                              ik'uxun;
-                              iwarab'al,
-                              iyakalib'al;
-                Ri wech wi mixe'uxik siwan,
-                           k'echelaj rumal mawi xutzin qaq'ijiloxik,
-                                           mawi ixsik'iy qe.
-                K'a k'o,
-                k'o wi lo q'ijilonel,
-                          nimanel chi qab'an chik!
-                Xa chik'am ipatan:
-                xa ityo'jil chikach'ik.
-                Ta chuxoq! Are k'ut chipatanij. Xe'ucha'xik.
-                Ta xepixab'axik ch'uti chikop,
-                                nima chikop k'o chuwach ulew.
-                Ta xraj k'u kitij chik kiq'ij;
-                   xraj kitijtob'ej chik,
-                   xraj pu kinuk' chik q'ijilab'al.
+                <l>Ma k'u xutzinik</l>
+                <space quantity="7" unit="chars" /><l>xech'awik k'eje ta ri winaq.</l>
+                <l>Xa kewachelajik,</l>
+                <l>xa kek'aralajik,</l>
+                <l>xa kewojonik;</l>
+                <l>mawi xwachinik uwach kich'ab'al.</l>
+                <l>Jalajoj xkoq'ib'ej chi kijujunal.</l>
+                <l>Ta xkita ri Tz'aqol,</l>
+                <space quantity="12" unit="chars" /><l>B'itol,</l>
+                <l>mawi mixutzinik,</l>
+                <space quantity="5" unit="chars" /><l>mixech'awik.</l>
+                <l>Xecha' chik chi kib'il kib':</l>
+                <l>-Mawi mixutzin ub'ixik qab'i';</l>
+                <l>rumal oj kajtz'aq,</l>
+                <space quantity="6" unit="chars" /><l>oj pu kajb'it: mawi utz!-</l>
+                <l>Xecha' chik chi kib'il kib' ri Alom,</l>
+                <space quantity="31" unit="chars" /><l>K'ajolom.</l>
+                <l>Xe'uchax k'ut:</l>
+                <l>Xa kixjalatajik rumal mawi mixutzinik,</l>
+                <space quantity="22" unit="chars" /><l>mawi mixixch'awik.</l>
+                <l>Mi k'u xqajal qatzij;</l>
+                <space quantity="14" unit="chars" /><l>iwecha',</l>
+                <space quantity="14" unit="chars" /><l>ik'uxun;</l>
+                <space quantity="14" unit="chars" /><l>iwarab'al,</l>
+                <space quantity="14" unit="chars" /><l>iyakalib'al;</l>
+                <l>Ri wech wi mixe'uxik siwan,</l>
+                <space quantity="11" unit="chars" /><l>k'echelaj rumal mawi xutzin qaq'ijiloxik,</l>
+                <space quantity="27" unit="chars" /><l>mawi ixsik'iy qe.</l>
+                <l>K'a k'o,</l>
+                <l>k'o wi lo q'ijilonel,</l>
+                <space quantity="10" unit="chars" /><l>nimanel chi qab'an chik!</l>
+                <l>Xa chik'am ipatan:</l>
+                <l>xa ityo'jil chikach'ik.</l>
+                <l>Ta chuxoq! Are k'ut chipatanij. Xe'ucha'xik.</l>
+                <l>Ta xepixab'axik ch'uti chikop,</l>
+                <space quantity="16" unit="chars" /><l>nima chikop k'o chuwach ulew.</l>
+                <l>Ta xraj k'u kitij chik kiq'ij;</l>
+                <space quantity="3" unit="chars" /><l>xraj kitijtob'ej chik,</l>
+                <space quantity="3" unit="chars" /><l>xraj pu kinuk' chik q'ijilab'al.</l>
 
                 <note n="14" place="margin" type="Colop"> <hi rend="bold">Jalajoj</hi>,
                 'diferente'; viene de la raiz verbal <hi rend="bold">-jalo</hi> 
@@ -1070,47 +1076,47 @@
                 
                 <pb xml:id="colop1999-030"/>
 
-                Xa ma xkita wi kich'ab'al chi kib'il kib'.
-                Xa ma xnawachir wi k'ut,
-                xa ma b'anataj wi puch.
-                K'eje k'ut xech'akataj wi kityo'jil.
-                Xkipatanij: xetiyik,
-                            xekamisaxik ri chikop k' o waral chuwach ulew.
-
-                K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ,
-                                            WINAQ B'IT KUMAL Tz'aqol
-                                                             B'itol;
-                                                             Alom,
-                                                             K'ajolom;
-
-                -Xa k'u tija chik
-                mixyopij rawexik ,
-                         usaqirik?
-                Qab'ana' tzuqul qe,
-                         k'ool qe.
-                Ju pa cha ta kojsik'ixoq,
-                          ta kojnab'ax puch chuwach ulew?
-                Mixqatijo chi rech ri nab'e qatz'aq,
-                                            qab'it.
-                Mawi mixutzinik qaq'ijiloxik,
-                                qaq'alajixik puch kumal.
-                K'eje k'ut qatija wi ub'anik ajnim,
-                                             ajxob';
-                                             tzuqul,
-                                             k'ool! Xecha'.
-                Ta utz'aqik k'ut,
-                   ub'anik puch ulew,
-                                xoq'o'l utyo'jil xkib'ano.
-                Ma ku utz xkilo:
-                xa chi yojomanik,
-                xa tzub'ulik,
-                xa neb'elik,
-                xa lub'anik,
-                xa wulanik,
-                xa pu chi'umarik.
-                Mawi chi k'olol ujolom,
-                xa jun b'enaq wi uwach,
-                xa ku'l uwach;
+                <l>Xa ma xkita wi kich'ab'al chi kib'il kib'.</l>
+                <l>Xa ma xnawachir wi k'ut,</l>
+                <l>xa ma b'anataj wi puch.</l>
+                <l>K'eje k'ut xech'akataj wi kityo'jil.</l>
+                <l>Xkipatanij: xetiyik,</l>
+                <space quantity="12" unit="chars" /><l>xekamisaxik ri chikop k'o waral chuwach ulew.</l>
+                <lb /> <!-- potential div marker -->
+                <l>K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ,</l>
+                <space quantity="29" unit="chars" /><l>WINAQ B'IT KUMAL Tz'aqol</l>
+                <space quantity="46" unit="chars" /><l>B'itol;</l>
+                <space quantity="46" unit="chars" /><l>Alom,</l>
+                <space quantity="46" unit="chars" /><l>K'ajolom;</l>
+                <lb /> <!-- potential div marker -->
+                <l>-Xa k'u tija chik</l>
+                <l>mixyopij rawexik ,</l>
+                <space quantity="9" unit="chars" /><l>usaqirik?</l>
+                <l>Qab'ana' tzuqul qe,</l>
+                <space quantity="9" unit="chars" /><l>k'ool qe.</l>
+                <l>Ju pa cha ta kojsik'ixoq,</l>
+                <space quantity="10" unit="chars" /><l>ta kojnab'ax puch chuwach ulew?</l>
+                <l>Mixqatijo chi rech ri nab'e qatz'aq,</l>
+                <space quantity="28" unit="chars" /><l>qab'it.</l>
+                <l>Mawi mixutzinik qaq'ijiloxik,</l>
+                <space quantity="16" unit="chars" /><l>qaq'alajixik puch kumal.</l>
+                <l>K'eje k'ut qatija wi ub'anik ajnim,</l>
+                <space quantity="29" unit="chars" /><l>ajxob';</l>
+                <space quantity="29" unit="chars" /><l>tzuqul,</l>
+                <space quantity="29" unit="chars" /><l>k'ool! Xecha'.</l>
+                <l>Ta utz'aqik k'ut,</l>
+                <space quantity="3" unit="chars" /><l>ub'anik puch ulew,</l>
+                <space quantity="16" unit="chars" /><l>xoq'o'l utyo'jil xkib'ano.</l>
+                <l>Ma ku utz xkilo:</l>
+                <l>xa chi yojomanik,</l>
+                <l>xa tzub'ulik,</l>
+                <l>xa neb'elik,</l>
+                <l>xa lub'anik,</l>
+                <l>xa wulanik,</l>
+                <l>xa pu chi'umarik.</l>
+                <l>Mawi chi k'olol ujolom,</l>
+                <l>xa jun b'enaq wi uwach,</l>
+                <l>xa ku'l uwach;</l>
 
                 <note n="16" place="margin" type="Colop"><hi rend="bold">Yopij</hi>
                 'acercarse' (Ximenez, Basseta).
@@ -1123,46 +1129,45 @@
 
                 <pb xml:id="colop1999-031"/>
 
-                mawi chi mukun chi rij.
-                Chi ch'aw nab'e maja b'i una'oj.
-                xa jusuk' chi'umar pa ja'.
-                -Mawi k'o-; xecha' chi k'u ri Ajtz'aq,
-                                              Ajb'it.
-                Qaw achlab'eq!
-                <!--Not sure what's going on with the font here--> 
-                Ta chuxoq!
-                Xa lab'e mawi chib'inik,
-                         ma pu chipoq'otajik.
-                Ta chuxoq!
-                Xa una'oj chiri'! Xecha'.
-                Ta xkiyoj k'ut,
-                   xkiyoq' chik ri kitz'aq,
-                                   kib'it.
-                Xecha' chi k'ut:
-                -Jupa cha ki chiqab'ano?
-                Chutzin ta wi,
-                chinawachir ta wi
-                q'ijiloy qech,
-                  siq'iy qech? Xecha' ta xkina'ojij chik:
-                -Xa qab'ij chi ke Xpiyakok,
-                                  Xmukane;
-                                  Junajpu Wuch',
-                                  Junajpu Utiw;
-                kitija chik uq'ijixik,
-                            ub'itaxik-.
-                Xe'uchan ki kib' Ajtz'aq,
-                                 Ajb'it.
-                Ta xkib'ij k'ut chi re Xpiyakok,
-                                       Xmukane.
-
-                K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL,
-                Rati't Q'ij,
-                Rati't Saq, ke'ucha'xik kumal ri Tz'aqol,
-                                                 B'itol.
-                Are kib'i' ri Xpiyakok,
-                              Xmukane.
-                Xecha' k'u ri Juraqan ruk' Tepew,
-                                           Q'ukumatz;
+                <l>mawi chi mukun chi rij.</l>
+                <l>Chi ch'aw nab'e maja b'i una'oj.</l>
+                <l>xa jusuk' chi'umar pa ja'.</l>
+                <l>-Mawi k'o-; xecha' chi k'u ri Ajtz'aq,</l>
+                <space quantity="30" unit="chars" /><l>Ajb'it.</l>
+                <l>Qaw achlab'eq!</l>
+                <l>Ta chuxoq!</l>
+                <l>Xa lab'e mawi chib'inik,</l>
+                <space quantity="9" unit="chars" /><l>ma pu chipoq'otajik.</l>
+                <l>Ta chuxoq!</l>
+                <l>Xa una'oj chiri'! Xecha'.</l>
+                <l>Ta xkiyoj k'ut,</l>
+                <space quantity="3" unit="chars" /><l>xkiyoq' chik ri kitz'aq,</l>
+                <space quantity="19" unit="chars" /><l>kib'it.</l>
+                <l>Xecha' chi k'ut:</l>
+                <l>-Jupa cha ki chiqab'ano?</l>
+                <l>Chutzin ta wi,</l>
+                <l>chinawachir ta wi</l>
+                <l>q'ijiloy qech,</l>
+                <space quantity="2" unit="chars" /><l>siq'iy qech? Xecha' ta xkina'ojij chik:</l>
+                <l>-Xa qab'ij chi ke Xpiyakok,</l>
+                <space quantity="18" unit="chars" /><l>Xmukane;</l>
+                <space quantity="18" unit="chars" /><l>Junajpu Wuch',</l>
+                <space quantity="18" unit="chars" /><l>Junajpu Utiw;</l>
+                <l>kitija chik uq'ijixik,</l>
+                <space quantity="12" unit="chars" /><l>ub'itaxik-.</l>
+                <l>Xe'uchan ki kib' Ajtz'aq,</l>
+                <space quantity="17" unit="chars" /><l>Ajb'it.</l>
+                <l>Ta xkib'ij k'ut chi re Xpiyakok,</l>
+                <space quantity="23" unit="chars" /><l>Xmukane.</l>
+                <lb /> <!-- potential div marker -->
+                <l>K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL,</l>
+                <l>Rati't Q'ij,</l>
+                <l>Rati't Saq, ke'ucha'xik kumal ri Tz'aqol,</l>
+                <space quantity="33" unit="chars" /><l>B'itol.</l>
+                <l>Are kib'i' ri Xpiyakok,</l>
+                <space quantity="14" unit="chars" /><l>Xmukane.</l>
+                <l>Xecha' k'u ri Juraqan ruk' Tepew,</l>
+                <space quantity="27" unit="chars" /><l>Q'ukumatz;</l>
 
                 <note n="18" place="margin" type="Colop"> El texto dice
                 <hi rend="bold">cauach labec</hi>; que equivale a
@@ -1189,47 +1194,47 @@
 
                 <pb xml:id="colop1999-032"/>
 
-                ta xkib'ij chi rech ajq'ij,
-                                    ajb'it,
-                                    e nik'wachinel:
-                -Xa k'ulu
-                xa pu churiqo che ta chik chiqawinaq-b'itoj,
-                                          chiqawinaq-tz'aqoj ta chik tzuqul,
-                                                                     k'ool,
-                kojsik'ix taj,
-                kojnab'ax taj puch.
-                Katok ta k'ut pa tzij Iyom,
-                                      Mamom;
-                                      qati't
-                                      qamam;
-                                      Xpiyakok,
-                                      Xmukane:
-                cha taj ta chawaxoq,
-                        ta saqiroq:
-                qasik'ixik,
-                qatoq'exik,
-                qanab'axik rumal winaq tz'aq,
-                                 winaq b'it,
-                                 winaq poy,
-                                 winaq anom;
-                cha ta chuxoq!
-                Chik'utun ib'i' Junajpu Wuch',
-                                Junajpu Utiw;
-                                Kamul Alom,
-                                Kamul K'ajolom;
-                                Nim Aq,
-                                Nima Sis,
-                                Ajk'uwal,
-                                Ajyamanik,
-                                Ajch'ut,
-                                Ajtz'alam,
-                                Ajraxa laq,
-                                Ajraxa tzel,
-                                Ajq'ol,
-                                Ajtoltekat,
-                                Rati't Q'ij,
-                                Rati't Saq; kixucha'xik rumal qatz'aq,
-                                                              qab 'it!
+                <l>ta xkib'ij chi rech ajq'ij,</l>
+                <space quantity="20" unit="chars" /><l>ajb'it,</l>
+                <space quantity="20" unit="chars" /><l>e nik'wachinel:</l>
+                <l>-Xa k'ulu</l>
+                <l>xa pu churiqo che ta chik chiqawinaq-b'itoj,</l>
+                <space quantity="26" unit="chars" /><l>chiqawinaq-tz'aqoj ta chik tzuqul,</l>
+                <space quantity="53" unit="chars" /><l>k'ool,</l>
+                <l>kojsik'ix taj,</l>
+                <l>kojnab'ax taj puch.</l>
+                <l>Katok ta k'ut pa tzij Iyom,</l>
+                <space quantity="22" unit="chars" /><l>Mamom;</l>
+                <space quantity="22" unit="chars" /><l>qati't</l>
+                <space quantity="22" unit="chars" /><l>qamam;</l>
+                <space quantity="22" unit="chars" /><l>Xpiyakok,</l>
+                <space quantity="22" unit="chars" /><l>Xmukane:</l>
+                <l>cha taj ta chawaxoq,</l>
+                <space quantity="8" unit="chars" /><l>ta saqiroq:</l>
+                <l>qasik'ixik,</l>
+                <l>qatoq'exik,</l>
+                <l>qanab'axik rumal winaq tz'aq,</l>
+                <space quantity="17" unit="chars" /><l>winaq b'it,</l>
+                <space quantity="17" unit="chars" /><l>winaq poy,</l>
+                <space quantity="17" unit="chars" /><l>winaq anom;</l>
+                <l>cha ta chuxoq!</l>
+                <l>Chik'utun ib'i' Junajpu Wuch',</l>
+                <space quantity="16" unit="chars" /><l>Junajpu Utiw;</l>
+                <space quantity="16" unit="chars" /><l>Kamul Alom,</l>
+                <space quantity="16" unit="chars" /><l>Kamul K'ajolom;</l>
+                <space quantity="16" unit="chars" /><l>Nim Aq,</l>
+                <space quantity="16" unit="chars" /><l>Nima Sis,</l>
+                <space quantity="16" unit="chars" /><l>Ajk'uwal,</l>
+                <space quantity="16" unit="chars" /><l>Ajyamanik,</l>
+                <space quantity="16" unit="chars" /><l>Ajch'ut,</l>
+                <space quantity="16" unit="chars" /><l>Ajtz'alam,</l>
+                <space quantity="16" unit="chars" /><l>Ajraxa laq,</l>
+                <space quantity="16" unit="chars" /><l>Ajraxa tzel,</l>
+                <space quantity="16" unit="chars" /><l>Ajq'ol,</l>
+                <space quantity="16" unit="chars" /><l>Ajtoltekat,</l>
+                <space quantity="16" unit="chars" /><l>Rati't Q'ij,</l>
+                <space quantity="16" unit="chars" /><l>Rati't Saq; kixucha'xik rumal qatz'aq,</l>
+                <space quantity="46" unit="chars" /><l>qab'it!</l>
 
                 <note n="21" place="margin" type="Colop">El texto dice
                 <hi rend="bold">xu culu</hi>; pero mas adelante encontramos
@@ -1256,48 +1261,48 @@
 
                 <pb xml:id="colop1999-033"/>
 
-                Chimala chi ixim,
-                        chi tz'ite':
-                xa chib'anatajik,
-                xa pu chel apanoq,
-                chiq'ajaj,
-                chik'ak'otaj puch uchi',
-                                  uwach che'-. Xe'ucha'xik e ajq'ij.
-                K'ate puch uqajik,
-                           uq'ijiloxik ri xmalik chi ixim,
-                                                 chi tz'ite':
-                -Q'ij,
-                b'it! Xecha' k'u ri jun ati't,
-                                    jun mama' chi kech.
-                Are ri mama' are ajtz'ite', Xpiyakok ub'i';
-                are k'u ri ati't ajq'ij,
-                                 ajb'it chi raqan, Xmukane ub'i'.
-                Xecha' k'ut ta xkitikib'a' q'ij:
-                - Xa chuk'ulu,
-                xa pu churiqo;
-                chab'ij,
-                kuta qaxikin;
-                kach'awik,
-                katzijon taj.
-                Xa chuk'ulu ri che' chajawaxik,
-                                    chik'otox puch kumal Ajtz'aq,
-                                                          Ajb'it.
-                We are tzuqul,
-                       k'ool;
-                ta chawaxoq,
-                ta saqiroq!
-                at ixim,
-                at tz'ite';
-                at q'ij,
-                at b'it katchokonik,
-                        kattaqen taj-. Xcha' chi re ixim,
-                                                    tz'ite',
-                                                    q'ij,
-                                                    b'it.
-                - Katk'ix la uloq at Uk'ux Kaj,
-                ma qajisaj uchi',
-                           uwach Tepew,
-                                 Q'ukumatz- . Xecha' ta xkib'ij k'ut usuk'ulikil
+                <l>Chimala chi ixim,</l>
+                <space quantity="8" unit="chars" /><l>chi tz'ite':</l>
+                <l>xa chib'anatajik,</l>
+                <l>xa pu chel apanoq,</l>
+                <l>chiq'ajaj,</l>
+                <l>chik'ak'otaj puch uchi',</l>
+                <space quantity="18" unit="chars" /><l>uwach che'-. Xe'ucha'xik e ajq'ij.</l>
+                <l>K'ate puch uqajik,</l>
+                <space quantity="11" unit="chars" /><l>uq'ijiloxik ri xmalik chi ixim,</l>
+                <space quantity="33" unit="chars" /><l>chi tz'ite':</l>
+                <l>-Q'ij,</l>
+                <l>b'it! Xecha' k'u ri jun ati't,</l>
+                <space quantity="20" unit="chars" /><l>jun mama' chi kech.</l>
+                <l>Are ri mama' are ajtz'ite', Xpiyakok ub'i';</l>
+                <l>are k'u ri ati't ajq'ij,</l>
+                <space quantity="17" unit="chars" /><l>ajb'it chi raqan, Xmukane ub'i'.</l>
+                <l>Xecha' k'ut ta xkitikib'a' q'ij:</l>
+                <l>-Xa chuk'ulu,</l>
+                <l>xa pu churiqo;</l>
+                <l>chab'ij,</l>
+                <l>kuta qaxikin;</l>
+                <l>kach'awik,</l>
+                <l>katzijon taj.</l>
+                <l>Xa chuk'ulu ri che' chajawaxik,</l>
+                <space quantity="20" unit="chars" /><l>chik'otox puch kumal Ajtz'aq,</l>
+                <space quantity="41" unit="chars" /><l>Ajb'it.</l>
+                <l>We are tzuqul,</l>
+                <space quantity="7" unit="chars" /><l>k'ool;</l>
+                <l>ta chawaxoq,</l>
+                <l>ta saqiroq!</l>
+                <l>at ixim,</l>
+                <l>at tz'ite';</l>
+                <l>at q'ij,</l>
+                <l>at b'it katchokonik,</l>
+                <space quantity="8" unit="chars" /><l>kattaqen taj-. Xcha' chi re ixim,</l>
+                <space quantity="36" unit="chars" /><l>tz'ite',</l>
+                <space quantity="36" unit="chars" /><l>q'ij,</l>
+                <space quantity="36" unit="chars" /><l>b'it.</l>
+                <l>-Katk'ix la uloq at Uk'ux Kaj,</l>
+                <l>ma qajisaj uchi',</l>
+                <space quantity="11" unit="chars" /><l>uwach Tepew,</l>
+                <space quantity="17" unit="chars" /><l>Q'ukumatz-. Xecha' ta xkib'ij k'ut usuk'ulikil</l>
 
                 <note n="24" place="margin" type="Colop">Viene de
                 <hi rend="bold">suk'ulik</hi>'derecho, de verdad, ciertamenete'.
@@ -1305,49 +1310,49 @@
 
                 <pb xml:id="colop1999-034"/>
 
-                Utz are chuxik ri ipoy,
-                                  ajam che' chich'awik,
-                                            chitzijon b'a la chuwach ulew.
+                <l>Utz are chuxik ri ipoy,</l>
+                <space quantity="18" unit="chars" /><l>ajam che' chich'awik,</l>
+                <space quantity="28" unit="chars" /><l>chitzijon b'a la chuwach ulew.</l>
+                <l>Ta chuxoq! Xecha' k'ut.</l>
+                <l>Ta xkib'ij jusuk' xb'anik poy,</l>
+                <space quantity="26" unit="chars" /><l>ajam che'.</l>
+                <l>Xewinaq-wachinik,</l>
+                <l>xewinaq-tzijonik puch;</l>
+                <l>are' winaqil uwach ulew xe'uxik,</l>
+                <l>xepoq'ik,</l>
+                <l>xeme'alanik,</l>
+                <l>xek'ajolanik ri poy,</l>
+                <space quantity="16" unit="chars" /><l>ajam che'.</l>
+                <l>Ma k'u ja b'i kik'ux,</l>
+                <l>ma pu ja b'i kina'oj;</l>
+                <l>mawi na'tal kajtz'aq,</l>
+                <space quantity="12" unit="chars" /><l>kajb'it.</l>
+                <l>Xa loq' xeb'inik,</l>
+                <space quantity="8" unit="chars" /><l>xechakanik.</l>
+                <l>Mawi xkina'taj chik ri Uk'ux Kaj.</l>
+                <l>K'eje k'ut xepaj chiri':</l>
+                <l>xa utijtob'exik,</l>
+                <l>xa pu uwab'ab'exik chi winaq.</l>
+                <l>Kechaw nab'e;</l>
+                <l>xa chaqi'j kiwach,</l>
+                <l>mana sonol kaqan,</l>
+                <space quantity="11" unit="chars" /><l>kiq'ab';</l>
+                <l>maja b'i kikik'el,</l>
+                <space quantity="9" unit="chars" /><l>kikomajil ,</l>
+                <l>maja b'i kitiqowal,</l>
+                <space quantity="9" unit="chars" /><l>kikab'chijal.</l>
+                <l>Chaqi'j kotz,</l>
+                <l>k'oj kiwach.</l>
+                <l>Kapichipoj kaqan,</l>
+                <space quantity="11" unit="chars" /><l>kiq'ab';</l>
+                <l>Kayeyoj kityo'jil.</l>
+                <l>K'eje k'ut mawi xena'w chi ri' chuwach Tz'aqol,</l>
+                <space quantity="39" unit="chars" /><l>B'itol,</l>
+                <space quantity="39" unit="chars" /><l>Alay Qech,</l>
+                <space quantity="39" unit="chars" /><l>K'uxla'y Qech.</l>
+                <l>E nab'e tzatz chi winaq xe'uxik waral chuwach ulew.</l>
+                <lb /> <!-- potential div marker -->
 
-                Ta chuxoq! Xecha' k'ut.
-                Ta xkib'ij jusuk' xb'anik poy,
-                                          ajam che'.
-                Xewinaq-wachinik,
-                xewinaq-tzijonik puch;
-                are' winaqil uwach ulew xe'uxik,
-                xepoq'ik,
-                xeme'alanik,
-                xek'ajolanik ri poy,
-                                ajam che'.
-                Ma k'u ja b'i kik'ux,
-                ma pu ja b'i kina'oj;
-                mawi na'tal kajtz'aq,
-                            kajb'it.
-                Xa loq' xeb'inik,
-                        xechakanik.
-                Mawi xkina'taj chik ri Uk'ux Kaj.
-                K'eje k'ut xepaj chiri':
-                xa utijtob'exik,
-                xa pu uwab'ab'exik chi winaq.
-                Kechaw nab'e;
-                xa chaqi'j kiwach,
-                mana sonol kaqan,
-                           kiq'ab';
-                maja b'i kikik' el,
-                         kikomajil ,
-                maja b'i kitiqowal,
-                         kikab'chijal.
-                Chaqi'j kotz,
-                k'oj kiwach.
-                Kapichipoj kaqan,
-                           kiq'ab';
-                Kayeyoj kityo'jil.
-                K'eje k'ut mawi xena'w chi ri' chuwach Tz'aqol,
-                                                       B'itol,
-                                                       Alay Qech,
-                                                       K'uxla'y Qech.
-                E nab'e tzatz chi winaq xe'uxik waral chuwach ulew.
-                
                 <note n="25" place="margin" type="Colop"><hi rend="bold">Ajam che'</hi>,
                 'madera/palo labrado' (maniqui).
                 </note>
@@ -1393,50 +1398,48 @@
 
                 <pb xml:id="colop1999-035"/>
 
-                K'ATE K'UT KIK'ISIK CHIK,
-
-                kima'ixik,
-                kik'utuxik puch;
-                xekamisax chik poy,
-                               ajam che'.
-                Ta xna'ojix kib'utik rumal Uk'ux Kaj;
-                nima b'utik xb'anik:
-                xpe pa kiwi ri e poy,
-                               e ajam che'.
-                Tz'ite' utyo'jil ri achij ta xajaxik rumal Tz'aqol,
-                                                           B'itol;
-                ixoq, sib'ak k'ut utyo'jil ixoq xraj okik rumal Tz'aqol,
-                                                                B'itol.
-                <!-- Alignment seems off in the Tz'aqol / B'itol pairs here - can't seem to find an anchor.--> 
-                Mawi xena'wik,
-                ma pu xech'awik chuwach kajtz'aq,
-                                        kajb'it;
-                                        b'anol ke,
-                                        winaqirisay kech.
-                K'eje k'ut kikamisaxik,
-                           xeb'utik:
-                xpe nima q'ol chila' chi kaj,
-                xpe k'otk'owach ub'i' xk'otin uloq ub'aq' kiwach;
-                xepe kamalotz' xqupin ula kijolom.
-                xpe kotzb'alam xti'o kityo'jil.
-                xpe tukumb'alam xtukuwik,
-                                xkichowik kib'aqil,
-                                          kib'ochil.
-                Xqajixik,
-                xmuchulixik kib'aqil;
-                k'ajisab'al kiwach rumal mawi kinawik chuwach kichuch,
-                                                      chuwach puch kikajaw;
-                                                      Ri Uk'ux Kaj,
-                                                      Juraqan ub'i'.
-                Kumal xq'equ'marik uwach ulew:
-                xtikarik q'eqal jab',
-                q'ijil jab',
-                aqab'al jab'
-                xok ula' ch'uti chikop,
-                         nima chikop.
-                xkut kiwach rumal che',
-                                  ab'aj.
-
+                <l>K'ATE K'UT KIK'ISIK CHIK,</l>
+                <lb /> <!-- potential div marker -->
+                <l>kima'ixik,</l>
+                <l>kik'utuxik puch;</l>
+                <l>xekamisax chik poy,</l>
+                <space quantity="15" unit="chars" /><l>ajam che'.</l>
+                <l>Ta xna'ojix kib'utik rumal Uk'ux Kaj;</l>
+                <l>nima b'utik xb'anik:</l>
+                <l>xpe pa kiwi ri e poy,</l>
+                <space quantity="15" unit="chars" /><l>e ajam che'.</l>
+                <l>Tz'ite' utyo'jil ri achij ta xajaxik rumal Tz'aqol,</l>
+                <space quantity="43" unit="chars" /><l>B'itol;</l>
+                <l>ixoq, sib'ak k'ut utyo'jil ixoq xraj okik rumal Tz'aqol,</l>
+                <space quantity="48" unit="chars" /><l>B'itol.</l>
+                <l>Mawi xena'wik,</l>
+                <l>ma pu xech'awik chuwach kajtz'aq,</l>
+                <space quantity="24" unit="chars" /><l>kajb'it;</l>
+                <space quantity="24" unit="chars" /><l>b'anol ke,</l>
+                <space quantity="24" unit="chars" /><l>winaqirisay kech.</l>
+                <l>K'eje k'ut kikamisaxik,</l>
+                <space quantity="11" unit="chars" /><l>xeb'utik:</l>
+                <l>xpe nima q'ol chila' chi kaj,</l>
+                <l>xpe k'otk'owach ub'i' xk'otin uloq ub'aq' kiwach;</l>
+                <l>xepe kamalotz' xqupin ula kijolom.</l>
+                <l>xpe kotzb'alam xti'o kityo'jil.</l>
+                <l>xpe tukumb'alam xtukuwik,</l>
+                <space quantity="16" unit="chars" /><l>xkichowik kib'aqil,</l>
+                <space quantity="26" unit="chars" /><l>kib'ochil.</l>
+                <l>Xqajixik,</l>
+                <l>xmuchulixik kib'aqil;</l>
+                <l>k'ajisab'al kiwach rumal mawi kinawik chuwach kichuch,</l>
+                <space quantity="38" unit="chars" /><l>chuwach puch kikajaw;</l>
+                <space quantity="38" unit="chars" /><l>Ri Uk'ux Kaj,</l>
+                <space quantity="38" unit="chars" /><l>Juraqan ub'i'.</l>
+                <l>Kumal xq'equ'marik uwach ulew:</l>
+                <l>xtikarik q'eqal jab',</l>
+                <l>q'ijil jab',</l>
+                <l>aqab'al jab'</l>
+                <l>xok ula' ch'uti chikop,</l>
+                <space quantity="9" unit="chars" /><l>nima chikop.</l>
+                <l>xkut kiwach rumal che',</l>
+                <space quantity="18" unit="chars" /><l>ab'aj.</l>
 
                 <note n="33" place="margin" type="Colop"><hi rend="bold">Ma'ixik</hi>
                 es 'deshacerse, tornarse en nada' (Basseta). Se deriva de ma o maj,
@@ -1467,46 +1470,47 @@
 
                 <pb xml:id="colop1999-036"/>
 
-                Xch'awik ronojel kiq'eb'al,
-                                 kixot,
-                                 kilaq,
-                                 kib'o'j,
-                                 kitz'i',
-                                 kika';
-                jaruj pa' la ronojel xkutu kiwach.
-                -k'ax xib'an chi qe:
-                xojitiyo,
-                ix chi k'ut
-                xkixqati' chik! Xcha' ri kitz'i'
-                                         kak' chi kech.
-                Are k'u ri ka':
-                - xojk'ok'onik iwumal juta q'ij,
-                                      juta q'ij;
-                                      xq'ek,
-                                      saqirik;
-                amaq'el joli,
-                        joli;
-                        juk'i,
-                        juk'i qawach iwumal.
-                Are ta nab'e qapatan chi wach
-                ix ta na winaq wakamik k'ut
-                xchitij qachuqab':
-                xchiqake'j,
-                xchiqajok' puch ityo'jil! Xcha' ri kika' chi ke.
-                Are k'u ri kitz'i' xcha' chik ta xch'awik:
-                -Naki pa rumal mawi chiya' qawa?
-                xa kojmukunik,
-                xa pu kojikuxij uloq,
-                      kojitzaq pu uloq;
-                yakal ub'i qache'el iwumal ta kixwa'ik.
-                Xere kojiwucha'aj wi,
-                mawi kojch'awik.
-                Mata k'u mixojkamik iwumal!
-                -Jupa cha mawi mixixnawik
-                xixnaw ta k'ut;
-                chi wij ta k'ut xojsach wi.
-                Wakamik k'ut xchitij qab'aq k'o pa qachi':
-                xkixqati'o! Xecha' ri tz'i' chi ke ta xkut kiwach.
+                <l>Xch'awik ronojel kiq'eb'al,</l>
+                <space quantity="17" unit="chars" /><l>kixot,</l>
+                <space quantity="17" unit="chars" /><l>kilaq,</l>
+                <space quantity="17" unit="chars" /><l>kib'o'j,</l>
+                <space quantity="17" unit="chars" /><l>kitz'i',</l>
+                <space quantity="17" unit="chars" /><l>kika';</l>
+                <l>jaruj pa' la ronojel xkutu kiwach.</l>
+                <l>-k'ax xib'an chi qe:</l>
+                <l>xojitiyo,</l>
+                <l>ix chi k'ut</l>
+                <l>xkixqati' chik! Xcha' ri kitz'i'</l>
+                <space quantity="25" unit="chars" /><l>kak' chi kech.</l>
+                <l>Are k'u ri ka':</l>
+                <l>- xojk'ok'onik iwumal juta q'ij,</l>
+                <space quantity="22" unit="chars" /><l>juta q'ij;</l>
+                <space quantity="22" unit="chars" /><l>xq'ek,</l>
+                <space quantity="22" unit="chars" /><l>saqirik;</l>
+                <l>amaq'el joli,</l>
+                <space quantity="8" unit="chars" /><l>joli;</l>
+                <space quantity="8" unit="chars" /><l>juk'i,</l>
+                <space quantity="8" unit="chars" /><l>juk'i qawach iwumal.</l>
+                <l>Are ta nab'e qapatan chi wach</l>
+                <l>ix ta na winaq wakamik k'ut</l>
+                <l>xchitij qachuqab':</l>
+                <l>xchiqake'j,</l>
+                <l>xchiqajok' puch ityo'jil! Xcha' ri kika' chi ke.</l>
+                <l>Are k'u ri kitz'i' xcha' chik ta xch'awik:</l>
+                <l>-Naki pa rumal mawi chiya' qawa?</l>
+                <l>xa kojmukunik,</l>
+                <l>xa pu kojikuxij uloq,</l>
+                <space quantity="6" unit="chars" /><l>kojitzaq pu uloq;</l>
+                <l>yakal ub'i qache'el iwumal ta kixwa'ik.</l>
+                <l>Xere kojiwucha'aj wi,</l>
+                <l>mawi kojch'awik.</l>
+                <l>Mata k'u mixojkamik iwumal!</l>
+                <l>-Jupa cha mawi mixixnawik</l>
+                <l>xixnaw ta k'ut;</l>
+                <l>chi wij ta k'ut xojsach wi.</l>
+                <l>Wakamik k'ut xchitij qab'aq k'o pa qachi':</l>
+                <l>xkixqati'o! Xecha' ri tz'i' chi ke ta xkut kiwach.</l>
+                <lb /> <!-- potential div marker -->
 
                 <note n="38" place="margin" type="Colop">Viene de
                 <hi rend="bold">k'ok'</hi>, 'molienda fina' o 'material bien molido'
@@ -1556,44 +1560,45 @@
 
                 <pb xml:id="colop1999-037"/>
                 
-                Are chi k'u ri kixot,
-                               kib'o'j xch'aw chik chi ke:
-                - K'ax wa xib'an chi qe:
-                xaq qachi',
-                xaq qawach;
-                amaq'el ojtzaqal chuwi q'aq'
-                kojik'ato.
-                Mawi k'ax xqana'o?
-                xchitij k'ut: xkixqaporoj! Xcha' ri kib'o'j.
-                Ronojel xkutu kiwach.
-                Are ri ab'aj,
-                    ri kixk'ub' chitaninik chipe pa q'aq',
-                taqal chi kijolom.
-                K'ax xb'an chi ke.
-                Anilab'ik
-                kemalmalijab' chik;
-                keraj aq'anik chuwi ja,
-                      xa chi wulij ja ketzaq uloq;
-                keraj aq'an chuwi che',
-                      kech'akix uloq rumal che'.
-                Keraj ok pa jul,
-                      xa chiyuch jul chi kiwach.
-                K'eje k'ut ukayojik winaq tz'aq,
-                                    winaq b'it,
-                e tzixel,
-                e tzalatzoxel chi winaq.
-                Xma'ixik,
-                xk'utuxik kichi',
-                          kiwach konojel.
-
-                Xcha' k'ut are retal ri k'oy k'o pa k'echelaj wakamik.
-                Are xk'oje wi retal rumal xa che' kityo'jil xkojik rumal Ajtz'aq,
-                                                                         Ajb'it.
-                Are k'u ri k'oy keje ri winaq chiwachinik,
-                retal ju le' winaq tz'aq,
-                             winaq b'it;
-                xa poy,
-                xa pu ajam che'.
+                <l>Are chi k'u ri kixot,</l>
+                <space quantity="15" unit="chars" /><l>kib'o'j xch'aw chik chi ke:</l>
+                <l>- K'ax wa xib'an chi qe:</l>
+                <l>xaq qachi',</l>
+                <l>xaq qawach;</l>
+                <l>amaq'el ojtzaqal chuwi q'aq'</l>
+                <l>kojik'ato.</l>
+                <l>Mawi k'ax xqana'o?</l>
+                <l>xchitij k'ut: xkixqaporoj! Xcha' ri kib'o'j.</l>
+                <l>Ronojel xkutu kiwach.</l>
+                <l>Are ri ab'aj,</l>
+                <space quantity="4" unit="chars" /><l>ri kixk'ub' chitaninik chipe pa q'aq',</l>
+                <l>taqal chi kijolom.</l>
+                <l>K'ax xb'an chi ke.</l>
+                <l>Anilab'ik</l>
+                <l>kemalmalijab' chik;</l>
+                <l>keraj aq'anik chuwi ja,</l>
+                <space quantity="7" unit="chars" /><l>xa chi wulij ja ketzaq uloq;</l>
+                <l>keraj aq'an chuwi che',</l>
+                <space quantity="6" unit="chars" /><l>kech'akix uloq rumal che'.</l>
+                <l>Keraj ok pa jul,</l>
+                <space quantity="6" unit="chars" /><l>xa chiyuch jul chi kiwach.</l>
+                <l>K'eje k'ut ukayojik winaq tz'aq,</l>
+                <space quantity="20" unit="chars" /><l>winaq b'it,</l>
+                <l>e tzixel,</l>
+                <l>e tzalatzoxel chi winaq.</l>
+                <l>Xma'ixik,</l>
+                <l>xk'utuxik kichi',</l>
+                <space quantity="10" unit="chars" /><l>kiwach konojel.</l>
+                <lb /> <!-- potential div marker -->
+                <l>Xcha' k'ut are retal ri k'oy k'o pa k'echelaj wakamik.</l>
+                <l>Are xk'oje wi retal rumal xa che' kityo'jil xkojik rumal Ajtz'aq,</l>
+                <space quantity="57" unit="chars" /><l>Ajb'it.</l>
+                <l>Are k'u ri k'oy keje ri winaq chiwachinik,</l>
+                <l>retal ju le' winaq tz'aq,</l>
+                <space quantity="13" unit="chars" /><l>winaq b'it;</l>
+                <l>xa poy,</l>
+                <l>xa pu ajam che'.</l>
+                <lb /> <!-- potential div marker -->
 
                 <note n="46" place="margin" type="Colop">Viene de <hi rend="bold">anim</hi>,
                 'carrera'. <hi rend="bold">Anilab'ik</hi> de acuerdo a Basseta quiere decir
