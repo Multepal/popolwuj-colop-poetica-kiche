@@ -623,7 +623,7 @@
         <body>
             <div type="part">
                 <head>NAB'E</head>
-                <lg n='1' xml:id='lg01' type='seccion'>
+                <lg xml:id='lg1.01' type='seccion'>
                     <pb xml:id="colop1999-021" />
                     <l><seg rend='caps' type='section-header'>ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'</seg></l>
                     <l>Waral xchiqatz'ib'aj wi,</l>
@@ -716,148 +716,137 @@
                     <l>Ajna'oj chi rech ronojel a ta k'ol wi kaj-ulew,</l>
                     <l><space quantity="38" unit="chars" />cho-palo.</l>
                 </lg>
-                <l>ARE UTZIJOXIK WA'E</l>
-                <lb /> <!-- potential div marker -->
-                <l>k'akatz'ininoq,</l>
-                <l>k'akachamamoq,</l>
-                <l><space quantity="3" unit="chars" />katz'inonik,</l>
-                <l>k'akasilanik,</l>
-                <l>k'akalolinik,</l>
-                <l><space quantity="3" unit="chars" />katolona puch upa kaj.</l>
-                <lb /> <!-- potential div marker -->
-                <l>Wa'e k'ute nab'e tzij,</l>
-                <l><space quantity="11" unit="chars" />nab'e uchan:</l>
-                <l>maja' b'i oq</l>
-                <l><space quantity="6" unit="chars" />jun winaq,</l>
-                <l><space quantity="6" unit="chars" />jun chikop,</l>
-                <l><space quantity="6" unit="chars" />tz'ikin,</l>
-                <l><space quantity="6" unit="chars" />kar,</l>
-                <l><space quantity="6" unit="chars" />tap,</l>
-                <l><space quantity="6" unit="chars" />che',</l>
-                <l><space quantity="6" unit="chars" />ab'aj,</l>
-                <l><space quantity="6" unit="chars" />jul,</l>
-                <l><space quantity="6" unit="chars" />siwan,</l>
-                <l><space quantity="6" unit="chars" />k'im,</l>
-                <l><space quantity="6" unit="chars" />k'ichelaj,</l>
-                <l>xa utukel kaj k'olik.</l>
-                <l>Mawi q'alaj uwach ulew,</l>
-                <l>xa utukel remanik palo</l>
-                <l><space quantity="12" unit="chars" />upa kaj, ronojel.</l>
-                <l>Maja' b'i naki la' kamolob'ik,</l>
-                <l><space quantity="19" unit="chars" />k'akotzob'ik,</l>
-                <l><space quantity="19" unit="chars" />jun ta kasilob'ik,</l>
-                <!-- slight character alignment difference in the text here, should it be preserved? -->                     
-                
-                <note resp="editor" date="10/28/20">Not sure what to do with Colop notes yet.</note>
-                <note n="2" place="margin" type="Colop"> Quiere decir no
-                Es equivalente a <hi rend="bold">maja'</hi></note>
-
-                <pb xml:id="colop1999-024"/>
-                
-                <l>kumal kab'an taj,</l>
-                <l>k'akotz kab'an taj pa kaj:</l>
-                <l>xa ma k'o wi naki la' k'olik yakalik,</l>
-                <l>xa remanik ja',</l>
-                <l>xa li'anik palo,</l>
-                <l>xa utukel remanik,</l>
-                <l>xa ma k'o wi naki la' lo k'olik;</l>
-                <l>xa kachamanik,</l>
-                <l><space quantity="3" unit="chars" />katz'ininik chi q'equ'm,</l>
-                <l><space quantity="15" unit="chars" />chi aq'ab'.</l>
-                <lb /> <!-- potential div marker -->
-
-                <note n="3" place="margin" type="Colop"> Literalmente 'su estado' o su esencia
-                Se deriva del verb **k'oje'**, 'estar' (Basseta)</note>
-                <note n="4" place="margin" type="Colop">El texto dice *quehe*, que se transcribe *k'ehe 
-                y cuya variante dialectal es **k'aje'**, 'asi pues, como, de esta manera'.
-                Es la forma antigua del adverbio **je** (Ximenez, Basseta).</note>
-                <note n="5" place="margin" type="Colop"></note>
-
-                <l>Xa utukel ri Tz'aqol,</l>
-                <l><space quantity="13" unit="chars" />B'itol,</l>
-                <l><space quantity="13" unit="chars" />Tepew,</l>
-                <l><space quantity="13" unit="chars" />Q'ukumatz,</l>
-                <l><space quantity="13" unit="chars" />e Alom,</l>
-                <l><space quantity="13" unit="chars" />e K'ajolom k'o pa ja'</l>
-                <l><space quantity="13" unit="chars" />saqtetoj e k'o wi.</l>
-                <l>E muqutal pa q'uq',</l>
-                <l><space quantity="10" unit="chars" />pa raxon;</l>
-                <l>are ub'inam wi ri Q'ukumatz.</l>
-                <l>E nimaq etamanel,</l>
-                <l>e nimaq ajna'oj chi kik'oje'ik.</l>
-                <l>K'eje k'ut xax k'o wi ri kaj</l>
-                <l>k'o wi nay puch Uk'ux Kaj,</l>
-                <l>are' ub'i' ri kab'awil. Chuchaxik.</l>
-                <l>Ta xpe k'ut utzij waral,</l>
-                <l>xul kuk' ri Tepew,</l>
-                <l><space quantity="12" unit="chars" />Q'ukumatz waral chi q'equmal</l>
-                <l><space quantity="28" unit="chars" />chi aq'ab'al;</l>
-                <l>xch'aw ruk' ri Tepew,</l>
-                <l><space quantity="15" unit="chars" />Q'ukumatz.</l>
-                <l>Xecha' k'ut:</l>
-                <l>ta xena'ojinik,</l>
-                <l>ta xeb'isonik,</l>
-                <l><space quantity="3" unit="chars" />xeriqo kib',</l>
-                <l><space quantity="3" unit="chars" />xkikuch kitzij,</l>
-                <l><space quantity="11" unit="chars" />kina'oj;</l>
-
-                <pb xml:id="colop1999-025"/>
-
-                <l>ta xq'alaj,</l>
-                <l>ta xkik'uxlaj kib' xe' wi saq,</l>
-                <l>ta xq'alaj puch winaq;</l>
-                <l>ta xkina'ojij utz'uqik,</l>
-                <l><space quantity="14" unit="chars" />uwinaqirik che',</l>
-                <l><space quantity="25" unit="chars" />k'a'm,</l>
-                <l><space quantity="14" unit="chars" />utz'uquxik puch k'aslem</l>
-                <l><space quantity="30" unit="chars" />winaqirem</l>
-                <l>chi q'equmal,</l>
-                <l>chi aq'ab'al; rumal ri Uk'ux Kaj, Jun Raqan ub'i;</l>
-                <l><space quantity="23" unit="chars" />Kaqulja Jun Raqan, nab'e;</l>
-                <l><space quantity="23" unit="chars" />ukab' k'ut, Ch'ipi Kaqulja;</l>
-                <l><space quantity="23" unit="chars" />rox chik, Raxa Kaqulja;</l>
-                <l><space quantity="2" unit="chars" />chi e k'u oxib' ri', Uk'ux Kaj.</l>
-                <lb /> <!-- potential div marker -->
-                <l>Ta xe'ul kuk' ri Tepew,</l>
-                <l><space quantity="17" unit="chars" />Q'ukumatz,</l>
-                <l>ta xna'ojixik saq k'aslem:</l>
-                <l>-Jupa cha ta chawaxoq,</l>
-                <l><space quantity="10" unit="chars" />ta saqiroq puch?</l>
-                <l>Apachinaq tzuqul,</l>
-                <l><space quantity="10" unit="chars" />k'ool?</l>
-                <l>Ta chuxoq!</l>
-                <l>Kixnojin taj:</l>
-                <l>Are ri ja' chel taj!,</l>
-                <l><space quantity="11" unit="chars" />chi jama' taj!</l>
-                <l>Chiwinaqir wa ulew,</l>
-                <l><space quantity="14" unit="chars" />ulaqel ta k'u rib'</l>
-                <l>Ch'ata k'ut.</l>
-                <l>Ta chawaxoq,</l>
-                <l>ta saqiroq kaj,</l>
-                <l><space quantity="11" unit="chars" />ulew!</l>
-                <l>Mata k'ut uq'ijilab'al,</l>
-                <l><space quantity="10" unit="chars" />uq'ala'ib'al ri qatz'aq</l>
-                <l><space quantity="23" unit="chars" />ri qab'it.</l>
-                <l>Ta winaqiroq: winaq tz'aq,</l>
-                <l><space quantity="14" unit="chars" />winaq b'it! Xecha' k'ut.</l>
-                <lb /> <!-- potential div marker -->
-
-                <note n="6" place="margin" type="Colop">El texto dice saqiro en vez de
-                saqiroq. La omision de la q final parece un error de copia en virtud
-                de que sintacticamente la clausula es imperativa. Esto se corroborra,
-                ademas, unas lineas mas abajo donde vuelve a repetirse la misma
-                formula verbal: <hi rend="bold">ta chawaxoq, ta saqiroq...</hi>
-                </note>
-
-                <note n="7" place="margin" type="Colop">El texto dice <hi rend="bold">v calaibal</hi>.
-                Chavez lo transcribe como <hi rend="bold">u kalibal</hi>, 'lugar de contemplacion';
-                Edmonson como <hi rend="bold">U q'alajib'a'l</hi>, 'glorificacion' y Tedlock como
-                <hi rend="bold">uq'alaib'al</hi>, 'proclamacion'. En cualquiera de los casos, se hace
-                referencia a un lugar de adoracion o admiracion. El termino tiene relacion con 
-                <hi rend="bold">q'alib'al</hi>, que quiere decir 'trono, asiento principal, espaldar
-                de caciques' (Ximenez, Coto)
-                </note>
-
+                <lg xml:id='lg1.02' type='seccion'>
+                    <l><seg rend='caps' type='section-header'>ARE UTZIJOXIK WA'E</seg></l>
+                    <l>k'akatz'ininoq,</l>
+                    <l>k'akachamamoq,</l>
+                    <l><space quantity="3" unit="chars" />katz'inonik,</l>
+                    <l>k'akasilanik,</l>
+                    <l>k'akalolinik,</l>
+                    <l><space quantity="3" unit="chars" />katolona puch upa kaj.</l>
+                    <lb />
+                    <l>Wa'e k'ute nab'e tzij,</l>
+                    <l><space quantity="11" unit="chars" />nab'e uchan:</l>
+                    <l>maja' b'i oq</l>
+                    <l><space quantity="6" unit="chars" />jun winaq,</l>
+                    <l><space quantity="6" unit="chars" />jun chikop,</l>
+                    <l><space quantity="6" unit="chars" />tz'ikin,</l>
+                    <l><space quantity="6" unit="chars" />kar,</l>
+                    <l><space quantity="6" unit="chars" />tap,</l>
+                    <l><space quantity="6" unit="chars" />che',</l>
+                    <l><space quantity="6" unit="chars" />ab'aj,</l>
+                    <l><space quantity="6" unit="chars" />jul,</l>
+                    <l><space quantity="6" unit="chars" />siwan,</l>
+                    <l><space quantity="6" unit="chars" />k'im,</l>
+                    <l><space quantity="6" unit="chars" />k'ichelaj,</l>
+                    <l>xa utukel kaj k'olik.</l>
+                    <l>Mawi<ref target='n002'><hi rend='superscription'>2</hi></ref> q'alaj uwach ulew,</l>
+                    <note xml:id='n002' place="right"><seg type='note-symbol'><hi rend='superscription'>2</hi></seg>Quiere decir no
+                    Es equivalente a <hi rend="bold">maja'</hi></note>
+                    <l>xa utukel remanik palo</l>
+                    <l><space quantity="12" unit="chars" />upa kaj, ronojel.</l>
+                    <l>Maja' b'i naki la' kamolob'ik,</l>
+                    <l><space quantity="19" unit="chars" />k'akotzob'ik,</l>
+                    <l><space quantity="19" unit="chars" />jun ta kasilob'ik,</l>                    
+                    <pb xml:id="colop1999-024"/>
+                    <l>kumal kab'an taj,</l>
+                    <l>k'akotz kab'an taj pa kaj:</l>
+                    <l>xa ma k'o wi naki la' k'olik yakalik,</l>
+                    <l>xa remanik ja',</l>
+                    <l>xa li'anik palo,</l>
+                    <l>xa utukel remanik,</l>
+                    <l>xa ma k'o wi naki la' lo k'olik;</l>
+                    <l>xa kachamanik,</l>
+                    <l><space quantity="3" unit="chars" />katz'ininik chi q'equ'm,</l>
+                    <l><space quantity="15" unit="chars" />chi aq'ab'.</l>
+                    <lb />
+                    <l>Xa utukel ri Tz'aqol,</l>
+                    <l><space quantity="13" unit="chars" />B'itol,</l>
+                    <l><space quantity="13" unit="chars" />Tepew,</l>
+                    <l><space quantity="13" unit="chars" />Q'ukumatz,</l>
+                    <l><space quantity="13" unit="chars" />e Alom,</l>
+                    <l><space quantity="13" unit="chars" />e K'ajolom k'o pa ja'</l>
+                    <l><space quantity="13" unit="chars" />saqtetoj e k'o wi.</l>
+                    <l>E muqutal pa q'uq',</l>
+                    <l><space quantity="10" unit="chars" />pa raxon;</l>
+                    <l>are ub'inam wi ri Q'ukumatz.</l>
+                    <l>E nimaq etamanel,</l>
+                    <l>e nimaq ajna'oj chi kik'oje'ik.<ref target='n003'><hi rend='superscription'>3</hi></ref></l>
+                    <note xml:id="n003" place="left"><seg type='note-symbol'><hi rend='superscription'>3</hi></seg>Literalmente 'su estado' o su esencia
+                    Se deriva del verb <hi rend='bold'>k'oje'</hi>, 'estar' (Basseta).</note>
+                    <l>K'eje<ref target='n004'><hi rend='superscription'>4</hi></ref> k'ut xax k'o wi ri kaj</l>
+                    <note xml:id="n004" place="left"><seg type='note-symbol'><hi rend='superscription'>4</hi></seg>El texto dice <hi rend='bold'>quehe</hi>, que 
+                    se transcribe <hi rend='bold'>k'ehe</hi> y cuya variante dialectal es <hi rend='bold'>k'aje'</hi>, 'así pues, como, de esta manera'.
+                    Es la forma antigua del adverbio <hi rend='bold'>je</hi> (Ximénez, Basseta).</note>
+                    <l>k'o wi nay puch<ref target='n005'><hi rend='superscription'>5</hi></ref> Uk'ux Kaj,</l>
+                    <note xml:id="n005" place="left"><seg type='note-symbol'><hi rend='superscription'>5</hi></seg>'Y también.' <hi rend='bold'>Nay</hi>,
+                    'también'; <hi rend='bold'>puch</hi>, 'y'.</note>
+                    <l>are' ub'i' ri kab'awil. Chuchaxik.</l>
+                    <l>Ta xpe k'ut utzij waral,</l>
+                    <l>xul kuk' ri Tepew,</l>
+                    <l><space quantity="12" unit="chars" />Q'ukumatz waral chi q'equmal</l>
+                    <l><space quantity="28" unit="chars" />chi aq'ab'al;</l>
+                    <l>xch'aw ruk' ri Tepew,</l>
+                    <l><space quantity="15" unit="chars" />Q'ukumatz.</l>
+                    <l>Xecha' k'ut:</l>
+                    <l>ta xena'ojinik,</l>
+                    <l>ta xeb'isonik,</l>
+                    <l><space quantity="3" unit="chars" />xeriqo kib',</l>
+                    <l><space quantity="3" unit="chars" />xkikuch kitzij,</l>
+                    <l><space quantity="11" unit="chars" />kina'oj;</l>
+                    <pb xml:id="colop1999-025"/>
+                    <l>ta xq'alaj,</l>
+                    <l>ta xkik'uxlaj kib' xe' wi saq,</l>
+                    <l>ta xq'alaj puch winaq;</l>
+                    <l>ta xkina'ojij utz'uqik,</l>
+                    <l><space quantity="14" unit="chars" />uwinaqirik che',</l>
+                    <l><space quantity="25" unit="chars" />k'a'm,</l>
+                    <l><space quantity="14" unit="chars" />utz'uquxik puch k'aslem</l>
+                    <l><space quantity="30" unit="chars" />winaqirem</l>
+                    <l>chi q'equmal,</l>
+                    <l>chi aq'ab'al; rumal ri Uk'ux Kaj, Jun Raqan ub'i;</l>
+                    <l><space quantity="23" unit="chars" />Kaqulja Jun Raqan, nab'e;</l>
+                    <l><space quantity="23" unit="chars" />ukab' k'ut, Ch'ipi Kaqulja;</l>
+                    <l><space quantity="23" unit="chars" />rox chik, Raxa Kaqulja;</l>
+                    <l><space quantity="2" unit="chars" />chi e k'u oxib' ri', Uk'ux Kaj.</l>
+                    <lb />
+                    <l>Ta xe'ul kuk' ri Tepew,</l>
+                    <l><space quantity="17" unit="chars" />Q'ukumatz,</l>
+                    <l>ta xna'ojixik saq k'aslem:</l>
+                    <l>-Jupa cha ta chawaxoq,</l>
+                    <l><space quantity="10" unit="chars" />ta saqiroq puch?<ref target='n006'><hi rend='superscription'>6</hi></ref></l>
+                    <note xml:id="n006" place="right"><seg type='note-symbol'><hi rend='superscription'>6</hi></seg>El texto 
+                    dice <hi rend='bold'>saqiro</hi> en vez de saqiroq. La omisión de la q final parece un error de copia en virtud
+                    de que sintácticamente la cláusula es imperativa. Esto se corroborra,
+                    además, unas líneas más abajo donde vuelve a repetirse la misma
+                    fórmula verbal: <hi rend="bold">ta chawaxoq, ta saqiroq</hi>...
+                    </note>
+                    <l>Apachinaq tzuqul,</l>
+                    <l><space quantity="10" unit="chars" />k'ool?</l>
+                    <l>Ta chuxoq!</l>
+                    <l>Kixnojin taj:</l>
+                    <l>Are ri ja' chel taj!,</l>
+                    <l><space quantity="11" unit="chars" />chi jama' taj!</l>
+                    <l>Chiwinaqir wa ulew,</l>
+                    <l><space quantity="14" unit="chars" />ulaqel ta k'u rib'</l>
+                    <l>Ch'ata k'ut.</l>
+                    <l>Ta chawaxoq,</l>
+                    <l>ta saqiroq kaj,</l>
+                    <l><space quantity="11" unit="chars" />ulew!</l>
+                    <l>Mata k'ut uq'ijilab'al,</l>
+                    <l><space quantity="10" unit="chars" />uq'ala'ib'al<ref target='n007'><hi rend='superscription'>7</hi></ref> ri qatz'aq</l>
+                    <note xml:id="n007" place="right">El texto dice <hi rend="bold">v calaibal</hi>.
+                    Chavez lo transcribe como <hi rend="bold">u kalibal</hi>, 'lugar de contemplación';
+                    Edmonson como <hi rend="bold">U q'alajib'a'l</hi>, 'glorificación' y Tedlock como
+                    <hi rend="bold">uq'alaib'al</hi>, 'proclamación'. En cualquiera de los casos, se hace
+                    referencia a un lugar de adoración o admiración. El término tiene relación con 
+                    <hi rend="bold">q'alib'al</hi>, que quiere decir 'trono, asiento principal, espaldar
+                    de caciques' (Ximénez, Coto).
+                    </note>
+                    <l><space quantity="23" unit="chars" />ri qab'it.</l>
+                    <l>Ta winaqiroq: winaq tz'aq,</l>
+                    <l><space quantity="14" unit="chars" />winaq b'it! Xecha' k'ut.</l>
+                </lg>
                 <pb xml:id="colop1999-026"/>
                 <l>TA XWINAQIR K'U RI ULEW KUMAL</l>
                 <lb /> <!-- potential div marker -->
