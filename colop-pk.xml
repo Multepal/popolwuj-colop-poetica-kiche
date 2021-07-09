@@ -412,7 +412,7 @@
                     resumptivo wi. EI adverbio waral de la linea 2 ha sido omitida de la
                     linea 3, sin que por esto cambie de significado ese verso. De hecho, en
                     la poesia maya hay una tendencia fuerte a omitir el modificador del
-                    segundo verso paralelo. En la linea 3, tambien, la frase sustantival
+                    segundo verso paralelo. En la linea 3, tambien, la frase sustantival
                     antigua palabra hace eco a la linea 1 y une a ambas, ademas de 
                     reiterar la importancia y significado de esa frase.</p>
                 <pb xml:id="colop1999-016" />
@@ -622,105 +622,100 @@
         </front>
         <body>
             <div type="part">
-                <pb xml:id="colop1999-021" />
                 <head>NAB'E</head>
-                <lb /> <!-- potential div marker -->
-                <l>ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'</l>
-                <lb /> <!-- potential div marker -->
-                <l>Waral xchiqatz'ib'aj wi,</l>
-                <l><space quantity="6" unit="chars" />xchiqatikib'a' wi ojer tzij</l>
-                <l>utikarib'al,</l>
-                <l>uxe'nab'al puch ronojel xb'an pa tinamit K'iche'</l>
-                <l><space quantity="33" unit="chars" />ramaq' K'iche' winaq.</l>
-                <l>Are k'ut xchiqak'am wi:</l>
-                <l>uk'utunisaxik,</l>
-                <l>uq'alajob'isaxik,</l>
-                <l>utzijoxik puch</l>
-                <l>ewaxib'al,</l>
-                <l>saqirib'al rumal Tz'aqol,</l>
-                <l><space quantity="17" unit="chars" />B'itol,</l>
-                <l><space quantity="17" unit="chars" />Alom,</l>
-                <l><space quantity="17" unit="chars" />K'ajolom kib'i'.</l>
-                <l><space quantity="17" unit="chars" />Junajpu Wuch',</l>
-                <l><space quantity="17" unit="chars" />Junajpu Utiw,</l>
-                <l><space quantity="17" unit="chars" />Saqinim Aq</l>
-                <l><space quantity="25" unit="chars" />Sis</l>
-                <l><space quantity="17" unit="chars" />Tepew,</l>
-                <l><space quantity="17" unit="chars" />Q'ukumatz,</l>
-                <l><space quantity="17" unit="chars" />Uk'ux Cho,</l>
-                <l><space quantity="17" unit="chars" />Uk'ux Palo,</l>
-                <l><space quantity="17" unit="chars" />Ajraxa Laq,</l>
-                <l><space quantity="17" unit="chars" />Ajraxa Tzel. Chucha'xik,</l>
-                <l><space quantity="30" unit="chars" />rachb'ixik,</l>
-                <l><space quantity="30" unit="chars" />rachtzijoxik ri Iyom,</l>
-                <l><space quantity="46" unit="chars" />Mamom,</l>
-                <l><space quantity="46" unit="chars" />Xpiyakok,</l>
-                <l><space quantity="46" unit="chars" />Xmukane, ub'i'.</l>
-                <pb xml:id="colop1999-022" />
-                <l><space quantity="46" unit="chars" />Matzanel,</l>
-                <l><space quantity="46" unit="chars" />Chuqenel,</l>
-                <l><space quantity="46" unit="chars" />Kamul Iyom,</l>
-                <l><space quantity="46" unit="chars" />Kamul Mamom.</l>
-                <l><space quantity="46" unit="chars" />Chucha'xik pa K'iche' tzij.</l>
-                <l><space quantity="49" unit="chars" /></l>
-                <!-- slight misalignment, could be because Colop didn't want text to run over -->
-                <!-- With some inspiration from https://wwp.northeastern.edu/research/publications/guide/html/referencing_notes.html,
-                I believe it might be a good idea to store notes elsewhere. Especially with a poetic text, including the notes
-                along with the lines seems like it will break the flow of the text. -->
-                <l>Ta xkitzijoj ronojel</l>
-                <l>ruk' xkib'an chik</l>
-                <l>chi saqil k'olem,</l>
-                <l><space quantity="4" unit="chars" />saqil tzij.</l>
-                <l>Wa'e xchiqatz'ib'aj chi upam chik</l>
-                <l><space quantity="24" unit="chars" />uch'ab'al Dias,</l>
-                <l><space quantity="24" unit="chars" />pa christianoil chik.</l>
-                <l>xchiqelesaj rumal maja b'i chik ilb'al re Popa Wuj,</l>
-                <l><space quantity="32" unit="chars" />ilb'al saq petenaq ch'aqa palo</l>
-                <l><space quantity="39" unit="chars" />utzijoxik qamujib'al,</l>
-                <l><space quantity="32" unit="chars" />ilb'al saq k'aslem'; chucha'xik.</l>
-                <l>K'o nab'e wujil,</l>
-                <l>ojer tzib'am puch,</l>
-                <l>xa ewal uwach ilol re,</l>
-                <l><space quantity="14" unit="chars" />b'isol re.</l>
-                <l>Nim upe'oxik,</l>
-                <l>utzijoxik puch,</l>
-                <l>ta chi k'is tz'uq ronojel kaj,</l>
-                <l><space quantity="26" unit="chars" />ulew:</l>
-                <l>ukaj tz'uquxik,</l>
-                <l>ukaj xukutaxik,</l>
-                <l><space quantity="5" unit="chars" />retaxik;</l>
-                <l>ukaj che'xik,</l>
-                <l>umej k'a'maxik,</l>
-                <l>uyuq k'a'maxik upa kaj,</l>
-                <l><space quantity="15" unit="chars" />upa ulew;</l>
-                <l>kaj tz'uq,</l>
-                <l>kaj xukut, chucha'xik rumal ri Tz'aqol,</l>
-                <l><space quantity="31" unit="chars" />B'itol;</l>
-                <l>Uchuch,</l>
-                <l>Uqajaw k'aslem,</l>
-                <l><space quantity="7" unit="chars" />Winaqirem:</l>
-                <l>Ab'anel,</l>
-                <l>K'uxlanel;</l>
-
-                <note id="n1" place="left"><seg type="note-symbol"><sup>1</sup></seg>Aqui se identifica el nombre del libro como Popo Wuj y en la parte final
-                como Popol Wuj. En el texto tambien encontramos la palabra popol en otras frases, como
-                en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la epoca
-                se encuentran registrados los terminos popol, popol ech, popol ja, popol tzij.
-                Por esta razon, es plausible creer que en la primera identificacion del libro hubo 
-                un error y se escribio Popo Wuj en lugar del Popol Wuj.
-                </note>
-
-                <pb xml:id="colop1999-023" />
-
-                <l>Alay rech,</l>
-                <l>K'uxlay rech saqil</l>
-                <l><space quantity="13" unit="chars" />amaqil;</l>
-                <l><space quantity="13" unit="chars" />saqil al,</l>
-                <l><space quantity="13" unit="chars" />saqil k'ajol;</l>
-                <l>Ajb'is,</l>
-                <l>Ajna'oj chi rech ronojel a ta k'ol wi kaj-ulew,</l>
-                <l><space quantity="38" unit="chars" />cho-palo.</l>
-                <lb /> <!-- potential div marker -->
+                <lg n='1' xml:id='lg01' type='seccion'>
+                    <pb xml:id="colop1999-021" />
+                    <l><seg rend='caps' type='section-header'>ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'</seg></l>
+                    <l>Waral xchiqatz'ib'aj wi,</l>
+                    <l><space quantity="6" unit="chars" />xchiqatikib'a' wi ojer tzij</l>
+                    <l>utikarib'al,</l>
+                    <l>uxe'nab'al puch ronojel xb'an pa tinamit K'iche'</l>
+                    <l><space quantity="33" unit="chars" />ramaq' K'iche' winaq.</l>
+                    <l>Are k'ut xchiqak'am wi:</l>
+                    <l>uk'utunisaxik,</l>
+                    <l>uq'alajob'isaxik,</l>
+                    <l>utzijoxik puch</l>
+                    <l>ewaxib'al,</l>
+                    <l>saqirib'al rumal Tz'aqol,</l>
+                    <l><space quantity="17" unit="chars" />B'itol,</l>
+                    <l><space quantity="17" unit="chars" />Alom,</l>
+                    <l><space quantity="17" unit="chars" />K'ajolom kib'i'.</l>
+                    <l><space quantity="17" unit="chars" />Junajpu Wuch',</l>
+                    <l><space quantity="17" unit="chars" />Junajpu Utiw,</l>
+                    <l><space quantity="17" unit="chars" />Saqinim Aq</l>
+                    <l><space quantity="25" unit="chars" />Sis</l>
+                    <l><space quantity="17" unit="chars" />Tepew,</l>
+                    <l><space quantity="17" unit="chars" />Q'ukumatz,</l>
+                    <l><space quantity="17" unit="chars" />Uk'ux Cho,</l>
+                    <l><space quantity="17" unit="chars" />Uk'ux Palo,</l>
+                    <l><space quantity="17" unit="chars" />Ajraxa Laq,</l>
+                    <l><space quantity="17" unit="chars" />Ajraxa Tzel. Chucha'xik,</l>
+                    <l><space quantity="30" unit="chars" />rachb'ixik,</l>
+                    <l><space quantity="30" unit="chars" />rachtzijoxik ri Iyom,</l>
+                    <l><space quantity="46" unit="chars" />Mamom,</l>
+                    <l><space quantity="46" unit="chars" />Xpiyakok,</l>
+                    <l><space quantity="46" unit="chars" />Xmukane, ub'i'.</l>
+                    <pb xml:id="colop1999-022" />
+                    <l><space quantity="46" unit="chars" />Matzanel,</l>
+                    <l><space quantity="46" unit="chars" />Chuqenel,</l>
+                    <l><space quantity="46" unit="chars" />Kamul Iyom,</l>
+                    <l><space quantity="46" unit="chars" />Kamul Mamom.</l>
+                    <l><space quantity="46" unit="chars" />Chucha'xik pa K'iche' tzij.</l>
+                    <l><space quantity="49" unit="chars" /></l>
+                    <!-- slight misalignment, could be because Colop didn't want text to run over -->
+                    <!-- With some inspiration from https://wwp.northeastern.edu/research/publications/guide/html/referencing_notes.html,
+                    I believe it might be a good idea to store notes elsewhere. Especially with a poetic text, including the notes
+                    along with the lines seems like it will break the flow of the text. -->
+                    <l>Ta xkitzijoj ronojel</l>
+                    <l>ruk' xkib'an chik</l>
+                    <l>chi saqil k'olem,</l>
+                    <l><space quantity="4" unit="chars" />saqil tzij.</l>
+                    <l>Wa'e xchiqatz'ib'aj chi upam chik</l>
+                    <l><space quantity="24" unit="chars" />uch'ab'al Dios,</l>
+                    <l><space quantity="24" unit="chars" />pa christianoil chik.</l>
+                    <l>xchiqelesaj rumal maja b'i chik ilb'al re Popo Wuj<ref target='n001'><hi rend='superscription'>1</hi></ref>,</l>
+                    <note xml:id='n001' place='left'><seg type='note-symbol'><hi rend='superscription'>1</hi></seg>Aquí se identifica el nombre del libro 
+                    como Popo Wuj y en la parte final como Popol Wuj. En el texto también encontramos la palabra popol en otras frases, como
+                    en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la época
+                    se encuentran registrados los términos popol, popol ech, popol ja, popol tzij.
+                    Por esta razón, es plausible creer que en la primera identificación del libro hubo 
+                    un error y se escribió Popo Wuj en lugar del Popol Wuj.</note>
+                    <l><space quantity="32" unit="chars" />ilb'al saq petenaq ch'aqa palo</l>
+                    <l><space quantity="39" unit="chars" />utzijoxik qamujib'al,</l>
+                    <l><space quantity="32" unit="chars" />ilb'al saq k'aslem'; chucha'xik.</l>
+                    <l>K'o nab'e wujil,</l>
+                    <l>ojer tzib'am puch,</l>
+                    <l>xa ewal uwach ilol re,</l>
+                    <l><space quantity="14" unit="chars" />b'isol re.</l>
+                    <l>Nim upe'oxik,</l>
+                    <l>utzijoxik puch,</l>
+                    <l>ta chi k'is tz'uq ronojel kaj,</l>
+                    <l><space quantity="26" unit="chars" />ulew:</l>
+                    <l>ukaj tz'uquxik,</l>
+                    <l>ukaj xukutaxik,</l>
+                    <l><space quantity="5" unit="chars" />retaxik;</l>
+                    <l>ukaj che'xik,</l>
+                    <l>umej k'a'maxik,</l>
+                    <l>uyuq k'a'maxik upa kaj,</l>
+                    <l><space quantity="15" unit="chars" />upa ulew;</l>
+                    <l>kaj tz'uq,</l>
+                    <l>kaj xukut, chucha'xik rumal ri Tz'aqol,</l>
+                    <l><space quantity="31" unit="chars" />B'itol;</l>
+                    <l>Uchuch,</l>
+                    <l>Uqajaw k'aslem,</l>
+                    <l><space quantity="7" unit="chars" />Winaqirem:</l>
+                    <l>Ab'anel,</l>
+                    <l>K'uxlanel;</l>
+                    <pb xml:id="colop1999-023" />
+                    <l>Alay rech,</l>
+                    <l>K'uxlay rech saqil</l>
+                    <l><space quantity="13" unit="chars" />amaqil;</l>
+                    <l><space quantity="13" unit="chars" />saqil al,</l>
+                    <l><space quantity="13" unit="chars" />saqil k'ajol;</l>
+                    <l>Ajb'is,</l>
+                    <l>Ajna'oj chi rech ronojel a ta k'ol wi kaj-ulew,</l>
+                    <l><space quantity="38" unit="chars" />cho-palo.</l>
+                </lg>
                 <l>ARE UTZIJOXIK WA'E</l>
                 <lb /> <!-- potential div marker -->
                 <l>k'akatz'ininoq,</l>
