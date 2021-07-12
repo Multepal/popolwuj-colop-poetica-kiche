@@ -954,7 +954,7 @@
                     <l><space quantity="44" unit="chars" />K'ajolom;</l>
                     <l>xutzininaq chik ronojel ri kej,</l>
                     <l><space quantity="27" unit="chars" />tz'ikin.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xe'uchax chi k'ut ri kej,</l>
                     <l><space quantity="24" unit="chars" />tz'ikin; rumal Tz'aqol,</l>
                     <l><space quantity="39" unit="chars" />B'itol,</l>
@@ -965,7 +965,10 @@
                     <l>mixyonolikinik,</l>
                     <l>mixsik'inik!</l>
                     <l>Kixch'awajetaj chi jujunal,</l>
-                    <l><space quantity="15" unit="chars" />chu jutaq ch'ob'il,</l>
+                    <l><space quantity="15" unit="chars" />chu jutaq ch'ob'il<ref target='n013'><hi rend='superscription'>13</hi></ref>,</l>
+                    <note xml:id="n013" place="right"><seg type='note-symbol'><hi rend='superscription'>13</hi></seg><hi rend="bold">Ch'ob'il</hi> quiere
+                    decir 'especie' o 'grupo'. Se deriva de <hi rend="bold">ch'ob'</hi>, 'orden',
+                    <hi rend="bold">ch'ob'o</hi>, 'ordenación' (Basseta).</note>
                     <l><space quantity="15" unit="chars" />chi jutaq molajil!</l>
                     <l>Xe'ucha'xik ri kej,</l>
                     <l><space quantity="15" unit="chars" />tz'ikin,</l>
@@ -987,22 +990,19 @@
                     <l><space quantity="3" unit="chars" />K'ajolom.</l>
                     <l><space quantity="3" unit="chars" />Kixch'awoq,</l>
                     <l><space quantity="3" unit="chars" />Kojiq'ijila'! Xe'ucha'xik.</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="13" place="margin" type="Colop"> <hi rend="bold">Ch'ob'il</hi> quiere
-                    decir 'especie' o 'grupo'. Se deriva de <hi rend="bold">ch'ob'</hi>, 'orden',
-                    <hi rend="bold">ch'ob'o</hi>, 'ordenacion' (Basseta).
-                    </note>
-
+                    <note resp='editor'>How should we encode these italics? It seems like dialogue-embedding (dialogue of another dialogue)</note>
+                    <lb />
                     <pb xml:id="colop1999-029"/>
-
                     <l>Ma k'u xutzinik</l>
                     <l><space quantity="7" unit="chars" />xech'awik k'eje ta ri winaq.</l>
                     <l>Xa kewachelajik,</l>
                     <l>xa kek'aralajik,</l>
                     <l>xa kewojonik;</l>
                     <l>mawi xwachinik uwach kich'ab'al.</l>
-                    <l>Jalajoj xkoq'ib'ej chi kijujunal.</l>
+                    <l>Jalajoj<ref target='n014'><hi rend='superscription'>14</hi></ref> xkoq'ib'ej chi kijujunal.</l>
+                    <note xml:id="n014" place="right"><seg type='note-symbol'><hi rend='superscription'>14</hi></seg><hi rend="bold">Jalajoj</hi>,
+                    'diferente'; viene de la raíz verbal <hi rend="bold">-jalo</hi> 
+                    'cambiar/variar'; <hi rend="bold">jalanik</hi> 'diferencia, desigualdad' (Basseta).</note>
                     <l>Ta xkita ri Tz'aqol,</l>
                     <l><space quantity="12" unit="chars" />B'itol,</l>
                     <l>mawi mixutzinik,</l>
@@ -1021,7 +1021,9 @@
                     <l><space quantity="14" unit="chars" />ik'uxun;</l>
                     <l><space quantity="14" unit="chars" />iwarab'al,</l>
                     <l><space quantity="14" unit="chars" />iyakalib'al;</l>
-                    <l>Ri wech wi mixe'uxik siwan,</l>
+                    <l>Ri wech<ref target='n015'><hi rend='superscription'>15</hi></ref> wi mixe'uxik siwan,</l>
+                    <note xml:id="n015" place="right"><seg type='note-symbol'><hi rend='superscription'>15</hi></seg>El texto tiene 
+                    <hi rend='bold'>xicech</hi>, por lo que debe ser <hi rend='bold'>rivech</hi>.</note>
                     <l><space quantity="11" unit="chars" />k'echelaj rumal mawi xutzin qaq'ijiloxik,</l>
                     <l><space quantity="27" unit="chars" />mawi ixsik'iy qe.</l>
                     <l>K'a k'o,</l>
@@ -1035,335 +1037,315 @@
                     <l>Ta xraj k'u kitij chik kiq'ij;</l>
                     <l><space quantity="3" unit="chars" />xraj kitijtob'ej chik,</l>
                     <l><space quantity="3" unit="chars" />xraj pu kinuk' chik q'ijilab'al.</l>
-
-                    <note n="14" place="margin" type="Colop"> <hi rend="bold">Jalajoj</hi>,
-                    'diferente'; viene de la raiz verbal <hi rend="bold">-jalo</hi> 
-                    'cambiar/variar'; <hi rend="bold">jalanik</hi> 'diferenciam desigualdad' (Basseta).
-                    </note>
-                    
                     <pb xml:id="colop1999-030"/>
-
                     <l>Xa ma xkita wi kich'ab'al chi kib'il kib'.</l>
                     <l>Xa ma xnawachir wi k'ut,</l>
                     <l>xa ma b'anataj wi puch.</l>
                     <l>K'eje k'ut xech'akataj wi kityo'jil.</l>
                     <l>Xkipatanij: xetiyik,</l>
                     <l><space quantity="12" unit="chars" />xekamisaxik ri chikop k'o waral chuwach ulew.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
-                <l>K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ,</l>
-                <l><space quantity="29" unit="chars" />WINAQ B'IT KUMAL Tz'aqol</l>
-                <l><space quantity="46" unit="chars" />B'itol;</l>
-                <l><space quantity="46" unit="chars" />Alom,</l>
-                <l><space quantity="46" unit="chars" />K'ajolom;</l>
-                <lb /> <!-- potential div marker -->
-                <l>-Xa k'u tija chik</l>
-                <l>mixyopij rawexik ,</l>
-                <l><space quantity="9" unit="chars" />usaqirik?</l>
-                <l>Qab'ana' tzuqul qe,</l>
-                <l><space quantity="9" unit="chars" />k'ool qe.</l>
-                <l>Ju pa cha ta kojsik'ixoq,</l>
-                <l><space quantity="10" unit="chars" />ta kojnab'ax puch chuwach ulew?</l>
-                <l>Mixqatijo chi rech ri nab'e qatz'aq,</l>
-                <l><space quantity="28" unit="chars" />qab'it.</l>
-                <l>Mawi mixutzinik qaq'ijiloxik,</l>
-                <l><space quantity="16" unit="chars" />qaq'alajixik puch kumal.</l>
-                <l>K'eje k'ut qatija wi ub'anik ajnim,</l>
-                <l><space quantity="29" unit="chars" />ajxob';</l>
-                <l><space quantity="29" unit="chars" />tzuqul,</l>
-                <l><space quantity="29" unit="chars" />k'ool! Xecha'.</l>
-                <l>Ta utz'aqik k'ut,</l>
-                <l><space quantity="3" unit="chars" />ub'anik puch ulew,</l>
-                <l><space quantity="16" unit="chars" />xoq'o'l utyo'jil xkib'ano.</l>
-                <l>Ma ku utz xkilo:</l>
-                <l>xa chi yojomanik,</l>
-                <l>xa tzub'ulik,</l>
-                <l>xa neb'elik,</l>
-                <l>xa lub'anik,</l>
-                <l>xa wulanik,</l>
-                <l>xa pu chi'umarik.</l>
-                <l>Mawi chi k'olol ujolom,</l>
-                <l>xa jun b'enaq wi uwach,</l>
-                <l>xa ku'l uwach;</l>
+                <lg xml:id='lg1.04' type='seccion'>
+                    <l><seg rend='caps' type='section-header'>K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ,</seg></l>
+                    <l><space quantity="29" unit="chars" /><seg rend='caps' type='section-header'>WINAQ B'IT KUMAL</seg> Tz'aqol</l>
+                    <l><space quantity="46" unit="chars" />B'itol;</l>
+                    <l><space quantity="46" unit="chars" />Alom,</l>
+                    <l><space quantity="46" unit="chars" />K'ajolom;</l>
+                    <l>-Xa k'u tija chik</l>
+                    <l>mixyopij<ref target='n016'><hi rend='superscription'>16</hi></ref> rawexik<ref target='n017'><hi rend='superscription'>17</hi></ref>,</l>
+                    <note xml:id="n016" place="left"><seg type='note-symbol'><hi rend='superscription'>16</hi></seg><hi rend="bold">Yopij</hi>
+                    'acercarse' (Ximénez, Basseta).</note>
+                    <note xml:id="n017" place="left"><seg type='note-symbol'><hi rend='superscription'>17</hi></seg><hi rend="bold">Rawexik</hi>
+                    'sembrar/plantar'; viene de <hi rend="bold">awex</hi>, 'siembra'.
+                    El texto dice <hi rend="bold">ravaxic</hi>.</note>
+                    <l><space quantity="9" unit="chars" />usaqirik?</l>
+                    <l>Qab'ana' tzuqul qe,</l>
+                    <l><space quantity="9" unit="chars" />k'ool qe.</l>
+                    <l>Ju pa cha ta kojsik'ixoq,</l>
+                    <l><space quantity="10" unit="chars" />ta kojnab'ax puch chuwach ulew?</l>
+                    <l>Mixqatijo chi rech ri nab'e qatz'aq,</l>
+                    <l><space quantity="28" unit="chars" />qab'it.</l>
+                    <l>Mawi mixutzinik qaq'ijiloxik,</l>
+                    <l><space quantity="16" unit="chars" />qaq'alajixik puch kumal.</l>
+                    <l>K'eje k'ut qatija wi ub'anik ajnim,</l>
+                    <l><space quantity="29" unit="chars" />ajxob';</l>
+                    <l><space quantity="29" unit="chars" />tzuqul,</l>
+                    <l><space quantity="29" unit="chars" />k'ool! Xecha'.</l>
+                    <l>Ta utz'aqik k'ut,</l>
+                    <l><space quantity="3" unit="chars" />ub'anik puch ulew,</l>
+                    <l><space quantity="16" unit="chars" />xoq'o'l utyo'jil xkib'ano.</l>
+                    <l>Ma ku utz xkilo:</l>
+                    <l>xa chi yojomanik,</l>
+                    <l>xa tzub'ulik,</l>
+                    <l>xa neb'elik,</l>
+                    <l>xa lub'anik,</l>
+                    <l>xa wulanik,</l>
+                    <l>xa pu chi'umarik.</l>
+                    <l>Mawi chi k'olol ujolom,</l>
+                    <l>xa jun b'enaq wi uwach,</l>
+                    <l>xa ku'l uwach;</l>
+                    <pb xml:id="colop1999-031"/>
+                    <l>mawi chi mukun chi rij.</l>
+                    <l>Chi ch'aw nab'e maja b'i una'oj.</l>
+                    <l>xa jusuk' chi'umar pa ja'.</l>
+                    <l>-Mawi k'o-; xecha' chi k'u ri Ajtz'aq,</l>
+                    <l><space quantity="30" unit="chars" />Ajb'it.</l>
+                    <l>Qaw achlab'eq!<ref target='n018'><hi rend='superscription'>18</hi></ref></l>
+                    <note xml:id="n018" place="right"><seg type='note-symbol'><hi rend='superscription'>18</hi></seg>El texto dice
+                    <hi rend="bold">cauach labec</hi>; que equivale a
+                    'agorar'. La raíz verbal es <hi rend="bold">lab'</hi>- 'agüero, sueño' de la cual derivan
+                    <hi rend='bold'>lab'aj</hi>'agorar, guerrear'; <hi rend="bold">lab'al</hi> 'guerra'
+                    (Ximénez, Coto, Basseta). Basseta, incluso, proporciona
+                    una traducción de <hi rend="bold">lab'</hi> como 'fantasma'</note>
+                    <l>Ta chuxoq!<ref target='n019'><hi rend='superscription'>19</hi></ref></l>
+                    <note xml:id="n019" place="right"><seg type='note-symbol'><hi rend='superscription'>19</hi></seg>Esta fórmula que
+                    quiere decir 'Que así sea' o 'Que así se haga', confirma la
+                    interpretación relativa al concepto de presagio o agüero de
+                    la línea anterior.</note>
+                    <l>Xa lab'e mawi chib'inik,</l>
+                    <l><space quantity="9" unit="chars" />ma pu chipoq'otajik.</l>
+                    <l>Ta chuxoq!</l>
+                    <l>Xa una'oj chiri'! Xecha'.</l>
+                    <l>Ta xkiyoj k'ut,</l>
+                    <l><space quantity="3" unit="chars" />xkiyoq' chik ri kitz'aq,</l>
+                    <l><space quantity="19" unit="chars" />kib'it.</l>
+                    <l>Xecha' chi k'ut:</l>
+                    <l>-Jupa cha ki chiqab'ano?</l>
+                    <l>Chutzin ta wi,</l>
+                    <l>chinawachir ta wi</l>
+                    <l>q'ijiloy qech,</l>
+                    <l><space quantity="2" unit="chars" />siq'iy qech? Xecha' ta xkina'ojij chik:</l>
+                    <l>-Xa qab'ij chi ke Xpiyakok,</l>
+                    <l><space quantity="18" unit="chars" />Xmukane;</l>
+                    <l><space quantity="18" unit="chars" />Junajpu Wuch',</l>
+                    <l><space quantity="18" unit="chars" />Junajpu Utiw;</l>
+                    <l>kitija chik uq'ijixik,</l>
+                    <l><space quantity="12" unit="chars" />ub'itaxik-.</l>
+                    <l>Xe'uchan ki kib' Ajtz'aq,</l>
+                    <l><space quantity="17" unit="chars" />Ajb'it.</l>
+                    <l>Ta xkib'ij k'ut chi re Xpiyakok,</l>
+                    <l><space quantity="23" unit="chars" />Xmukane.</l>
+                </lg>
+                <lg xml:id='lg1.04' type='seccion'>
+                    <l>K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL,<ref target='n020'><hi rend='superscription'>20</hi></ref></l>
+                    <note xml:id="n020" place="right"><seg type='note-symbol'><hi rend='superscription'>20</hi></seg><hi rend="bold">Nik'wachinel</hi>,
+                    que 've lo distante' o que tiene capacidad para adivinar lo distante. Este facultad
+                    se atribuye a <hi rend="bold">Xpiyakok</hi> e <hi rend="bold">Xmukane</hi>. En otro
+                    contexto, encontramos el verbo <hi rend="bold">mukuj</hi> 'ver o mirar de lejos', como
+                    facultad de <hi rend="bold">Xmukane</hi>. En este sentido, es posible que la etimología
+                    de ese nombre sea "La que puede ver lo distante..."</note>
+                    <l>Rati't Q'ij,</l>
+                    <l>Rati't Saq, ke'ucha'xik kumal ri Tz'aqol,</l>
+                    <l><space quantity="33" unit="chars" />B'itol.</l>
+                    <l>Are kib'i' ri Xpiyakok,</l>
+                    <l><space quantity="14" unit="chars" />Xmukane.</l>
+                    <l>Xecha' k'u ri Juraqan ruk' Tepew,</l>
+                    <l><space quantity="27" unit="chars" />Q'ukumatz;</l>
 
-                <note n="16" place="margin" type="Colop"><hi rend="bold">Yopij</hi>
-                'acercarse' (Ximenez, Basseta).
-                </note>
+                    <pb xml:id="colop1999-032"/>
 
-                <note n="17" place="margin" type="Colop"><hi rend="bold">Rawexik</hi>
-                'sembrar/plantar'; viene de <hi rend="bold">awex</hi>, 'siembra'.
-                El texto dice <hi rend="bold">ravaxic</hi>
-                </note>
+                    <l>ta xkib'ij chi rech ajq'ij,</l>
+                    <l><space quantity="20" unit="chars" />ajb'it,</l>
+                    <l><space quantity="20" unit="chars" />e nik'wachinel:</l>
+                    <l>-Xa k'ulu</l>
+                    <l>xa pu churiqo che ta chik chiqawinaq-b'itoj,</l>
+                    <l><space quantity="26" unit="chars" />chiqawinaq-tz'aqoj ta chik tzuqul,</l>
+                    <l><space quantity="53" unit="chars" />k'ool,</l>
+                    <l>kojsik'ix taj,</l>
+                    <l>kojnab'ax taj puch.</l>
+                    <l>Katok ta k'ut pa tzij Iyom,</l>
+                    <l><space quantity="22" unit="chars" />Mamom;</l>
+                    <l><space quantity="22" unit="chars" />qati't</l>
+                    <l><space quantity="22" unit="chars" />qamam;</l>
+                    <l><space quantity="22" unit="chars" />Xpiyakok,</l>
+                    <l><space quantity="22" unit="chars" />Xmukane:</l>
+                    <l>cha taj ta chawaxoq,</l>
+                    <l><space quantity="8" unit="chars" />ta saqiroq:</l>
+                    <l>qasik'ixik,</l>
+                    <l>qatoq'exik,</l>
+                    <l>qanab'axik rumal winaq tz'aq,</l>
+                    <l><space quantity="17" unit="chars" />winaq b'it,</l>
+                    <l><space quantity="17" unit="chars" />winaq poy,</l>
+                    <l><space quantity="17" unit="chars" />winaq anom;</l>
+                    <l>cha ta chuxoq!</l>
+                    <l>Chik'utun ib'i' Junajpu Wuch',</l>
+                    <l><space quantity="16" unit="chars" />Junajpu Utiw;</l>
+                    <l><space quantity="16" unit="chars" />Kamul Alom,</l>
+                    <l><space quantity="16" unit="chars" />Kamul K'ajolom;</l>
+                    <l><space quantity="16" unit="chars" />Nim Aq,</l>
+                    <l><space quantity="16" unit="chars" />Nima Sis,</l>
+                    <l><space quantity="16" unit="chars" />Ajk'uwal,</l>
+                    <l><space quantity="16" unit="chars" />Ajyamanik,</l>
+                    <l><space quantity="16" unit="chars" />Ajch'ut,</l>
+                    <l><space quantity="16" unit="chars" />Ajtz'alam,</l>
+                    <l><space quantity="16" unit="chars" />Ajraxa laq,</l>
+                    <l><space quantity="16" unit="chars" />Ajraxa tzel,</l>
+                    <l><space quantity="16" unit="chars" />Ajq'ol,</l>
+                    <l><space quantity="16" unit="chars" />Ajtoltekat,</l>
+                    <l><space quantity="16" unit="chars" />Rati't Q'ij,</l>
+                    <l><space quantity="16" unit="chars" />Rati't Saq; kixucha'xik rumal qatz'aq,</l>
+                    <l><space quantity="46" unit="chars" />qab'it!</l>
 
-                <pb xml:id="colop1999-031"/>
+                    <note n="21" place="margin" type="Colop">El texto dice
+                    <hi rend="bold">xu culu</hi>; pero mas adelante encontramos
+                    la misma frase verbal como
+                    <hi rend="bold">xa ChuculuchuculuXaPu Churico</hi>. De aqui la
+                    transcripcion <hi rend="bold">xa k'ulu</hi>. El verbo 
+                    <hi rend="bold">k'ulu o k'uluj</hi> es 'encontrar'.
+                    Actualemente se dice <hi rend="bold">k'ulaj</hi>,
+                    'acompanar', termino que en diccionarios coloniales
+                    tiene el significado de 'juntar, aunar...'. En un sentido
+                    amplio, esos significados son semejantes, aunque contextuales.
+                    </note>
 
-                <l>mawi chi mukun chi rij.</l>
-                <l>Chi ch'aw nab'e maja b'i una'oj.</l>
-                <l>xa jusuk' chi'umar pa ja'.</l>
-                <l>-Mawi k'o-; xecha' chi k'u ri Ajtz'aq,</l>
-                <l><space quantity="30" unit="chars" />Ajb'it.</l>
-                <l>Qaw achlab'eq!</l>
-                <l>Ta chuxoq!</l>
-                <l>Xa lab'e mawi chib'inik,</l>
-                <l><space quantity="9" unit="chars" />ma pu chipoq'otajik.</l>
-                <l>Ta chuxoq!</l>
-                <l>Xa una'oj chiri'! Xecha'.</l>
-                <l>Ta xkiyoj k'ut,</l>
-                <l><space quantity="3" unit="chars" />xkiyoq' chik ri kitz'aq,</l>
-                <l><space quantity="19" unit="chars" />kib'it.</l>
-                <l>Xecha' chi k'ut:</l>
-                <l>-Jupa cha ki chiqab'ano?</l>
-                <l>Chutzin ta wi,</l>
-                <l>chinawachir ta wi</l>
-                <l>q'ijiloy qech,</l>
-                <l><space quantity="2" unit="chars" />siq'iy qech? Xecha' ta xkina'ojij chik:</l>
-                <l>-Xa qab'ij chi ke Xpiyakok,</l>
-                <l><space quantity="18" unit="chars" />Xmukane;</l>
-                <l><space quantity="18" unit="chars" />Junajpu Wuch',</l>
-                <l><space quantity="18" unit="chars" />Junajpu Utiw;</l>
-                <l>kitija chik uq'ijixik,</l>
-                <l><space quantity="12" unit="chars" />ub'itaxik-.</l>
-                <l>Xe'uchan ki kib' Ajtz'aq,</l>
-                <l><space quantity="17" unit="chars" />Ajb'it.</l>
-                <l>Ta xkib'ij k'ut chi re Xpiyakok,</l>
-                <l><space quantity="23" unit="chars" />Xmukane.</l>
-                <lb /> <!-- potential div marker -->
-                <l>K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL,</l>
-                <l>Rati't Q'ij,</l>
-                <l>Rati't Saq, ke'ucha'xik kumal ri Tz'aqol,</l>
-                <l><space quantity="33" unit="chars" />B'itol.</l>
-                <l>Are kib'i' ri Xpiyakok,</l>
-                <l><space quantity="14" unit="chars" />Xmukane.</l>
-                <l>Xecha' k'u ri Juraqan ruk' Tepew,</l>
-                <l><space quantity="27" unit="chars" />Q'ukumatz;</l>
+                    <note n="22" place="margin" type="Colop"><hi rend="bold">Taj</hi> o
+                    <hi rend="bold">ta</hi> es particula desiderativa (Basseta, Coto).
+                    </note>
 
-                <note n="18" place="margin" type="Colop"> El texto dice
-                <hi rend="bold">cauach labec</hi>; que equivale a
-                'agorar'. La raiz verbal es <hi rend="bold">lab'</hi>-
-                'aguero, guerrear'; <hi rend="bold">lab'al</hi> 'guerra
-                (Ximenez, Coto, Basseta). Basseta, incluso, proporciona
-                una traduccion de <hi rend="bold">lab'</hi> como
-                'fantasma'
-                </note>
+                    <note n="23" place="margin" type="Colop"> Este termino era usado
+                    para identificar una profesion 'artesano', y no necesariamente
+                    a un lugar de origen (Edmonson y otros traductores). Este
+                    significado, concuerda con el de la linea anterior y con la cual
+                    conforman un verso paralelo.
+                    </note>
 
-                <note n="19" place="margin" type="Colop">Esta formula que
-                quiere decir 'Que asi sea' o 'Que asi se haga', confirma la
-                interpretacion relativa al concepto de presagio o aguero de
-                la linea anterior.
-                </note>
+                    <pb xml:id="colop1999-033"/>
 
-                <note n="20" place="margin" type="Colop"><hi rend="bold">Nik'wachinel</hi>,
-                que 've lo distante' o que tiene capacidad para adivinar lo distante. Este facultad
-                se atribuye a <hi rend="bold">Xpiyakok</hi> e <hi rend="bold">Xmukane</hi>. En otro
-                contexto, encontramos el verbo <hi rend="bold">mukuj</hi> 'ver o mirar de lejos', como
-                facultad de <hi rend="bold">Xmukane</hi>. En este sentido, es posible que la etimologia
-                de ese nombre sea "La que puede ver lo distante..."
-                </note>
+                    <l>Chimala chi ixim,</l>
+                    <l><space quantity="8" unit="chars" />chi tz'ite':</l>
+                    <l>xa chib'anatajik,</l>
+                    <l>xa pu chel apanoq,</l>
+                    <l>chiq'ajaj,</l>
+                    <l>chik'ak'otaj puch uchi',</l>
+                    <l><space quantity="18" unit="chars" />uwach che'-. Xe'ucha'xik e ajq'ij.</l>
+                    <l>K'ate puch uqajik,</l>
+                    <l><space quantity="11" unit="chars" />uq'ijiloxik ri xmalik chi ixim,</l>
+                    <l><space quantity="33" unit="chars" />chi tz'ite':</l>
+                    <l>-Q'ij,</l>
+                    <l>b'it! Xecha' k'u ri jun ati't,</l>
+                    <l><space quantity="20" unit="chars" />jun mama' chi kech.</l>
+                    <l>Are ri mama' are ajtz'ite', Xpiyakok ub'i';</l>
+                    <l>are k'u ri ati't ajq'ij,</l>
+                    <l><space quantity="17" unit="chars" />ajb'it chi raqan, Xmukane ub'i'.</l>
+                    <l>Xecha' k'ut ta xkitikib'a' q'ij:</l>
+                    <l>-Xa chuk'ulu,</l>
+                    <l>xa pu churiqo;</l>
+                    <l>chab'ij,</l>
+                    <l>kuta qaxikin;</l>
+                    <l>kach'awik,</l>
+                    <l>katzijon taj.</l>
+                    <l>Xa chuk'ulu ri che' chajawaxik,</l>
+                    <l><space quantity="20" unit="chars" />chik'otox puch kumal Ajtz'aq,</l>
+                    <l><space quantity="41" unit="chars" />Ajb'it.</l>
+                    <l>We are tzuqul,</l>
+                    <l><space quantity="7" unit="chars" />k'ool;</l>
+                    <l>ta chawaxoq,</l>
+                    <l>ta saqiroq!</l>
+                    <l>at ixim,</l>
+                    <l>at tz'ite';</l>
+                    <l>at q'ij,</l>
+                    <l>at b'it katchokonik,</l>
+                    <l><space quantity="8" unit="chars" />kattaqen taj-. Xcha' chi re ixim,</l>
+                    <l><space quantity="36" unit="chars" />tz'ite',</l>
+                    <l><space quantity="36" unit="chars" />q'ij,</l>
+                    <l><space quantity="36" unit="chars" />b'it.</l>
+                    <l>-Katk'ix la uloq at Uk'ux Kaj,</l>
+                    <l>ma qajisaj uchi',</l>
+                    <l><space quantity="11" unit="chars" />uwach Tepew,</l>
+                    <l><space quantity="17" unit="chars" />Q'ukumatz-. Xecha' ta xkib'ij k'ut usuk'ulikil</l>
 
-                <pb xml:id="colop1999-032"/>
+                    <note n="24" place="margin" type="Colop">Viene de
+                    <hi rend="bold">suk'ulik</hi>'derecho, de verdad, ciertamenete'.
+                    </note>
 
-                <l>ta xkib'ij chi rech ajq'ij,</l>
-                <l><space quantity="20" unit="chars" />ajb'it,</l>
-                <l><space quantity="20" unit="chars" />e nik'wachinel:</l>
-                <l>-Xa k'ulu</l>
-                <l>xa pu churiqo che ta chik chiqawinaq-b'itoj,</l>
-                <l><space quantity="26" unit="chars" />chiqawinaq-tz'aqoj ta chik tzuqul,</l>
-                <l><space quantity="53" unit="chars" />k'ool,</l>
-                <l>kojsik'ix taj,</l>
-                <l>kojnab'ax taj puch.</l>
-                <l>Katok ta k'ut pa tzij Iyom,</l>
-                <l><space quantity="22" unit="chars" />Mamom;</l>
-                <l><space quantity="22" unit="chars" />qati't</l>
-                <l><space quantity="22" unit="chars" />qamam;</l>
-                <l><space quantity="22" unit="chars" />Xpiyakok,</l>
-                <l><space quantity="22" unit="chars" />Xmukane:</l>
-                <l>cha taj ta chawaxoq,</l>
-                <l><space quantity="8" unit="chars" />ta saqiroq:</l>
-                <l>qasik'ixik,</l>
-                <l>qatoq'exik,</l>
-                <l>qanab'axik rumal winaq tz'aq,</l>
-                <l><space quantity="17" unit="chars" />winaq b'it,</l>
-                <l><space quantity="17" unit="chars" />winaq poy,</l>
-                <l><space quantity="17" unit="chars" />winaq anom;</l>
-                <l>cha ta chuxoq!</l>
-                <l>Chik'utun ib'i' Junajpu Wuch',</l>
-                <l><space quantity="16" unit="chars" />Junajpu Utiw;</l>
-                <l><space quantity="16" unit="chars" />Kamul Alom,</l>
-                <l><space quantity="16" unit="chars" />Kamul K'ajolom;</l>
-                <l><space quantity="16" unit="chars" />Nim Aq,</l>
-                <l><space quantity="16" unit="chars" />Nima Sis,</l>
-                <l><space quantity="16" unit="chars" />Ajk'uwal,</l>
-                <l><space quantity="16" unit="chars" />Ajyamanik,</l>
-                <l><space quantity="16" unit="chars" />Ajch'ut,</l>
-                <l><space quantity="16" unit="chars" />Ajtz'alam,</l>
-                <l><space quantity="16" unit="chars" />Ajraxa laq,</l>
-                <l><space quantity="16" unit="chars" />Ajraxa tzel,</l>
-                <l><space quantity="16" unit="chars" />Ajq'ol,</l>
-                <l><space quantity="16" unit="chars" />Ajtoltekat,</l>
-                <l><space quantity="16" unit="chars" />Rati't Q'ij,</l>
-                <l><space quantity="16" unit="chars" />Rati't Saq; kixucha'xik rumal qatz'aq,</l>
-                <l><space quantity="46" unit="chars" />qab'it!</l>
+                    <pb xml:id="colop1999-034"/>
 
-                <note n="21" place="margin" type="Colop">El texto dice
-                <hi rend="bold">xu culu</hi>; pero mas adelante encontramos
-                la misma frase verbal como
-                <hi rend="bold">xa ChuculuchuculuXaPu Churico</hi>. De aqui la
-                transcripcion <hi rend="bold">xa k'ulu</hi>. El verbo 
-                <hi rend="bold">k'ulu o k'uluj</hi> es 'encontrar'.
-                Actualemente se dice <hi rend="bold">k'ulaj</hi>,
-                'acompanar', termino que en diccionarios coloniales
-                tiene el significado de 'juntar, aunar...'. En un sentido
-                amplio, esos significados son semejantes, aunque contextuales.
-                </note>
+                    <l>Utz are chuxik ri ipoy,</l>
+                    <l><space quantity="18" unit="chars" />ajam che' chich'awik,</l>
+                    <l><space quantity="28" unit="chars" />chitzijon b'a la chuwach ulew.</l>
+                    <l>Ta chuxoq! Xecha' k'ut.</l>
+                    <l>Ta xkib'ij jusuk' xb'anik poy,</l>
+                    <l><space quantity="26" unit="chars" />ajam che'.</l>
+                    <l>Xewinaq-wachinik,</l>
+                    <l>xewinaq-tzijonik puch;</l>
+                    <l>are' winaqil uwach ulew xe'uxik,</l>
+                    <l>xepoq'ik,</l>
+                    <l>xeme'alanik,</l>
+                    <l>xek'ajolanik ri poy,</l>
+                    <l><space quantity="16" unit="chars" />ajam che'.</l>
+                    <l>Ma k'u ja b'i kik'ux,</l>
+                    <l>ma pu ja b'i kina'oj;</l>
+                    <l>mawi na'tal kajtz'aq,</l>
+                    <l><space quantity="12" unit="chars" />kajb'it.</l>
+                    <l>Xa loq' xeb'inik,</l>
+                    <l><space quantity="8" unit="chars" />xechakanik.</l>
+                    <l>Mawi xkina'taj chik ri Uk'ux Kaj.</l>
+                    <l>K'eje k'ut xepaj chiri':</l>
+                    <l>xa utijtob'exik,</l>
+                    <l>xa pu uwab'ab'exik chi winaq.</l>
+                    <l>Kechaw nab'e;</l>
+                    <l>xa chaqi'j kiwach,</l>
+                    <l>mana sonol kaqan,</l>
+                    <l><space quantity="11" unit="chars" />kiq'ab';</l>
+                    <l>maja b'i kikik'el,</l>
+                    <l><space quantity="9" unit="chars" />kikomajil ,</l>
+                    <l>maja b'i kitiqowal,</l>
+                    <l><space quantity="9" unit="chars" />kikab'chijal.</l>
+                    <l>Chaqi'j kotz,</l>
+                    <l>k'oj kiwach.</l>
+                    <l>Kapichipoj kaqan,</l>
+                    <l><space quantity="11" unit="chars" />kiq'ab';</l>
+                    <l>Kayeyoj kityo'jil.</l>
+                    <l>K'eje k'ut mawi xena'w chi ri' chuwach Tz'aqol,</l>
+                    <l><space quantity="39" unit="chars" />B'itol,</l>
+                    <l><space quantity="39" unit="chars" />Alay Qech,</l>
+                    <l><space quantity="39" unit="chars" />K'uxla'y Qech.</l>
+                    <l>E nab'e tzatz chi winaq xe'uxik waral chuwach ulew.</l>
+                    <lb /> <!-- potential div marker -->
 
-                <note n="22" place="margin" type="Colop"><hi rend="bold">Taj</hi> o
-                <hi rend="bold">ta</hi> es particula desiderativa (Basseta, Coto).
-                </note>
+                    <note n="25" place="margin" type="Colop"><hi rend="bold">Ajam che'</hi>,
+                    'madera/palo labrado' (maniqui).
+                    </note>
 
-                <note n="23" place="margin" type="Colop"> Este termino era usado
-                para identificar una profesion 'artesano', y no necesariamente
-                a un lugar de origen (Edmonson y otros traductores). Este
-                significado, concuerda con el de la linea anterior y con la cual
-                conforman un verso paralelo.
-                </note>
+                    <note n="26" place="margin" type="Colop"> Viene de <hi rend="bold">Wab'a-</hi>,
+                    'presentar, demostrar, nombrar...' (Basseta, Ximenez). De aqui que la frase
+                    quiera decir 'solo fue una demostracion de gente', o como dice don Adrian I.
+                    Chavez (1978:9) 'fue remedo de gente'.
+                    </note>
 
-                <pb xml:id="colop1999-033"/>
+                    <note n="27" place="margin" type="Colop"><hi rend="bold">Sonol</hi>, 'consistente'
+                    (Basseta). Mana sonol <hi rend="bold">kaqan, kiq'ab'</hi>, 'sus piernas y sus brazos
+                    no tenian consistencia'. <hi rend="bold">Sonolik</hi>, 'desnudo'.
+                    </note>
 
-                <l>Chimala chi ixim,</l>
-                <l><space quantity="8" unit="chars" />chi tz'ite':</l>
-                <l>xa chib'anatajik,</l>
-                <l>xa pu chel apanoq,</l>
-                <l>chiq'ajaj,</l>
-                <l>chik'ak'otaj puch uchi',</l>
-                <l><space quantity="18" unit="chars" />uwach che'-. Xe'ucha'xik e ajq'ij.</l>
-                <l>K'ate puch uqajik,</l>
-                <l><space quantity="11" unit="chars" />uq'ijiloxik ri xmalik chi ixim,</l>
-                <l><space quantity="33" unit="chars" />chi tz'ite':</l>
-                <l>-Q'ij,</l>
-                <l>b'it! Xecha' k'u ri jun ati't,</l>
-                <l><space quantity="20" unit="chars" />jun mama' chi kech.</l>
-                <l>Are ri mama' are ajtz'ite', Xpiyakok ub'i';</l>
-                <l>are k'u ri ati't ajq'ij,</l>
-                <l><space quantity="17" unit="chars" />ajb'it chi raqan, Xmukane ub'i'.</l>
-                <l>Xecha' k'ut ta xkitikib'a' q'ij:</l>
-                <l>-Xa chuk'ulu,</l>
-                <l>xa pu churiqo;</l>
-                <l>chab'ij,</l>
-                <l>kuta qaxikin;</l>
-                <l>kach'awik,</l>
-                <l>katzijon taj.</l>
-                <l>Xa chuk'ulu ri che' chajawaxik,</l>
-                <l><space quantity="20" unit="chars" />chik'otox puch kumal Ajtz'aq,</l>
-                <l><space quantity="41" unit="chars" />Ajb'it.</l>
-                <l>We are tzuqul,</l>
-                <l><space quantity="7" unit="chars" />k'ool;</l>
-                <l>ta chawaxoq,</l>
-                <l>ta saqiroq!</l>
-                <l>at ixim,</l>
-                <l>at tz'ite';</l>
-                <l>at q'ij,</l>
-                <l>at b'it katchokonik,</l>
-                <l><space quantity="8" unit="chars" />kattaqen taj-. Xcha' chi re ixim,</l>
-                <l><space quantity="36" unit="chars" />tz'ite',</l>
-                <l><space quantity="36" unit="chars" />q'ij,</l>
-                <l><space quantity="36" unit="chars" />b'it.</l>
-                <l>-Katk'ix la uloq at Uk'ux Kaj,</l>
-                <l>ma qajisaj uchi',</l>
-                <l><space quantity="11" unit="chars" />uwach Tepew,</l>
-                <l><space quantity="17" unit="chars" />Q'ukumatz-. Xecha' ta xkib'ij k'ut usuk'ulikil</l>
+                    <note n="28" place="margin" type="Colop"><hi rend="bold">Komaj</hi> es sinonimo
+                    de <hi rend="bold">kik'</hi>, 'sangre' como <hi rend="bold">komajil</hi> es
+                    sinonimo <hi rend="bold">k'ik'el</hi>.
+                    En el diccionario de Basseta se dice que
+                    <hi rend="bold">komaj</hi> es 'menstruacion'.
+                    </note>
 
-                <note n="24" place="margin" type="Colop">Viene de
-                <hi rend="bold">suk'ulik</hi>'derecho, de verdad, ciertamenete'.
-                </note>
+                    <note n="29" place="margin" type="Colop">'El sudor', lo cual cuando es copioso
+                    como en una fiebre o calentura se usa <hi rend="bold">tz'ojp</hi>, raiz del
+                    verbo intransitivo <hi rend="bold">tz'ojpi'ajik</hi>, 'sudar' (Basseta, Ximenez).
+                    </note>
 
-                <pb xml:id="colop1999-034"/>
+                    <note n="30" place="margin" type="Colop">Resina de arbol o sebo
+                    de animal. En todo caso se esta haciendo referencia a fluidos
+                    equivalentes al sudor humano.
+                    </note>
 
-                <l>Utz are chuxik ri ipoy,</l>
-                <l><space quantity="18" unit="chars" />ajam che' chich'awik,</l>
-                <l><space quantity="28" unit="chars" />chitzijon b'a la chuwach ulew.</l>
-                <l>Ta chuxoq! Xecha' k'ut.</l>
-                <l>Ta xkib'ij jusuk' xb'anik poy,</l>
-                <l><space quantity="26" unit="chars" />ajam che'.</l>
-                <l>Xewinaq-wachinik,</l>
-                <l>xewinaq-tzijonik puch;</l>
-                <l>are' winaqil uwach ulew xe'uxik,</l>
-                <l>xepoq'ik,</l>
-                <l>xeme'alanik,</l>
-                <l>xek'ajolanik ri poy,</l>
-                <l><space quantity="16" unit="chars" />ajam che'.</l>
-                <l>Ma k'u ja b'i kik'ux,</l>
-                <l>ma pu ja b'i kina'oj;</l>
-                <l>mawi na'tal kajtz'aq,</l>
-                <l><space quantity="12" unit="chars" />kajb'it.</l>
-                <l>Xa loq' xeb'inik,</l>
-                <l><space quantity="8" unit="chars" />xechakanik.</l>
-                <l>Mawi xkina'taj chik ri Uk'ux Kaj.</l>
-                <l>K'eje k'ut xepaj chiri':</l>
-                <l>xa utijtob'exik,</l>
-                <l>xa pu uwab'ab'exik chi winaq.</l>
-                <l>Kechaw nab'e;</l>
-                <l>xa chaqi'j kiwach,</l>
-                <l>mana sonol kaqan,</l>
-                <l><space quantity="11" unit="chars" />kiq'ab';</l>
-                <l>maja b'i kikik'el,</l>
-                <l><space quantity="9" unit="chars" />kikomajil ,</l>
-                <l>maja b'i kitiqowal,</l>
-                <l><space quantity="9" unit="chars" />kikab'chijal.</l>
-                <l>Chaqi'j kotz,</l>
-                <l>k'oj kiwach.</l>
-                <l>Kapichipoj kaqan,</l>
-                <l><space quantity="11" unit="chars" />kiq'ab';</l>
-                <l>Kayeyoj kityo'jil.</l>
-                <l>K'eje k'ut mawi xena'w chi ri' chuwach Tz'aqol,</l>
-                <l><space quantity="39" unit="chars" />B'itol,</l>
-                <l><space quantity="39" unit="chars" />Alay Qech,</l>
-                <l><space quantity="39" unit="chars" />K'uxla'y Qech.</l>
-                <l>E nab'e tzatz chi winaq xe'uxik waral chuwach ulew.</l>
-                <lb /> <!-- potential div marker -->
+                    <note n="31" place="margin" type="Colop"><hi rend="bold">Kotz</hi>, 'mejilla'
+                    de acuerdo a Ximenez, y 'agalla de pez' conforme a Basseta. En el presente 
+                    contexto es obvio que se esta haciendo referencia a las caracteristicas
+                    cuasi humanas de los seres de madera. En consecuencia se esta hablando
+                    de 'sus mejillas'.
+                    </note>
 
-                <note n="25" place="margin" type="Colop"><hi rend="bold">Ajam che'</hi>,
-                'madera/palo labrado' (maniqui).
-                </note>
-
-                <note n="26" place="margin" type="Colop"> Viene de <hi rend="bold">Wab'a-</hi>,
-                'presentar, demostrar, nombrar...' (Basseta, Ximenez). De aqui que la frase
-                quiera decir 'solo fue una demostracion de gente', o como dice don Adrian I.
-                Chavez (1978:9) 'fue remedo de gente'.
-                </note>
-
-                <note n="27" place="margin" type="Colop"><hi rend="bold">Sonol</hi>, 'consistente'
-                (Basseta). Mana sonol <hi rend="bold">kaqan, kiq'ab'</hi>, 'sus piernas y sus brazos
-                no tenian consistencia'. <hi rend="bold">Sonolik</hi>, 'desnudo'.
-                </note>
-
-                <note n="28" place="margin" type="Colop"><hi rend="bold">Komaj</hi> es sinonimo
-                de <hi rend="bold">kik'</hi>, 'sangre' como <hi rend="bold">komajil</hi> es
-                sinonimo <hi rend="bold">k'ik'el</hi>.
-                En el diccionario de Basseta se dice que
-                <hi rend="bold">komaj</hi> es 'menstruacion'.
-                </note>
-
-                <note n="29" place="margin" type="Colop">'El sudor', lo cual cuando es copioso
-                como en una fiebre o calentura se usa <hi rend="bold">tz'ojp</hi>, raiz del
-                verbo intransitivo <hi rend="bold">tz'ojpi'ajik</hi>, 'sudar' (Basseta, Ximenez).
-                </note>
-
-                <note n="30" place="margin" type="Colop">Resina de arbol o sebo
-                de animal. En todo caso se esta haciendo referencia a fluidos
-                equivalentes al sudor humano.
-                </note>
-
-                <note n="31" place="margin" type="Colop"><hi rend="bold">Kotz</hi>, 'mejilla'
-                de acuerdo a Ximenez, y 'agalla de pez' conforme a Basseta. En el presente 
-                contexto es obvio que se esta haciendo referencia a las caracteristicas
-                cuasi humanas de los seres de madera. En consecuencia se esta hablando
-                de 'sus mejillas'.
-                </note>
-
-                <note n="32" place="margin" type="Colop"><hi rend="bold">Pichipoj</hi>,
-                'tieso' (Basseta).
-                </note>
-
+                    <note n="32" place="margin" type="Colop"><hi rend="bold">Pichipoj</hi>,
+                    'tieso' (Basseta).
+                    </note>
+                </lg>
                 <pb xml:id="colop1999-035"/>
 
                 <l>K'ATE K'UT KIK'ISIK CHIK,</l>
