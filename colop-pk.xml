@@ -1141,13 +1141,21 @@
                     <l><space quantity="14" unit="chars" />Xmukane.</l>
                     <l>Xecha' k'u ri Juraqan ruk' Tepew,</l>
                     <l><space quantity="27" unit="chars" />Q'ukumatz;</l>
-
                     <pb xml:id="colop1999-032"/>
-
                     <l>ta xkib'ij chi rech ajq'ij,</l>
                     <l><space quantity="20" unit="chars" />ajb'it,</l>
                     <l><space quantity="20" unit="chars" />e nik'wachinel:</l>
-                    <l>-Xa k'ulu</l>
+                    <l>-Xa k'ulu<ref target='n021'><hi rend='superscription'>21</hi></ref></l>
+                    <note xml:id="n021" place="left"><seg type='note-symbol'><hi rend='superscription'>21</hi></seg>El texto dice
+                    <hi rend="bold">xu culu</hi>; pero más adelante encontramos
+                    la misma frase verbal como
+                    <hi rend="bold">xa ChuculuchuculuXaPu Churico</hi>. De aquí la
+                    transcripción <hi rend="bold">xa k'ulu</hi>. El verbo 
+                    <hi rend="bold">k'ulu</hi> o <hi rend="bold">k'uluj</hi> es 'encontrar'.
+                    Actualemente se dice <hi rend="bold">k'ulaj</hi>,
+                    'acompañar', término que en diccionarios coloniales
+                    tiene el significado de 'juntar, aunar...'. En un sentido
+                    amplio, esos significados son semejantes, aunque contextuales.</note>
                     <l>xa pu churiqo che ta chik chiqawinaq-b'itoj,</l>
                     <l><space quantity="26" unit="chars" />chiqawinaq-tz'aqoj ta chik tzuqul,</l>
                     <l><space quantity="53" unit="chars" />k'ool,</l>
@@ -1159,7 +1167,9 @@
                     <l><space quantity="22" unit="chars" />qamam;</l>
                     <l><space quantity="22" unit="chars" />Xpiyakok,</l>
                     <l><space quantity="22" unit="chars" />Xmukane:</l>
-                    <l>cha taj ta chawaxoq,</l>
+                    <l>cha taj<ref target='n022'><hi rend='superscription'>22</hi></ref> ta chawaxoq,</l>
+                    <note xml:id="n022" place="left"><seg type='note-symbol'><hi rend='superscription'>22</hi></seg><hi rend="bold">Taj</hi> o
+                    <hi rend="bold">ta</hi> es partícula desiderativa (Basseta, Coto).</note>
                     <l><space quantity="8" unit="chars" />ta saqiroq:</l>
                     <l>qasik'ixik,</l>
                     <l>qatoq'exik,</l>
@@ -1181,36 +1191,16 @@
                     <l><space quantity="16" unit="chars" />Ajraxa laq,</l>
                     <l><space quantity="16" unit="chars" />Ajraxa tzel,</l>
                     <l><space quantity="16" unit="chars" />Ajq'ol,</l>
-                    <l><space quantity="16" unit="chars" />Ajtoltekat,</l>
+                    <l><space quantity="16" unit="chars" />Ajtoltekat<ref target='n023'><hi rend='superscription'>23</hi></ref>,</l>
+                    <note xml:id="n023" place="left"><seg type='note-symbol'><hi rend='superscription'>23</hi></seg> Este término era usado
+                    para identificar una profesión 'artesano', y no necesariamente
+                    a un lugar de origen (Edmonson y otros traductores). Este
+                    significado, concuerda con el de la línea anterior y con la cual
+                    conforman un verso paralelo.</note>
                     <l><space quantity="16" unit="chars" />Rati't Q'ij,</l>
                     <l><space quantity="16" unit="chars" />Rati't Saq; kixucha'xik rumal qatz'aq,</l>
                     <l><space quantity="46" unit="chars" />qab'it!</l>
-
-                    <note n="21" place="margin" type="Colop">El texto dice
-                    <hi rend="bold">xu culu</hi>; pero mas adelante encontramos
-                    la misma frase verbal como
-                    <hi rend="bold">xa ChuculuchuculuXaPu Churico</hi>. De aqui la
-                    transcripcion <hi rend="bold">xa k'ulu</hi>. El verbo 
-                    <hi rend="bold">k'ulu o k'uluj</hi> es 'encontrar'.
-                    Actualemente se dice <hi rend="bold">k'ulaj</hi>,
-                    'acompanar', termino que en diccionarios coloniales
-                    tiene el significado de 'juntar, aunar...'. En un sentido
-                    amplio, esos significados son semejantes, aunque contextuales.
-                    </note>
-
-                    <note n="22" place="margin" type="Colop"><hi rend="bold">Taj</hi> o
-                    <hi rend="bold">ta</hi> es particula desiderativa (Basseta, Coto).
-                    </note>
-
-                    <note n="23" place="margin" type="Colop"> Este termino era usado
-                    para identificar una profesion 'artesano', y no necesariamente
-                    a un lugar de origen (Edmonson y otros traductores). Este
-                    significado, concuerda con el de la linea anterior y con la cual
-                    conforman un verso paralelo.
-                    </note>
-
                     <pb xml:id="colop1999-033"/>
-
                     <l>Chimala chi ixim,</l>
                     <l><space quantity="8" unit="chars" />chi tz'ite':</l>
                     <l>xa chib'anatajik,</l>
@@ -1252,14 +1242,10 @@
                     <l>-Katk'ix la uloq at Uk'ux Kaj,</l>
                     <l>ma qajisaj uchi',</l>
                     <l><space quantity="11" unit="chars" />uwach Tepew,</l>
-                    <l><space quantity="17" unit="chars" />Q'ukumatz-. Xecha' ta xkib'ij k'ut usuk'ulikil</l>
-
-                    <note n="24" place="margin" type="Colop">Viene de
-                    <hi rend="bold">suk'ulik</hi>'derecho, de verdad, ciertamenete'.
-                    </note>
-
+                    <l><space quantity="17" unit="chars" />Q'ukumatz-. Xecha' ta xkib'ij k'ut usuk'ulikil<ref target='n024'><hi rend='superscription'>24</hi></ref></l>
+                    <note xml:id="n024" place="right"><seg type='note-symbol'><hi rend='superscription'>24</hi></seg>Viene de
+                    <hi rend="bold">suk'ulik</hi>'derecho, de verdad, ciertamente'.</note>
                     <pb xml:id="colop1999-034"/>
-
                     <l>Utz are chuxik ri ipoy,</l>
                     <l><space quantity="18" unit="chars" />ajam che' chich'awik,</l>
                     <l><space quantity="28" unit="chars" />chitzijon b'a la chuwach ulew.</l>
