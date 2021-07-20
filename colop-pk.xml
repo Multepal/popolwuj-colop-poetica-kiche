@@ -673,8 +673,8 @@
                     <l>Wa'e xchiqatz'ib'aj chi upam chik</l>
                     <l><space quantity="24" unit="chars" />uch'ab'al Dios,</l>
                     <l><space quantity="24" unit="chars" />pa christianoil chik.</l>
-                    <l>xchiqelesaj rumal maja b'i chik ilb'al re Popo Wuj<ref target='n001'><hi rend='superscription'>1</hi></ref>,</l>
-                    <note xml:id='n001' place='left'><seg type='note-symbol'><hi rend='superscription'>1</hi></seg>Aquí se identifica el nombre del libro 
+                    <l>xchiqelesaj rumal maja b'i chik ilb'al re Popo Wuj<ref target='n001'><hi rend='superscript'>1</hi></ref>,</l>
+                    <note xml:id='n001' place='left'><seg type='note-symbol'><hi rend='superscript'>1</hi></seg>Aquí se identifica el nombre del libro 
                     como Popo Wuj y en la parte final como Popol Wuj. En el texto también encontramos la palabra popol en otras frases, como
                     en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la época
                     se encuentran registrados los términos popol, popol ech, popol ja, popol tzij.
@@ -740,8 +740,8 @@
                     <l><space quantity="6" unit="chars" />k'im,</l>
                     <l><space quantity="6" unit="chars" />k'ichelaj,</l>
                     <l>xa utukel kaj k'olik.</l>
-                    <l>Mawi<ref target='n002'><hi rend='superscription'>2</hi></ref> q'alaj uwach ulew,</l>
-                    <note xml:id='n002' place="right"><seg type='note-symbol'><hi rend='superscription'>2</hi></seg>Quiere decir no
+                    <l>Mawi<ref target='n002'><hi rend='superscript'>2</hi></ref> q'alaj uwach ulew,</l>
+                    <note xml:id='n002' place="right"><seg type='note-symbol'><hi rend='superscript'>2</hi></seg>Quiere decir no
                     Es equivalente a <hi rend="bold">maja'</hi></note>
                     <l>xa utukel remanik palo</l>
                     <l><space quantity="12" unit="chars" />upa kaj, ronojel.</l>
@@ -771,15 +771,15 @@
                     <l><space quantity="10" unit="chars" />pa raxon;</l>
                     <l>are ub'inam wi ri Q'ukumatz.</l>
                     <l>E nimaq etamanel,</l>
-                    <l>e nimaq ajna'oj chi kik'oje'ik.<ref target='n003'><hi rend='superscription'>3</hi></ref></l>
-                    <note xml:id="n003" place="left"><seg type='note-symbol'><hi rend='superscription'>3</hi></seg>Literalmente 'su estado' o su esencia
+                    <l>e nimaq ajna'oj chi kik'oje'ik.<ref target='n003'><hi rend='superscript'>3</hi></ref></l>
+                    <note xml:id="n003" place="left"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>Literalmente 'su estado' o su esencia
                     Se deriva del verb <hi rend='bold'>k'oje'</hi>, 'estar' (Basseta).</note>
-                    <l>K'eje<ref target='n004'><hi rend='superscription'>4</hi></ref> k'ut xax k'o wi ri kaj</l>
-                    <note xml:id="n004" place="left"><seg type='note-symbol'><hi rend='superscription'>4</hi></seg>El texto dice <hi rend='bold'>quehe</hi>, que 
+                    <l>K'eje<ref target='n004'><hi rend='superscript'>4</hi></ref> k'ut xax k'o wi ri kaj</l>
+                    <note xml:id="n004" place="left"><seg type='note-symbol'><hi rend='superscript'>4</hi></seg>El texto dice <hi rend='bold'>quehe</hi>, que 
                     se transcribe <hi rend='bold'>k'ehe</hi> y cuya variante dialectal es <hi rend='bold'>k'aje'</hi>, 'así pues, como, de esta manera'.
                     Es la forma antigua del adverbio <hi rend='bold'>je</hi> (Ximénez, Basseta).</note>
-                    <l>k'o wi nay puch<ref target='n005'><hi rend='superscription'>5</hi></ref> Uk'ux Kaj,</l>
-                    <note xml:id="n005" place="left"><seg type='note-symbol'><hi rend='superscription'>5</hi></seg>'Y también.' <hi rend='bold'>Nay</hi>,
+                    <l>k'o wi nay puch<ref target='n005'><hi rend='superscript'>5</hi></ref> Uk'ux Kaj,</l>
+                    <note xml:id="n005" place="left"><seg type='note-symbol'><hi rend='superscript'>5</hi></seg>'Y también.' <hi rend='bold'>Nay</hi>,
                     'también'; <hi rend='bold'>puch</hi>, 'y'.</note>
                     <l>are' ub'i' ri kab'awil. Chuchaxik.</l>
                     <l>Ta xpe k'ut utzij waral,</l>
@@ -814,8 +814,8 @@
                     <l><space quantity="17" unit="chars" />Q'ukumatz,</l>
                     <l>ta xna'ojixik saq k'aslem:</l>
                     <l>-Jupa cha ta chawaxoq,</l>
-                    <l><space quantity="10" unit="chars" />ta saqiroq puch?<ref target='n006'><hi rend='superscription'>6</hi></ref></l>
-                    <note xml:id="n006" place="right"><seg type='note-symbol'><hi rend='superscription'>6</hi></seg>El texto 
+                    <l><space quantity="10" unit="chars" />ta saqiroq puch?<ref target='n006'><hi rend='superscript'>6</hi></ref></l>
+                    <note xml:id="n006" place="right"><seg type='note-symbol'><hi rend='superscript'>6</hi></seg>El texto 
                     dice <hi rend='bold'>saqiro</hi> en vez de saqiroq. La omisión de la q final parece un error de copia en virtud
                     de que sintácticamente la cláusula es imperativa. Esto se corroborra,
                     además, unas líneas más abajo donde vuelve a repetirse la misma
@@ -833,8 +833,8 @@
                     <l>ta saqiroq kaj,</l>
                     <l><space quantity="11" unit="chars" />ulew!</l>
                     <l>Mata k'ut uq'ijilab'al,</l>
-                    <l><space quantity="10" unit="chars" />uq'ala'ib'al<ref target='n007'><hi rend='superscription'>7</hi></ref> ri qatz'aq</l>
-                    <note xml:id="n007" place="right"><seg type='note-symbol'><hi rend='superscription'>7</hi></seg>El texto dice <hi rend="bold">v calaibal</hi>.
+                    <l><space quantity="10" unit="chars" />uq'ala'ib'al<ref target='n007'><hi rend='superscript'>7</hi></ref> ri qatz'aq</l>
+                    <note xml:id="n007" place="right"><seg type='note-symbol'><hi rend='superscript'>7</hi></seg>El texto dice <hi rend="bold">v calaibal</hi>.
                     Chavez lo transcribe como <hi rend="bold">u kalibal</hi>, 'lugar de contemplación';
                     Edmonson como <hi rend="bold">U q'alajib'a'l</hi>, 'glorificación' y Tedlock como
                     <hi rend="bold">uq'alaib'al</hi>, 'proclamación'. En cualquiera de los casos, se hace
@@ -851,8 +851,8 @@
                     <l>Xa kitzij xk'oje wi uwinaqirik.</l>
                     <l>Chiwinaqir ulew:</l>
                     <l>-Ulew! Xecha.</l>
-                    <l>Lib'aj chi'<ref target='n008'><hi rend='superscription'>8</hi></ref> xwinaqirik:</l>
-                    <note xml:id="n008" place="left"><seg type='note-symbol'><hi rend='superscription'>8</hi></seg><hi rend="bold">Lib'aj chi'</hi> es una frase
+                    <l>Lib'aj chi'<ref target='n008'><hi rend='superscript'>8</hi></ref> xwinaqirik:</l>
+                    <note xml:id="n008" place="left"><seg type='note-symbol'><hi rend='superscript'>8</hi></seg><hi rend="bold">Lib'aj chi'</hi> es una frase
                     que Basseta traduce como 'a cada paso o apresuradamente, o con presteza'. Adjunto
                     a esta frase también se encuentra <hi rend="bold">lib'aj chi'al</hi> que quiere
                     decir '[al] instante'. De acuerdo a Ximénez, <hi rend="bold">lib'aj</hi> quiere
@@ -861,8 +861,8 @@
                     <l><space quantity="9" unit="chars" />xa mayul uwinaqirik,</l>
                     <l><space quantity="11" unit="chars" />chi k'u pupuje'ik.</l>
                     <l>Ta xtape pa ja' ri juyub',</l>
-                    <l><space quantity="5" unit="chars" />jusuk'<ref target='n009'><hi rend='superscription'>9</hi></ref> nima'q juyub' xuxik.</l>
-                    <note xml:id="n009" place="left"><seg type='note-symbol'><hi rend='superscription'>9</hi></seg><hi rend="bold">Jusuk'</hi> quiere decir
+                    <l><space quantity="5" unit="chars" />jusuk'<ref target='n009'><hi rend='superscript'>9</hi></ref> nima'q juyub' xuxik.</l>
+                    <note xml:id="n009" place="left"><seg type='note-symbol'><hi rend='superscript'>9</hi></seg><hi rend="bold">Jusuk'</hi> quiere decir
                     'inmediatemente, luego' (Basseta, Ximénez).</note>
                     <l>Xa kinawal,</l>
                     <l>xa kipus xb'anataj wi,</l>
@@ -878,8 +878,8 @@
                     <l>Xchutzinik qatzak,</l>
                     <l><space quantity="11" unit="chars" />qab'it. Xecha' k'ut.</l>
                     <l>Nab'e k'ut xwinaqir ulew,</l>
-                    <l><space quantity="20" unit="chars" />juyub'-taq'aj;<ref target='n010'><hi rend='superscription'>10</hi></ref></l>
-                    <note xml:id="n010" place="left"><seg type='note-symbol'><hi rend='superscription'>10</hi></seg>En esta liíea, la metonimia:
+                    <l><space quantity="20" unit="chars" />juyub'-taq'aj;<ref target='n010'><hi rend='superscript'>10</hi></ref></l>
+                    <note xml:id="n010" place="left"><seg type='note-symbol'><hi rend='superscript'>10</hi></seg>En esta liíea, la metonimia:
                     <hi rend="bold">juyub'-taq'aj</hi> 'montaña-valle' es una aposición a ulew 'tierra'.</note>
                     <l>xch'ob'och'ox ub'e ja':</l>
                     <l>xb'inije'ik k'ole je raqan xo'l taq juyub'</l>
@@ -912,14 +912,14 @@
                     <l>Kacha' ri Alom,</l>
                     <l><space quantity="10" unit="chars" />K'ajolom:</l>
                     <l>-Xa pa chi lolinik,</l>
-                    <l>ma xa on<ref target='n011'><hi rend='superscription'>11</hi></ref> chi tz'ininik uxe' che',</l>
-                    <note xml:id="n011" place="right"><seg type='note-symbol'><hi rend='superscription'>11</hi></seg><hi rend="bold">On</hi>, 
+                    <l>ma xa on<ref target='n011'><hi rend='superscript'>11</hi></ref> chi tz'ininik uxe' che',</l>
+                    <note xml:id="n011" place="right"><seg type='note-symbol'><hi rend='superscript'>11</hi></seg><hi rend="bold">On</hi>, 
                     partícula dubitativa (Ximénez, Basseta).</note>
                     <l><space quantity="28" unit="chars" />k'a'm?</l>
                     <l>K'ate utz chi k'oje chajal re. Xecha' k'ut.</l>
                     <l>Ta xkinojij,</l>
                     <l><space quantity="3" unit="chars" />xkitzijoj puch;</l>
-                    <l>jusuk' xwinaqir kej<ref target='n012'><hi rend='superscription'>12</hi></ref>,</l>
+                    <l>jusuk' xwinaqir kej<ref target='n012'><hi rend='superscript'>12</hi></ref>,</l>
                     <note xml:id="n012" place="right"> El nominal
                     <hi rend="bold">Kej</hi>, 'venado' como lo encontramos
                     en esta línea es la forma antigua de <hi rend="bold">kyej</hi>
@@ -965,8 +965,8 @@
                     <l>mixyonolikinik,</l>
                     <l>mixsik'inik!</l>
                     <l>Kixch'awajetaj chi jujunal,</l>
-                    <l><space quantity="15" unit="chars" />chu jutaq ch'ob'il<ref target='n013'><hi rend='superscription'>13</hi></ref>,</l>
-                    <note xml:id="n013" place="right"><seg type='note-symbol'><hi rend='superscription'>13</hi></seg><hi rend="bold">Ch'ob'il</hi> quiere
+                    <l><space quantity="15" unit="chars" />chu jutaq ch'ob'il<ref target='n013'><hi rend='superscript'>13</hi></ref>,</l>
+                    <note xml:id="n013" place="right"><seg type='note-symbol'><hi rend='superscript'>13</hi></seg><hi rend="bold">Ch'ob'il</hi> quiere
                     decir 'especie' o 'grupo'. Se deriva de <hi rend="bold">ch'ob'</hi>, 'orden',
                     <hi rend="bold">ch'ob'o</hi>, 'ordenación' (Basseta).</note>
                     <l><space quantity="15" unit="chars" />chi jutaq molajil!</l>
@@ -999,8 +999,8 @@
                     <l>xa kek'aralajik,</l>
                     <l>xa kewojonik;</l>
                     <l>mawi xwachinik uwach kich'ab'al.</l>
-                    <l>Jalajoj<ref target='n014'><hi rend='superscription'>14</hi></ref> xkoq'ib'ej chi kijujunal.</l>
-                    <note xml:id="n014" place="right"><seg type='note-symbol'><hi rend='superscription'>14</hi></seg><hi rend="bold">Jalajoj</hi>,
+                    <l>Jalajoj<ref target='n014'><hi rend='superscript'>14</hi></ref> xkoq'ib'ej chi kijujunal.</l>
+                    <note xml:id="n014" place="right"><seg type='note-symbol'><hi rend='superscript'>14</hi></seg><hi rend="bold">Jalajoj</hi>,
                     'diferente'; viene de la raíz verbal <hi rend="bold">-jalo</hi> 
                     'cambiar/variar'; <hi rend="bold">jalanik</hi> 'diferencia, desigualdad' (Basseta).</note>
                     <l>Ta xkita ri Tz'aqol,</l>
@@ -1021,8 +1021,8 @@
                     <l><space quantity="14" unit="chars" />ik'uxun;</l>
                     <l><space quantity="14" unit="chars" />iwarab'al,</l>
                     <l><space quantity="14" unit="chars" />iyakalib'al;</l>
-                    <l>Ri wech<ref target='n015'><hi rend='superscription'>15</hi></ref> wi mixe'uxik siwan,</l>
-                    <note xml:id="n015" place="right"><seg type='note-symbol'><hi rend='superscription'>15</hi></seg>El texto tiene 
+                    <l>Ri wech<ref target='n015'><hi rend='superscript'>15</hi></ref> wi mixe'uxik siwan,</l>
+                    <note xml:id="n015" place="right"><seg type='note-symbol'><hi rend='superscript'>15</hi></seg>El texto tiene 
                     <hi rend='bold'>xicech</hi>, por lo que debe ser <hi rend='bold'>rivech</hi>.</note>
                     <l><space quantity="11" unit="chars" />k'echelaj rumal mawi xutzin qaq'ijiloxik,</l>
                     <l><space quantity="27" unit="chars" />mawi ixsik'iy qe.</l>
@@ -1052,10 +1052,10 @@
                     <l><space quantity="46" unit="chars" />Alom,</l>
                     <l><space quantity="46" unit="chars" />K'ajolom;</l>
                     <l>-Xa k'u tija chik</l>
-                    <l>mixyopij<ref target='n016'><hi rend='superscription'>16</hi></ref> rawexik<ref target='n017'><hi rend='superscription'>17</hi></ref>,</l>
-                    <note xml:id="n016" place="left"><seg type='note-symbol'><hi rend='superscription'>16</hi></seg><hi rend="bold">Yopij</hi>
+                    <l>mixyopij<ref target='n016'><hi rend='superscript'>16</hi></ref> rawexik<ref target='n017'><hi rend='superscript'>17</hi></ref>,</l>
+                    <note xml:id="n016" place="left"><seg type='note-symbol'><hi rend='superscript'>16</hi></seg><hi rend="bold">Yopij</hi>
                     'acercarse' (Ximénez, Basseta).</note>
-                    <note xml:id="n017" place="left"><seg type='note-symbol'><hi rend='superscription'>17</hi></seg><hi rend="bold">Rawexik</hi>
+                    <note xml:id="n017" place="left"><seg type='note-symbol'><hi rend='superscript'>17</hi></seg><hi rend="bold">Rawexik</hi>
                     'sembrar/plantar'; viene de <hi rend="bold">awex</hi>, 'siembra'.
                     El texto dice <hi rend="bold">ravaxic</hi>.</note>
                     <l><space quantity="9" unit="chars" />usaqirik?</l>
@@ -1090,15 +1090,15 @@
                     <l>xa jusuk' chi'umar pa ja'.</l>
                     <l>-Mawi k'o-; xecha' chi k'u ri Ajtz'aq,</l>
                     <l><space quantity="30" unit="chars" />Ajb'it.</l>
-                    <l>Qaw achlab'eq!<ref target='n018'><hi rend='superscription'>18</hi></ref></l>
-                    <note xml:id="n018" place="right"><seg type='note-symbol'><hi rend='superscription'>18</hi></seg>El texto dice
+                    <l>Qaw achlab'eq!<ref target='n018'><hi rend='superscript'>18</hi></ref></l>
+                    <note xml:id="n018" place="right"><seg type='note-symbol'><hi rend='superscript'>18</hi></seg>El texto dice
                     <hi rend="bold">cauach labec</hi>; que equivale a
                     'agorar'. La raíz verbal es <hi rend="bold">lab'</hi>- 'agüero, sueño' de la cual derivan
                     <hi rend='bold'>lab'aj</hi>'agorar, guerrear'; <hi rend="bold">lab'al</hi> 'guerra'
                     (Ximénez, Coto, Basseta). Basseta, incluso, proporciona
                     una traducción de <hi rend="bold">lab'</hi> como 'fantasma'</note>
-                    <l>Ta chuxoq!<ref target='n019'><hi rend='superscription'>19</hi></ref></l>
-                    <note xml:id="n019" place="right"><seg type='note-symbol'><hi rend='superscription'>19</hi></seg>Esta fórmula que
+                    <l>Ta chuxoq!<ref target='n019'><hi rend='superscript'>19</hi></ref></l>
+                    <note xml:id="n019" place="right"><seg type='note-symbol'><hi rend='superscript'>19</hi></seg>Esta fórmula que
                     quiere decir 'Que así sea' o 'Que así se haga', confirma la
                     interpretación relativa al concepto de presagio o agüero de
                     la línea anterior.</note>
@@ -1127,8 +1127,8 @@
                     <l><space quantity="23" unit="chars" />Xmukane.</l>
                 </lg>
                 <lg xml:id='lg1.05' type='tasik'>
-                    <l><seg rend='caps' type='tasik-header'>K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL,<ref target='n020'><hi rend='superscription'>20</hi></ref></seg></l>
-                    <note xml:id="n020" place="right"><seg type='note-symbol'><hi rend='superscription'>20</hi></seg><hi rend="bold">Nik'wachinel</hi>,
+                    <l><seg rend='caps' type='tasik-header'>K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL,<ref target='n020'><hi rend='superscript'>20</hi></ref></seg></l>
+                    <note xml:id="n020" place="right"><seg type='note-symbol'><hi rend='superscript'>20</hi></seg><hi rend="bold">Nik'wachinel</hi>,
                     que 've lo distante' o que tiene capacidad para adivinar lo distante. Este facultad
                     se atribuye a <hi rend="bold">Xpiyakok</hi> e <hi rend="bold">Xmukane</hi>. En otro
                     contexto, encontramos el verbo <hi rend="bold">mukuj</hi> 'ver o mirar de lejos', como
@@ -1145,8 +1145,8 @@
                     <l>ta xkib'ij chi rech ajq'ij,</l>
                     <l><space quantity="20" unit="chars" />ajb'it,</l>
                     <l><space quantity="20" unit="chars" />e nik'wachinel:</l>
-                    <l>-Xa k'ulu<ref target='n021'><hi rend='superscription'>21</hi></ref></l>
-                    <note xml:id="n021" place="left"><seg type='note-symbol'><hi rend='superscription'>21</hi></seg>El texto dice
+                    <l>-Xa k'ulu<ref target='n021'><hi rend='superscript'>21</hi></ref></l>
+                    <note xml:id="n021" place="left"><seg type='note-symbol'><hi rend='superscript'>21</hi></seg>El texto dice
                     <hi rend="bold">xu culu</hi>; pero más adelante encontramos
                     la misma frase verbal como
                     <hi rend="bold">xa ChuculuchuculuXaPu Churico</hi>. De aquí la
@@ -1167,8 +1167,8 @@
                     <l><space quantity="22" unit="chars" />qamam;</l>
                     <l><space quantity="22" unit="chars" />Xpiyakok,</l>
                     <l><space quantity="22" unit="chars" />Xmukane:</l>
-                    <l>cha taj<ref target='n022'><hi rend='superscription'>22</hi></ref> ta chawaxoq,</l>
-                    <note xml:id="n022" place="left"><seg type='note-symbol'><hi rend='superscription'>22</hi></seg><hi rend="bold">Taj</hi> o
+                    <l>cha taj<ref target='n022'><hi rend='superscript'>22</hi></ref> ta chawaxoq,</l>
+                    <note xml:id="n022" place="left"><seg type='note-symbol'><hi rend='superscript'>22</hi></seg><hi rend="bold">Taj</hi> o
                     <hi rend="bold">ta</hi> es partícula desiderativa (Basseta, Coto).</note>
                     <l><space quantity="8" unit="chars" />ta saqiroq:</l>
                     <l>qasik'ixik,</l>
@@ -1191,8 +1191,8 @@
                     <l><space quantity="16" unit="chars" />Ajraxa laq,</l>
                     <l><space quantity="16" unit="chars" />Ajraxa tzel,</l>
                     <l><space quantity="16" unit="chars" />Ajq'ol,</l>
-                    <l><space quantity="16" unit="chars" />Ajtoltekat<ref target='n023'><hi rend='superscription'>23</hi></ref>,</l>
-                    <note xml:id="n023" place="left"><seg type='note-symbol'><hi rend='superscription'>23</hi></seg> Este término era usado
+                    <l><space quantity="16" unit="chars" />Ajtoltekat<ref target='n023'><hi rend='superscript'>23</hi></ref>,</l>
+                    <note xml:id="n023" place="left"><seg type='note-symbol'><hi rend='superscript'>23</hi></seg> Este término era usado
                     para identificar una profesión 'artesano', y no necesariamente
                     a un lugar de origen (Edmonson y otros traductores). Este
                     significado, concuerda con el de la línea anterior y con la cual
@@ -1242,12 +1242,14 @@
                     <l>-Katk'ix la uloq at Uk'ux Kaj,</l>
                     <l>ma qajisaj uchi',</l>
                     <l><space quantity="11" unit="chars" />uwach Tepew,</l>
-                    <l><space quantity="17" unit="chars" />Q'ukumatz-. Xecha' ta xkib'ij k'ut usuk'ulikil<ref target='n024'><hi rend='superscription'>24</hi></ref></l>
-                    <note xml:id="n024" place="right"><seg type='note-symbol'><hi rend='superscription'>24</hi></seg>Viene de
+                    <l><space quantity="17" unit="chars" />Q'ukumatz-. Xecha' ta xkib'ij k'ut usuk'ulikil<ref target='n024'><hi rend='superscript'>24</hi></ref></l>
+                    <note xml:id="n024" place="right"><seg type='note-symbol'><hi rend='superscript'>24</hi></seg>Viene de
                     <hi rend="bold">suk'ulik</hi>'derecho, de verdad, ciertamente'.</note>
                     <pb xml:id="colop1999-034"/>
                     <l>Utz are chuxik ri ipoy,</l>
-                    <l><space quantity="18" unit="chars" />ajam che' chich'awik,</l>
+                    <l><space quantity="18" unit="chars" />ajam che'<ref target='n025'><hi rend='superscript'>25</hi></ref> chich'awik,</l>
+                    <note xml:id="n025" place="left"><seg type='note-symbol'><hi rend='superscript'>25</hi></seg><hi rend="bold">Ajam che'</hi>,
+                    'madera/palo labrado' (maniqui).</note>
                     <l><space quantity="28" unit="chars" />chitzijon b'a la chuwach ulew.</l>
                     <l>Ta chuxoq! Xecha' k'ut.</l>
                     <l>Ta xkib'ij jusuk' xb'anik poy,</l>
@@ -1268,18 +1270,43 @@
                     <l>Mawi xkina'taj chik ri Uk'ux Kaj.</l>
                     <l>K'eje k'ut xepaj chiri':</l>
                     <l>xa utijtob'exik,</l>
-                    <l>xa pu uwab'ab'exik chi winaq.</l>
+                    <l>xa pu uwab'ab'exik<ref target='n026'><hi rend='superscript'>26</hi></ref> chi winaq.</l>
+                    <note xml:id="n026" place="left"><seg type='note-symbol'><hi rend='superscript'>26</hi></seg>Viene de <hi rend="bold">Wab'a-</hi>,
+                    'presentar, demostrar, nombrar...' (Basseta, Ximénez). De aquí que la frase
+                    quiera decir 'solo fue una demostración de gente', o como dice don Adrián I.
+                    Chávez (1978:8) 'fue remedo de gente'.</note>
                     <l>Kechaw nab'e;</l>
                     <l>xa chaqi'j kiwach,</l>
-                    <l>mana sonol kaqan,</l>
+                    <l>mana sonol<ref target='n027'><hi rend='superscript'>27</hi></ref> kaqan,</l>
+                    <note xml:id="n027" place="left"><seg type='note-symbol'><hi rend='superscript'>27</hi></seg><hi rend="bold">Sonol</hi>, 'consistente'
+                    (Basseta). Mana sonol <hi rend="bold">kaqan, kiq'ab'</hi>, 'sus piernas y sus brazos
+                    no tenían consistencia'. <hi rend="bold">Sonolik</hi>, 'desnudo'.</note>
                     <l><space quantity="11" unit="chars" />kiq'ab';</l>
                     <l>maja b'i kikik'el,</l>
-                    <l><space quantity="9" unit="chars" />kikomajil ,</l>
-                    <l>maja b'i kitiqowal,</l>
-                    <l><space quantity="9" unit="chars" />kikab'chijal.</l>
-                    <l>Chaqi'j kotz,</l>
+                    <l><space quantity="9" unit="chars" />kikomajil<ref target='n028'><hi rend='superscript'>28</hi></ref>,</l>
+                    <note xml:id="n028" place="left"><seg type='note-symbol'><hi rend='superscript'>28</hi></seg><hi rend="bold">Komaj</hi> es sinónimo
+                    de <hi rend="bold">kik'</hi>, 'sangre' como <hi rend="bold">komajil</hi> es
+                    sinónimo <hi rend="bold">k'ik'el</hi>.<lb />
+                    En el diccionario de Basseta se dice que
+                    <hi rend="bold">komaj</hi> es 'menstruación'.</note>
+                    <l>maja b'i kitiqowal<ref target='n029'><hi rend='superscript'>29</hi></ref>,</l>
+                    <note xml:id="n029" place="left"><seg type='note-symbol'><hi rend='superscript'>29</hi></seg>'El sudor', lo cual cuando es copioso
+                    como en una fiebre o calentura se usa <hi rend="bold">tz'ojp</hi>, raíz del
+                    verbo intransitivo <hi rend="bold">tz'ojpi'ajik</hi>, 'sudar' (Basseta, Ximénez).</note>
+                    <l><space quantity="9" unit="chars" />kikab'chijal<ref target='n030'><hi rend='superscript'>30</hi></ref>.</l>
+                    <note xml:id="n030" place="left"><seg type='note-symbol'><hi rend='superscript'>30</hi></seg>Resina de árbol o sebo
+                    de animal. En todo caso se está haciendo referencia a fluidos
+                    equivalentes al sudor humano.</note>
+                    <l>Chaqi'j kotz<ref target='n031'><hi rend='superscript'>31</hi></ref>,</l>
+                    <note xml:id="n031" place="left"><seg type='note-symbol'><hi rend='superscript'>31</hi></seg><hi rend="bold">Kotz</hi>, 'mejilla'
+                    de acuerdo a Ximénez, y 'agalla de pez' conforme a Basseta. En el presente 
+                    contexto es obvio que se está haciendo referencia a las características
+                    cuasi humanas de los seres de madera. En consecuencia se está hablando
+                    de 'sus mejillas'.</note>
                     <l>k'oj kiwach.</l>
-                    <l>Kapichipoj kaqan,</l>
+                    <l>Kapichipoj<ref target='n032'><hi rend='superscript'>32</hi></ref> kaqan,</l>
+                    <note xml:id="n032" place="left"><seg type='note-symbol'><hi rend='superscript'>32</hi></seg><hi rend="bold">Pichipoj</hi>,
+                    'tieso' (Basseta).</note>
                     <l><space quantity="11" unit="chars" />kiq'ab';</l>
                     <l>Kayeyoj kityo'jil.</l>
                     <l>K'eje k'ut mawi xena'w chi ri' chuwach Tz'aqol,</l>
@@ -1287,50 +1314,6 @@
                     <l><space quantity="39" unit="chars" />Alay Qech,</l>
                     <l><space quantity="39" unit="chars" />K'uxla'y Qech.</l>
                     <l>E nab'e tzatz chi winaq xe'uxik waral chuwach ulew.</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="25" place="margin" type="Colop"><hi rend="bold">Ajam che'</hi>,
-                    'madera/palo labrado' (maniqui).
-                    </note>
-
-                    <note n="26" place="margin" type="Colop"> Viene de <hi rend="bold">Wab'a-</hi>,
-                    'presentar, demostrar, nombrar...' (Basseta, Ximenez). De aqui que la frase
-                    quiera decir 'solo fue una demostracion de gente', o como dice don Adrian I.
-                    Chavez (1978:9) 'fue remedo de gente'.
-                    </note>
-
-                    <note n="27" place="margin" type="Colop"><hi rend="bold">Sonol</hi>, 'consistente'
-                    (Basseta). Mana sonol <hi rend="bold">kaqan, kiq'ab'</hi>, 'sus piernas y sus brazos
-                    no tenian consistencia'. <hi rend="bold">Sonolik</hi>, 'desnudo'.
-                    </note>
-
-                    <note n="28" place="margin" type="Colop"><hi rend="bold">Komaj</hi> es sinonimo
-                    de <hi rend="bold">kik'</hi>, 'sangre' como <hi rend="bold">komajil</hi> es
-                    sinonimo <hi rend="bold">k'ik'el</hi>.
-                    En el diccionario de Basseta se dice que
-                    <hi rend="bold">komaj</hi> es 'menstruacion'.
-                    </note>
-
-                    <note n="29" place="margin" type="Colop">'El sudor', lo cual cuando es copioso
-                    como en una fiebre o calentura se usa <hi rend="bold">tz'ojp</hi>, raiz del
-                    verbo intransitivo <hi rend="bold">tz'ojpi'ajik</hi>, 'sudar' (Basseta, Ximenez).
-                    </note>
-
-                    <note n="30" place="margin" type="Colop">Resina de arbol o sebo
-                    de animal. En todo caso se esta haciendo referencia a fluidos
-                    equivalentes al sudor humano.
-                    </note>
-
-                    <note n="31" place="margin" type="Colop"><hi rend="bold">Kotz</hi>, 'mejilla'
-                    de acuerdo a Ximenez, y 'agalla de pez' conforme a Basseta. En el presente 
-                    contexto es obvio que se esta haciendo referencia a las caracteristicas
-                    cuasi humanas de los seres de madera. En consecuencia se esta hablando
-                    de 'sus mejillas'.
-                    </note>
-
-                    <note n="32" place="margin" type="Colop"><hi rend="bold">Pichipoj</hi>,
-                    'tieso' (Basseta).
-                    </note>
                 </lg>
                 <lg xml:id='lg1.06' type='tasik'>
                     <pb xml:id="colop1999-035"/>
