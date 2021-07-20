@@ -1511,9 +1511,11 @@
                 <pb xml:id="colop1999-039"/>
                 <head>UKAB'</head>
                 <lg xml:id='lg2.01' type='tasik'>
-                    <l>ARE K'UT XA JUB'IQ' SAQNATANOJ UWACH ULEW,</l>
-                    <l><space quantity="20" unit="chars" />MAJA B'I Q'IJ</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>ARE K'UT XA JUB'IQ' SAQNATANOJ<ref target='n053'><hi rend='superscript'>53</hi></ref> UWACH ULEW,</seg></l>
+                    <note xml:id="n053" place="right"><seg type='note-symbol'><hi rend='superscript'>53</hi></seg>No muy claro, lugar obscuro'
+                    de acuerdo con Ximénez; y '[a] la luz de la luna' de acuerdo con
+                    Basseta.</note>
+                    <l><seg rend='caps' type='tasik-header'><space quantity="20" unit="chars" />MAJA B'I Q'IJ</seg></l>
                     <l>Jun k'ut kunimarisaj rib' Wuqub' Kaq'ix, ub'i'.</l>
                     <l>K'o nab'e kaj,</l>
                     <l><space quantity="10" unit="chars" />ulew,</l>
@@ -1526,63 +1528,59 @@
                     <l><space quantity="27" unit="chars" />winaq b'it:</l>
                     <l>in qu'ij,</l>
                     <l>in pu usaq,</l>
-                    <l>in nay pu rik'il; ta chuxoq!</l>
+                    <l>in nay<ref target='n054'><hi rend='superscript'>54</hi></ref> pu rik'il; ta chuxoq!</l>
+                    <note xml:id="n054" place="right"><seg type='note-symbol'><hi rend='superscript'>54</hi></seg>Aquí como en otras líneas,
+                    el texto dice <hi rend='bold'>pu</hi> en lugar en <hi rend="bold">puch</hi>.</note>
                     <l>Nim nusaqil,</l>
                     <l>in b'inib'al,</l>
                     <l>in pu chakab'al rumal winaq!</l>
                     <l>Rumal puwaq ub'aq nuwach xa katiltotik chi yamanik,</l>
                     <l><space quantity="43" unit="chars" />raxa k'uwal;</l>
-                    <l>nay pu we rax kawakoj chi ab'aj keje ri uwa kaj.</l>
-                    <l>Are k'u ri nutza'm saq julujuj chi naj k'eje ri ik'.</l>
+                    <l>nay pu we<ref target='n055'><hi rend='superscript'>55</hi></ref> rax kawakoj chi ab'aj keje ri uwa kaj.</l>
+                    <note xml:id="n055" place="right"><seg type='note-symbol'><hi rend='superscript'>55</hi></seg><hi rend="bold">We</hi>,
+                    'mis dientes'.<lb />
+                    Se compone de <hi rend="bold">w-</hi> marcador pos. de 1ps y
+                    <hi rend="bold">e</hi> 'diente'.</note>
+                    <l>Are k'u ri nutza'm saq julujuj<ref target='n056'><hi rend='superscript'>56</hi></ref> chi naj k'eje ri ik'.</l>
+                    <note xml:id="n056" place="right"><seg type='note-symbol'><hi rend='superscript'>56</hi></seg>Brillar, resplandecer.</note>
                     <l>Puwaq k'ut nuq'alib'al:</l>
-                    <l>k'a saq pak'e uwach ulew ta kinel uloq chuwach nuq'alib'al.</l>
+                    <l>k'a saq pak'e<ref target='n057'><hi rend='superscript'>57</hi></ref> uwach ulew ta kinel uloq chuwach nuq'alib'al.</l>
+                    <note xml:id="n057" place="right"><seg type='note-symbol'><hi rend='superscript'>57</hi></seg>Viene de <hi rend="bold">pak'alik</hi>,
+                    'boca arriba', y en este contexto equivale a superficie.</note>
                     <l>K'eje k'ut in q'ij wi,</l>
                     <l><space quantity="11" unit="chars" />in pu ik' rumal saqil al,</l>
                     <l><space quantity="27" unit="chars" />saqil k'ajol.</l>
                     <l>Ta chuxoq!</l>
                     <l>Rumal chi naj kopon wi nuwach! Cha' ri Wuqub' Kak'ix.</l>
-                    
-                    <note n="53" place="margin" type="Colop">'No muy claro, lugar obscuro'
-                    de acuerdo con Ximenez; y '[a] la luz de la luna' de acuerdo con
-                    Basseta.
-                    </note>
-
-                    <note n="54" place="margin" type="Colop">Aqui como en otras lineas,
-                    el texto dice pu en lugar en <hi rend="bold">puch</hi>.
-                    </note>
-
-                    <note n="55" place="margin" type="Colop"><hi rend="bold">We</hi>,
-                    'mis dientes'.
-                    Se compone de <hi rend="bold">w-</hi> marcador pos. de 1ps y
-                    <hi rend="bold">e</hi> 'diente'.
-                    </note>
-
-                    <note n="56" place="margin" type="Colop">Brillar, resplandecer.
-                    </note>
-
-                    <note n="57" place="margin" type="Colop">Viene de <hi rend="bold">pak'alik</hi>,
-                    'boca arriba', y en este contexto equivale a superficie.
-                    </note>
-
                     <pb xml:id="colop1999-040"/>
-
                     <l>Ma k'u qitzij are ta q'ij ri Wuqub' Kak'ix.</l>
                     <l>Xere kunimarisaj rib',</l>
                     <l><space quantity="17" unit="chars" />ri uxik',</l>
                     <l><space quantity="20" unit="chars" />upuwaq.</l>
-                    <l>Xere k'ut tokol wi uwach ri chi kub'e wi;</l>
+                    <l>Xere k'ut tokol<ref target='n058'><hi rend='superscript'>58</hi></ref> wi uwach ri chi kub'e wi;</l>
+                    <note xml:id="n058" place="left"><seg type='note-symbol'><hi rend='superscript'>58</hi></seg>'Alcanzar' (Ximénez);
+                    La vista de <hi rend="bold">Wuqub' Kak'ix</hi> solo 'cubría/abarcaba'
+                    el espacio por dónde él caminaba; no todo el espacio debajo del cielo,
+                    como se explica en la siguiente cláusula.</note>
                     <l>mana ronojel ta uxe' kaj kopon wi uwach.</l>
                     <l>Maja k'ut k'i kiloq uwach q'ij,</l>
                     <l><space quantity="26" unit="chars" />ik',</l>
                     <l><space quantity="26" unit="chars" />ch'umil,</l>
-                    <l>maja'oq kasaqiroq.</l>
-                    <l>K'eje k'ut kukob'isaj wi rib' ri Wuqub' Kak'ix chi q'ijil,</l>
+                    <l>maja'oq<ref target='n059'><hi rend='superscript'>59</hi></ref> kasaqiroq.</l>
+                    <note xml:id="n059" place="left"><seg type='note-symbol'><hi rend='superscript'>59</hi></seg>Todavía no, tampoco, antes que.
+                    Es igual que <hi rend="bold">k'a maja</hi>.</note>
+                    <l>K'eje k'ut kukob'isaj<ref target='n060'><hi rend='superscript'>60</hi></ref> wi rib' ri Wuqub' Kak'ix chi q'ijil,</l>
+                    <note xml:id="n060" place="left"><seg type='note-symbol'><hi rend='superscript'>60</hi></seg><hi rend="bold">Kob'isaj</hi>, 'alabar,
+                    engrandecer, nombrar' (Ximénez, Basseta).</note>
                     <l><space quantity="47" unit="chars" />chi ik'il.</l>
                     <l>Xa maja chi k'utunoq,</l>
                     <l>chi q'alajob'oq usaqil q'ij,</l>
                     <l><space quantity="23" unit="chars" />ik'.</l>
                     <l>Xa xurayij nimal,</l>
-                    <l><space quantity="16" unit="chars" />ik'owen.</l>
+                    <l><space quantity="16" unit="chars" />ik'owen<ref target='n061'><hi rend='superscript'>61</hi></ref>.</l>
+                    <note xml:id="n061" place="left"><seg type='note-symbol'><hi rend='superscript'>61</hi></seg>Sobreparar, engrandecimiento. Viene
+                    de <hi rend="bold">ik'owik</hi>, <hi rend="bold">ik'owisaj</hi>, 'pasar,
+                    sobrepasar, rebasar'.</note>
                     <l>Are ta xb'anik b'utik kumal poy</l>
                     <l><space quantity="28" unit="chars" />ajam che'.</l>
                 </lg>
@@ -1608,32 +1606,11 @@
                     <l>chiqakoj wi uyab'!</l>
                     <l>Tak'isoq uq'inomal,</l>
 
-                    <note n="58" place="margin" type="Colop">'Alcanzar' (Ximenez);
-                    La vista de <hi rend="bold">Wuqub' Kak'ix</hi> solo 'cubria/abarcaba'
-                    el espacio por donde el caminaba; no todo el espacio debajo del cielo,
-                    como se explica en la siguiente clausula.
-                    </note>
-
-                    <note n="59" place="margin" type="Colop">Todavia no, tampoco, antes que.
-                    Es igual que <hi rend="bold">k'a maja</hi>.
-                    </note>
-
-                    <note n="60" place="margin" type="Colop"><hi rend="bold">Kob'isaj</hi>, 'alabar,
-                    engrandecer, nombrar' (Ximenez, Basseta).
-                    </note>
-
-                    <note n="61" place="margin" type="Colop">Sobreparar, engrandecimiento. Viene
-                    de <hi rend="bold">ik'owik</hi>, <hi rend="bold">ik'owisaj</hi>, 'pasar,
-                    sobrepasar, rebasar'.
-                    </note>
-
                     <note n="62" place="margin" type="Colop">Viene de <hi rend="bold">yiqotik</hi>, 
-                    'temblar, inquitar'.
-                    </note>
+                    'temblar, inquitar'.</note>
 
                     <note n="63" place="margin" type="Colop">Viene de <hi rend="bold">ub' ~ wub'</hi>,
-                    'cerbatana'. <hi rend="bold">Wub'aj</hi> es 'tirar con cerbatana'.
-                    </note>
+                    'cerbatana'. <hi rend="bold">Wub'aj</hi> es 'tirar con cerbatana'.</note>
                     
                     <pb xml:id="colop1999-041"/>
 
