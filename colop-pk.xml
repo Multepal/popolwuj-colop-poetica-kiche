@@ -1893,7 +1893,11 @@
                     <l>k'o pa achuch,</l>
                     <l><space quantity="7" unit="chars" />aqajaw?</l>
                     <l>-Maja b'i.- Xcha' k'ut.</l>
-                    <l>-Kaqach'akimaj ta na b'a la chuweq chuwab'axik chik jun qache',</l>
+                    <l>-Kaqach'akimaj<ref target='n086'><hi rend='superscript'>86</hi></ref> ta na b'a la chuweq chuwab'axik<ref target='n087'><hi rend='superscript'>87</hi></ref> chik jun qache',</l>
+                    <note xml:id="n086" place="left"><seg type='note-symbol'><hi rend='superscript'>86</hi></seg><hi rend="bold">Ch'akimaj</hi>, 'pedir
+                    prestado' (Ximénez, Basseta); en este caso significa 'pedir ayuda'.</note>
+                    <note xml:id="n087" place="left"><seg type='note-symbol'><hi rend='superscript'>87</hi></seg>Es sinónimo de <hi rend="bold">tak'ab'a'</hi>,
+                    'erigir, parar' (Basseta, Ximénez).</note>
                     <l><space quantity="47" unit="chars" />raqan qakab'al.-</l>
                     <l>-Utz! Xcha' chi k'ut.</l>
                     <l>K'ate k'ut xk'am kina'oj ri omuch' k'ajolab':</l>
@@ -1905,9 +1909,11 @@
                     <l>chiri' ta k'ut chiqatzaq wi qajoq pa jul.</l>
                     <l>Jak'ama' qaja ulew pa jul. Kojcha' ta chi re.</l>
                     <l>Chi are ta k'ut pachal qajoq pa jul,</l>
-                    <l>ta qatarij qajoq ri nima che'.</l>
+                    <l>ta qatarij<ref target='n088'><hi rend='superscript'>88</hi></ref> qajoq ri nima che'.</l>
+                    <note xml:id="n088" place="left"><seg type='note-symbol'><hi rend='superscript'>88</hi></seg><hi rend="bold">Tarij</hi> quiere decir
+                    'arrojar, tirar'.</note>
                     <l>Chiri' ta k'ut chikam wi pa jul.- Xecha' k'ut omuch' k'ajolab'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xkik'ot k'ut jun nima jul,</l>
                     <l>najt xqajik.</l>
                     <l>Ta xkitaq k'ut ri Sipakna:</l>
@@ -1918,35 +1924,26 @@
                     <l>K'ate k'ut xqaj pa jul.</l>
                     <l>-Kasik'in uloq ta k'ototajoq ri ulew,</l>
                     <l>naj ta chiqajik awumal.- Xucha'xik.</l>
-                    <l>-We! Xcha' k'ut.</l>
+                    <l>-We!<ref target='n089'><hi rend='superscript'>89</hi></ref> Xcha' k'ut.</l>
+                    <note xml:id="n089" place="left"><seg type='note-symbol'><hi rend='superscript'>89</hi></seg>'Muy bien' o 'Está bien'.</note>
                     <l>Ta xutik'ib'a uk'otik jul.</l>
                     <l>Xa k'u ujul xuk'oto,</l>
                     <l><space quantity="7" unit="chars" />uk'olb'al rib';</l>
                     <l>xretamaj ri ukarnisaxik.</l>
                     <l>Ta xuk'ot k'ut jun wi chi jul</l>
-
-                    <note n="86" place="margin" type="Colop"><hi rend="bold">Ch'akimaj</hi>, 'pedir
-                    prestado' (Ximenez, Basseta); en este caso significa 'pedir ayuda'.
-                    </note>
-
-                    <note n="87" place="margin" type="Colop">Es sinonimo de <hi rend="bold">tak'ab'a'</hi>,
-                    'erigir, parar' (Basseta, Ximénez).
-                    </note>
-
-                    <note n="88" place="margin" type="Colop"><hi rend="bold">Tarij</hi> quiere decir
-                    'arrojar, tirar'.
-                    </note>
-
-                    <note n="89" place="margin" type="Colop">'Muy bien' o 'Esta bien'.
-                    </note>
                     <pb xml:id="colop1999-047"/>
 
-                    <l>chu tzalanem ukab' jul xuk'oto xkolotaj wi.</l>
+                    <l>chu tzalanem ukab' jul xuk'oto xkolotaj<ref target='n090'><hi rend='superscript'>90</hi></ref> wi.</l>
+                    <note xml:id="n090" place="right"><seg type='note-symbol'><hi rend='superscript'>90</hi></seg>Viene de <hi rend="bold">kolob'ej</hi>,
+                    'librar, salvar'. De esta raíz también se derivan <hi rend="bold">kolonel</hi>
+                    'salvador, liberador; <hi rend="bold">kolb'alib'</hi>, 'libertad' (Basseta);
+                    <hi rend="bold">kolob'ela</hi> 'excusarse' (Ximénez).</note>
                     <l>- Kajanik'an pa la? Xuchax k'u qajoq kumal omuch' k'ajolab'.</l>
                     <l>- Kinanuk'oto,</l>
                     <l>we xkixnusik'ij aqanoq,</l>
                     <l>ta chutzinoq uk'ototajik.- Xcha' uloq Sipakna chiri' pa jul.</l>
-                    <l>Ma k'u are kuk'ot uxe jul ri umuqikil,</l>
+                    <l>Ma k'u are kuk'ot uxe jul ri umuqikil<ref target='n091'><hi rend='superscript'>91</hi></ref>,</l>
+                    <note xml:id="n091" place="right"><seg type='note-symbol'><hi rend='superscript'>91</hi></seg>El texto dice <hi rend="bold">vmoquiquil</hi></note>
                     <l>xa ujul kuk'oto k'olb'al rib'.</l>
                     <l>K'ate k'ut ta xsik'in uloq ri Sipakna,</l>
                     <l>Kolon chu k'a chiri' pa jul ta xsik'in uloq:</l>
@@ -1966,13 +1963,19 @@
                     <l>ma ch'awik!</l>
                     <l>Chiqata na ta churaquj uchi',</l>
                     <l><space quantity="11" unit="chars" />ta kamoq ! Xecha' chi kib'il kib.</l>
-                    <l><space quantity="22" unit="chars" />Xa kejaslajik,</l>
+                    <l><space quantity="22" unit="chars" />Xa kejaslajik<ref target='n092'><hi rend='superscript'>92</hi></ref>,</l>
+                    <note xml:id="n092" place="right"><seg type='note-symbol'><hi rend='superscript'>92</hi></seg><hi rend="bold">Jaslajik</hi> y <hi rend="bold">jasjatik</hi>
+                    son sinónimos, de acuerdo con Basseta, y quieren decir 'hablar en secreto'. Viene de
+                    <hi rend="bold">jaskuj</hi> 'decir algo en secreto', del cual se deriva también 
+                    <hi rend="bold">jaskum tzij</hi>, 'secreto'.</note>
                     <l>xa pu chimatzalaj kiwach chi kijujunal,</l>
                     <l>ta xkitarij qajoq ri che'.</l>
                     <l>Are k'u xcha' k'ut ta xuraquj uchi',</l>
                     <l>xa jupaj chik xsik'inik,</l>
                     <l>ta xqaj apanoq ri che'.</l>
-                    <l>-Ok'a! mixutzinik,</l>
+                    <l>-Ok'a!<ref target='n093'><hi rend='superscript'>93</hi></ref> mixutzinik,</l>
+                    <note xml:id="n093" place="right"><seg type='note-symbol'><hi rend='superscript'>93</hi></seg>Es una expresión de burla (Ximénez). Es
+                    homógrafa a <hi rend="bold">ok'a</hi> que quiere decir 'une veintena de cacao'.</note>
                     <l>k'i utz mixqab'ano chi re,</l>
                     <l><space quantity="8" unit="chars" />mixkamik!</l>
                     <l>Ata la b'e chitaqen chub'ano,</l>
@@ -1980,37 +1983,16 @@
                     <l>ta chuxoq!</l>
                     <l>Unab'e la xukoj ula rib' quk',</l>
                     <l>chi qaxo'l puch la oj omuch' k'ajolab ' ! Xecha' k'ut, kekikot chik.</l>
-                    <l>-K'o ri ub'anik qaki oxij</l>
-
-                    <note n="90" place="margin" type="Colop">Viene de <hi rend="bold">kolob'ej</hi>,
-                    'librar, salvar'. De esta raiz tambien se derivan <hi rend="bold">kolonel</hi>
-                    'salvador, liberador; <hi rend="bold">kolb'alib'</hi>, 'libertad' (Basseta);
-                    <hi rend="bold">kolob'ela</hi> 'excusarse' (Ximénez).
-                    </note>
-
-                    <note n="91" place="margin" type="Colop">El texto dice <hi rend="bold">vmoquiquil</hi>
-                    </note>
-
-                    <note n="92" place="margin" type="Colop"><hi rend="bold">Jaslajik</hi> y <hi rend="bold">jasjatik</hi>
-                    son sinonimos, de acuerdo con Basseta, y quieren decir 'hablar en secreto'. Viene de
-                    <hi rend="bold">jaskuj</hi> 'decir algo en secreto', del cual se deriva tambien 
-                    <hi rend="bold">jaskum tzij</hi>, 'secreto'.
-                    </note>
-
-                    <note n="93" place="margin" type="Colop">Es una expresion de burla (Ximénez). Es
-                    homografa a <hi rend="bold">ok'a</hi> que quiere decir 'une veintena de cacao'.
-                    </note>
-
-                    <note n="94" place="margin" type="Colop"><hi rend="bold">Ki</hi>, literalmente 'maguey'. Aqui se esta
-                    identificando al licor derivado de esa planta; lo cual puede tambien ser conceptualizado como
-                    <hi rend="bold">ki'</hi>, 'dulce'.
-                    </note>
-
-
+                    <l>-K'o ri ub'anik qaki<ref target='n094'><hi rend='superscript'>94</hi></ref> oxij</l>
+                    <note xml:id="n094" place="right"><seg type='note-symbol'><hi rend='superscript'>94</hi></seg><hi rend="bold">Ki</hi>, literalmente 'maguey'. Aquí se está
+                    identificando al licor derivado de esa planta; lo cual puede también ser conceptualizado como
+                    <hi rend="bold">ki'</hi>, 'dulce'.</note>
                     <pb xml:id="colop1999-048"/>
 
                     <l>kelekowik oxij puch,</l>
-                    <l>chiquk'aj laqab'eb'al</l>
+                    <l>chiquk'aj laqab'eb'al<ref target='n095'><hi rend='superscript'>95</hi></ref></l>
+                    <note xml:id="n095" place="left"><seg type='note-symbol'><hi rend='superscript'>95</hi></seg>Viene de <hi rend="bold">laqab'ej</hi> que
+                    quiere decir 'habitar en alguna parte; avencindarse' (Basseta).</note>
                     <l>qakab'al, la oj omuch' chi k'ajolab' .- Xecha'.</l>
                     <l>-Chuweq k'ut chiqilo,</l>
                     <l><space quantity="1" unit="chars" />kab'ij puch chiqilo,</l>
@@ -2019,12 +2001,14 @@
                     <l>K'ate k'ut kul chi qak'ux,</l>
                     <l>ta quk'aj ri qaki'.- Xecha' k'ut.</l>
                     <l>Kuta' k'u uloq ri Sipakna chiri' pa jul,</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xkib'ij k'ajolab' ri'.</l>
                     <l>Ka chukab'ij puch ta xtub'ukij sanik keb'inowik,</l>
                     <l><space quantity="18" unit="chars" />keb'uchuwik,</l>
                     <l><space quantity="18" unit="chars" />ta xek'ulun xe che'.</l>
-                    <l>Jumaj kikayelo'n is,</l>
+                    <l>Jumaj<ref target='n096'><hi rend='superscript'>96</hi></ref> kikayelo'n is,</l>
+                    <note xml:id="n096" place="left"><seg type='note-symbol'><hi rend='superscript'>96</hi></seg><hi rend="bold">Jumaj</hi>, de acuerdo con Coto, quiere decir:
+                    'de cada parte, de todas partes, en alguna parte, en pocas partes, en toda parte'.</note>
                     <l><space quantity="6" unit="chars" />kikayelo'n puch rixk'aq Sipakna.</l>
                     <l>Ta xkil k'u ri k'ajolab':</l>
                     <l>-Mi pa xutzin ri k'axtok'?</l>
@@ -2034,12 +2018,12 @@
                     <l>Jumaj is kikayen,</l>
                     <l>k'o rixk'aq ri chila' na.</l>
                     <l>Mixqab'ano k'a! Xecha' chi kib'il kib'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Are k'u ri Sipakna xawi k'aslik:</l>
                     <l>xuqat uloq rismal uwi',</l>
                     <l>xa pu kuq'ux uloq rixk'aq chi re kuya' ula chi kech ri sanik.</l>
                     <l>K'eje k'u ri xkamik xkina'o omuch' k'ajolab'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'ate k'ut xtikar kiki chi roxij,</l>
                     <l>ta xeq'ab'ar puch konojel k'ajolab';</l>
                     <l>e k'u q'ab'arinaq chik konojel omuch' k'ajolab',</l>
@@ -2050,22 +2034,15 @@
                     <l>ka'ib' xkolotaj chi kech wi omuch' chi k'ajolab',</l>
                     <l>xekamisaxik rumal Sipakna,</l>
                     <l>uk'ajol ri Wuqub' Kak'ix.</l>
-
-                    <note n="95" place="margin" type="Colop">Viene de <hi rend="bold">laqab'ej</hi> que
-                    quiere decir 'habitar en alguna parte; avencindarse' (Basseta).
-                    </note>
-
-                    <note n="95" place="margin" type="Colop"><hi rend="bold">Jumaj</hi>, de acuerdo con Coto, quiere decir:
-                    'de cada parte, de todas partes, en alguna parte, en pocas partes, en toda parte'.
-                    </note>
-
                     <pb xml:id="colop1999-049"/>
-
                     <l>K'eje k'ut kikamik omuch' k'ajolab' ri'.</l>
                     <l>Xcha' chi k'ut are ri xe'ok chi ch'umilal:</l>
                     <l>ri Motz ub'i' kumal.</l>
-                    <l>We k'ut xa saqb'al tzij lo.</l>
-                    <lb /> <!-- potential div marker -->
+                    <l>We k'ut xa saqb'al tzij<ref target='n097'><hi rend='superscript'>97</hi></ref> lo.</l>
+                    <note xml:id="n097" place="right"><seg type='note-symbol'><hi rend='superscript'>97</hi></seg>Juego de palabras' y hace
+                    referencia a la similitud entre los términos <hi rend="bold">motz</hi>,
+                    <hi rend="bold">mutz</hi>, <hi rend="bold">much</hi>, y <hi rend="bold">much'</hi>, etcétera.</note>
+                    <lb />
                     <l>Are chi k'ut chiqab'ij uch'akatajik chik</l>
                     <l>Sipakna rumal ri e ka'ib' k'ajolab',</l>
                     <l>Junajpu,</l>
@@ -2103,10 +2080,7 @@
                     <l>k'u ri Sipakna.</l>
                     <l>-Naki pa awecha'?</l>
 
-                    <note n="97" place="margin" type="Colop">'Juego de palabras' y hace
-                    referencia a la similitud entre los terminos <hi rend="bold">motz</hi>,
-                    <hi rend="bold">mutz</hi>, <hi rend="bold">much</hi>, y <hi rend="bold">much'</hi>, etcetera.
-                    </note>
+                    
 
                     <note n="98" place="margin" type="Colop">Aqui y en otras partes el texto dice <hi rend="bold">a</hi> o 
                     <hi rend="bold">ya'</hi> por <hi rend="bold">ja'</hi>, 'agua, rio'.
