@@ -2352,10 +2352,12 @@
                 <head>ROX</head>
                 <lg xml:id='lg3.01' type='tasik'>
                     <pb xml:id="colop1999-057"/>
-                    <l>ARE CHI K'UT XCHIQAB'IJ CHIK UB'I' KIQAJAW RI JUNAJPU,</l>
-                    <l><space quantity="46" unit="chars" />XB'ALANKE</l>
-                    <lb /> <!-- potential div marker -->
-                    <l>Xqaqumuj chuwi'</l>
+                    <l><seg rend='caps' type='tasik-header'>ARE CHI K'UT XCHIQAB'IJ CHIK UB'I' KIQAJAW RI JUNAJPU,</seg></l>
+                    <l><seg rend='caps' type='tasik-header'><space quantity="46" unit="chars" />XB'ALANKE</seg></l>
+                    <lb />
+                    <l>Xqaqumuj<ref target='n121'><hi rend='superscript'>121</hi></ref> chuwi'</l>
+                    <note xml:id="n121" place="right"><seg type='note-symbol'><hi rend='superscript'>121</hi></seg>El texto dice <hi rend="bold">xca camuh</hi>;
+                    aunque el verbo debe ser <hi rend="bold">qumuj</hi> 'beber' (Basseta, Coto, Ximénez).</note>
                     <l>xa pu xqaqumuj ub'ixik,</l>
                     <l><space quantity="15" unit="chars" />utzijoxik puch kik'ajolaxik ri Junajpu,</l>
                     <l><space quantity="46" unit="chars" />Xb'alanke.</l>
@@ -2380,11 +2382,6 @@
                     <l>E nima'q ajna'oj,</l>
                     <l>nim puch ketamab'al.</l>
                     <l>E nikwachinel waral chuwach ulew.</l>
-
-                    <note n="121" place="margin" type="Colop">El texto dice <hi rend="bold">xca camuh</hi>;
-                    aunque el verbo debe ser <hi rend="bold">qumuj</hi> 'beber' (Basseta, Coto, Ximénez).
-                    </note>
-
                     <pb xml:id="colop1999-058"/>
 
                     <l>Xa utz kik'oje'ik,</l>
@@ -2400,59 +2397,50 @@
                     <l>e ajpuwaq xe'uxik ri Jun B'atz',</l>
                     <l><space quantity="21" unit="chars" />Jun Chowen.</l>
                     <l>Are k'u ri Jun Junajpu,</l>
-                    <l><space quantity="8" unit="chars" />Wuqub' Junajpu xa sak',</l>
+                    <l><space quantity="8" unit="chars" />Wuqub' Junajpu xa sak'<ref target='n122'><hi rend='superscript'>122</hi></ref>,</l>
+                    <note xml:id="n122" place="left"><seg type='note-symbol'><hi rend='superscript'>122</hi></seg>Juego de dados (Ximénez).</note>
                     <l><space quantity="23" unit="chars" />xa chaaj chikib'ano juta q'ij.</l>
                     <l>Xa e kakab' chi kik'ulelaj kib',</l>
                     <l><space quantity="3" unit="chars" />e kajib' chi konojel,</l>
-                    <l>ta kekuch mayjik pa jom.</l>
-                    <lb /> <!-- potential div marker -->
+                    <l>ta kekuch mayjik pa jom<ref target='n123'><hi rend='superscript'>123</hi></ref>.</l>
+                    <note xml:id="n123" place="left"><seg type='note-symbol'><hi rend='superscript'>123</hi></seg>Cementerio y lugar para jugar pelota (Ximénez).</note>
+                    <lb />
                     <l>Chul k'u ri wok,</l>
                     <l><space quantity="9" unit="chars" />ilol ke,</l>
                     <l><space quantity="9" unit="chars" />usamajel Jun Raqan, chi'</l>
                     <l><space quantity="18" unit="chars" />Ch'ipi Kaqulja,</l>
                     <l><space quantity="18" unit="chars" />Raxa Kaqulja.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Are k'u ri wok mawi naj waral chuwach ulew,</l>
                     <l><space quantity="15" unit="chars" />mawi naj chi Xib'alb'a chi re,</l>
                     <l>lib'aj chi' chopon chik chi kaj ruk' Jun Raqan.</l>
-                    <l>xeyaluj waral chuwach ulew,</l>
+                    <l>xeyaluj<ref target='n124'><hi rend='superscript'>124</hi></ref> waral chuwach ulew,</l>
+                    <note xml:id="n124" place="left"><seg type='note-symbol'><hi rend='superscript'>124</hi></seg>Detenerse, tardarse (Basseta).</note>
                     <l>xkaminaq k'a k'ut kichuch ri Jun B'atz',</l>
                     <l><space quantity="29" unit="chars" />Jun Chowen.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Are k'ut ub'e'el Xib'alb'a xechaaj wi.</l>
                     <l>Ta xkita' k'ut Jun Kame,</l>
                     <l><space quantity="15" unit="chars" />Wuqub' Kame, rajawal Xib'alb'a:</l>
                     <l>- Naki pa ri kab'an chuwach ulew?</l>
-                    <l>Xa kenik'notik,</l>
-                    <l>xa pu kejuminik.</l>
+                    <l>Xa kenik'notik<ref target='n125'><hi rend='superscript'>125</hi></ref>,</l>
+                    <note xml:id="n125" place="left"><seg type='note-symbol'><hi rend='superscript'>125</hi></seg>Hacer ruido con los pies, como en el caso
+                    del juego de pelota.</note>
+                    <l>xa pu kejuminik<ref target='n126'><hi rend='superscript'>126</hi></ref>.</l>
+                    <note xml:id="n126" place="left"><seg type='note-symbol'><hi rend='superscript'>126</hi></seg>Gritar, 'hacer ruido con la boca', como en 
+                    el juego de pelota.</note>
                     <l>Keb'e ta taqok waral taj,</l>
                     <l><space quantity="6" unit="chars" />ke'ul chaaj wi,</l>
                     <l><space quantity="6" unit="chars" />keqach'ak ta k'ut.</l>
-
-                    <note n="122" place="margin" type="Colop">Juego de dados (Ximénez).
-                    </note>
-
-                    <note n="123" place="margin" type="Colop">Cementerio y lugar para jugar pelota (Ximénez).
-                    </note>
-
-                    <note n="124" place="margin" type="Colop">Detenerse, tardarse (Basseta).
-                    </note>
-
-                    <note n="125" place="margin" type="Colop">Hacer ruido con los pies, como en el caso
-                    del juego de pelota.
-                    </note>
-
-                    <note n="126" place="margin" type="Colop">Gritar, 'hacer ruido con la boca', como en 
-                    el juego de pelota.
-                    </note>
-                    
                     <pb xml:id="colop1999-059"/>
 
                     <l>Xa maja b'i qanimaxik kumal,</l>
                     <l><space quantity="3" unit="chars" />maja b'i kinim,</l>
                     <l>ma pu ja b'i k'ixob' kuxik.</l>
-                    <l>Xax kejik'ik uloq pa qawi.- Xecha' k'ut konojel Xib'alb'a.</l>
-                    <lb /> <!-- potential div marker -->
+                    <l>Xax kejik'ik uloq pa qawi.- Xecha' k'ut konojel<ref target='n127'><hi rend='superscript'>127</hi></ref> Xib'alb'a.</l>
+                    <note xml:id="n127" place="right"><seg type='note-symbol'><hi rend='superscript'>127</hi></seg>El texto dice <hi rend="bold">conoh</hi> por 
+                    <hi rend="bold">conohel</hi>.</note>
+                    <lb />
                     <l>Ta xkik'am kina'oj konojel.</l>
                     <l>Ri kib'i' Jun Kame,</l>
                     <l><space quantity="10" unit="chars" />Wuqub' Kame, e nima'q q'atol tzij.</l>
@@ -2475,7 +2463,9 @@
                     <l>Are k'ut kajch'amyal ri chib'aqir winaq</l>
                     <l>qitzij chi b'aq,</l>
                     <l>chi jolom chik;</l>
-                    <l>ta chikamik siyaj b'aq xupam chik'amowik.</l>
+                    <l>ta chikamik siyaj b'aq<ref target='n128'><hi rend='superscript'>128</hi></ref> xupam chik'amowik.</l>
+                    <note xml:id="n128" place="right"><seg type='note-symbol'><hi rend='superscript'>128</hi></seg><hi rend="bold">Siyaj b'aq</hi> quiere decir 'espina,
+                    esqueleto' y <hi rend="bold">siyaj b'aqil</hi> la enfermedad (Basseta).</note>
                     <l>Are upatan ri Ch'amya B'aq</l>
                     <l><space quantity="14" unit="chars" />Ch'amya Jolom kib'i'.</l>
                     <l>Are chi k'u ri ajaw Ajal Mes,</l>
@@ -2489,48 +2479,61 @@
                     <l>Are k'ut kajawarem Ajal Mes,</l>
                     <l><space quantity="19" unit="chars" />Ajal Toq'ob', ke'ucha'xik.</l>
                     <l>Are chi k'u ri Ajaw Xik,</l>
-
-                    <note n="127" place="margin" type="Colop">El texto dice <hi rend="bold">conoh</hi> por 
-                    <hi rend="bold">conohel</hi>.
-                    </note>
-
-                    <note n="128" place="margin" type="Colop"><hi rend="bold">Siyaj b'aq</hi> quiere decir 'espina,
-                    esqueleto' y <hi rend="bold">siyaj b'aqil</hi> la enfermedad (Basseta).
-                    </note>
-
                     <pb xml:id="colop1999-060"/>
-                    
                     <l><space quantity="15" unit="chars" />Patan, kib'i';</l>
                     <l>are kajawarem ri winaq chikam pa b'e.</l>
                     <l>Xa rax kamik, chucha'xik.</l>
                     <l>Chipe kik' puchi'</l>
                     <l>ta chikamik chuxawaj kik'.</l>
                     <l>Xa jujun chi patan,</l>
-                    <l><space quantity="13" unit="chars" />kitelela'on:</l>
+                    <l><space quantity="13" unit="chars" />kitelela'on<ref target='n129'><hi rend='superscript'>129</hi></ref>:</l>
+                    <note xml:id="n129" place="left"><seg type='note-symbol'><hi rend='superscript'>129</hi></seg>Equivale a 'oficio'. Viene de
+                    <hi rend="bold">telej</hi> 'cargar' y <hi rend="bold">teleb'a</hi> es 
+                    'cargar en hombros'.</note>
                     <l>xa chikiq'osij uqulel,</l>
                     <l><space quantity="15" unit="chars" />uk'ux winaq ta chikam pa b'e.</l>
                     <l>Xa chikik'ulmaj apanoq we chib'inik,</l>
                     <l><space quantity="26" unit="chars" />chi k'ul.</l>
                     <l>Are k'ut kajawarem Xik,</l>
                     <l><space quantity="19" unit="chars" />Patan, ri'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Are k'ut xkikuch kina'oj ri',</l>
-                    <l>ta xetza'ixik</l>
-                    <l>ta xekotob'ax puch Jun Junajpu,</l>
+                    <l>ta xetza'ixik<ref target='n130'><hi rend='superscript'>130</hi></ref></l>
+                    <note xml:id="n130" place="left"><seg type='note-symbol'><hi rend='superscript'>130</hi></seg>'Fueron perseguidos/tentados...' Viene de
+                    <hi rend="bold">Tzaij</hi> 'perseguir, tentar' (Basseta, Ximénez, Coto).</note>
+                    <l>ta xekotob'ax<ref target='n131'><hi rend='superscript'>131</hi></ref> puch Jun Junajpu,</l>
+                    <note xml:id="n131" place="left"><seg type='note-symbol'><hi rend='superscript'>131</hi></seg>También quiere decir 'perseguir' (Basseta,
+                    Ximénez). De aquí que en estas líneas, los verbos <hi rend="bold">tzaij</hi> y 
+                    <hi rend="bold">kotob'aj</hi> conforman una copia sinonímica.</note>
                     <l><space quantity="19" unit="chars" />Wuqub' Junajpu.</l>
                     <l>Are xkirayij Xib'alb'a ri ketz'ab'al Jun Junajpu,</l>
                     <l><space quantity="37" unit="chars" />Wuqub' Junajpu:</l>
-                    <l>ri kitz'um,</l>
-                    <l><space quantity="3" unit="chars" />kib'ate,</l>
-                    <l><space quantity="3" unit="chars" />kipachq'ab',</l>
-                    <l><space quantity="3" unit="chars" />kiyachwach,</l>
-                    <l><space quantity="9" unit="chars" />wachsot puch;</l>
-                    <l>kikawub'al Jun Junajpu,</l>
+                    <l>ri kitz'um<ref target='n132'><hi rend='superscript'>132</hi></ref>,</l>
+                    <note xml:id="n132" place="left"><seg type='note-symbol'><hi rend='superscript'>132</hi></seg>El texto dice <hi rend="bold">tzuun</hi> por
+                    <hi rend="bold">tz'um</hi>. Literalmente 'cuero' pero se refiere al delantal o falda
+                    protectiva de cuero que se usaba para el juego de la pelota.</note>
+                    <l><space quantity="3" unit="chars" />kib'ate<ref target='n133'><hi rend='superscript'>133</hi></ref>,</l>
+                    <note xml:id="n133" place="left"><seg type='note-symbol'><hi rend='superscript'>133</hi></seg>Ximénez dice que es 'argolla para la garganta y 
+                    un instrumento para jugar a la pelota...' De ahí que varios lo han traducido como "argolla" que
+                    se usaba en el juego de la pelota. Tedlock (1996:254); sin embargo argumenta que era una especie
+                    de bastón o raqueta de juego atado a la cintura.</note>
+                    <l><space quantity="3" unit="chars" />kipachq'ab'<ref target='n134'><hi rend='superscript'>134</hi></ref>,</l>
+                    <note xml:id="n134" place="left"><seg type='note-symbol'><hi rend='superscript'>134</hi></seg>Protectores de los brazos y manos.</note>
+                    <l><space quantity="3" unit="chars" />kiyachwach<ref target='n135'><hi rend='superscript'>135</hi></ref>,</l>
+                    <note xml:id="n135" place="left"><seg type='note-symbol'><hi rend='superscript'>135</hi></seg>Penacho. Viene de <hi rend="bold">yach</hi> 'corona' (Basseta).</note>
+                    <l><space quantity="9" unit="chars" />wachsot<ref target='n136'><hi rend='superscript'>136</hi></ref> puch;</l>
+                    <note xml:id="n136" place="left"><seg type='note-symbol'><hi rend='superscript'>136</hi></seg>Demonium Mascara protectora; aunque (Tedlock 1996:254),
+                    argumenta que es una especie de turbante o banda que se enrolla en la cabeza.</note>
+                    <l>kikawub'al<ref target='n137'><hi rend='superscript'>137</hi></ref> Jun Junajpu,</l>
+                    <note xml:id="n137" place="left"><seg type='note-symbol'><hi rend='superscript'>137</hi></seg>Atavíos u objetos de adorno. Viene de 
+                    <hi rend="bold">Kawuj</hi> 'ataviar, componer, adornar, arreglar' (Basseta, Ximénez);
+                    y también "armarse" (Basseta). <hi rend="bold">Kawuj</hi> y <hi rend="bold">wiko</hi>
+                    son sinónimos.</note>
                     <l><space quantity="11" unit="chars" />Wuqub' Junajpu.</l>
                 </lg>
                 <lg xml:id='lg3.02' type='tasik'>
-                    <l>ARE CHI K'UT XCHIQAB'IJ CHIK KIB'E'IK CHI XIB'ALB'A</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>ARE CHI K'UT XCHIQAB'IJ CHIK KIB'E'IK<ref target='n138'><hi rend='superscript'>138</hi></ref> CHI XIB'ALB'A</seg></l>
+                    <note xml:id="n138" place="left"><seg type='note-symbol'><hi rend='superscript'>138</hi></seg>El texto dice <hi rend="bold">qui bijc</hi>.</note>
                     <l>Xekanaj k'u kanoq ri Jun B'atz',</l>
                     <l><space quantity="21" unit="chars" />Jun Chowen,</l>
                     <l>uk' ajol Jun Junajpu.</l>
@@ -2540,51 +2543,6 @@
                     <l><space quantity="51" unit="chars" />Xb'alanke.</l>
                     <l>K'ate k'ut kipetik samajel rumal Jun Kame,</l>
                     <l><space quantity="33" unit="chars" />Wuqub' Kame:</l>
-
-                    <note n="129" place="margin" type="Colop">Equivale a 'oficio'. Viene de
-                    <hi rend="bold">telej</hi> 'cargar' y <hi rend="bold">teleb'a</hi> es 
-                    'cargar en hombros'.
-                    </note>
-
-                    <note n="130" place="margin" type="Colop">'Fueron perseguidos/tentados...' Viene de
-                    <hi rend="bold">Tzaij</hi> 'perseguir, tentar' (Basseta, Ximénez, Coto).
-                    </note>
-
-                    <note n="131" place="margin" type="Colop">Tambien quiere decir 'perseguir' (Basseta,
-                    Ximénez). De aqui que en estas lineas, los verbos <hi rend="bold">tzaij</hi> y 
-                    <hi rend="bold">kotob'aj</hi> conforman una copia sinonimica.
-                    </note>
-
-                    <note n="132" place="margin" type="Colop">El texto dice <hi rend="bold">tzuun</hi> por
-                    <hi rend="bold">tz'um</hi>. Literalmente 'cuero' pero se refiere al delantal o falda
-                    protectiva de cuero que se usaba para el juego de la pelota.
-                    </note>
-
-                    <note n="133" place="margin" type="Colop">Ximénez dice que es 'argolla para la garganta y 
-                    un instrumento para jugar a la pelota...' De ahi que varios lo han traducido como "argolla" que
-                    se usaba en el juego de la pelota. Tedlock (1996:254); sin embargoargumenta que era una especie
-                    de baston o raqueta de juego atado a la cintura.
-                    </note>
-
-                    <note n="134" place="margin" type="Colop">Protectores de los brazos y manos.
-                    </note>
-
-                    <note n="135" place="margin" type="Colop">Penacho. Viene de <hi rend="bold">yach</hi> 'corona' (Basseta).
-                    </note>
-
-                    <note n="136" place="margin" type="Colop">Demonium Mascara protectora; aunque (Tedlock 1996:254),
-                    argumenta que es una especie de turbante o banda que se enrolla en la cabeza.
-                    </note>
-
-                    <note n="137" place="margin" type="Colop">Atavios u objetos de adorno. Viene de 
-                    <hi rend="bold">Kawuj</hi> 'ataviar, componer, adornar, arreglar' (Basseta, Ximénez);
-                    y tambien "armarse" (Basseta). <hi rend="bold">Kawuj</hi> y <hi rend="bold">wiko</hi>
-                    son sinonimos.
-                    </note>
-
-                    <note n="138" place="margin" type="Colop">El texto dice <hi rend="bold">qui bijc</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-061"/>
 
                     <l>-Kixb'ek ix rajpop achij,</l>
@@ -2601,13 +2559,15 @@
                     <l>kipachq'ab';</l>
                     <l>chipe nay puch ri kikik'! Kecha' ajawab'.</l>
                     <l><space quantity="18" unit="chars" />Kixcha' ta kixoponoq.- Xe'ucha'xik ri samajel.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Are k'ut kisamajel ri tukur:</l>
                     <l>Ch'ab'i Tukur,</l>
                     <l>Juraqan Tukur,</l>
                     <l>Kak'ix Tukur,</l>
                     <l>Jolom Tukur, ke'ucha'xik usamajel Xib'alb'a.</l>
-                    <l>Are ri Ch'ab'i Tukur keje ri ch'ab' xa kopkik;</l>
+                    <l>Are ri Ch'ab'i Tukur keje ri ch'ab' xa kopkik<ref target='n139'><hi rend='superscript'>139</hi></ref>;</l>
+                    <note xml:id="n139" place="right"><seg type='note-symbol'><hi rend='superscript'>139</hi></seg>Metafora que quiere decir "aparece de repente". Ximénez
+                    dice que es como cuando una flor revienta.</note>
                     <l>Are k'u ri Juraqan Tukur xa jun raqan, k'o uxik';</l>
                     <l>are k'u ri Kak'ix Tukur q'aq' rij, k'o uxik';</l>
                     <l>are chi nay puch ri Jolom Tukur xa utukel ujolom,</l>
@@ -2615,7 +2575,7 @@
                     <l><space quantity="35" unit="chars" />xa uxik' k'olik.</l>
                     <l>E kajib' ri samajel rajpop,</l>
                     <l>achijab' keq'alem.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Ta xepe k'ut chila' chi Xib'alb'a,</l>
                     <l>lib'aj chi' xe'ulik e k'u taqal chuwi jom,</l>
                     <l>kechaaj k'ut Jun Junajpu,</l>
@@ -2627,11 +2587,6 @@
                     <l><space quantity="24" unit="chars" />Ajal Puj,</l>
                     <l><space quantity="24" unit="chars" />Ajal Q'ana,</l>
                     <l><space quantity="24" unit="chars" />Ch'amya B'aq,</l>
-
-                    <note n="139" place="margin" type="Colop">Metafora que quiere decir "aparece de repente". Ximénez
-                    dice que es como cuando una flor revienta.
-                    </note>
-
                     <pb xml:id="colop1999-062"/>
 
                     <l><space quantity="24" unit="chars" />Ch'amya Jolom,</l>
@@ -2651,17 +2606,24 @@
                     <l>-Utz b'a la.</l>
                     <l>Kojiwoyob'ej na</l>
                     <l>jo' na qapixab'aj kan na qachuch.- Xecha' k'ut.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Xeb'e k'ut chi kochoch,</l>
                     <l>xecha' k'ut chi re kichuch:</l>
                     <l>-xkaminaqoq kiqajaw</l>
                     <l>Jo' na! ix,</l>
                     <l><space quantity="8" unit="chars" />qachuch,</l>
-                    <l>xa et kulik,</l>
+                    <l>xa et<ref target='n140'><hi rend='superscript'>140</hi></ref> kulik,</l>
+                    <note xml:id="n140" place="left"><seg type='note-symbol'><hi rend='superscript'>140</hi></seg>Partícula que según Basseta, agrega a la frase
+                    un significado diminutivo o despectivo, como en <hi rend="bold">xa et winaq</hi>, 
+                    'gentecillas'; <hi rend="bold">xa et tzij</hi>, 'palabra de poca importancia' o charlatanería.
+                    En el presente ejemDemoniumplo, <hi rend="bold">xa et kulik</hi> significaría
+                    'ahorita vino' lo que es opuesto a <hi rend="bold">xa et na</hi>, 'despuesito'.</note>
                     <l>mixul usamajel Ajaw, k'amol qe,</l>
                     <l>Kepetoq! Kacha' k'ut,</l>
                     <l>kecha' taqol qe.</l>
-                    <l>Xchikanaj k'u kan wa qakik' .- Xecha k'ut.</l>
+                    <l>Xchikanaj k'u kan<ref target='n141'><hi rend='superscript'>141</hi></ref> wa qakik' .- Xecha k'ut.</l>
+                    <note xml:id="n141" place="left"><seg type='note-symbol'><hi rend='superscript'>141</hi></seg>El texto dice <hi rend="bold">cana</hi> por lo
+                    que debe ser <hi rend="bold">can</hi>.</note>
                     <l>K'ate xb'ekixima' kanoq puwi ja.</l>
                     <l>Kojul na!</l>
                     <l>k'ate chiqachokonisaj chik!</l>
@@ -2673,52 +2635,49 @@
                     <l>chimeq'oj puch uk'ux iwati't.-</l>
                     <l>Xe'uchax k'ut Jun B'atz',</l>
                     <l><space quantity="14" unit="chars" />Jun Chowen ta xepixab'axik.</l>
-                    <l>Q'usq'uj k'ut choq' kichuch, ri Xmukane.</l>
-
-                    <note n="140" place="margin" type="Colop">Particula que segun Basseta, agrega a la frase
-                    un significado diminutivo o despectivo, como en <hi rend="bold">xa et winaq</hi>, 
-                    'gentecillas'; <hi rend="bold">xa et tzij</hi>, 'palabra de poca importancia' o charlataneria.
-                    En el presente ejemDemoniumplo, <hi rend="bold">xa et kulik</hi> significaria
-                    'ahorita vino' lo que es opuesto a <hi rend="bold">xa et na</hi>, 'despuesito'.
-                    </note>
-
-                    <note n="141" place="margin" type="Colop">El texto dice <hi rend="bold">cana</hi> por lo
-                    que debe ser <hi rend="bold">can</hi>.
-                    </note>
-
-                    <note n="142" place="margin" type="Colop">El texto dice <hi rend="bold">quz quz</hi>. De 
-                    acuerdo con Coto, la expresion <hi rend="bold">3uz3uh qu'in o3</hi> quiere decir 'llorar
-                    mucho, con dolor grande la cause por que [lloro]'.
-                    </note>
-
+                    <l>Q'usq'uj<ref target='n142'><hi rend='superscript'>142</hi></ref> k'ut choq' kichuch, ri Xmukane.</l>
+                    <note xml:id="n142" place="left"><seg type='note-symbol'><hi rend='superscript'>142</hi></seg>El texto dice <hi rend="bold">quz quz</hi>. De 
+                    acuerdo con Coto, la expresión <hi rend="bold">3uz3uh qu'in o3</hi> quiere decir 'llorar
+                    mucho, con dolor grande la cause por que [lloro]'.</note>
                     <pb xml:id="colop1999-063"/>
-
                     <l>-Jo' na! Maja b'i kojkamik.</l>
                     <l>Mixb'isonik.- Xecha' ta xeb'ek Jun Junajpu</l>
                     <l><space quantity="31" unit="chars" />Wuqub' Junajpu.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
                 <lg xml:id='lg3.03' type='tasik'>
-                    <l>K'ATE PUCH TA XEB'EK JUN JUNAJPU,</l>
-                    <l><space quantity="21" unit="chars" />WUQUB' JUNAJPU.</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>K'ATE PUCH TA XEB'EK JUN JUNAJPU,</seg></l>
+                    <l><seg rend='caps' type='tasik-header'><space quantity="21" unit="chars" />WUQUB' JUNAJPU.</seg></l>
                     <l>Xk'am kib'e kumal ri samajel.</l>
                     <l>Ta xeqaj k'ut pu b'e'al Xib'alb'a,</l>
-                    <l>xuluxuj uchi kumuk.</l>
+                    <l>xuluxuj uchi kumuk<ref target='n143'><hi rend='superscript'>143</hi></ref>.</l>
+                    <note xml:id="n143" place="right"><seg type='note-symbol'><hi rend='superscript'>143</hi></seg>Grada o escalón. <hi rend="bold">Kumukaj</hi> es
+                    subir o bajar gradas (Ximénez).</note>
                     <l>xeqaj k'ut,</l>
-                    <l>ta xe'el chi k'u apanoq chuchi' jal ja' siwanub'</l>
+                    <l>ta xe'el chi k'u apanoq chuchi' jal ja'<ref target='n144'><hi rend='superscript'>144</hi></ref> siwanub'</l>
+                    <note xml:id="n144" place="right"><seg type='note-symbol'><hi rend='superscript'>144</hi></seg><hi rend="bold">Jal ja'</hi>, 'agua, río rapido, violento';
+                    y <hi rend="bold">jaljal ja'</hi>, 'aguas que se juntan y se revuelven' (Basseta).</note>
                     <l><space quantity="40" unit="chars" />nu'siwan</l>
                     <l><space quantity="40" unit="chars" />k'ulku siwan, ub'i' xe'ik'ow wi.</l>
-                    <l>Xe'ik'ow chi k'ut chi upam jaljal ja' simaj,</l>
-                    <l>mawi ajilan simaj;</l>
+                    <l>Xe'ik'ow<ref target='n145'><hi rend='superscript'>145</hi></ref> chi k'ut chi upam jaljal ja' simaj,</l>
+                    <note xml:id="n145" place="right"><seg type='note-symbol'><hi rend='superscript'>145</hi></seg>El texto dice <hi rend="bold">xeeco</hi>.</note>
+                    <l>mawi ajilan simaj<ref target='n146'><hi rend='superscript'>146</hi></ref>;</l>
+                    <note xml:id="n146" place="right"><seg type='note-symbol'><hi rend='superscript'>146</hi></seg>Estacas de palo con punta aguda (Ximénez).
+                    De <hi rend="bold">simaj</hi> se deriva <hi rend="bold">simajij</hi> para decir
+                    'hacer punta' [de lapices, estacas] etc.</note>
                     <l>xe'ik'ow wi mawi xetoq'otajik.</l>
-                    <l>Ta xe'opon chi k'ut chi a',</l>
+                    <l>Ta xe'opon chi k'ut chi a'<ref target='n147'><hi rend='superscript'>147</hi></ref>,</l>
+                    <note xml:id="n147" place="right"><seg type='note-symbol'><hi rend='superscript'>147</hi></seg>El texto dice <hi rend="bold">a'</hi>.</note>
                     <l><space quantity="20" unit="chars" />chi kik' a',</l>
-                    <l>xe'ik'ow chiri' mawi xkukaj.</l>
+                    <l>xe'ik'ow chiri' mawi xkukaj<ref target='n148'><hi rend='superscript'>148</hi></ref>.</l>
+                    <note xml:id="n148" place="right"><seg type='note-symbol'><hi rend='superscript'>148</hi></seg><hi rend="bold">Ukaj</hi>, 'beber' (Coto);
+                    y es sinónimo de <hi rend="bold">qumuj</hi>.</note>
                     <l>Xe'opon chi ja',</l>
-                    <l>utukel puj chi ja';</l>
+                    <l>utukel puj<ref target='n149'><hi rend='superscript'>149</hi></ref> chi ja';</l>
+                    <note xml:id="n149" place="right"><seg type='note-symbol'><hi rend='superscript'>149</hi></seg>El texto dice <hi rend="bold">puch</hi> por
+                    lo que debe ser <hi rend="bold">puh</hi>, conforme a la identificación de ese río 
+                    en otra parte del texto.</note>
                     <l>mawi xech'akatajik, xawi xe'ik'ow chik.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xe'opon chi k'ut pa kajib' xalqat b'e,</l>
                     <l>k'a chiri' k'ut xech'akataj wi pu kajib' xalqat b'e:</l>
                     <l>jun kaqa b'e,</l>
@@ -2730,45 +2689,14 @@
                     <l>-In kinik'amo,</l>
                     <l>in ub'e ajaw,- xch'aw ri b'e.</l>
                     <l>Chiri' k'ut xech'akataj wi,</l>
-                    <l>are xkitaqej ri ub'e Xib'alb'a.</l>
+                    <l>are xkitaqej ri ub'e<ref target='n150'><hi rend='superscript'>150</hi></ref> Xib'alb'a.</l>
+                    <note xml:id="n150" place="right"><seg type='note-symbol'><hi rend='superscript'>150</hi></seg>El texto dice <hi rend="bold">ri be</hi>por lo 
+                    que debe ser <hi rend="bold">ri ub'e</hi>; o como lo transcribe don Adrián Chávez 
+                    <hi rend="bold">r u b'e</hi>, la forma contraída de <hi rend="bold">ri ub'e</hi>.</note>
                     <l>Ta xe'opon k'ut pa kipopob'al rajawal Xib'alb'a;</l>
                     <l>xecha'kataj chi k'ut chiri'.</l>
                     <l>Are nab'e kub'ulel ri xa poy,</l>
                     <l><space quantity="22" unit="chars" />xa ajam che' kawutalik kumal Xib'alb'a.</l>
-
-                    <note n="143" place="margin" type="Colop">Grada o escalon. <hi rend="bold">Kumukaj</hi> es
-                    subir o bajar gradas (Ximénez).
-                    </note>
-
-                    <note n="144" place="margin" type="Colop"><hi rend="bold">Jal ja'</hi>, 'agua, rio rapido, violento';
-                    y <hi rend="bold">jaljal ja'</hi>, 'aguas que se juntan y se revuelven' (Basseta).
-                    </note>
-
-                    <note n="145" place="margin" type="Colop">El texto dice <hi rend="bold">xeeco</hi>.
-                    </note>
-
-                    <note n="146" place="margin" type="Colop">Estacas de palo con punta aguda (Ximénez).
-                    De <hi rend="bold">simaj</hi> se deriva <hi rend="bold">simajij</hi> para decir
-                    'hacer punta' [de lapices, estacas] etc.
-                    </note>
-
-                    <note n="147" place="margin" type="Colop">El texto dice <hi rend="bold">a'</hi>.
-                    </note>
-
-                    <note n="148" place="margin" type="Colop"><hi rend="bold">Ukaj</hi>, 'beber' (Coto);
-                    y es sinonimo de <hi rend="bold">qumuj</hi>.
-                    </note>
-
-                    <note n="149" place="margin" type="Colop">El texto dice <hi rend="bold">puch</hi> por
-                    lo que debe ser <hi rend="bold">puh</hi>, conforme a la identificacion de ese rio 
-                    en otra parte del texto.
-                    </note>
-
-                    <note n="150" place="margin" type="Colop">El texto dice <hi rend="bold">ri be</hi>por lo 
-                    que debe ser <hi rend="bold">ri ub'e</hi>; o como lo transcribe don Adrian Chavez 
-                    <hi rend="bold">r u b'e</hi>, la forma contraida de <hi rend="bold">ri ub'e</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-064"/>
 
                     <l>Are k'ut nab'e xkiq'ijila:</l>
