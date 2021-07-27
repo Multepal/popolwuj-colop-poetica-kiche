@@ -5187,10 +5187,8 @@
                 <head>UKAJ</head>
                 <lg xml:id='lg4.01' type='tasik'>
                     <pb xml:id="colop1999-119"/>
-
-                    <l>WA'E K'UT UTIKERIK TA XNA'OJIX WINAQ,</l>
-                    <l>TA XTZUKUX PUCH RI CHOK UTYO'JIL WINAQ</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>WA'E K'UT UTIKERIK TA XNA'OJIX WINAQ,</seg></l>
+                    <l><seg rend='caps' type='tasik-header'>TA XTZUKUX PUCH RI CHOK UTYO'JIL WINAQ</seg></l>
                     <l>Xecha' k'ut ri Alom,</l>
                     <l><space quantity="15" unit="chars" />K'ajolom,</l>
                     <l><space quantity="15" unit="chars" />e Tz'aqol,</l>
@@ -5216,9 +5214,7 @@
                     <l>saqil,</l>
                     <l>q'alal xkiriqo,</l>
                     <l><space quantity="7" unit="chars" />xkikana'isaj puch ri xok utyo'jil winaq.</l>
-
                     <pb xml:id="colop1999-120"/>
-
                     <l>Xa sqaqi'n chik mawi kawachin q'ij,</l>
                     <l><space quantity="32" unit="chars" />ik',</l>
                     <l><space quantity="32" unit="chars" />ch'umil pa kiwi e Tz'aqol,</l>
@@ -5258,9 +5254,7 @@
                     <l><space quantity="12" unit="chars" />kab'.</l>
                     <l>Nojinaq k'i laj echa' chi upam ri tinamit Pan Paxil,</l>
                     <l><space quantity="42" unit="chars" />Pan Kayala', ub'i'.</l>
-
                     <pb xml:id="colop1999-121"/>
-
                     <l>K'o wi echa',</l>
                     <l>uwachinel ronojel ch'uti echa',</l>
                     <l><space quantity="18" unit="chars" />nima echa';</l>
@@ -5287,12 +5281,10 @@
                     <l>Ri e qa nab'e qajaw,</l>
                     <l>E kajib' chi winaq tz'aq,</l>
                     <l>Xa echa' okinaq kityo'jil.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
                 <lg xml:id='lg4.02' type='tasik'>
-                    <l>WA'E KIB'I NAB'E WINAQ XETZ'AQIK,</l>
-                    <l><space quantity="23" unit="chars" />XEB'ITIK:</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>WA'E KIB'I NAB'E WINAQ XETZ'AQIK,</seg></l>
+                    <l><seg rend='caps' type='tasik-header'><space quantity="23" unit="chars" />XEB'ITIK:</seg></l>
                     <l>are nab'e winaq ri B'alam Kitze',</l>
                     <l>ukab' chi k'ut B'alam Aq'ab',</l>
                     <l>rox chi k'ut Majukutaj,</l>
@@ -5304,10 +5296,7 @@
                     <l>Maja b'i kichuch,</l>
                     <l>maja b'i kikajaw .</l>
                     <l>Xa utukel achij chiqab'ij.</l>
-                    <lb /> <!-- potential div marker -->
-
                     <pb xml:id="colop1999-122"/>
-
                     <l>Mana ixoq xe'alanik,</l>
                     <l>ma nay pu xek'ajolaxik rumal ri Ajtz'aq,</l>
                     <l><space quantity="32" unit="chars" />Ajb'it,</l>
@@ -5341,17 +5330,13 @@
                     <l>lib'aj chi' chikisolwachij,</l>
                     <l><space quantity="12" unit="chars" />chisolmukuj puch upam kaj,</l>
                     <l><space quantity="29" unit="chars" />upam ulew.</l>
-                    <l>Ma ju q'atajil na,</l>
+                    <l>Ma ju<ref target='n268'><hi rend='superscript'>268</hi></ref> q'atajil na,</l>
+                    <note xml:id="n268" place="left"><seg type='note-symbol'><hi rend='superscript'>268</hi></seg>El texto dice <hi rend="bold">muhu</hi>.</note>
                     <l>chikilixtaj ronojel;</l>
                     <l>ma keb'intana'on nab'e,</l>
                     <l>k'ate ta chikil ri uxe' kaj,</l>
                     <l>xawi chi re e k'o wi ta kemukunik.</l>
-
-                    <note n="268" place="margin" type="Colop">El texto dice <hi rend="bold">muhu</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-123"/>
-
                     <l>Tzatz ketamab'al xuxik;</l>
                     <l>xik'ow kiwachib'al pa che',</l>
                     <l><space quantity="19" unit="chars" />pa ab'aj,</l>
@@ -5365,7 +5350,8 @@
                     <l><space quantity="34" unit="chars" />Ik'i B'alam!</l>
                     <l>Ta xetz'onox k'ut rumal ri Ajtz'aq,</l>
                     <l><space quantity="27" unit="chars" />Ajb'it:</l>
-                    <l>-Jucha li kik'ojey kina'o?</l>
+                    <l>-Jucha li<ref target='n269'><hi rend='superscript'>269</hi></ref> kik'ojey kina'o?</l>
+                    <note xml:id="n269" place="right"><seg type='note-symbol'><hi rend='superscript'>269</hi></seg>El texto dice <hi rend="bold">huchalic iqohei</hi>.</note>
                     <l>Ma kixmukunik?</l>
                     <l>Ma kixta'onik?</l>
                     <l>Ma utz ich'ab'al</l>
@@ -5375,7 +5361,7 @@
                     <l>ma q'alaj juyub',</l>
                     <l><space quantity="3" unit="chars" />taq'aj kiwilo?</l>
                     <l>Chitija' na k'ut! Xe'ucha'xik.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>K'ate puch xk'iskil ronojel uxe' kaj.</l>
                     <l>K'ate k'ut kik'amowanik ri chi re Tz'aqol,</l>
                     <l><space quantity="34" unit="chars" />B'itol:</l>
@@ -5391,12 +5377,7 @@
                     <l>Utz kaqana'o,</l>
                     <l>xqetamaj naj,</l>
                     <l><space quantity="9" unit="chars" />naqaj,</l>
-
-                    <note n="269" place="margin" type="Colop">El texto dice <hi rend="bold">huchalic iqohei</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-124"/>
-
                     <l>mi pu xqilo nim,</l>
                     <l><space quantity="12" unit="chars" />ch'uti'n upa kaj,</l>
                     <l><space quantity="21" unit="chars" />upa ulew.</l>
@@ -5418,13 +5399,13 @@
                     <l><space quantity="23" unit="chars" />qab'it:</l>
                     <l>Mixqetamaj ronojel nim,</l>
                     <l><space quantity="19" unit="chars" />ch'uti'n. Kecha'.-</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'eje chi k'ut uk'amik chik kina'oj Alom,</l>
                     <l><space quantity="36" unit="chars" />K'ajolom:</l>
                     <l>-Jucha chik chiqab'an chi ke?</l>
                     <l>Xa ta naqaj chopon wi kimukub'al.</l>
                     <l>Xa ta sqaqi'n uwach uwachulew chikilo?</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Mawi utz ri kakib'ij.</l>
                     <l>Ma pa xa tz'aq,</l>
                     <l><space quantity="6" unit="chars" />xa b'it, kib'i'?</l>
@@ -5437,9 +5418,7 @@
                     <l>Ta chuxoq!</l>
                     <l>Xa qayojo chi sqaqi'n chik,</l>
                     <l>k'o chi karaj.</l>
-
                     <pb xml:id="colop1999-125"/>
-
                     <l>Mawi utz kaqana'o,</l>
                     <l>xa pa xchijunamataj kib'anoj quk',</l>
                     <l>ri najt kopon wi ketamab'al,</l>
@@ -5455,15 +5434,17 @@
                     <l><space quantity="44" unit="chars" />Xmukane,</l>
                     <l><space quantity="44" unit="chars" />Tz'aqol,</l>
                     <l><space quantity="44" unit="chars" />B'itol; ke'ucha'xik.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Ta xkib'an k'ut uk'oje'ik chik kitz'aq,</l>
                     <l><space quantity="31" unit="chars" />kib'it.</l>
-                    <l>Xa k'u xwab'ax ub'aq kiwach rumal ri Uk'ux Kaj.</l>
+                    <l>Xa k'u xwab'ax<ref target='n270'><hi rend='superscript'>270</hi></ref> ub'aq kiwach rumal ri Uk'ux Kaj.</l>
+                    <note xml:id="n270" place="right"><seg type='note-symbol'><hi rend='superscript'>270</hi></seg>Empañado. Viene de 
+                    <hi rend="bold">ab'</hi>, 'aliente' ('resuello', dice Ximénez).</note>
                     <l>Xmoyik k'eje ri xuxlab'ix uwach lemo,</l>
                     <l>xmoyomob'ik ub'aq kiwach.</l>
                     <l>Xa naqaj chik xemukun wi,</l>
                     <l>xere chi q'alaj ri e k'o wi.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'eje k'ut usachik ketamab'al ruk'</l>
                     <l><space quantity="6" unit="chars" />ronojel kina'ob'al e kajib' chi winaq.</l>
                     <l>Uxe' utikarib'al.</l>
@@ -5471,8 +5452,10 @@
                     <l><space quantity="11" unit="chars" />kib'itik nab'e qamam,</l>
                     <l><space quantity="26" unit="chars" />qaqajaw rumal Uk'ux Kaj,</l>
                     <l><space quantity="40" unit="chars" />Uk'ux Ulew.</l>
-                    <lb /> <!-- potential div marker -->
-                    <l>Ta xk'oje chi k'ut kik'ulel,</l>
+                    <lb />
+                    <l>Ta xk'oje chi k'ut kik'ulel<ref target='n271'><hi rend='superscript'>271</hi></ref>,</l>
+                    <note xml:id="n271" place="right"><seg type='note-symbol'><hi rend='superscript'>271</hi></seg>Compañeras. La palabra se derive 
+                    de <hi rend="bold">k'ulenik</hi>, no de <hi rend="bold">k'ulelanik</hi>.</note>
                     <l><space quantity="19" unit="chars" />kixoqil puch xuxik.</l>
                     <l>Xawi kab'awil xna'ojin chik.</l>
                     <l>K'eje ri xa pa waram xkik'am wi.</l>
@@ -5480,38 +5463,30 @@
                     <l><space quantity="34" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="34" unit="chars" />Majukutaj,</l>
                     <l><space quantity="34" unit="chars" />Ik'i B'alam.</l>
-
-                    <note n="270" place="margin" type="Colop">Empanado. Viene de 
-                    <hi rend="bold">ab'</hi>, 'aliente' ('resuello', dice Ximénez).
-                    </note>
-
-                    <note n="271" place="margin" type="Colop">Companeras. La palabra se derive 
-                    de <hi rend="bold">k'ulenik</hi>, no de <hi rend="bold">k'ulelanik</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-126"/>
-
                     <l>K'o chi kixoqil ta k'i xek'astajik;</l>
                     <l>anim xkikot chik kik'ux rumal kik'ulel.</l>
                     <l>Are k'u kib'i kixoqil wa':</l>
-                    <l>Kaja Paluna ub'i' rixoqil B'alam Kitze',</l>
+                    <l>Kaja<ref target='n272'><hi rend='superscript'>272</hi></ref> Paluna ub'i' rixoqil B'alam Kitze',</l>
+                    <note xml:id="n272" place="left"><seg type='note-symbol'><hi rend='superscript'>272</hi></seg>Probablemente debe ser
+                    <hi rend="bold">kaqa</hi>, 'rojo' y no <hi rend="bold">kaja</hi>.</note>
                     <l>Chomi Ja ub'i' rixoqil B'alam Aq'ab',</l>
                     <l>Tz'ununi Ja ub'i' rixoqil Majukutaj,</l>
                     <l>Kaq'ixa Ja ub'i' rixoqil Ik'i B'alam.</l>
                     <l>Are k'ut ub'i' kixoqil,</l>
-                    <l>ri e ixoq ajawab' xe'uxik.</l>
+                    <l>ri e ixoq ajawab'<ref target='n273'><hi rend='superscript'>273</hi></ref> xe'uxik.</l>
+                    <note xml:id="n273" place="left"><seg type='note-symbol'><hi rend='superscript'>273</hi></seg>El texto dice <hi rend="bold">e xoccahauab</hi>.</note>
                     <l>E poq'ol winaq ch'uti amaq',</l>
                     <l><space quantity="15" unit="chars" />nima amaq'.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
                 <lg xml:id='lg4.03' type='tasik'>
-                    <l>ARE K'UT UXE' QECH,</l>
-                    <l>RI OJ K'ECHE' WINAQ</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>ARE K'UT UXE' QECH,</seg></l>
+                    <l><seg rend='caps' type='tasik-header'>RI OJ K'ECHE' WINAQ</seg></l>
                     <l>Tzatz k'ut xuxik ri ajk'ixb',</l>
                     <l><space quantity="20" unit="chars" />ajkajb'.</l>
                     <l>Mana xa e kajib' chik xuxik,</l>
-                    <l>Xere kajib' ri qachuch oj K'iche' winaq.</l>
+                    <l>Xere kajib' ri qachuch<ref target='n274'><hi rend='superscript'>274</hi></ref> oj K'iche' winaq.</l>
+                    <note xml:id="n274" place="left"><seg type='note-symbol'><hi rend='superscript'>274</hi></seg>El texto dice <hi rend="bold">qui chuch</hi>.</note>
                     <l>Jalajoj chi kib'i' chi kijujunal,</l>
                     <l>ta xpoq'otajik chila' chi Releb'al Q'ij,</l>
                     <l>k'i ub'i' xuxik ri winaq:</l>
@@ -5532,19 +5507,7 @@
                     <l>chi uk'oje'ik,</l>
                     <l>Mawi sachel ub'i' umam,</l>
                     <l><space quantity="18" unit="chars" />uqajaw.</l>
-
-                    <note n="272" place="margin" type="Colop">Probablemente debe ser
-                    <hi rend="bold">kaqa</hi>, 'rojo' y no <hi rend="bold">kaja</hi>.
-                    </note>
-
-                    <note n="273" place="margin" type="Colop">El texto dice <hi rend="bold">e xoccahauab</hi>.
-                    </note>
-
-                    <note n="274" place="margin" type="Colop">El texto dice <hi rend="bold">qui chuch</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-127"/>
-
                     <l>Are poq'ol,</l>
                     <l>kirol chila' Releb'al Q'ij.</l>
                     <l>Xawi xere xpe wi Tamub',</l>
@@ -5583,20 +5546,18 @@
                     <l>xawi chi kaj chikipaq'ab'a' kiwach.</l>
                     <l>Mawi keta'm xeb'e wi</l>
                     <l>najt, xkib'ano.</l>
-                    <l>Ta xk'oje pa k'i chiri'.</l>
+                    <l>Ta xk'oje pa k'i<ref target='n275'><hi rend='superscript'>275</hi></ref> chiri'.</l>
+                    <note xml:id="n275" place="right"><seg type='note-symbol'><hi rend='superscript'>275</hi></seg>Don Adrián Chávez (p.68), traduce esta palabra
+                    'magueyes' y fundamenta en ella su punto de vista para explicar la etimología de la
+                    palabra <hi rend="bold">k'iche'</hi>.</note>
                     <l>Q'eqa winaq,</l>
                     <l>Saqi winaq;</l>
-
-                    <note n="275" place="margin" type="Colop">Don Adrian Chavez (p.68), traduce esta palabra
-                    'magueyes' y fundamenta en ella su punto de vista para explicar la etimologia de la
-                    palabra <hi rend="bold">k'iche'</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-128"/>
-
                     <l>k'i wachib'al winaq,</l>
                     <l>k'i uch'ab'al winaq;</l>
-                    <l>ka'y uxikin k'oley uxe' kaj.</l>
+                    <l>ka'y<ref target='n276'><hi rend='superscript'>276</hi></ref> uxikin k'oley uxe' kaj.</l>
+                    <note xml:id="n276" place="left"><seg type='note-symbol'><hi rend='superscript'>276</hi></seg>Aquí probablemente debe ser
+                    <hi rend="bold">keka'y</hi>, 'miraban...'.</note>
                     <l>K'o k'ut juyub'al winaq,</l>
                     <l>mawi ilo uwach.</l>
                     <l>Maja b'i rochoch,</l>
@@ -5631,22 +5592,14 @@
                     <l>Uk'ux Kaj,</l>
                     <l>Uk'ux Ulew.</l>
                     <l>Chaya' taj qetal,</l>
-                    <l><space quantity="11" unit="chars" />qatzijel chi b'e q'ij,</l>
+                    <l><space quantity="11" unit="chars" />qatzijel<ref target='n277'><hi rend='superscript'>277</hi></ref> chi b'e q'ij,</l>
+                    <note xml:id="n277" place="left"><seg type='note-symbol'><hi rend='superscript'>277</hi></seg>Descendencia. Los términos
+                    <hi rend="bold">etal</hi> y <hi rend="bold">tzijel</hi> forman una copia que 
+                    identifica a las hijas, nietos etc. (Coto).</note>
                     <l><space quantity="20" unit="chars" />chi b'e saq.</l>
                     <l>Ta chawaxoq!</l>
                     <l>ta saqiroq!</l>
-
-                    <note n="276" place="margin" type="Colop">Aqui probablemente debe ser
-                    <hi rend="bold">keka'y</hi>, 'miraban...'.
-                    </note>
-
-                    <note n="277" place="margin" type="Colop">Descendencia. Los terminos
-                    <hi rend="bold">etal</hi> y <hi rend="bold">tzijel</hi> forman una copia que 
-                    identifica a las hijas, nietos etc. (Coto).
-                    </note>
-
                     <pb xml:id="colop1999-129"/>
-
                     <l>K'i ta raxal b'e,</l>
                     <l><space quantity="7" unit="chars" />raxal jok kojaya' wi!</l>
                     <l>Li'anik saq</l>
@@ -5688,9 +5641,7 @@
                     <l><space quantity="9" unit="chars" />Majukutaj,</l>
                     <l><space quantity="9" unit="chars" />Ik'i B'alam:</l>
                     <l>-Qoyob'ej na usaqirik! Xecha'.</l>
-
                     <pb xml:id="colop1999-130"/>
-
                     <l>E nima'q etamanel,</l>
                     <l>e na'onel,</l>
                     <l>e ajk'ixb',</l>
@@ -5703,7 +5654,11 @@
                     <l>E k'i chik ronojel amaq',</l>
                     <l><space quantity="11" unit="chars" />ruk' yaqi winaq,</l>
                     <l><space quantity="11" unit="chars" />ajk'ix,</l>
-                    <l><space quantity="11" unit="chars" />ajk'aj.</l>
+                    <l><space quantity="11" unit="chars" />ajk'aj.<ref target='n278'><hi rend='superscript'>278</hi></ref></l>
+                    <note xml:id="n278" place="left"><seg type='note-symbol'><hi rend='superscript'>278</hi></seg>El texto dice <hi rend="bold">ahcab</hi>.
+                    Para el plural de estos nominales, <hi rend="bold">ajk'ix</hi> y <hi rend="bold">ajk'aj</hi>,
+                    sólo se agrega la consonante <hi rend="bold">b-</hi> (y no <hi rend="bold">-ib'</hi>),
+                    de tal manera que en el texto se dice <hi rend="bold">ajk'ixb'</hi> y <hi rend="bold">ajk'ajb'</hi>.</note>
                     <l>-Xa jo'!</l>
                     <l>Oj qatzukuj,</l>
                     <l>oj pu qila' we k'o chi chajin qetala.</l>
@@ -5713,14 +5668,12 @@
                     <l><space quantity="34" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="34" unit="chars" />Majukutaj,</l>
                     <l><space quantity="34" unit="chars" />Ik'i B'alam.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Xkita'o utzijel jun tinamit.</l>
                     <l>Xeb'e wi.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
                 <lg xml:id='lg4.04' type='tasik'>
-                    <l>ARE K'UT UB'I' JUYUB' WA',</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>ARE K'UT UB'I' JUYUB' WA',</seg></l>
                     <l>xeb'e wi B'alam Kitze',</l>
                     <l><space quantity="9" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="9" unit="chars" />Majukutaj,</l>
@@ -5728,23 +5681,13 @@
                     <l>ruk' Tamub',</l>
                     <l><space quantity="5" unit="chars" />Ilokab':</l>
                     <l>Tulan</l>
-                    <l>Zuywa,</l>
+                    <l>Zuywa,<ref target='n279'><hi rend='superscript'>279</hi></ref></l>
+                    <note xml:id="n279" place="left"><seg type='note-symbol'><hi rend='superscript'>279</hi></seg>El texto dice <hi rend="bold">zui va</hi>.</note>
                     <l>Wuqub' Pek,</l>
                     <l>Wuqub' Siwan, ub'i' tinamit,</l>
                     <l>xe'opon wi,</l>
                     <l>e k'amol re kab'awil.</l>
-
-                    <note n="278" place="margin" type="Colop">El texto dice <hi rend="bold">ahcab</hi>.
-                    Para el plural de estos nominales, <hi rend="bold">ajk'ix</hi> y <hi rend="bold">ajk'aj</hi>,
-                    solo se agrega la consonante <hi rend="bold">b-</hi> (y no <hi rend="bold">-ib'</hi>),
-                    de tal manera que en el texto se dice <hi rend="bold">ajk'ixb'</hi> y <hi rend="bold">ajk'ajb'</hi>.
-                    </note>
-
-                    <note n="279" place="margin" type="Colop">El texto dice <hi rend="bold">zui va</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-131"/>
-
                     <l>Xe'opon k'ut chila' Tulan konojel;</l>
                     <l>mawi ajilan chi winaq xoponik,</l>
                     <l>tzatz k'ut chub'inik,</l>
@@ -5786,9 +5729,7 @@
                     <l>Tojil,</l>
                     <l>Awilix,</l>
                     <l>Jakawitz.</l>
-                
                     <pb xml:id="colop1999-132"/>
-
                     <l>Ta xok chi k'ut ronojel amaq':</l>
                     <l>Rab'inaleb',</l>
                     <l>Q'aq'cheqeleb',</l>
@@ -5797,7 +5738,7 @@
                     <l>Chiri' k'ut xjalq'atij uch'ab'al ri amaq',</l>
                     <l>jalajoj kich'ab'al xuxik.</l>
                     <l>Mawi qalaj chik xkita'o chi kib'il kib'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Ta xepetik chi Tulan.</l>
                     <l>Chiri' k'ut xkipaxij wi kib'</l>
                     <l>k'o xb'e chila' Releb'al Q'ij,</l>
@@ -5808,7 +5749,7 @@
                     <l>E meb'a,</l>
                     <l>maja b'i kech;</l>
                     <l>xa e nawal winaq chi kik' oje'ik.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xepe chila' Tulan</l>
                     <l><space quantity="15" unit="chars" />Suywa,</l>
                     <l><space quantity="15" unit="chars" />Wuqub' Pek,</l>
@@ -5830,9 +5771,7 @@
                     <l>k'o iwech.</l>
                     <l>Chisach ri q'aq' kib'ij.- Xcha' k'ut Tojil chi ke.</l>
                     <l>-Ma qitzij at kab'awil,</l>
-
                     <pb xml:id="colop1999-133"/>
-
                     <l><space quantity="11" unit="chars" />at qatzukuj,</l>
                     <l><space quantity="11" unit="chars" />at pu qak'oon,</l>
                     <l><space quantity="11" unit="chars" />at qakab'awil? Xecha' chi re,</l>
@@ -5847,7 +5786,8 @@
                     <l>Are k'ut kiq'aq'al wi amaq',</l>
                     <l>kekikotik rumal kiq'aq'.</l>
                     <l>K'ate puch ta xtikarik nima jab',</l>
-                    <l>are katilow uq'aq' amaq'.</l>
+                    <l>are katilow<ref target='n280'><hi rend='superscript'>280</hi></ref> uq'aq' amaq'.</l>
+                    <note xml:id="n280" place="right"><seg type='note-symbol'><hi rend='superscript'>280</hi></seg>El texto dice <hi rend="bold">catilo</hi>.</note>
                     <l>Tzatz k'ut chi saqb'och xqajik pa kiwi' ronojel amaq'.</l>
                     <l>Ta xchup k'ut kiq'aq' rumal saqb'och;</l>
                     <l>maja b'i chik kiq'aq' xuxik.</l>
@@ -5858,13 +5798,13 @@
                     <l>-Utz, mixb'isonik! Xcha' Tojil.</l>
                     <l>K'ate ta xrelesaj q'aq',</l>
                     <l>xub'aq uloq chi upam uxajab'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>K'ate k'ut xekikot ri B'alam Kitze',</l>
                     <l><space quantity="22" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="22" unit="chars" />Majukutaj,</l>
                     <l><space quantity="22" unit="chars" />Ik'i B'alam.</l>
                     <l>K'ate k'ut xemiq'ik.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Are k'ut chupinaq chik uq'aq' amaq',</l>
                     <l>ke'utzin chik rumal tew;</l>
                     <l>k'ate pu kipetik chik,</l>
@@ -5874,12 +5814,7 @@
                     <l><space quantity="26" unit="chars" />Ik'i B'alam.</l>
                     <l>Ma k'u kakich'ij chik rumal tew,</l>
                     <l><space quantity="28" unit="chars" />saqb'och;</l>
-
-                    <note n="280" place="margin" type="Colop">El texto dice <hi rend="bold">catilo</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-134"/>
-
                     <l>xa kelexlot chik,</l>
                     <l><space quantity="3" unit="chars" />kesiksot chi puch,</l>
                     <l>maja b'i e k'as chi wi;</l>
@@ -5905,8 +5840,14 @@
                     <l><space quantity="10" unit="chars" />qawinaqirib'al.</l>
                     <l>Mawi utz, xqab'ano! Xecha' k'ut konojel amaq' xe che',</l>
                     <l><space quantity="46" unit="chars" />xe k'a'm.</l>
-                    <lb /> <!-- potential div marker -->
-                    <l>Ta xuk'ut k'u rib' jun winaq chi kiwach ri B'alam Kitze',</l>
+                    <lb />
+                    <l>Ta xuk'ut k'u rib' jun winaq<ref target='n281'><hi rend='superscript'>281</hi></ref> chi kiwach ri B'alam Kitze',</l>
+                    <note xml:id="n281" place="left"><seg type='note-symbol'><hi rend='superscript'>281</hi></seg>En paréntesis aparece Demonium
+                    (Demonium Loquensloquens Eis]eis), lo cual es, o una anotación personal de
+                    Ximénez; o una alusión cristiana de los autores k'iche's para equipar las
+                    alas del murciélago. En el segundo caso, esos autores estarían evidenciando
+                    un alto conocimiento de la otra cultura y del latín. Si fuera simple
+                    inculturación, esa frase probablemente no estaría entre paréntesis.</note>
                     <l><space quantity="43" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="43" unit="chars" />Majukutaj,</l>
                     <l><space quantity="43" unit="chars" />Ik'i B'alam.</l>
@@ -5920,17 +5861,7 @@
                     <l>Miwajawaj chikiya' chi we.</l>
                     <l>Chitz'onoj na chi rech Tojil</l>
                     <l><space quantity="14" unit="chars" />chi re na chipe wi,</l>
-
-                    <note n="281" place="margin" type="Colop">En parentesis aparece Demonium
-                    (Demonium Loquensloquens Eis]eis), lo cual es, o una anotacion personal de
-                    Ximénez; o una alusion cristiana de los autores k'iche's para equipar las
-                    alas del murcielago. En el segundo caso, esos autores estarian evidenciando
-                    un alto conocimiento de la otra cultura y del latin. Si fuera simple
-                    inculturacion, esa frase probablemente no estaria entre parentesis.
-                    </note>
-
                     <pb xml:id="colop1999-135"/>
-
                     <l>chikiya'o k'amb'al q'aq'.- Xcha' ri Xib'alb'a.</l>
                     <l>K'o uxik'</l>
                     <l>k'eje ri uxik' sotz.</l>
@@ -5953,7 +5884,7 @@
                     <l>keluk'lutik,</l>
                     <l>kech'akch'ot chik rumal tew ronojel amaq',</l>
                     <l>ta xe'ul chiri'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>E k'o wi B'alam Kitze',</l>
                     <l><space quantity="9" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="9" unit="chars" />Majukutaj,</l>
@@ -5961,7 +5892,7 @@
                     <l>Nim uq'atat kik'ux</l>
                     <l>chikimaj kichi',</l>
                     <l>chikimaj kiwach.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'ate puch kulik chik e eleq'om chi kiwach B'alam Kitze',</l>
                     <l><space quantity="43" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="43" unit="chars" />Majukutaj,</l>
@@ -5969,9 +5900,7 @@
                     <l>-Ma k'i chitoq'ob'aj qawach?</l>
                     <l>Chiqatz'onoj ta ukoq sqaqi'n iq'aq'.</l>
                     <l>Mawi xuk'ulu,</l>
-
                     <pb xml:id="colop1999-136"/>
-
                     <l>ma pu xuriqo,</l>
                     <l>ma pu xa jun qochoch,</l>
                     <l><space quantity="6" unit="chars" />xa pu jun qajuyub'al,</l>
@@ -6000,7 +5929,9 @@
                     <l>ri in Tojil?</l>
                     <l>Ta ma k'u chiraj,</l>
                     <l>ma k'u chinya' kiq'aq'. Kacha' Tojil.</l>
-                    <l><space quantity="24" unit="chars" />Kixcha' chi ke.</l>
+                    <l><space quantity="24" unit="chars" />Kixcha'<ref target='n282'><hi rend='superscript'>282</hi></ref> chi ke.</l>
+                    <note xml:id="n282" place="left"><seg type='note-symbol'><hi rend='superscript'>282</hi></seg>El texto dice <hi rend="bold">quicha</hi>
+                    por <hi rend="bold">quixcha</hi>.</note>
                     <l>Ka tik'al na k'ut,</l>
                     <l>mana kamik taj xkitu'nik xe kitolok',</l>
                     <l><space quantity="28" unit="chars" />kimeskel. Kacha' chi wech.</l>
@@ -6009,21 +5940,18 @@
                     <l><space quantity="17" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="17" unit="chars" />Majukutaj,</l>
                     <l><space quantity="17" unit="chars" />Ik'i B'alam.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xkib'ij k'ut utzij Tojil.</l>
                     <l>-Utz b'a la!</l>
-
-                    <note n="262" place="margin" type="Colop">El texto dice <hi rend="bold">quicha</hi>
-                    por <hi rend="bold">quixcha</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-137"/>
-
                     <l>Chitu'nik.</l>
                     <l>Utz puch chikaq'aluj! Xecha' k'ut;</l>
                     <l>ta xkichoq'ob'ej,</l>
                     <l>xkik'ulub'a puch utzij Tojil.</l>
-                    <l>Mawi xkiyalaj chik.</l>
+                    <l>Mawi xkiyalaj<ref target='n283'><hi rend='superscript'>283</hi></ref> chik.</l>
+                    <note xml:id="n283" place="right"><seg type='note-symbol'><hi rend='superscript'>283</hi></seg>El texto dice <hi rend="bold">xqui quiyalaj</hi>. 
+                    El segundo <hi rend="bold">qui-</hi> parece ser un error de transcripción, y la forma
+                    <hi rend="bold">yalaj</hi> es una variación dialectal de <hi rend="bold">yaluj</hi>.</note>
                     <l>-Utz.- Xa jusu xecha'.</l>
                     <l>Ta xkik'am k'ut q'aq',</l>
                     <l>k'ate xemiq'ik.</l>
@@ -6033,7 +5961,9 @@
                     <l>Chamalkan ub'i', kikab'awil Q'aq'chekeleb';</l>
                     <l>xa sotz' uwachib'al.</l>
                     <l>Ta xe'ik'o pa sib'</l>
-                    <l>chilib'lotik xe'ikowik</l>
+                    <l>chilib'lotik<ref target='n284'><hi rend='superscript'>284</hi></ref> xe'ikowik</l>
+                    <note xml:id="n284" place="right"><seg type='note-symbol'><hi rend='superscript'>284</hi></seg><hi rend="bold">Lib'lotik</hi> quiere decir
+                    'suavemente' (Basseta).</note>
                     <l>ta xul uk'ama' q'aq'.</l>
                     <l>Mawi xutz'onoj uq'aq' ri Q'aq'chekeleb',</l>
                     <l>mawi xuya' rib' chi ch'akik.</l>
@@ -6054,26 +5984,13 @@
                     <l>Chila' petenaq wi Tulan</l>
                     <l><space quantity="18" unit="chars" />Suywa,</l>
                     <l>ma k'u kewa' taj;</l>
-                    <l>junelik mewajik xkib'ano,</l>
+                    <l>junelik mewajik<ref target='n285'><hi rend='superscript'>285</hi></ref> xkib'ano,</l>
+                    <note xml:id="n285" place="right"><seg type='note-symbol'><hi rend='superscript'>285</hi></seg>>Ayunar (Basseta).</note>
                     <l>xere kiselawachin ri usaqirik,</l>
                     <l><space quantity="1" unit="chars" />kilawachin relik ula q'ij.</l>
                     <l>Kejalow kib' chi rilik ri nima ch'umil,</l>
                     <l><space quantity="31" unit="chars" />Ik'oq'ij, ub'i'.</l>
-
-                    <note n="283" place="margin" type="Colop">El texto dice <hi rend="bold">xqui quiyalaj</hi>. 
-                    El segundo <hi rend="bold">qui-</hi> parece ser un error de transcripcion, y la forma
-                    <hi rend="bold">yalaj</hi> es una variacion dialectal de <hi rend="bold">yaluj</hi>.
-                    </note>
-
-                    <note n="284" place="margin" type="Colop"><hi rend="bold">Lib'lotik</hi> quiere decir
-                    'suavemente' (Basseta).
-                    </note>
-
-                    <note n="285" place="margin" type="Colop">Ayunar (Basseta).
-                    </note>
-
                     <pb xml:id="colop1999-138"/>
-
                     <l>Are nab'e chuwach q'ij,</l>
                     <l>ta chalaxoq ri q'ij.</l>
                     <l>Raxa ik'oq'ij.</l>
@@ -6094,7 +6011,7 @@
                     <l>Jusu chi Tulan xpe wi kiq'aq'al,</l>
                     <l><space quantity="15" unit="chars" />nima etamab'al k'o kuk' chi q'equmal k'ut,</l>
                     <l><space quantity="39" unit="chars" />chi aq'ab'al puch xkib'ano.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Xepe chi k'ut,</l>
                     <l>xeb'oqotaj chi ula chila',</l>
                     <l>xkikanaj chik Releb'al Q'ij.</l>
@@ -6113,9 +6030,7 @@
                     <l>Ta xkijut kixikin;</l>
                     <l>xok k'ut chupan kib'ix,</l>
                     <l><space quantity="16" unit="chars" />kipetik Tulan.</l>
-
                     <pb xml:id="colop1999-139"/>
-
                     <l>Xoq' kik'ux ta xepetik,</l>
                     <l><space quantity="12" unit="chars" />ta xkoq'otaj kanoq Tulan:</l>
                     <l>-Aq'aroq!</l>
@@ -6133,11 +6048,13 @@
                     <l>ta xepetik chila' Releb'al Q'ij.</l>
                     <l>Kijunam wach xe'ik'ow ula',</l>
                     <l>chila' Nim Xol, kab'ixik wakamik.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Ta xe'ul puch chiri' chuwi jun juyub'.</l>
                     <l>Chiri' xkikuch wi kib' konojel K'eche' winaq</l>
                     <l>ruk' amaq'.</l>
-                    <l>Chiri' k'u xe'opon wi konojel,</l>
+                    <l>Chiri' k'u xe'opon<ref target='n286'><hi rend='superscript'>286</hi></ref> wi konojel,</l>
+                    <note xml:id="n286" place="right"><seg type='note-symbol'><hi rend='superscript'>286</hi></seg>Aqui y como en otras lineas mas adelante, el texto
+                    dice <hi rend="bold">xepopon</hi>.</note>
                     <l>ta xkipixab'aj kib',</l>
                     <l>ub'i'nam juyub' wakamik: Chi Pixab'</l>
                     <l>ub'i' juyub'.</l>
@@ -6155,14 +6072,7 @@
                     <l>Mawi sachel oxib' chi K'iche',</l>
                     <l>xa junam qatzij.- Xecha' k'ut,</l>
                     <l>ta xkoj kib'i'.</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="286" place="margin" type="Colop">Aqui y como en otras lineas mas adelante, el texto
-                    dice <hi rend="bold">xepopon</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-140"/>
-
                     <l>Ta xb'inaj chi k'u ri Q'aq'chekeleb':</l>
                     <l>Q'aq'chekeleb' ub'i' xuxik;</l>
                     <l>ruk' chik Rab'inaleb',</l>
@@ -6203,9 +6113,7 @@
                     <l>Xawi k'u kuk'am ri Tojil,</l>
                     <l><space quantity="19" unit="chars" />Awilix,</l>
                     <l><space quantity="19" unit="chars" />Jakawitz.</l>
-                    
                     <pb xml:id="colop1999-141"/>
-
                     <l>Nima mewajik kakib'an ri B'alam Kitze'</l>
                     <l>ruk' rixoqil,</l>
                     <l>Kaja Paluna ub'i' rixoqil.</l>
@@ -6222,7 +6130,7 @@
                     <l>Nim kib'is ta xek'oje'ik chuwi juyub',</l>
                     <l>Chi Pixab' ub'i' wakamik.</l>
                     <l>Xcha' chi k'ut kikab'awil chiri'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Ta Xcha' k'ut ruk' Tojil,</l>
                     <l><space quantity="19" unit="chars" />Awilix,</l>
                     <l><space quantity="19" unit="chars" />Jakawitz chi kech ri B'alam Kitze',</l>
@@ -6247,11 +6155,10 @@
                     <l>Ta xok Awilix pa siwan,</l>
                     <l>ub'i'nam Ewab'al Siwan,</l>
                     <l>chuchax kumal.</l>
-
                     <pb xml:id="colop1999-142"/>
-
                     <l>Pa nima siwan chi k'echelaj,</l>
-                    <l>Pa Awilix ub'i' wakamik;</l>
+                    <l>Pa Awilix<ref target='n287'><hi rend='superscript'>287</hi></ref> ub'i' wakamik;</l>
+                    <note xml:id="n287" place="left"><seg type='note-symbol'><hi rend='superscript'>287</hi></seg>El texto dice <hi rend="bold">pa ulix</hi>.</note>
                     <l>chiri' xkanaj wi.</l>
                     <l>Xk'u kanajoq pa siwan rumal B'alam Aq'ab'.</l>
                     <l>Cholom ukanajik unab'e ri'.</l>
@@ -6289,12 +6196,7 @@
                     <l>Amaq' Tan, ub'i',</l>
                     <l>ri xk'oje wi ri ukab'awil Tamub'.</l>
                     <l>Chiri' xsaqir wi.</l>
-
-                    <note n="287" place="margin" type="Colop">El texto dice <hi rend="bold">pa ulix</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-143"/>
-
                     <l>Amaq' Ukink'at ub'i',</l>
                     <l>ri xsaqirik wi ri Ilokab'.</l>
                     <l>Chiri' xk'oje wi ukab'awil Ilokab',</l>
@@ -6335,9 +6237,7 @@
                     <l>chuwi mokem,</l>
                     <l>chuwi puch oq'ejsik,</l>
                     <l>xech'aw wi.</l>
-
                     <pb xml:id="colop1999-144"/>
-
                     <l>Maja k'ut chi kub'aroq kik'ux chi re usaqirik.</l>
                     <l>Are k'ut e kub'ukuxinaq wi ri kab'awil pa taq siwan,</l>
                     <l>pa taq k'echelaj,</l>
@@ -6363,7 +6263,7 @@
                     <l>xepe chila' Tulan</l>
                     <l><space quantity="12" unit="chars" />Suywa;</l>
                     <l>chila' Releb'al Q'ij.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Xawi k'u chiri' xek'oje wi pa k'echelaj:</l>
                     <l>are Saqirib'al pa Tojil,</l>
                     <l><space quantity="15" unit="chars" />pa Awilix,</l>
@@ -6371,21 +6271,18 @@
                     <l>Are k'ut xechawax wi,</l>
                     <l><space quantity="9" unit="chars" />xesaqir wi qamam,</l>
                     <l><space quantity="20" unit="chars" />qaqajaw.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Wa' chiqab'ij chik usaqirik,</l>
                     <l><space quantity="14" unit="chars" />uwachinik puch q'ij,</l>
                     <l><space quantity="31" unit="chars" />ik',</l>
                     <l><space quantity="31" unit="chars" />ch'umil.</l>
-                    <lb /> <!-- potential div marker -->
-
                 </lg>
                 <lg xml:id='lg4.05' type='tasik'>
                     <pb xml:id="colop1999-145"/>
-                    <l>WA'E K'UTE' USAQIRIK,</l>
-                    <l><space quantity="12" unit="chars" />UWACHINIK PUCH Q'IJ,</l>
-                    <l><space quantity="24" unit="chars" />IK',</l>
+                    <l><seg rend='caps' type='tasik-header'>WA'E K'UTE' USAQIRIK,</seg></l>
+                    <l><seg rend='caps' type='tasik-header'><space quantity="12" unit="chars" />UWACHINIK PUCH Q'IJ,</seg></l>
+                    <l><seg rend='caps' type='tasik-header'><space quantity="24" unit="chars" />IK',</seg></l>
                     <l><space quantity="24" unit="chars" />CH'UMIL.</l>
-                    <lb /> <!-- potential div marker -->
                     <l>Nim k'ut xekikotik B'alam Kitze',</l>
                     <l><space quantity="19" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="19" unit="chars" />Majukutaj,</l>
@@ -6407,14 +6304,14 @@
                     <l>ruk'am Majukutaj.</l>
                     <l>E oxib' k'o ki pom.</l>
                     <l>Are k'ut xkik'ato,</l>
-                    <l>aponoq chila' Releb'al Q'ij.</l>
-                    <l>ta xesaqb'isanik</l>
+                    <l>ta xesaqb'isanik<ref target='n288'><hi rend='superscript'>288</hi></ref> aponoq chila' Releb'al Q'ij.</l>
+                    <note xml:id="n288" place="right"><seg type='note-symbol'><hi rend='superscript'>288</hi></seg>El texto dice <hi rend="bold">acbizani</hi>.</note>
                     <l>Kus ke'oq'ik ta xesaqb'isanik,</l>
                     <l>xkik'at kipom,</l>
                     <l>loq'olaj pom.</l>
                     <l>K'ate k'ut xkoq'ej ri mawi xkilo,</l>
                     <l>ma pu xkiwachij ralaxik q'ij.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'ate puch ta xel ulo q'ij.</l>
                     <l>Xkikotik ch'uti chikop,</l>
                     <l><space quantity="9" unit="chars" />nima chikop,</l>
@@ -6423,13 +6320,7 @@
                     <l>xek'oje'ik tza'm taq juyub',</l>
                     <l>xa jun xk'i xe wi kiwach chila',</l>
                     <l>xel wi uloq q'ij.</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="288" place="margin" type="Colop">El texto dice <hi rend="bold">acbizani</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-146"/>
-
                     <l>K'ate ta xe'oq'ik koj,</l>
                     <l><space quantity="18" unit="chars" />b'alam;</l>
                     <l>nab'e k'ut xoq' ri tz'ikin,</l>
@@ -6439,7 +6330,8 @@
                     <l><space quantity="14" unit="chars" />saq k'uch,</l>
                     <l><space quantity="14" unit="chars" />ch'uti tz'ikin,</l>
                     <l><space quantity="14" unit="chars" />nima tz'ikin.</l>
-                    <l>E k'u xukuxinaq ri ajk'ixb',</l>
+                    <l>E k'u xukuxinaq<ref target='n289'><hi rend='superscript'>289</hi></ref> ri ajk'ixb',</l>
+                    <note xml:id="n289" place="left"><seg type='note-symbol'><hi rend='superscript'>289</hi></seg>El texto dice <hi rend="bold">xucuxuxinac</hi>.</note>
                     <l><space quantity="19" unit="chars" />ajk'ajb';</l>
                     <l>nim kekikotik ruk' rajk'ixb',</l>
                     <l><space quantity="19" unit="chars" />rajk'ajb' Tamub',</l>
@@ -6452,11 +6344,12 @@
                     <l><space quantity="5" unit="chars" />Kib'a ja,</l>
                     <l><space quantity="5" unit="chars" />Ajb'atena;</l>
                     <l>ruk' Yaki Tepew.</l>
-                    <l>Jarub' pa chi amaq' k'o wakamik.</l>
+                    <l>Jarub'<ref target='n290'><hi rend='superscript'>290</hi></ref> pa chi amaq' k'o wakamik.</l>
+                    <note xml:id="n290" place="left"><seg type='note-symbol'><hi rend='superscript'>290</hi></seg>Adverbio 'cuánto?' (Basseta); y adjetivo 'cuanto/a'.</note>
                     <l>Mawi ajilan chi winaq,</l>
                     <l>xa jun xsaqir wi ronojel amaq'.</l>
                     <l>K'ate puch xchaqijik uwach ulew rumal ri q'ij.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'eje ri jun chi winaq ri q'ij,</l>
                     <l>ta xuk'ut rib',</l>
                     <l>k'atan uwach;</l>
@@ -6471,16 +6364,7 @@
                     <l>xa chi k'u ulemo ri xkanajik.</l>
                     <l>Mawi qitzij are chi q'ij ri kawachinik.</l>
                     <l>Xcha' chi upam kitzij.</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="289" place="margin" type="Colop">El texto dice <hi rend="bold">xucuxuxinac</hi>.
-                    </note>
-
-                    <note n="290" place="margin" type="Colop">Adverbio 'cuanto?' (Basseta); y adjetivo 'cuanto/a'.
-                    </note>
-
                     <pb xml:id="colop1999-147"/>
-
                     <l>K'ate puch jusu xab'ajir ri Tojil,</l>
                     <l><space quantity="28" unit="chars" />Awilix,</l>
                     <l><space quantity="28" unit="chars" />Jakawitz;</l>
@@ -6493,14 +6377,16 @@
                     <l><space quantity="11" unit="chars" />ik',</l>
                     <l><space quantity="11" unit="chars" />ch'umil,</l>
                     <l>jumaj ab'aj xuxik ronojel.</l>
-                    <l>Ma ta oj yakamarinaq lo wakamik rumal ri tiyonel chikop,</l>
+                    <l>Ma ta oj yakamarinaq<ref target='n291'><hi rend='superscript'>291</hi></ref> lo wakamik rumal ri tiyonel chikop,</l>
+                    <note xml:id="n291" place="right"><seg type='note-symbol'><hi rend='superscript'>291</hi></seg><hi rend="bold">Yakamarik</hi>, quiere decir
+                    'estar vivo, aliviado' (Basseta).</note>
                     <l>koj,</l>
                     <l>b'alam,</l>
                     <l>sochoj,</l>
                     <l>kanti.</l>
                     <l>Saqi K'oxol ma ta ja b'i qaq'ij lo wakamik,</l>
                     <l>ma ta xab'ajirik unab'e chikop rumal q'ij.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xel uloq</l>
                     <l>nima kikotem xk'oje wi kik'ux B'alam Kitze',</l>
                     <l><space quantity="30" unit="chars" />B'alam Aq'ab',</l>
@@ -6522,13 +6408,7 @@
                     <l><space quantity="15" unit="chars" />Ik'i B'alam, kib'i'.</l>
                     <l>Chiri' k'ute xek'iyar wi chuwi juyub',</l>
                     <l>are k'ut kitinamit xuxik,</l>
-
-                    <note n="291" place="margin" type="Colop"><hi rend="bold">Yakamarik</hi>, quiere decir
-                    'estar vivo, aliviado' (Basseta).
-                    </note>
-
                     <pb xml:id="colop1999-148"/>
-
                     <l>chiri' k'u k'o wi ta kixwachin q'ij,</l>
                     <l><space quantity="31" unit="chars" />ik',</l>
                     <l><space quantity="31" unit="chars" />ch'umil;</l>
@@ -6560,7 +6440,9 @@
                     <l><space quantity="23" unit="chars" />kichaq',</l>
                     <l>ri Yaki winaq ri xsaqirik chila',</l>
                     <l>Mexico, ub'i'nam wakamik.</l>
-                    <l>K'o chi nay puch chajkar winaq,</l>
+                    <l>K'o chi nay puch chajkar<ref target='n292'><hi rend='superscript'>292</hi></ref> winaq,</l>
+                    <note xml:id="n292" place="left"><seg type='note-symbol'><hi rend='superscript'>292</hi></seg><hi rend="bold">Chajkar</hi>, 'algunos' o como 
+                    dice Basseta, 'parte de las cosas'.</note>
                     <l>xkikanaj chila' Releb'al Q'ij,</l>
                     <l>Tepew Oliman, kib'i,</l>
                     <l>-Xeqakanaj kanoq.- Xecha'.</l>
@@ -6569,17 +6451,9 @@
                     <l>Xawi k'eje kakib'an ri rech Tamub',</l>
                     <l><space quantity="28" unit="chars" />Ilokab'.</l>
                     <l>Xawi xere e k'o wi chiri' pa k'echelaj,</l>
-                    <l>-Amaq' T'an- ub'i',</l>
-
-                    <note n="292" place="margin" type="Colop"><hi rend="bold">Chajkar</hi>, 'algunos' o como 
-                    dice Basseta, 'parte de las cosas'.
-                    </note>
-
-                    <note n="293" place="margin" type="Colop">El texto dice <hi rend="bold">amac Dan</hi>.
-                    </note>
-
+                    <l>-Amaq' T'an-<ref target='n293'><hi rend='superscript'>293</hi></ref> ub'i',</l>
+                    <note xml:id="n293" place="left"><seg type='note-symbol'><hi rend='superscript'>293</hi></seg>El texto dice <hi rend="bold">amac Dan</hi>.</note>
                     <pb xml:id="colop1999-149"/>
-
                     <l>xsaqir wi rajk'ixb',</l>
                     <l><space quantity="10" unit="chars" />rajk'ajb' Tamub',</l>
                     <l>ruk' ukab'awil xawi xere Tojil.</l>
@@ -6594,11 +6468,16 @@
                     <l>rumal jalan ub'i' ukab'awil,</l>
                     <l>ta xpe chila' Tulan</l>
                     <l><space quantity="14" unit="chars" />Suywa:</l>
-                    <l>Sotz'i Ja Chimalkan ub'i' ukab'awil,</l>
+                    <l>Sotz'i Ja Chimalkan<ref target='n294'><hi rend='superscript'>294</hi></ref> ub'i' ukab'awil,</l>
+                    <note xml:id="n294" place="right"><seg type='note-symbol'><hi rend='superscript'>294</hi></seg>Unas páginas antes, se identifica al 
+                    <hi rend="bold">kab'awil</hi> de los <hi rend="bold">Q'aq'chekeleb'</hi> como 
+                    <hi rend="bold">Sotz'ila ja Chamalkan</hi>.</note>
                     <l>xa k'u cha jalan uch'ab'al wakamik;</l>
                     <l>ruk' nay puch chi rij ukab'awil</l>
                     <l>xk'amon wi ub'i' uchinamit ajposotz'il,</l>
-                    <l><space quantity="27" unit="chars" />ajpoxa, ke'ucha'xik.</l>
+                    <l><space quantity="27" unit="chars" />ajpoxa,<ref target='n295'><hi rend='superscript'>295</hi></ref> ke'ucha'xik.</l>
+                    <note xml:id="n295" place="right"><seg type='note-symbol'><hi rend='superscript'>295</hi></seg>Probablemente Edmonson (1971:184) tiene
+                    razón de sugerir que aquí debe leerse <hi rend="bold">ajpoxajil</hi>.</note>
                     <l>Xawi ukab'awil xjalk'atij wi uch'ab'al,</l>
                     <l>ta xya' uloq ukab'awil chila' Tulan.</l>
                     <l>Chi rij ab'aj xjalk'atij wi uch'ab'al,</l>
@@ -6606,7 +6485,7 @@
                     <l>Xa k'u jun xawax wi,</l>
                     <l><space quantity="11" unit="chars" />xsaqir wi ronojel amaq'.</l>
                     <l>k'oleje ub'i' ukab'awil chu jutaq chob'il.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Are k'ut xchiqab'ij chik kyalub'ik,</l>
                     <l><space quantity="25" unit="chars" />kib'ayatajik puch</l>
                     <l>chiri' chuwi juyub',</l>
@@ -6618,25 +6497,13 @@
                     <l>Koq' kik'ux chi re ri Tojil,</l>
                     <l><space quantity="22" unit="chars" />Awilix,</l>
                     <l><space quantity="22" unit="chars" />Jakawitz.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Are k o chik pa ek',</l>
                     <l><space quantity="13" unit="chars" />pa tz'yaq kumal.</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="294" place="margin" type="Colop">Unas paginas antes, se identifica al 
-                    <hi rend="bold">kab'awil</hi> de los <hi rend="bold">Q'aq'chekeleb'</hi> como 
-                    <hi rend="bold">Sotz'ila ja Chamalkan</hi>.
-                    </note>
-
-                    <note n="295" place="margin" type="Colop">Probablemente Edmonson (1971:184) tiene
-                    razon de sugerir que aqui debe leerse <hi rend="bold">ajpoxajil</hi>.
-                    </note>
                 </lg>
                 <lg xml:id='lg4.06' type='tasik'>
                     <pb xml:id="colop1999-150"/>
-
-                    <l>WA K'UTE' KIK'ATONIK,</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>WA K'UTE' KIK'ATONIK,</seg></l>
                     <l>uxe' chi puch k'ojb'al rech Tojil,</l>
                     <l>ta xeb'e k'ut chuwach Tojil,</l>
                     <l><space quantity="22" unit="chars" />Awilix.</l>
@@ -6651,7 +6518,8 @@
                     <l>kik'atoj puch xa q'ol,</l>
                     <l><space quantity="14" unit="chars" />xa rachaq noj</l>
                     <l>ruk' iya xkik'ato chuwach kikab'awil.</l>
-                    <l>Ta xcha'w k'ut ri Tojil</l>
+                    <l>Ta xcha'w<ref target='n296'><hi rend='superscript'>296</hi></ref> k'ut ri Tojil</l>
+                    <note xml:id="n296" place="left"><seg type='note-symbol'><hi rend='superscript'>296</hi></seg>El texto dice <hi rend="bold">xqhao</hi>.</note>
                     <l>xa unawal chik,</l>
                     <l>ta xya' uloq kina'oj ri e ajk'ixb',</l>
                     <l><space quantity="24" unit="chars" />e ajk'ajb'.</l>
@@ -6677,13 +6545,7 @@
                     <l><space quantity="12" unit="chars" />xnam tz'ikin.</l>
                     <l>Chulta'iya' sqaqi'n uk'ikel chi qech,</l>
                     <l>toqob' qawach!</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="296" place="margin" type="Colop">El texto dice <hi rend="bold">xqhao</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-151"/>
-
                     <l>Chikanaj k'ut rismal ri kej,</l>
                     <l>chichajij, are e ri umuquwach.</l>
                     <l>Chimich' kanoq.</l>
@@ -6725,12 +6587,11 @@
                     <l><space quantity="15" unit="chars" />jolom okox.</l>
                     <l>Xk'oje kik'u'kej chi kijujunal</l>
                     <l>chiri' kul wi kumal chuwi juyub'.</l>
-
                     <pb xml:id="colop1999-152"/>
-
                     <l>Mawi kilaqab'en ri kochoch chi q'ijil,</l>
                     <l>xa pa taq juyub' keb'in wi.</l>
-                    <l>Are k'ut chikecha'j ri xa ral wonon,</l>
+                    <l>Are k'ut chikecha'j ri xa ral wonon,<ref target='n297'><hi rend='superscript'>297</hi></ref></l>
+                    <note xml:id="n297" place="left"><seg type='note-symbol'><hi rend='superscript'>297</hi></seg>El texto dice <hi rend="bold">vorom</hi>.</note>
                     <l><space quantity="23" unit="chars" />xa ral sita'l;</l>
                     <l><space quantity="23" unit="chars" />xa pu ral aqaj chikitzukuj.</l>
                     <l>Mana utzilaj wa,</l>
@@ -6743,7 +6604,7 @@
                     <l>ri jutaq chob' chi amaq',</l>
                     <l>keb'e lo chik pa taq b'e,</l>
                     <l>q'alaj chi kib'e.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Are k'u ri B'alam Kitze',</l>
                     <l><space quantity="11" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="11" unit="chars" />Majukutaj,</l>
@@ -6768,13 +6629,7 @@
                     <l>roq'ib'al b'alam, chikoq'eb'ej.</l>
                     <l>Ta chikil k'u ri winaq xa jun,</l>
                     <l><space quantity="23" unit="chars" />xa ka'ib' chub'inik.</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="297" place="margin" type="Colop">El texto dice <hi rend="bold">vorom</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-153"/>
-
                     <l>Chi kaj kimayij chi kech.</l>
                     <l>Juta q'ij ta ke'ul chi k'ut chiri'</l>
                     <l>chi kochoch ruk' kixoqil,</l>
@@ -6791,7 +6646,8 @@
                     <l><space quantity="8" unit="chars" />Jakawitz;</l>
                     <l>xa ukik'el kej,</l>
                     <l><space quantity="11" unit="chars" />tz'ikin kaqaya' chi re,</l>
-                    <l>xa qat'isa' qaxikin,</l>
+                    <l>xa qat'isa'<ref target='n298'><hi rend='superscript'>298</hi></ref> qaxikin,</l>
+                    <note xml:id="n298" place="right"><seg type='note-symbol'><hi rend='superscript'>298</hi></seg>El texto dice <hi rend="bold">caziza</hi>.</note>
                     <l><space quantity="12" unit="chars" />qachu'k.</l>
                     <l>Qatz'onoj qakowil,</l>
                     <l><space quantity="10" unit="chars" />qachijilal chi re Tojil,</l>
@@ -6804,7 +6660,9 @@
                     <l><space quantity="22" unit="chars" />Jakawitz.</l>
                     <l>Ta xkit'is kixikin,</l>
                     <l><space quantity="11" unit="chars" />kichu'k chuwach kab'awil,</l>
-                    <l>xkiwaquj ri kikik'el,</l>
+                    <l>xkiwaquj<ref target='n299'><hi rend='superscript'>299</hi></ref> ri kikik'el,</l>
+                    <note xml:id="n299" place="right"><seg type='note-symbol'><hi rend='superscript'>299</hi></seg>De acuerdo con Basseta, <hi rend="bold">waq</hi>
+                    es 'bebida de los dioses'.</note>
                     <l>xq'ijik ukoq pu chi' ri ab'aj.</l>
                     <l>Ma k'u qitzij ta chi ab'aj chuxik,</l>
                     <l>k'eje ri e jujun chi k'ajolab' ta ke'ulik.</l>
@@ -6815,16 +6673,7 @@
                     <l>are ikolb'al iwib'!</l>
                     <l>Chila' xpe wi chi Tulan,</l>
                     <l>ta xojik'am uloq.- Xe'ucha'xik k'ut.</l>
-
-                    <note n="298" place="margin" type="Colop">El texto dice <hi rend="bold">caziza</hi>.
-                    </note>
-
-                    <note n="299" place="margin" type="Colop">De acuerdo con Basseta, <hi rend="bold">waq</hi>
-                    es 'bebida de los dioses'.
-                    </note>
-
                     <pb xml:id="colop1999-154"/>
-
                     <l>Ta xya' uloq ri tz'um,</l>
                     <l>Pa Silisib', ub'i'.</l>
                     <l>Ruk' kik' chok chi kij;</l>
@@ -6834,8 +6683,8 @@
                     <l><space quantity="5" unit="chars" />Jakawitz.</l>
                 </lg>
                 <lg xml:id='lg4.07' type='tasik'>
-                    <l>WA'E UTIKARIK CHIK RELEQ'AXIK WINAQ,</l>
-                    <l><space quantity="30" unit="chars" />AMAQ' kumal B'alam Kitze',</l>
+                    <l><seg rend='caps' type='tasik-header'>WA'E UTIKARIK CHIK RELEQ'AXIK WINAQ,</seg></l>
+                    <l><seg rend='caps' type='tasik-header'><space quantity="30" unit="chars" />AMAQ'</seg> kumal B'alam Kitze',</l>
                     <l><space quantity="42" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="42" unit="chars" />Majukutaj,</l>
                     <l><space quantity="42" unit="chars" />Ik'i B'alam.</l>
@@ -6865,15 +6714,14 @@
                     <l>Ta xkik'am kina'oj chi kib'il kib'.</l>
                     <l>K'ate k'ut xkitik'ib'a utaqexik kaqan ri ajk'ixb',</l>
                     <l><space quantity="41" unit="chars" />ajk'ajb';</l>
-
                     <pb xml:id="colop1999-155"/>
-
                     <l>ma k'u q'alaj.</l>
                     <l>Xa raqan kej,</l>
                     <l>xa raqan b'alam chikilo.</l>
                     <l>Mawi q'alaj kaqan,</l>
                     <l>xma k'o wi q'alaj wi.</l>
-                    <l>Are nab'e kaqan ri xa kipich</l>
+                    <l>Are nab'e kaqan ri xa kipich<ref target='n300'><hi rend='superscript'>300</hi></ref></l>
+                    <note xml:id="n300" place="right"><seg type='note-symbol'><hi rend='superscript'>300</hi></seg>Patas de cuadrúpedos. En este caso, 'las huellas'.</note>
                     <l>k'eje ri kaqan;</l>
                     <l>xa sachb'al re kumal,</l>
                     <l>mawi q'alaj kib'e.</l>
@@ -6895,7 +6743,7 @@
                     <l><space quantity="20" unit="chars" />Awilix,</l>
                     <l><space quantity="20" unit="chars" />Jakawitz.</l>
                     <l>Xkolo k'ut kik'ajol chiri' chuwi juyub'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Are Tojil,</l>
                     <l>Awilix,</l>
                     <l>Jakawitz.</l>
@@ -6910,21 +6758,14 @@
                     <l>K'ya mul k'ut chikilo amaq'.</l>
                     <l>Lib'aj chi' chikisachix taj kib',</l>
                     <l>ta ke'ilik rumal amaq'.</l>
-
-                    <note n="300" place="margin" type="Colop">Patas de cuadrupedos. En este caso, 'las huellas'.
-                    </note>
-
                     <pb xml:id="colop1999-156"/>
-
                     <l>Ta xuxtaj utzijel ri e k'o wi ri B'alam Kitze',</l>
                     <l><space quantity="33" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="33" unit="chars" />Majukutaj,</l>
                     <l><space quantity="33" unit="chars" />Ik'i B'alam.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
                 <lg xml:id='lg4.08' type='tasik'>
-                    <l>ARE K'U WA' UK'AMIK UNA'OJ AMAQ'</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>ARE K'U WA' UK'AMIK UNA'OJ AMAQ'</seg></l>
                     <l>chi re ukamisaxik taj.</l>
                     <l>Nab'e k'ut xraj kina'ojij amaq'</l>
                     <l>uch'akik Tojil,</l>
@@ -6932,7 +6773,9 @@
                     <l><space quantity="9" unit="chars" />Jakawitz.</l>
                     <l>Xecha' ronojel wi ajk'ixb',</l>
                     <l><space quantity="18" unit="chars" />ajk'ajb' chuwach amaq';</l>
-                    <l>xkejek' kib',</l>
+                    <l>xkejek' kib'<ref target='n301'><hi rend='superscript'>301</hi></ref>,</l>
+                    <note xml:id="n301" place="left"><seg type='note-symbol'><hi rend='superscript'>301</hi></seg>Don Adrián Chávez transcribe 
+                    <hi rend="bold">shki jik' kib'</hi>, se jalaron unos a otros'.</note>
                     <l>xketaq pu kib' konojel.</l>
                     <l>Maja b'i ju ch'ob',</l>
                     <l><space quantity="5" unit="chars" />ka ch'ob' ta chik xkanaj chi ke.</l>
@@ -6957,13 +6800,7 @@
                     <l>ta xeponik konojel.</l>
                     <l>Xcha' chik chajkar chi kech ri amaq',</l>
                     <l>ta xech'awik:</l>
-
-                    <note n="301" place="margin" type="Colop">Don Adrian Chavez transcribe 
-                    <hi rend="bold">shki jik' kib'</hi>, se jalaron unos a otros'.
-                    </note>
-
                     <pb xml:id="colop1999-157"/>
-
                     <l>-Apachina rilo ke'atin chuchi' ya' juta q'ij?</l>
                     <l>We are Tojil,</l>
                     <l><space quantity="7" unit="chars" />Awilix,</l>
@@ -6984,7 +6821,7 @@
                     <l>-Utz b'a la!</l>
                     <l>Xa b'a keqatzukuj eta ka'ib' chi utzilaj taq q'apojib'.-Xecha' k'ut,</l>
                     <l>ta xkitzukuj k'ut kime'al.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Are ri qitzij e saqilaj taq q'apojib'</l>
                     <l>ta xkipixab'aj k'ut ri q'apojib':</l>
                     <l>-Kixb'ek, ix qami'al!</l>
@@ -6992,36 +6829,27 @@
                     <l>We k'ut ta ke'iwil ri e oxib' k'ajolab',</l>
                     <l>chitzonob'a k'a iwib' chi kiwach!</l>
                     <l>We k'ut chirayin kik'ux chi we,</l>
-                    <l>kixch'oko.</l>
+                    <l>kixch'oko.<ref target='n302'><hi rend='superscript'>302</hi></ref></l>
+                    <note xml:id="n302" place="right"><seg type='note-symbol'><hi rend='superscript'>302</hi></seg><hi rend="bold">Ch'oko</hi>, 'llamar' (Basseta),
+                    'atraer' (Chávez, Xec).</note>
                     <l>Kojopon ta chi wij,! ta kecha' chi wech,</l>
                     <l>We! Kixcha' k'ut.</l>
                     <l>Ta kixtz'onox k'ut:</l>
                     <l>-Apa kixpe wi?</l>
-                    <l>Apa ajchoq' mi'al?, Ta kecha:</l>
+                    <l>Apa ajchoq'<ref target='n303'><hi rend='superscript'>303</hi></ref> mi'al?, Ta kecha:</l>
+                    <note xml:id="n303" place="right"><seg type='note-symbol'><hi rend='superscript'>303</hi></seg><hi rend="bold">Choq'</hi>, 'poseer' (Basseta);
+                    raíz de <hi rend="bold">chaq'el</hi> o <hi rend="bold">choq'el</hi>, 'dueño'.</note>
                     <l>-Oj kimi'al ajawab'. Kixcha' k'u chi ke:</l>
                     <l>Chipe k'u retal iwumal.</l>
                     <l>Ta naki la chikiya' chi we,</l>
-                    <l>taseq chikirayij iwach,</l>
+                    <l>taseq<ref target='n304'><hi rend='superscript'>304</hi></ref> chikirayij iwach,</l>
+                    <note xml:id="n304" place="right"><seg type='note-symbol'><hi rend='superscript'>304</hi></seg>Condicional, 'si'. Basseta agrega que es muy 
+                    poco usada, y además ofrece el siguiente ejemplo: <hi rend="bold">katnuloq'oj taseq at utz</hi>,
+                    'si fueres bueno, te amaré'.</note>
                     <l>qitzij chiya' iwib' chi kech!</l>
                     <l>We k'ut ta mawi chiya' iwib',</l>
                     <l>kixqakamisaj k'ut.</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="302" place="margin" type="Colop"><hi rend="bold">Ch'oko</hi>, 'llamar' (Basseta),
-                    'atraer' (Chavez, Xec).
-                    </note>
-
-                    <note n="303" place="margin" type="Colop"><hi rend="bold">Choq'</hi>, 'poseer' (Basseta);
-                    raiz de <hi rend="bold">chaq'el</hi> o <hi rend="bold">choq'el</hi>, 'dueno'.
-                    </note>
-
-                    <note n="304" place="margin" type="Colop">Condicional, 'si'. Basseta agrega que es muy 
-                    poco usada, y ademas ofrece el siguiente ejemplo: <hi rend="bold">katnuloq'oj taseq at utz</hi>,
-                    'si fueres bueno, te amare'.
-                    </note>
-
                     <pb xml:id="colop1999-158"/>
-
                     <l>K'ate utz qak'ux ta k'o retal chik'am uloq;</l>
                     <l>are k'ut retal chiqak'ux ta ke'apon chi wij.- Xecha' k'u ri ajawab',</l>
                     <l>ta xepixab'ax ri q'apojib'.</l>
@@ -7036,11 +6864,9 @@
                     <l><space quantity="27" unit="chars" />Awilix,</l>
                     <l><space quantity="27" unit="chars" />Jakawitz.</l>
                     <l>Are kina'oj ronojel amaq' ri'.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
                 <lg xml:id='lg4.09' type='tasik'>
-                    <l>K'ATE PUCH XEB'EK,</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>K'ATE PUCH XEB'EK,</seg></l>
                     <l>xekawuxik,</l>
                     <l>qitzij wi chi jeb'elik chi wachinik.</l>
                     <l>Ta xeb'ek chila',</l>
@@ -7048,7 +6874,7 @@
                     <l>Kikarilo on k'u ri kich'ajon ta xeb'ek.</l>
                     <l>Kekikot chi k'u ri ajawab' kumal ri e ka'ib' kimi'al,</l>
                     <l>xkitaq ub'ik.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xe'opon k'ut chi ya'</l>
                     <l>k'ate xkitikib'a ch'ajonik,</l>
                     <l>xkitzonob'a kib' kikab'ichal.</l>
@@ -7064,9 +6890,7 @@
                     <l>chi rech ri e ka'ib' q'apojib'.</l>
                     <l>Ta xetz'onox k'ut:</l>
                     <l>-Apa kixpe wi? Xe'ucha'xik chi rech ri e ka'ib' q'apojib'.</l>
-
                     <pb xml:id="colop1999-159"/>
-
                     <l>Xe'ucha'xik:</l>
                     <l>-Naki pa kiwaj?</l>
                     <l>Kixul waral chuchi' wi qa ja'? Xe'uchax k'ut.</l>
@@ -7089,7 +6913,7 @@
                     <l>-Utz chib'ek retal qatzij iwuk'.</l>
                     <l>Chiwoyob'ej na,</l>
                     <l>chiya' aponoq chi kech ajawab'.- Xe'uchax k'ut.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>K'ate puch kina'ojinik chik ri ajk'ixb',</l>
                     <l><space quantity="31" unit="chars" />ajk'ajb'.</l>
                     <l>Xe'uchax ri B'alam Kitze',</l>
@@ -7107,10 +6931,7 @@
                     <l>Nab'e xtz'ib'an ri B'alam Kitze':</l>
                     <l>B'alam uwachib'al xuxik,</l>
                     <l>xutz'ib'aj chuwach k'ul.</l>
-                    <lb /> <!-- potential div marker -->
-
                     <pb xml:id="colop1999-160"/>
-
                     <l>Are k'u ri chi B'alam Aq'ab',</l>
                     <l>K'ot chik uwachib'al</l>
                     <l>xutz'ib'aj chuwach k'ul.</l>
@@ -7121,7 +6942,7 @@
                     <l>xutz'ib'aj chuwach k'ul.</l>
                     <l>Xutzin k'ut kitz'ib' koxichal,</l>
                     <l>ox b'usaj xkitz'ib'aj.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'ate k'ut ta xb'ekiya' k'ul ri Xtaj,</l>
                     <l><space quantity="32" unit="chars" />Xpuch', kib'i'.</l>
                     <l>Xecha' k'u ri B'alam Kitze',</l>
@@ -7131,12 +6952,14 @@
                     <l>kixoponik chi kiwach ajawab':</l>
                     <l>Qitzij xch'aw ri Tojil chi qech. Kixcha'.</l>
                     <l>Wa'e k'u retal xqak'am uloq. Kixcha' chi ke.</l>
-                    <l>Chikik'uj k'u ri k'ul,</l>
+                    <l>Chikik'uj k'u ri k'ul<ref target='n305'><hi rend='superscript'>305</hi></ref>,</l>
+                    <note xml:id="n305" place="left"><seg type='note-symbol'><hi rend='superscript'>305</hi></seg>Aquí, como más adelante, el texto dice
+                    <hi rend="bold">cal</hi> en lugar de <hi rend="bold">cul /k'ul/</hi>.</note>
                     <l>chiya' chi ke.- Xe'uchax k'ut ri q'apojib',</l>
                     <l>ta xkipixab'aj ub'ik.</l>
                     <l>Ta xeb'e k'ut</l>
                     <l>xkuk'a'j ub'i' ri tzib'an k'ul.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xe'opon k'ut,</l>
                     <l>jusu k'u xekikot ri ajawab' ta xil kiwach,</l>
                     <l>xekel uq'a kitz'onoxik ri q'apojib'.</l>
@@ -7150,13 +6973,7 @@
                     <l>Ta xkiritaj k'u ri tz'ib'an k'ul kumal q'apojib'.</l>
                     <l>Jumaj b'alam,</l>
                     <l>jumaj k'ot,</l>
-
-                    <note n="305" place="margin" type="Colop">Aqui, como mas adelante, el texto dice
-                    <hi rend="bold">cal</hi> en lugar de <hi rend="bold">cul /k'ul/</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-161"/>
-
                     <l>jumaj nay puch wonon,</l>
                     <l><space quantity="15" unit="chars" />sita'l utz'ib'al upam k'ul.</l>
                     <l>Chiyulinik uwach.</l>
@@ -7192,19 +7009,17 @@
                     <l>Ix k'axtok'? Xe'uchax ri q'apojib',</l>
                     <l>ta xeyajik.</l>
                     <l>Kich'akatajik chi k'u ri ronojel amaq' rumal Tojil.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Are ta xkaj xb'e ta ki'ib'al wi Tojil chi kij Xtaj,</l>
                     <l><space quantity="46" unit="chars" />Xpuch.</l>
                     <l>E ta joxol ch'ek xe'uxik chuk'ux amaq',</l>
                     <l>taqchib'al take xuxik.</l>
                     <l>Ma k'u xb'anatajik</l>
-
                     <pb xml:id="colop1999-162"/>
-
                     <l>kich'akatajik rumal e nawal winaq ri B'alam Kitze',</l>
                     <l><space quantity="37" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="37" unit="chars" />Majukutaj.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Ta xena'ojin chi k'ut ronojel amaq':</l>
                     <l>-Naki pa kequch'aj?</l>
                     <l>Qitzij nim kik'oje'ik, ta chuxoq.- Xecha' k'ut,</l>
@@ -7229,30 +7044,26 @@
                     <l>chuwi juyub'.</l>
                     <l>Mawi e ta k'ya winaq,</l>
                     <l>mana k'eje ta kik'yal ri uk'yal amaq'.</l>
-                    <l>Xa sqaqi'n uwi juyub' kik'atem,</l>
+                    <l>Xa sqaqi'n uwi juyub' kik'atem<ref target='n306'><hi rend='superscript'>306</hi></ref>,</l>
+                    <note xml:id="n306" place="left"><seg type='note-symbol'><hi rend='superscript'>306</hi></seg>Edmonson transcribe
+                    <hi rend="bold">qalem</hi> y Burgess/Xec <hi rend="bold">k'ale'm</hi>.</note>
                     <l>xa k'u cha' ta xna'ojix kikamisaxik rumal amaq',</l>
                     <l>ta xki'uch kib' konojel.</l>
                     <l>Xepoponik,</l>
                     <l>xetaqo kib' konojel.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
                 <lg xml:id='lg4.10' type='tasik'>
-                    <l>WA'E K'UTE KIMOLOWIK KIB' KONOJEL AMAQ',</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>WA'E K'UTE KIMOLOWIK KIB' KONOJEL AMAQ',</seg></l>
                     <l>e kawutal chik chi ch'ab',</l>
                     <l><space quantity="10" unit="chars" />chi pokob' konojel.</l>
-
-                    <note n="306" place="margin" type="Colop">Edmonson transcribe
-                    <hi rend="bold">qalem</hi> y Burgess/Xec <hi rend="bold">k'ale'm</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-163"/>
-
                     <l>Mawi ajilan chi puwaq kikawub'al,</l>
                     <l>jeb'ejoj kiwachib'al konojel ajawab',</l>
                     <l><space quantity="29" unit="chars" />achijab'.</l>
                     <l>Qitzij b'anoj kitzij konojel.</l>
-                    <l>Qitzij e kalab'il chuxik.</l>
+                    <l>Qitzij e kalab'il<ref target='n307'><hi rend='superscript'>307</hi></ref> chuxik.</l>
+                    <note xml:id="n307" place="right"><seg type='note-symbol'><hi rend='superscript'>307</hi></seg><hi rend="bold">Kalab'</hi>, 'multitud'
+                    (Basseta, Ximénez).</note>
                     <l>-Are k'u ri Tojil,</l>
                     <l>are kab'awil,</l>
                     <l>are pu chikaq'ijila'.</l>
@@ -7264,7 +7075,7 @@
                     <l>Kakita'o ta kana'ojixik rumal maja b'i kiwaram,</l>
                     <l><space quantity="39" unit="chars" />kiyakalem.</l>
                     <l>Ta xekawutaj k'ut ronojel cha ajlab'al.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'ate k'ut xeyakatajik ronojel ajlab'al;</l>
                     <l>chaq'ab' taj xkokib'ej chi kik'ux,</l>
                     <l>ta xeb'ek.</l>
@@ -7285,16 +7096,10 @@
                     <l>K'ajisab'al kiwach,</l>
                     <l>xa pu mich'b'al kech xb'anik</l>
                     <l>retal unimal K'eche' winaq.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'ate puch xek'astajik,</l>
                     <l>jusu xkichapala kiyachwach,</l>
-
-                    <note n="307" place="margin" type="Colop"><hi rend="bold">Kalab'</hi>, 'multitud'
-                    (Basseta, Ximénez).
-                    </note>
-
                     <pb xml:id="colop1999-164"/>
-
                     <l>ruk' uqul kich'amiy;</l>
                     <l>maja b'i chi puwaq chi qul,</l>
                     <l>ruk' kiyachwach.</l>
@@ -7302,7 +7107,8 @@
                     <l>A on chinaq mixojmich'owik?</l>
                     <l>Apa mixpe wi,</l>
                     <l>mixeleq'an qapuwaq? Xecha' k'ut konojel ajlab'al.</l>
-                    <l>-Are nay b'a ri lo e k'axtok'</l>
+                    <l>-Are nay b'a<ref target='n308'><hi rend='superscript'>308</hi></ref> ri lo e k'axtok'</l>
+                    <note xml:id="n308" place="left"><seg type='note-symbol'><hi rend='superscript'>308</hi></seg>El texto dice <hi rend="bold">laiba</hi>.</note>
                     <l>ke'eleqan winaq?</l>
                     <l>Ma k'u chutzinik,</l>
                     <l>chiqaxib'ij ta qib' chi ke!</l>
@@ -7310,7 +7116,7 @@
                     <l>Xawi xere chiqil uwach ri qapuwaq,</l>
                     <l>chiqab'an qech! Xecha' k'ut konojel amaq'.</l>
                     <l>Xawi xere b'anoj tzij konojel.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Xawi k'u kub'ul kik'ux ri ajk'ixb',</l>
                     <l><space quantity="26" unit="chars" />ajk'ajb',</l>
                     <l>e k'o chuwi juyub'.</l>
@@ -7334,16 +7140,13 @@
                     <l>Xok ri yachwach puwaq pa kiwi'</l>
                     <l>xok pu k'u xa poy,</l>
                     <l>xa pu ajam che'</l>
-
-                    <note n="308" place="margin" type="Colop">El texto dice <hi rend="bold">laiba</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-165"/>
-
                     <l>xkojow ri puwaq rech amaq',</l>
                     <l>ri xb'ekik'ama' pa b'e.</l>
                     <l>Are xukawub'ej poy kumal.</l>
-                    <l>Xekotkomijik chi rij tinamit.</l>
+                    <l>Xekotkomijik<ref target='n309'><hi rend='superscript'>309</hi></ref> chi rij tinamit.</l>
+                    <note xml:id="n309" place="right"><seg type='note-symbol'><hi rend='superscript'>309</hi></seg><hi rend="bold">Kotkomij</hi>, 'cercar'
+                    (Basseta), rodear.</note>
                     <l>K'ate puch ta xkitz'onoj chi kina'oj chi rech Tojil:</l>
                     <l>-We kojkamik?</l>
                     <l>We puch kojch'akatajik? Xechaxoq kik'ux chuwach ri Tojil:</l>
@@ -7358,7 +7161,8 @@
                     <l><space quantity="16" unit="chars" />sita'l;</l>
                     <l>are k'ut xb'ekik'ama',</l>
                     <l>kuk'a'm ta xepetik.</l>
-                    <l>K'ate xkiya'o chi upam kajib' nimaq kukub'</l>
+                    <l>K'ate xkiya'o chi upam kajib' nimaq kukub'<ref target='n310'><hi rend='superscript'>310</hi></ref></l>
+                    <note xml:id="n310" place="right"><seg type='note-symbol'><hi rend='superscript'>310</hi></seg>El texto dice <hi rend="bold">cocob</hi>.</note>
                     <l>kajib' xk'oje wi chi rij tinamit.</l>
                     <l>Xkitz'apij wi ri wonon,</l>
                     <l><space quantity="17" unit="chars" />sita'l chi upam kukub'.</l>
@@ -7380,35 +7184,29 @@
                     <l>mawi ajilan chi winaq,</l>
                     <l><space quantity="16" unit="chars" />e ajlab'al,</l>
                     <l><space quantity="16" unit="chars" />e pu kamisanel.</l>
-
-                    <note n="309" place="margin" type="Colop"><hi rend="bold">Kotkomij</hi>, 'cercar'
-                    (Basseta), rodear.
-                    </note>
-
-                    <note n="310" place="margin" type="Colop">El texto dice <hi rend="bold">cocob</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-166"/>
-
                     <l>E kamisay rech ri B'alam Kitze',</l>
                     <l><space quantity="18" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="18" unit="chars" />Majukutaj.</l>
                     <l>Are k'o chuwi juyub'</l>
                     <l>Jakawitz ub'i' e k'o wi.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb /> 
                     <l>Are k'ut kokib'exik wa' xchiqab'ij chik.</l>
                     <l>Are k'ut e k'o chiri' B'alam Kitze',</l>
                     <l><space quantity="22" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="22" unit="chars" />Majukutaj,</l>
                     <l><space quantity="22" unit="chars" />Ik'i B'alam.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Xa jun e k'o wi chuwi juyub'</l>
                     <l>ruk' kixoqil,</l>
                     <l><space quantity="5" unit="chars" />kalk'wal.</l>
                     <l>Ta xepe k'ut ronojel ajlab'al,</l>
                     <l><space quantity="21" unit="chars" />e kamisanel;</l>
                     <l>mawi xa kachuy,</l>
-                    <l><space quantity="8" unit="chars" />oxchuy chi amaq'.</l>
+                    <l><space quantity="8" unit="chars" />oxchuy chi amaq'.<ref target='n311'><hi rend='superscript'>311</hi></ref></l>
+                    <note xml:id="n311" place="left"><seg type='note-symbol'><hi rend='superscript'>311</hi></seg><hi rend="bold">Chuy</hi> es 8,000.
+                    <hi rend="bold">Kachuy</hi>, 2 X 8,000 = 16,000; <hi rend="bold">Oxchuy</hi>,
+                    3 X 8,000 = 24,000.</note>
                     <l>Xkotkomij chi rij tinamit;</l>
                     <l>ke'ominik e wiqitalik chi chab',</l>
                     <l><space quantity="22" unit="chars" />chi pokob';</l>
@@ -7430,15 +7228,7 @@
                     <l>mawi ketz'aqonik chuchi' tinamit.</l>
                     <l>K'ate puch ta xjaq uwi' ri kukub',</l>
                     <l>kajib' k'o wi chi tinamit.</l>
-                    <lb /> <!-- potential div marker -->
-
-                    <note n="311" place="margin" type="Colop"><hi rend="bold">Chuy</hi> es 8,000.
-                    <hi rend="bold">Kachuy</hi>, 2 X 8,000 = 16,000; <hi rend="bold">Oxchuy</hi>,
-                    3 X 8,000 = 24,000.
-                    </note>
-
                     <pb xml:id="colop1999-167"/>
-
                     <l>Ta xe'el k'u ri wonon,</l>
                     <l><space quantity="16" unit="chars" />sita'l,</l>
                     <l>k'eje ri sib',</l>
@@ -7470,7 +7260,7 @@
                     <l><space quantity="27" unit="chars" />B'alam Aq'ab';</l>
                     <l>xok kixoqil</l>
                     <l>e kamisanel.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Xawi k'u xetzalij ri chajkar chik,</l>
                     <l>xa xel chik chi kaqan ronojel amaq'.</l>
                     <l>Are xkiriq ki nab'e xe'utzinik,</l>
@@ -7479,10 +7269,7 @@
                     <l>Mawi are xkam wi,</l>
                     <l>ri xkitza'ij chi kik'ux,</l>
                     <l>xa k'u chikop xok chi ke.</l>
-                    <lb /> <!-- potential div marker -->
-
                     <pb xml:id="colop1999-168"/>
-
                     <l>Mana k'ula achijilal taj xkib'ano:</l>
                     <l>mawi ch'ab',</l>
                     <l>mawi pokob'taj xekam wi.</l>
@@ -7515,13 +7302,11 @@
                     <l>xnaqajoq</l>
                     <l>kekamoq.</l>
                     <l>Ta k'i xeraj kamisaxik.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
                 <lg xml:id='lg4.11' type='tasik'>
                     <pb xml:id="colop1999-169"/>
-
-                    <l>ARE CHIK WI XCHIQAB'IJ CHIK</l>
-                    <l>KIKAMIK B'alam Kitze',</l>
+                    <l><seg rend='caps' type='tasik-header'>ARE CHIK WI XCHIQAB'IJ CHIK</seg></l>
+                    <l><seg rend='caps' type='tasik-header'>KIKAMIK</seg> B'alam Kitze',</l>
                     <l><space quantity="8" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="8" unit="chars" />Majukutaj,</l>
                     <l><space quantity="8" unit="chars" />Ik'i B'alam, kib'i'.</l>
@@ -7556,18 +7341,14 @@
                     <l>xeb'ixanik,</l>
                     <l>chiq'atat kik'ux,</l>
                     <l>choq' pu kik'ux chi upam kib'ixik:</l>
-                    <l>Qamuku ub'i' kib'ix,</l>
+                    <l>Qamuku<ref target='n312'><hi rend='superscript'>312</hi></ref> ub'i' kib'ix,</l>
+                    <note xml:id="n312" place="right"><seg type='note-symbol'><hi rend='superscript'>312</hi></seg>El texto dice aquí <hi rend="bold">camaku</hi>
+                    y antes <hi rend="bold">camuku</hi>.</note>
                     <l><space quantity="12" unit="chars" />xkib'ixaj</l>
                     <l>ta xepixab' k'ut chi re kik'ajol:</l>
                     <l>-Ix qak'ajol, kojb'ek,</l>
                     <l><space quantity="14" unit="chars" />kojtzalij puch!</l>
-
-                    <note n="312" place="margin" type="Colop">El texto dice aqui <hi rend="bold">camaku</hi>
-                    y antes <hi rend="bold">camuku</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-170"/>
-
                     <l>Saqil tzij,</l>
                     <l>saqil pixab' qapixab' chi we.</l>
                     <l>Mi k'u xixulqakanajt chi juyub'al,</l>
@@ -7601,16 +7382,13 @@
                     <l>xma kiron wi.</l>
                     <l>Mawi q'alaj t'isb'al re,</l>
                     <l>rumal maji xilowik, ta xpisik.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>K'eje k'ut kipixab'ik ri,</l>
                     <l>ta xesach k'ut chiri'</l>
                     <l>chuwi juyub' Jakawitz.</l>
                     <l>Mana xemuqtaj rumal kixoqil,</l>
                     <l><space quantity="20" unit="chars" />kalk'wal.</l>
-                    <lb /> <!-- potential div marker -->
-
                     <pb xml:id="colop1999-171"/>
-
                     <l>Mawi q'alaj kisachik,</l>
                     <l>ta xesachik.</l>
                     <l>Xere q'alaj ri kipixab'ik,</l>
@@ -7631,7 +7409,7 @@
                     <l>ta xkanaj chik kik'ajol chiri'</l>
                     <l>chuwi juyub' Jakawitz.</l>
                     <l>Xeyaluj chi wi kik'ajol chiri'.</l>
-                    <lb /> <!-- potential div marker -->
+                    <lb />
                     <l>Qajinaq chik,</l>
                     <l>yoq'otajinaq chi puch kiq'ij konojel amaq',</l>
                     <l>maja b'i chik kiq'aq'al;</l>
@@ -7643,16 +7421,12 @@
                     <l>xawi pislik chiri' kuk'.</l>
                     <l>Pisom Q'aq'al, chucha'xik kumal,</l>
                     <l>ta xk'oji'k.</l>
-                    <l>Xb'ina'j puch kik'u'm,</l>
+                    <l>Xb'ina'j puch kik'u'm<ref target='n313'><hi rend='superscript'>313</hi></ref>,</l>
+                    <note xml:id="n313" place="right"><seg type='note-symbol'><hi rend='superscript'>313</hi></seg>El texto dice <hi rend="bold">qui cuun</hi>.</note>
                     <l>xya' kanoq rumal kiqajaw;</l>
                     <l>xa retal k'i kik'oje'ik, ta xkib'ano.</l>
                     <l>K'eje k'u kisachik,</l>
-
-                    <note n="313" place="margin" type="Colop">El texto dice <hi rend="bold">qui cuun</hi>.
-                    </note>
-
                     <pb xml:id="colop1999-172"/>
-
                     <l>kimayxik B'alam Kitze',</l>
                     <l><space quantity="9" unit="chars" />B'alam Aq'ab',</l>
                     <l><space quantity="9" unit="chars" />Majukutaj,</l>
@@ -7663,16 +7437,13 @@
                     <l>Ta xekamik, e ri'j chik,</l>
                     <l><space quantity="12" unit="chars" />e ajk'ixb',</l>
                     <l><space quantity="14" unit="chars" />ajk'ajb', kib'inam.</l>
-                    <lb /> <!-- potential div marker -->
                 </lg>
             </div>
             <div type="part">
                 <head>RO'</head>
                 <lg xml:id='lg5.01' type='tasik'>
                     <pb xml:id="colop1999-173"/>
-
-                    <l>K'ATE PUCH TA XKIK'UXLAJ KIB'IK</l>
-                    <lb /> <!-- potential div marker -->
+                    <l><seg rend='caps' type='tasik-header'>K'ATE PUCH TA XKIK'UXLAJ KIB'IK</seg></l>
                     <l>chila' Releb'al Q'ij.</l>
                     <l>Are kik'uxlan ri upixab' kiqajaw,</l>
                     <l>mawi xkisacho.</l>
@@ -7703,7 +7474,7 @@
                     <l><space quantity="6" unit="chars" />kojulik! Xecha' ta xeb'ek e oxib'.</l>
                     <lb /> <!-- potential div marker -->
                     
-                    <note n="314" place="margin" type="Colop">El texto dice <hi rend="bold">coaui quib</hi>.
+                    <note xml:id="314" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">coaui quib</hi>.
                     </note>
 
                     <pb xml:id="colop1999-174"/>
@@ -7792,7 +7563,7 @@
                     <l>Jakawitz ub'i'.</l>
                     <lb /> <!-- potential div marker -->
 
-                    <note n="315" place="margin" type="Colop">El texto dice <hi rend="bold">chire</hi>.
+                    <note xml:id="315" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">chire</hi>.
                     </note>
                 </lg>
                 <lg xml:id='lg5.02' type='tasik'>
@@ -7926,11 +7697,11 @@
                     <l><space quantity="12" unit="chars" />lab'al;</l>
                     <l>uxe' ta xtikarik upokob'axik tinamit Chi Ismachi'.</l>
 
-                    <note n="316" place="margin" type="Colop">Tumulto. Es sinonimo de 
+                    <note xml:id="316" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>Tumulto. Es sinonimo de 
                     <hi rend="bold">yujuj</hi>, disturbio o 'alboroto' (Basseta).
                     </note>
 
-                    <note n="317" place="margin" type="Colop">El texto dice <hi rend="bold">chu va</hi>.
+                    <note xml:id="317" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">chu va</hi>.
                     </note>
 
                     <pb xml:id="colop1999-179"/>
@@ -7976,11 +7747,11 @@
                     <l>chila' puch xk'ib'ij wi,</l>
                     <l>kichinamit kib',</l>
 
-                    <note n="318" place="margin" type="Colop">El texto dice <hi rend="bold">aha ztayul</hi> y 
+                    <note xml:id="318" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">aha ztayul</hi> y 
                     en otro lado <hi rend="bold">xtayul</hi>.
                     </note>
 
-                    <note n="319" place="margin" type="Colop">Viene de <hi rend="bold">paq'uj</hi>, 
+                    <note xml:id="319" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>Viene de <hi rend="bold">paq'uj</hi>, 
                     'agradecer' (Basseta).
                     </note>
 
@@ -8028,12 +7799,12 @@
                     <l><space quantity="12" unit="chars" />ujolom kaminaq;</l>
                     <l>xkiq'aq'b'ej kib'.</l>
 
-                    <note n="320" place="margin" type="Colop">Quizas Tedlock (1996:320) esta en
+                    <note xml:id="320" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>Quizas Tedlock (1996:320) esta en
                     lo correcto al decir que la identificacion del lugar deberia ser 
                     <hi rend="bold">Q'umaraq aj</hi>.
                     </note>
 
-                    <note n="321" place="margin" type="Colop">El texto dice <hi rend="bold">ni</hi>.
+                    <note xml:id="321" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">ni</hi>.
                     </note>
 
                     <pb xml:id="colop1999-181"/>
@@ -8080,7 +7851,7 @@
                     <l>Lolmet Kejnay,</l>
                     <l>Popol Winaq pa Jom Tzalatz',</l>
 
-                    <note n="322" place="margin" type="Colop">En esta parte del texto hay algunas
+                    <note xml:id="322" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>En esta parte del texto hay algunas
                     lineas tachadas cuyo contendio son frases repetidas.
                     </note>
 
@@ -8263,7 +8034,7 @@
                     <l>ka ch'ob' ta chik mawi kuk'an upatan chi rech ronojel,</l>
                     <l>xqaj utinamit;</l>
 
-                    <note n="323" place="margin" type="Colop"><hi rend="bold">Xowaj</hi> quiere decir 'respetar, obedecer,
+                    <note xml:id="323" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg><hi rend="bold">Xowaj</hi> quiere decir 'respetar, obedecer,
                     acatar' (Basseta, Ximénez).
                     </note>
 
@@ -8309,10 +8080,10 @@
                     <l>k'eje nay puch qatz'alam,</l>
                     <l><space quantity="15" unit="chars" />qak'oxtun chuxik.</l>
 
-                    <note n="324" place="margin" type="Colop">El texto dice <hi rend="bold">queico</hi>.
+                    <note xml:id="324" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">queico</hi>.
                     </note>
 
-                    <note n="325" place="margin" type="Colop">El texto dice <hi rend="bold">xquiba</hi>.
+                    <note xml:id="325" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">xquiba</hi>.
                     </note>
 
                     <pb xml:id="colop1999-187"/>
@@ -8359,10 +8130,10 @@
                     <l>aj Xayab'aj,</l>
                     <l>aj Saqkab'aja',</l>
 
-                    <note n="326" place="margin" type="Colop">El texto dice <hi rend="bold">nu ca camizah</hi>.
+                    <note xml:id="326" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">nu ca camizah</hi>.
                     </note>
 
-                    <note n="327" place="margin" type="Colop">El texto dice <hi rend="bold">cabicac</hi>.
+                    <note xml:id="327" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">cabicac</hi>.
                     </note>
 
                     <pb xml:id="colop1999-188"/>
@@ -8536,10 +8307,10 @@
                     <l>Popol Wuj, ub'i' kumal.</l>
                     <lb /> <!-- potential div marker -->
 
-                    <note n="328" place="margin" type="Colop">Estas dos lineas estan repetidas en el texto de Ximénez.
+                    <note xml:id="328" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>Estas dos lineas estan repetidas en el texto de Ximénez.
                     </note>
 
-                    <note n="329" place="margin" type="Colop">El texto dice <hi rend="bold">ibal</hi>.
+                    <note xml:id="329" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>El texto dice <hi rend="bold">ibal</hi>.
                     </note>
 
                     <pb xml:id="colop1999-192"/>
@@ -8585,18 +8356,18 @@
                     <l><space quantity="50" unit="chars" />kik'ajol</l>
                     <l><space quantity="33" unit="chars" />chire nay puch kajawarem.</l>
 
-                    <note n="330" place="margin" type="Colop">9 X 20 = 180 dias.
+                    <note xml:id="330" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>9 X 20 = 180 dias.
                     </note>
 
-                    <note n="331" place="margin" type="Colop">13 X 20 = 260 dias.
+                    <note xml:id="331" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>13 X 20 = 260 dias.
                     </note>
 
-                    <note n="332" place="margin" type="Colop"><hi rend="bold">Loo</hi> y 
+                    <note xml:id="332" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg><hi rend="bold">Loo</hi> y 
                     <hi rend="bold">loonik</hi> (quizas <hi rend="bold">lo'</hi>, <hi rend="bold">lo'nik</hi>),
                     es 'comer fruta, o cosa dulce' (Basseta).
                     </note>
 
-                    <note n="333" place="margin" type="Colop">17 X 20 = 340 dias.
+                    <note xml:id="333" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>17 X 20 = 340 dias.
                     </note>
 
                     <pb xml:id="colop1999-193"/>
@@ -8683,7 +8454,7 @@
                     <l>chuwi puch ronojel ixoq,</l>
                     <l><space quantity="19" unit="chars" />alk'wal</l>
 
-                    <note place="margin" type="Colop"> Con relacion a estos numeros, aqui como unas lineas
+                    <note place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg> Con relacion a estos numeros, aqui como unas lineas
                     antes, el texto dice: <hi rend="bold">beleh</hi>, <hi rend="bold">oxlahu</hi>,
                     <hi rend="bold">vclahu</hi>; no <hi rend="bold">b'elejeb'</hi>, <hi rend="bold">oxlajuj</hi>,
                     <hi rend="bold">wuqlajuj</hi>.
@@ -8821,7 +8592,7 @@
                     <l>Tepepul xepatanijik chuwach castillan winaq.</l>
                     <lb /> <!-- potential div marker -->
 
-                    <note n="335" place="margin" type="Colop">Esto es una confusion del copista;
+                    <note xml:id="335" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>Esto es una confusion del copista;
                     primero se identifica como de la 6ta. generacion y aqui como de la 7ma. generacion.
                     En el manuscrito de Ximénez aparece <hi rend="bold">vvac</hi> (folio 52a)
                     y despues <hi rend="bold">vuc</hi> (folio 55r).
@@ -8920,11 +8691,11 @@
                     <l>Nima Q'amja, jun unim ja.</l>
                     <l>Nim Chokoj Nija'ib', jun unim ja.</l>
 
-                    <note n="336" place="margin" type="Colop">Aqui como en unas lineas abajo,
+                    <note xml:id="336" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>Aqui como en unas lineas abajo,
                     el texto dice <hi rend="bold">quih</hi>.
                     </note>
 
-                    <note n="337" place="margin" type="Colop">Esta linea, en el texto de Ximénez, se repite
+                    <note xml:id="337" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>Esta linea, en el texto de Ximénez, se repite
                     dos lineas mas adelante.
                     </note>
 
@@ -8994,7 +8765,7 @@
                     <l>Xere k'u ri mixutzinik chi konojel K'iche',</l>
                     <l>Sta. Cruz, ub'i'.</l>
 
-                    <note n="338" place="margin" type="Colop">La frase k'iche'
+                    <note xml:id="338" place="margin"><seg type='note-symbol'><hi rend='superscript'>3</hi></seg>La frase k'iche'
                     <hi rend="bold">chuwach Kaweqib'</hi> o <hi rend="bold">(Kawiqib')</hi> no esta 
                     en la copia de Ximénez; aunque si en la traduccion (ver ed. facsimilar). Por el contexto,
                     es obvio que la frase <hi rend="bold">k'iche'</hi> fue omitida por error. Esa frase la incluyen 
