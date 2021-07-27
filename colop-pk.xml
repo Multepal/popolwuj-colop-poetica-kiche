@@ -674,7 +674,7 @@
                     <l><space quantity="24" unit="chars" />uch'ab'al Dios,</l>
                     <l><space quantity="24" unit="chars" />pa christianoil chik.</l>
                     <l>xchiqelesaj rumal maja b'i chik ilb'al re Popo Wuj<ref target='n001'><hi rend='superscript'>1</hi></ref>,</l>
-                    <note xml:id='n001' place='left'><seg type='note-symbol'><hi rend='superscript'>1</hi></seg>Aquí se identifica el nombre del libro 
+                    <note xml:id="n001" place='left'><seg type='note-symbol'><hi rend='superscript'>1</hi></seg>Aquí se identifica el nombre del libro 
                     como Popo Wuj y en la parte final como Popol Wuj. En el texto también encontramos la palabra popol en otras frases, como
                     en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la época
                     se encuentran registrados los términos popol, popol ech, popol ja, popol tzij.
@@ -741,7 +741,7 @@
                     <l><space quantity="6" unit="chars" />k'ichelaj,</l>
                     <l>xa utukel kaj k'olik.</l>
                     <l>Mawi<ref target='n002'><hi rend='superscript'>2</hi></ref> q'alaj uwach ulew,</l>
-                    <note xml:id='n002' place="right"><seg type='note-symbol'><hi rend='superscript'>2</hi></seg>Quiere decir no
+                    <note xml:id="n002" place="right"><seg type='note-symbol'><hi rend='superscript'>2</hi></seg>Quiere decir no
                     Es equivalente a <hi rend="bold">maja'</hi></note>
                     <l>xa utukel remanik palo</l>
                     <l><space quantity="12" unit="chars" />upa kaj, ronojel.</l>
@@ -3354,14 +3354,16 @@
                     <l>Xecha' k'u ri Junajpu,</l>
                     <l><space quantity="14" unit="chars" />Xb'alanke:</l>
                     <pb xml:id="colop1999-078"/>
-                    <l>-Chikira' iwex,</l>
+                    <l>-Chikira' iwex<ref target='n185'><hi rend='superscript'>185</hi></ref>,</l>
+                    <note xml:id="n185" place='left'><seg type='note-symbol'><hi rend='superscript'>185</hi></seg><hi rend='bold'>Wex</hi>
+                    son los pantalones.</note>
                     <l>chixima' xe ipam;</l>
                     <l>najtik utza'm,</l>
                     <l>chijureje' chi wij;</l>
                     <l>k'ate k'ut utz ib'inik.- Xe'uchax chik kumal kichaq'.</l>
                     <l>-We! Xecha' k'ut.</l>
                     <l>Ta xkijurub'a k'ut utza'm kito'k<ref target='n186'><hi rend='superscript'>186</hi></ref>,</l>
-                    <note xml:id='n186' place='left'><seg type='note-symbol'><hi rend='superscript'>186</hi></seg><hi rend='bold'>To'k</hi>, de
+                    <note xml:id="n186" place='left'><seg type='note-symbol'><hi rend='superscript'>186</hi></seg><hi rend='bold'>To'k</hi>, de
                     acuerdo a Ximénez y a Basseta, es sinónimo de <hi rend='bold'>wex</hi>. Es probable, sin embargo, que
                     <hi rend='bold'>to'k</hi> haya sido lienzo ancho de vestir con el cual se sujetaban los pantalones (<hi rend='bold'>wex</hi>.)
                     Algo parecido a lo que ahora es <hi rend='bold'>pas</hi>, 'faja'.</note>
@@ -3372,7 +3374,7 @@
                     <l>xeb'ek pa taq k'ichelaj,</l>
                     <l>kewojon chik,</l>
                     <l>kisilaj<ref target='n187'><hi rend='superscript'>187</hi></ref> chik chuq'ab' taq che'.</l>
-                    <note xml:id='n187' place='left'><seg type='note-symbol'><hi rend='superscript'>187</hi></seg><hi rend='bold'>Silaj</hi> o
+                    <note xml:id="n187" place='left'><seg type='note-symbol'><hi rend='superscript'>187</hi></seg><hi rend='bold'>Silaj</hi> o
                     <hi rend='bold'>siloj</hi> es 'menear' y en este caso 'columpiarse entre las ramas de los árboles'. En el 
                     diccionario de Ximénez encontramos <hi rend='bold'>siloj</hi>.</note>
                     <l>K'eje k'ut kich'akatajik Jun B'atz',</l>
@@ -3388,7 +3390,7 @@
                     <l>k'eje ri e chikop chik.- Xecha' k'ut.</l>
                     <l>-We naki la mixib'an chi ke iwatz,</l>
                     <l>mixiniq'alab'a'<ref target='n188'><hi rend='superscript'>188</hi></ref></l>
-                    <note xml:id='n188' place='left'><seg type='note-symbol'><hi rend='superscript'>188</hi></seg><hi rend='bold'>Q'alab'a'</hi> es
+                    <note xml:id="n188" place='left'><seg type='note-symbol'><hi rend='superscript'>188</hi></seg><hi rend='bold'>Q'alab'a'</hi> es
                     'echar a perder algo' (Ximénez).</note>
                     <l>mi pu xinich'ikib'a'.</l>
                     <l>Ma ta k'eje xib'an chi ke iwatz, ix wi.- Xcha' ri ati't chi kech Junajpu,</l>
