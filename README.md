@@ -1,4 +1,4 @@
-# popolwuj-colop-poetica-kiche
+# Ajtz'ib'ab' (K'iche') edition of the _Popol Wuk_
 
 Digital edition of the Popol Wuj using Colop's (1999) versión poética k'iche'
 
