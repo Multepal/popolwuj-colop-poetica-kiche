@@ -35,14 +35,14 @@
             <div type="publication">
                 <pb xml:id="colop1999-000" />
                     <titlepage>
-                        <head>Popol Wuj</head>
+                        <head><rs ana="POPOL_WUJ">Popol Wuj</rs></head>
                         <l>Versión Poética K'iche'</l>
                         <l>Sam Colop</l>
                     </titlepage>
                 <pb xml:id="colop1999-001" />
                 <pb xml:id="colop1999-002" />
                 <pb xml:id="colop1999-003" />
-                    <l>POPOL WUJ</l>
+                    <l><rs ana="POPOL_WUJ">POPOL WUJ</rs></l>
                     <l>Versión Poética K'iche'</l>
                     <note resp="editor">How should we encode the stamp?</note>
                     <l>SAM COLOP</l>
@@ -87,7 +87,7 @@
                     <item>ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I' 21</item>
                     <item>ARE' UTZIJOXIK WA'E   23</item>
                     <item>TA XWINAQIR K'U RI ULEW KUMAL 26</item>
-                    <item>K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ, WINAQ B'IT KUMAL TZ'AQOL, B'ITOL, ALOM, K'AJOLOM   30</item>
+                    <item>K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ, WINAQ B'IT KUMAL <rs ana="TZ'AQOL">TZ'AQOL</rs>, <rs ana="B'ITOL">B'ITOL</rs>, <rs ana="ALOM">ALOM</rs>, <rs ana="K'AJOLOM">K'AJOLOM</rs>   30</item>
                     <item>K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL    31</item>
                     <item>K'ATE K'UT KIK'ISIK CHIK 35</item>
                 </list>
@@ -95,27 +95,28 @@
                 <list>
                     <item>ARE K'UT XA JUB'IQ' SAQNATONOJ UWACH ULEW 39</item>
                     <item>K'EJE K'UT XCHIQAB'IJ CHIK TA XKAMIK WUQUB' KAK'IX    40</item>
-                    <item>WA'E CHI K'UTE UB' ANOJ CHIK SIPAKNA  45</item>
-                    <item>ARE CHIK UCH'AKATAJIK, UKAMIK SIPAKNA 49</item>
+                    <item>WA'E CHI K'UTE UB' ANOJ CHIK <rs ana="SIPAKNA">SIPAKNA</rs>  45</item>
+                    <item>ARE CHIK UCH'AKATAJIK, UKAMIK <rs ana="SIPAKNA">SIPAKNA</rs> 49</item>
                     <item>JUN CHI K'UT XCHIQAB'IJ UB'IXIK   52</item>
                 </list>
                 <l><hi rend="emph">ROX</hi></l>
                 <list>
-                    <item>ARE CHI K'UT XCHIQAB'IJ CHIK UB'I' KIQAJAW RI JUNAJPU, XB'ALANKE  57</item>
-                    <item>ARE CHI K'UT XCHIQAB'IJ' CHIK KIB'E'IK CHI XIB'ALB'A  60</item>
-                    <item>K'ATE PUCH TA XEB'EK JUN JUNAJPU, WUQUB' JUNAJPU  63</item>
-                    <item>K'ATE K'UT XE'OPONIK PA Q'EQUMA JA    64</item>
+                    <item>ARE CHI K'UT XCHIQAB'IJ CHIK UB'I' KIQAJAW RI <rs ana="JUNAJPU">JUNAJPU</rs>, <rs ana="XB'ALAMQ'E">XB'ALANKE</rs>  57</item>
+                    <item>ARE CHI K'UT XCHIQAB'IJ' CHIK KIB'E'IK CHI <rs ana="XIB'ALB'A">XIB'ALB'A</rs>  60</item>
+                    <item>K'ATE PUCH TA XEB'EK <rs ana="JUN_JUNAJPU">JUN JUNAJPU</rs>, <rs ana="WUQUB'_JUNAJPU">WUQUB' JUNAJPU</rs>  63</item>
+                    <item>K'ATE K'UT XE'OPONIK PA <rs ana="Q'EQUMA_JA">Q'EQUMA JA</rs>   64</item>
                     <item>WA CHI K'UTE UTZIJOXIK JUN Q'APOJ     67</item>
-                    <item>ARE K'UTE K'O RI UCHUCH JUN B'ATZ', JUN CHOWEN    72</item>
-                    <item>ARE CHIK XCHIQATZJOJ KALAXIK JUNAJPU XB'ALANKE   74</item>
+                    <item>ARE K'UTE K'O RI UCHUCH <rs ana="JUN_B'ATZ'">JUN B'ATZ'</rs>, <rs ana="JUN_CHOWEN">JUN CHOWEN</rs>    72</item>
+                    <item>ARE CHIK XCHIQATZJOJ KALAXIK <rs ana="JUNAJPU">JUNAJPU</rs> <rs ana="XB'ALAMQ'E">XB'ALANKE</rs>   74</item>
                     <item>TA XEB'E K'UT CHILA' CHUXE' CHE', Q'ANTE', UB'I'    77</item>
                     <item>K'ATE K'UT XUKAQ'AT ULA CH'O RI KIK'  87</item>
-                    <item>TA XEPE K'UT NIMA JOK K'U KIB'E RI K'AJOLAB' CHI KOCHOCH    88</item>
+                    <item>TA XEPE K'UT NIMA JOK K'U KIB'E RI <rs ana="KA'IB'_K'AJOLAB'">K'AJOLAB'</rs>
+                     CHI KOCHOCH    88</item>
                     <item>TA XEB'E K'UT     92</item>
-                    <item>K'ATE K'UT TA XE'OK PA Q'EQUMA JA      95</item>
-                    <item>ARE K'UT WA'E KINAB'AL, KIKAMIK JUNAJPU, XB'ALANKE    106</item>
+                    <item>K'ATE K'UT TA XE'OK PA <rs ana="Q'EQUMA_JA">Q'EQUMA JA</rs>      95</item>
+                    <item>ARE K'UT WA'E KINAB'AL, KIKAMIK <rs ana="JUNAJPU">JUNAJPU</rs>, <rs ana="XB'ALAMQ'E">XB'ALANKE</rs>    106</item>
                 <pb xml:id="colop1999-008" />
-                    <item>K' ATE PUCH URAYINIK, UMALINIK PU KIK'UX AJAWAB' CHI RE KIXALOJ JUNAJPU, XBALANKE</item>
+                    <item>K' ATE PUCH URAYINIK, UMALINIK PU KIK'UX AJAWAB' CHI RE KIXALOJ <rs ana="JUNAJPU">JUNAJPU</rs>, <rs ana="XB'ALAMQ'E">XBALANKE</rs></item>
                     <item>ARE K'UT KOQ'IK, KASIK'IN RI KATI'T CHUWACH RI AJ, RI XKITIK KANOQ</item>
                     <item>ARE K'U RI NAB'E KIQAJAW</item>
                 </list>
