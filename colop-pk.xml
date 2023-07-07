@@ -171,13 +171,13 @@
             <div type="preface">
                 <pb xml:id="colop1999-011" />
                 <head>PRESENTACIÓN</head>
-                <p>El Popol Wuj fue escrito en idioma K'iche', con caracteres latinos en el siglo dieciseis. 
-                    Es uno de los libros más importantes que el Pueblo Maya haya escrito. 
-                    Desde que el padre Ximénez, lo obtuvo en el convento de Chichicastenango, 
-                    ha despertado interés en otros Pueblos Indígenas de America, 
+                <p>El <rs ana="POPOL_WUJ">Popol Wuj</rs> fue escrito en idioma K'iche', con caracteres latinos en el siglo dieciseis. 
+                    Es uno de los libros más importantes que el <rs ana="TINAMIT_K'ICHE'">Pueblo Maya</rs> haya escrito. 
+                    Desde que <rs ana="XIMENEZ">el padre Ximénez</rs>, lo obtuvo en el convento de <rs ana="CHICHICASTENANGO">Chichicastenango</rs>, 
+                    ha despertado interés en otros Pueblos Indígenas de América, 
                     y entre la comunidad académica internacional.</p>
                 <p>La primera edición impresa fue publicada en Viena (1857) por
-                    Scherzer de la traducción que hiciera el mismo padre Ximénez de su
+                    Scherzer de la traducción que hiciera el mismo <rs ana="XIMENEZ">padre Ximénez</rs> de su
                     copia manuscrita de un original que ya no tenemos, poco antes de
                     que Brasseur de Bourbourg publicara su edición bilingüe, en K'iche'
                     y Francés, con un largo y docto estudio introductorio (París, 1861).</p>
@@ -190,9 +190,9 @@
                     el de Recinos y otros. Hace ya más de cuarenta años (1955) hubo una edición en K'iche', 
                     ligeramente purgada, por parte del Instituto Bíblico 
                     y a cargo de los esposos Burgess y del informante Patricio Xec. Augustin Estrada Monroy
-                    publicó en 1973, una edición facsimilar del manuscrito
-                    de Chichicastenango, con la transcripción del texto castellano al lado. El
-                    manuscrito es conservado en Newberry Library de Chicago, a donde
+                    publicó en 1973, una edición facsimilar del <rs ana="POPOL_WUJ">manuscrito</rs>
+                    de <rs ana="CHICHICASTENANGO">Chichicastenango</rs>, con la transcripción del texto castellano al lado. El
+                    <rs ana="POPOL_WUJ">manuscrito</rs> es conservado en Newberry Library de Chicago, a donde
                     llegó como donación, con el fondo Aubin, a su vez comprado en la
                     subasta de la biblioteca de Brasseur (París, 1878).</p>
                 <p>Circulan muchas traducciones al Castellano, la más popular parece ser la de Albertina Saravia 
@@ -200,10 +200,10 @@
                     una retraducción de la versión de Saravia al K'iche', 
                     que está en las librerías. Hace cuatro años, 
                     apareció la excelente traducción al Inglés, sobre un trabajo crítico del original K'iche',
-                    por Dennis Tedlok. En 1971 salió, en la Tulane University, la edición
+                    por Dennis Tedlock. En 1971 salió, en la Tulane University, la edición
                     bilingüe K'iche'- Inglés del estudioso M. Edmonson. Y en 1997 se
                     volvió a editar el interesante trabajo de don Adrián Inés Chávez que 
-                    pone el texto del manuscrito original al lado de una redacción 
+                    pone el texto del <rs ana="POPOL_WUJ">manuscrito original</rs> al lado de una redacción 
                     en 'escritura ortográfica' K'iche' y coloca las respectivas traducciones al Castellano, 
                     una literal y la otra interpretativa.</p> 
                 <p>Son innumerables las ediciones para niños, 
