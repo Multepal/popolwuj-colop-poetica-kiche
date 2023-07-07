@@ -255,360 +255,325 @@
                 <l>PEMBI</l>
                 <pb xml:id="colop1999-013" />
                 <l><hi rend="bold">INTRODUCCION</hi></l>
-                <p>Esta version K'iche' del Popol Wujesta preparada para que 
+                <p>Esta version K'iche' del <rs ana="POPOL_WUJ">Popol Wuj</rs> está preparada para que 
                     lectores con conocimiento de ese idioma tengan 
                     un acercamiento substancial al texto que contiene 
-                    la mitologia y la historia del Pueblo Maya K'iche'. 
-                    Si bien, el original del documento quiza este perdido definitivamente, 
-                    la copia mas antigua con que se dispone a la fecha, es la
-                    copia que Ximenez realizo a principios del siglo XVIII, de una version
-                    alfabetica anterior escrita a mediados del siglo XVI por autores
-                    K'iche'ib'. El manuscrito de Ximenez se encuentra en la actualidad en
-                    la Biblioteca de Newberry, Chicago. La presente publicacion 
-                    se fundarnenta en la version K'iche' de ese manuscrito, el cual y entre otros,
-                    ha sido publicado en forma facsirnilar por Estrada Monroy (1973),
+                    la mitologia y la historia del <rs ana="TINAMIT_K'ICHE'">Pueblo Maya K'iche'</rs>. 
+                    Si bien, el original del <rs ana="POPOL_WUJ">documento</rs> quiza este perdido definitivamente, 
+                    la <rs ana="POPOL_WUJ">copia</rs> más antigua con que se dispone a la fecha, es la
+                    <rs ana="POPOL_WUJ">copia</rs> que <rs ana="XIMENEZ">Ximénez</rs> realizó a principios del siglo XVIII, de una versión
+                    alfabética anterior escrita a mediados del siglo XVI por autores
+                    K'iche'ib'. El <rs ana="POPOL_WUJ">manuscrito</rs> de <rs ana="XIMENEZ">Ximénez</rs> se encuentra en la actualidad en
+                    la Biblioteca de Newberry, Chicago. La presente publicación 
+                    se fundamenta en la version K'iche' de ese manuscrito, el cual y entre otros,
+                    ha sido publicado en forma facsimilar por Estrada Monroy (1973),
                     transcrito y publicado por Schultze-Jena (1944), Burgess-Xec (1955),
-                    Edmonson (1971) y Chavez (1978).</p>
-                <p>Algo interesante que hay que resaltar del rnanuscrito de Ximenez
-                    es que, quiza sin advertirlo, copio el texto K'iche' (adernas de traducirlo al castellano), 
-                    de manera tal que dejo evidencias de la autoria
-                    multip le de la version previa, copia que a su vez apunta hacia una
-                    version jeroglifica anterior. En el texto, por ejernplo, se aprecia 
-                    la tecnica de inserci6n vocalica que facilita la silabificacion, 
+                    Edmonson (1971) y Chávez (1978).</p>
+                <p>Algo interesante que hay que resaltar del <rs ana="POPOL_WUJ">manuscrito</rs> de <rs ana="XIMENEZ">Ximénez</rs>
+                    es que, quiza sin advertirlo, copió el texto K'iche' (además de traducirlo al castellano), 
+                    de manera tal que dejó evidencias de la autoria
+                    multiple de la <rs ana="POPOL_WUJ">version previa</rs>, <rs ana="POPOL_WUJ">copia</rs> que a su vez apunta hacia <rs ana="POPOL_WUJ">una
+                    versión jeroglífica anterior</rs>. En el texto, por ejemplo, se aprecia 
+                    la técnica de inserción vocálica que facilita la silabificación, 
                     lo cual es una
-                    caracteristica de la escritura jeroglifica rnaya. Asi se lee q'ana kotz'i'j,
-                    en lugar q'an k'otz'i'j, 'flores amarillas'; q'eqa b'e , en lugar de q'eq
-                    b'e, 'camino negro'. Tambien se encuentran varios encabezados de
-                    texto (caption texts), que sugieren que los autores K'iche'ib' estaban
-                    transc ribiendo el texto de una version jeroglifica o que se referian a
-                    un texto con esas caracteristicas. Ademas estan las repetidas ocasiones 
-                    en que se rnenciona la existencia de un texto antiguo donde los
-                    ancestros podian ver, entiendase leer o interpretar hechos pasados,
-                    corno predecir ciertos eventos. Es asi corno Q'ukumatz y K'otuja, de
-                    la Sta. generacion; Kikab' y Kawisimaj, de la 6a. o 7ma. generacion
-                    (ver nota p. 197), tenian un librodonde podian veresos acontecirnientos y, 
-                    ese libro era llamado por ellos: Popol Wuj (p. 171 de esta version; 
-                    Recino s p. 146; Chavez p. 107). Recuerdese aqui que los espafioles 
-                    llegaron cuando gobemaban los de la decimo segunda generacion!</p>
-                <p>A lo anterior se agrega el tema de la correlaci6n astronornica. En el
-                    Popol Wuj se describen ceremonias de caracter religioso relacionadas
-                    con la rnitad de un Tun (9X20 = 180 dias); con el ciclo de 260 dias
-                    (13X20 = calendario sacro); y con el periodo de 340 dias (17X20) 
-                    referente a Venus (Edmonson 1971:243, Tedlock, 1996:329-330). 
-                    Esa correlaci6n se confirrna a traves de la invocacion con la cual los propios
-                    ofrendantes iniciaban sus rogativas: Aq'aroq At oob' ruq'ij, 'Oh tu, el
-                    de los 5 dias 1 . Esto es Venus, cuyo aparecimiento dclico solo sucede
-                    en los 5 dias queen idiorna k'iche' y que conforrne al C6dice de Dresde
-                    son: Ajpu, Ajmaq, E, Q'anil, K'at.</p>
-                <p type="note">Trild11c1dopor Rec,no .,
-                    (p . 147coma, ",Oh tu
-                    hermosura de/ dlnf'
-                    Chilvtfz (p 107) como ,
-                    "1C,torlil1, Ayudad ill din"
-                    Tedlock (p 192) coma,
-                    ";WilJ/1 on th,s blessed
-                    d,1y'' Burges/ Yec(p 286
-                    ·•Oh tu de c,nco glorw ., "
-                    Edmonson (p 2./4} Ila,/
-                    you of the f,.-,, dilvs "</p>
+                    característica de la escritura jeroglífica maya. Asi se lee q'ana <rs ana="KOTZ'I'J">kotz'i'j</rs>,
+                    en lugar q'an <rs ana="KOTZ'I'J">k'otz'i'j</rs>, '<rs ana="KOTZ'I'J">flores</rs> amarillas'; <rs ana="Q'EQA_B'E">q'eqa b'e</rs>, en lugar de <rs ana="Q'EQA_B'E">q'eq
+                    b'e</rs>, '<rs ana="Q'EQA_B'E">camino negro</rs>'. También se encuentran varios encabezados de
+                    texto (<hi rend="italic">caption texts</hi>), que sugieren que los autores K'iche'ib' estaban
+                    transcribiendo el texto de una <rs ana="POPOL_WUJ">versión jeroglífica</rs> o que se referían a
+                    un texto con esas características. Además están las repetidas ocasiones 
+                    en que se menciona la existencia de un <rs ana="POPOL_WUJ">texto <hi rend="italic">antiguo</hi></rs> donde los
+                    ancestros podían <hi rend="italic">ver</hi>, entíendase <hi rend="italic">leer o interpretar</hi> hechos pasados,
+                    como predecir ciertos eventos. Es así como <hi rend="bold"><rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> y <rs ana="K'OTUJA_KQCINCO">K'otuja</rs></hi>, de
+                    la 5ta. generación; <hi rend="bold"><rs ana="K'IKAB'_KQSIETE">Kikab'</rs> y <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs></hi>, de la 6a. o 7ma. generación
+                    (ver nota p. 197), tenian <hi rend="italic">un <rs ana="POPOL_WUJ">libro</rs></hi> donde podían <hi rend="italic">ver</hi> esos acontecimientos y, 
+                    ese libro <hi rend="bold">era llamado por ellos: <rs ana="POPOL_WUJ">Popol Wuj</rs></hi> (p. 171 de esta versión; 
+                    Recinos p. 146; Chávez p. 107). Recuérdese aquí que los españoles 
+                    llegaron cuando gobernaban los de la décimo segunda generación!</p>
+                <p>A lo anterior se agrega el tema de la correlación astronómica. En el
+                    <rs ana="POPOL_WUJ">Popol Wuj</rs> se describen ceremonias de carácter religioso relacionadas
+                    con la mitad de un <hi rend="italics">Tun</hi> (9X20 = 180 dias); con el ciclo de 260 días
+                    (13X20 = calendario sacro); y con el período de 340 dias (17X20) 
+                    referente a <rs ana="IK'OQ'IJ">Venus</rs> (Edmonson 1971:243, Tedlock, 1996:329-330). 
+                    Esa correlación se confirma a través de la invocación con la cual los propios
+                    ofrendantes iniciaban sus rogativas: <hi rend="bold">Aq'aroq At oob' ruq'ij</hi>, 'Oh tu, el
+                    de los 5 dias.<ref target="quc.001"><hi rend="sup">1</hi></ref>
+                    <note place="foot" xml:id="quc.001"><seg type="quc.001"><hi rend="sup">1</hi></seg>
+                            Traducido por Recinos (p. 147) como "¡Oh tu hermosura del día!", Chávez (p. 107) como "¡Gloria¡, ¡Ayudad al día!"; Tedlock (p. 192) como, "Wait! on this blessed day", Burges/Xec (p. 286) "Oh tú de cinco glorias". Edmondson (p. 244) "Hail you of the five days."
+                        </note>
+                    Esto es <rs ana="IK'OQ'IJ">Venus</rs>, cuyo aparecimiento cíclico solo sucede
+                    en los 5 días que en idioma k'iche' y que conforme al <hi rend="italics">Códice de Dresde</hi>
+                    son: <hi rend="bold">Ajpu, Ajmaq, E, Q'anil, K'at</hi>.</p>
                 <pb xml:id="colop1999-014" />
-                <p>En la copia de Ximenez tambien se percibe una variacion dialectal
-                    entre los au tores K'iche'ib'. Asf se puede leer en determinadas 
-                    secciones K'iche' yen otras K'eche'; mi'al y me'al; k'ichejal y k'echelaj,
-                    nimarisaj y nimarisay; que agua se escribe a', ja' e incluso ya', etc.
-                    Esto ultimo induce a pensar que uno de los autores provenfa de una
-                    zona fronteriza Kaqchikel. Y es que los autores K'iche'ib' eran Nim
-                    Chokojde los linajes Kaweq/ Nija'ib' ab' y Ajaw K iche'; 
+                <p>En la copia de <rs ana="XIMENEZ">Ximénez</rs> también se percibe una variación dialectal
+                    entre los autores K'iche'ib'. Así se puede leer en determinadas 
+                    secciones <hi rend="bold">K'iche'</hi> y en otras <hi rend="bold">K'eche'</hi>; <hi rend="bold">mi'al</hi> y <hi rend="bold">me'al</hi>; <hi rend="bold">k'ichejal</hi> y <hi rend="bold">k'echelaj</hi>,
+                    <hi rend="bold">nimarisaj</hi> y <hi rend="bold">nimarisay</hi>; que <hi rend="italics">agua</hi> se escribe <hi rend="bold">a'</hi>, <hi rend="bold">ja'</hi> e incluso <hi rend="bold">ya'</hi>, etc.
+                    Esto último induce a pensar que uno de los autores provenía de una
+                    zona fronteriza <rs ana="KAQCHIKELEB'">Kaqchikel</rs>. Y es que los autores <rs ana="TINAMIT_K'ICHE'">K'iche'ib'</rs> eran <rs ana="NIM_CH'OKOJ">Nim
+                    Chokoj</rs> de los linajes <rs ana="KAWEQ">Kaweq</rs>, <rs ana="NIJA'IB'">Nija'ib'ab'</rs> y <rs ana="AJAW_K'ICHE'">Ajaw K iche'</rs>; 
                     ellos eran "madres de la palabra, 
                     padres de la palabra" como se identifican en el
-                    mismo Popol Wuj. Tedlock (1996:57), sugiere que el Nim Chokoj de'
-                    los Kaweq, era quien fue bautizado con el nombre castellano de Cris- ·
-                    tobal Velasco.</p>
-                <p>Es probable que para el lector apresurado, esta version resulte un
-                    poco dificil de leer al principio; pero la intencion es hacer asequible el
-                    texto sin alejarlo demasiado del que esta contenido en la copia mas
-                    antigua con que se dispone . Aquf se debe advertir que silos que 
-                    trascribieron el texto al alfabeto latino lo hicieron bajo circunstancias de
-                    persecucion religiosa y aun asf nos legaron este texto unico en su genera. 
-                    Que ese documento fue posteriormente copiado por Ximenez,
-                    fraile que llego a creer que el autor de aquel libro habia sido el mismo
+                    mismo Popol Wuj. Tedlock (1996:57), sugiere que el <rs ana="NIM_CH'OKOJ">Nim Chokoj</rs> de'
+                    los <rs ana="KAWEQ">Kaweq</rs>, era quien fue bautizado con el nombre castellano de Cristóbal Velasco.</p>
+                <p>Es probable que para el lector apresurado, esta versión resulte un
+                    poco difícil de leer al principio; pero la intención es hacer asequible el
+                    texto sin alejarlo demasiado del que está contenido en <rs ana="POPOL_WUJ">la copia más
+                    antigua con que se dispone</rs>. Aquí se debe advertir que si <rs ana="NIM_CH'OKOJ">los que 
+                    trascribieron el texto al alfabeto latino</rs> lo hicieron bajo circunstancias de
+                    persecución religiosa y aún así nos legaron este texto único en su genero. 
+                    Que ese documento fue posteriormente copiado por <rs ana="XIMENEZ">Ximénez</rs>,
+                    fraile que llegó a creer que <rs ana="NIM_CH'OKOJ">el autor</rs> de aquel <rs ana="POPOL_WUJ">libro</rs> había sido el mismo
                     Satanas. Ahora entonces, lo menos que se puede hacer, es intentar
-                    una aproximacion al texto en el idioma original con el que fue escrito .
-                    Para facilitar su lectura, esta version se acompafla con notas de pie de
-                    pagina que sirven de guia para comprender ciertos terminos en desuso; 
+                    una aproximación al texto en el idioma original con el que fue escrito.
+                    Para facilitar su lectura, esta versión se acompaña con notas de pie de
+                    página que sirven de guía para comprender ciertos terminos en desuso; 
                     para aclarar datos, registrar divergencias, etc.</p>
-                <p>El texto se divide en cinco partes. La primera parte abarca desde
-                    el origen de la palabra hasta la destruccion de los seres de madera. 
+                <p><rs ana="POPOL_WUJ">El texto</rs> se divide en cinco partes. La primera parte abarca desde
+                    el origen de la palabra hasta la destrucción de los seres de madera. 
                     La segunda parte se refiere a los seres que quisieron arrogarse 
-                    una divinidad que no les correspondia y son derrotados por los gemelos,
-                    Junajpu e lxb'alanke. La tercera parte contiene una regresion a una
-                    epoca mftica anterior que comienza con el nacimiento de Jun Junajpu,
-                    Wuqub' Junajpu, padres de los heroes gemelos. Luego se narra la ida
-                    y derrota de Jun Junajpu y Wuqub' Junajpu en Xib'alb 'a; 
-                    la concepcion de los heroes gemelos que, eventualmente, llegaran a derrotar a
-                    Xib'alb'a para luego ascender al infinito y convertirse en astros celestes. 
-                    La cuarta parte corresponde a la creacion de los primeros seres
-                    humanos, de donde se origina el genero humano actual. Tambien se
+                    una divinidad que no les correspondia y son derrotados por <rs ana="KA'IB'_K'AJOLAB'">los gemelos</rs>,
+                    <rs ana="JUNAJPU">Junajpu</rs> e <rs ana="XB'ALAMQ'E">Ixb'alanke</rs>. La tercera parte contiene una regresión a una
+                    epoca mística anterior que comienza con el nacimiento de <rs ana="JUN_JUNAJPU">Jun Junajpu</rs>,
+                    <rs ana="WUQUB'_JUNAJPU">Wuqub' Junajpu</rs>, padres de <rs ana="KA'IB'_K'AJOLAB'">los héroes gemelos</rs>. Luego se narra la ida
+                    y derrota de <rs ana="JUN_JUNAJPU">Jun Junajpu</rs> y <rs ana="WUQUB'_JUNAJPU">Wuqub' Junajpu</rs> en <rs ana="XIB'ALB'A">Xib'alb'a</rs>; 
+                    la concepción de <rs ana="KA'IB'_K'AJOLAB'">los héroes gemelos</rs> que, eventualmente, llegaran a derrotar a
+                    <rs ana="XIB'ALB'A">Xib'alb'a</rs> para luego ascender al infinito y convertirse en astros celestes. 
+                    La cuarta parte corresponde a la creación de <rs ana="XA_Q'ANA_JAL">los primeros seres
+                    humanos</rs>, de donde se origina el género humano actual. También se
                     cuenta el nacimiento del sol, el establecimiento de los primeros pueblos, 
-                    sus nawales, sus peregrinajes y sus batallas . Termina esa seccion
-                    con el retorno y desaparicion de los cuatro primeros seres humanos.
+                    sus nawales, sus peregrinajes y sus batallas. Termina esa sección
+                    con el retorno y desaparición de <rs ana="XA_Q'ANA_JAL">los cuatro primeros seres humanos</rs>.
                     La quinta parte desarrolla la historia que corresponde a la segunda
-                    generacion de ancestros hasta el establecimiento del pueblo K'iche'
-                    en Sahta Cruz del K'iche', incluyendo una breve mencion 
-                    de las primeras consecuencias de la invasion hispana.</p>
+                    generacion de ancestros hasta el establecimiento del <rs ana="TINAMIT_K'ICHE'">pueblo K'iche'</rs>
+                    en <rs ana="SANTA_CRUZ">Santa Cruz del K'iche'</rs>, incluyendo una breve mención 
+                    de las primeras consecuencias de la invasión hispana.</p>
                 <pb xml:id="colop1999-015" />
-                <l><hi rend="bold">EL LENGUAJE DEL POPOL WUJ</hi></l>
-                <p>El lenguaje en el que esta escrito el Popol Wuj combina la poesia y
-                    la prosa, algunas veces la poesia es densa y otras se manifiesta 
-                    sutilmente entre el tejido verbal con el que esta redactado el texto. Es
-                    decir, el lenguaje en el que esta escrito el Popol Wuj es artistico, 
-                    ademas de su propio contenido mito-hist6rico . 
-                    Es por eso que a la presente publicaci6n se le subtitula versi6n poetica.</p>
-                <p>La poesia en el Popol Wuj, como en la poesia mesoamericana se
+                <l><hi rend="bold">EL LENGUAJE DEL <rs ana="POPOL_WUJ">POPOL WUJ</rs></hi></l>
+                <p>El lenguaje en el que está escrito el <rs ana="POPOL_WUJ">Popol Wuj</rs> combina la poesía y
+                    la prosa, algunas veces la poesía es densa y otras se manifiesta 
+                    sutilmente entre el tejido verbal con el que está redactado el texto. Es
+                    decir, el lenguaje en el que está escrito el <rs ana="POPOL_WUJ">Popol Wuj</rs> es artístico, 
+                    además de su propio contenido mito-histórico. 
+                    Es por eso que a la presente publicación se le subtitula versión poética.</p>
+                <p>La poesia en el <rs ana="POPOL_WUJ">Popol Wuj</rs>, como en la poesía mesoamericana se
                     caracteriza por el verso paralelo. El paralelismo, sin embargo, no debe
-                    concebirse como la contigiiidad de dos lineas unicamente (pareados);
-                    porque tambien hay tripletes y cuartetos. En el verso K'iche', como
-                    en el verso maya, la correspondencia verbal es principalmente semantica, 
-                    antes que sintactica o fonol6gica. De alli que comparativamente
-                    se diga, si la rima de] verso en otras culturas es fono16gica/ la rima de]
-                    verso maya es semantica.</p>
-                <p>Para una mejor percepci6n del lenguaje en este libro K'iche ', se
+                    concebirse como la contigüidad de dos líneas únicamente (<hi rend="italics">pareados</hi>);
+                    porque también hay tripletes y cuartetos. En el verso K'iche', como
+                    en el verso maya, la correspondencia verbal es principalmente semántica, 
+                    antes que sintáctica o fonológica. De alli que comparativamente
+                    se diga, <hi rend="italics">si la rima de] verso en otras culturas es fonológica; la rima de]
+                    verso maya es semántica</hi>.</p>
+                <p>Para una mejor percepción del lenguaje en este libro K'iche', se
                     presentan los siguientes ejemplos. El primer extracto corresponde a
-                    las seis lineas con las cuales comienza el documento . El texto que se
-                    analiza es la version K'iche'. La traducci6n al espaftol con que se acompafia 
-                    y la numeraci6n de las lineas, son para facilitar esta exposici6n:</p>
+                    las seis líneas con las cuales comienza el documento. El texto que se
+                    analiza es la versión K'iche'. La traducción al español con que se acompaña 
+                    y la numeración de las líneas, son para facilitar esta exposición:</p>
                 <list>
-                    Are uxe' ojer tzij waral K'iche' ub'i'.
-                    Waralxchiqatzib'aj wi
-                    xchiqatikib 'a' wi ojer tzij
-                    utikarib 'al
-                    uxe'nab 'al puch ronojel xb' an pa tinamit K' iche '
-                    ramaq ' K' iche' winaq .
+                <hi rend="italics">
+                    Are uxe' ojer tzij waral K'iche' ub'i'.<space quantity="17" unit="chars" />1
+                    Waral xchiqatzib'aj wi<space quantity="25" unit="chars" />2
+                    <space quantity="5" unit="chars" />xchiqatikib'a' wi ojer tzij<space quantity="19" unit="chars" />3
+                    utikarib'al<space quantity="35" unit="chars" />4
+                    uxe'nab'al puch ronojel xb'an pa <rs ana="TINAMIT_K'ICHE'">tinamit K'iche'</rs><space quantity="10" unit="chars" />5
+                    <space quantity="25" unit="chars" />ramaq' K'iche' winaq.<space quantity="7" unit="chars" />6
+                    </hi>
 
-                    Esta es la raiz de la antigua palabra
-                    de este lugar llamado K'iche' .
-                    Aqui escribiremos
-                    implantaremos la antigua palabra,
-                    el origen
-                    el cornienzo de todo lo que se ha hecho en el Pueblo K'iche'
-                                        naci6n de la gente K'iche'.
+                    Esta es la raíz de la antigua palabra
+                    de este lugar llamado K'iche'.<space quantity="25" unit="chars" />1
+                    Aquí escribiremos<space quantity="35" unit="chars" />2
+                    <space quantity="5" unit="chars" />implantaremos la antigua palabra,<space quantity="17" unit="chars" />3
+                    el origen<space quantity="45" unit="chars" />4
+                    el cornienzo de todo lo que se ha hecho en <rs ana="TINAMIT_K'ICHE'">el Pueblo K'iche'</rs><space quantity="10" unit="chars" />5
+                    <space quantity="35" unit="chars" />nación de la gente K'iche'.<space quantity="5" unit="chars" />6
                 </list>
-                <p>En estas lineas todos los versos tienen correlaci6n. En la linea 1 la
-                    frase raiz de la antigua palabra es una metafora que se complementa
-                    en las siguientes dos lineas por la analogia entre los verbos escribir e
-                    implantar . El acto de escribir se equipara al acto de sembrar, el que a
+                <p>En estas líneas todos los versos tienen correlación. En la linea 1 la
+                    frase <hi rend="bold">raíz de la antigua palabra</hi> es una metafora que se complementa
+                    en las siguientes dos líneas por la analogía entre los verbos <hi rend="bold">escribir</hi> e
+                    <hi rend="bold">implantar</hi>. El acto de escribir se equipara al acto de sembrar, el que a
                     su vez es similar a implantar; y el papel en el que se escribe se asocia
-                    a un campo de siembra. Desde el punto de vista sintactico, las frases
-                    verbales de las lineas 2 y 3 son similares por el prefijo xchi-, aspecto
+                    a un campo de siembra. Desde el punto de vista sintáctico, las frases
+                    verbales de las lineas 2 y 3 son similares por el prefijo <hi rend="italics">xchi-</hi>, aspecto
                     de futuro inmediato; a la transitividad de los verbos y al pronombre
-                    resumptivo wi. EI adverbio waral de la linea 2 ha sido omitida de la
-                    linea 3, sin que por esto cambie de significado ese verso. De hecho, en
-                    la poesia maya hay una tendencia fuerte a omitir el modificador del
+                    resumptivo <hi rend="italics">wi</hi>. El adverbio <hi rend="italics">waral</hi> de la línea 2 ha sido omitida de la
+                    línea 3, sin que por esto cambie de significado ese verso. De hecho, en
+                    la poesía maya hay una tendencia fuerte a omitir el modificador del
                     segundo verso paralelo. En la linea 3, tambien, la frase sustantival
-                    antigua palabra hace eco a la linea 1 y une a ambas, ademas de 
+                    <hi rend="bold">antigua palabra</hi> hace eco a la línea 1 y une a ambas, además de 
                     reiterar la importancia y significado de esa frase.</p>
                 <pb xml:id="colop1999-016" />
-                <p>El verso de la linea 4 y la frase verbal de la line a 5, uxe' nab' al
-                    puch, forman una copla sintactica similar. Las frases utikarib'al y
-                    uxe'nab'alson locativas, llevan el prefijo u-, 3ps, y el sufijo locativo/
-                    instrumental -b'al. Estas dos frases que, literalmente quieren decir 'el
-                    lugar en que se implanta/ el lugar en que se enraiza ...' y que estan
-                    atadas por la conjunci6n puch, 'y'; constituyen 
-                    una dimetafora (paralelismo de dos metaforas). 
-                    En la linea 5, despues de la frase locativa,
+                <p>El verso de la línea 4 y la frase verbal de la line a 5, <hi rend="italics">uxe'nab'al
+                    puch</hi>, forman una copla sintáctica similar. Las frases <hi rend="italics">utikarib'al</hi> y
+                    <hi rend="italics">uxe'nab'al</hi> son locativas, llevan el prefijo <hi rend="italics">u-</hi>, 3ps, y el sufijo locativo/instrumental <hi rend="italics">-b'al</hi>. Estas dos frases que, literalmente quieren decir '<hi rend="italics">el
+                    lugar en que se implanta, el lugar en que se enraiza ...</hi>' y que están
+                    atadas por la conjunción <hi rend="italics">puch</hi>, 'y'; constituyen 
+                    una <hi rend="italics">dimetáfora</hi> (paralelismo de dos metáforas). 
+                    En la línea 5, después de la frase locativa,
                     el paradigma vertical del verso se rompe dando lugar a la prosa para
-                    luego establecer un nuevo paradigma con la frase nominal pa tinamit
-                    k'iche'. Esta frase se complementa con la linea 6 que, aunque es una
-                    aposici6n, conforma con ella un pareado que esta incrustado en el
+                    luego establecer un nuevo paradigma con la frase nominal <hi rend="italics"><rs ana="TINAMIT_K'ICHE'">pa tinamit
+                    k'iche'</rs></hi>. Esta frase se complementa con la línea 6 que, aunque es una
+                    aposición, conforma con ella un pareado que está incrustado en el
                     pareado precedente.</p>
-                <p>En las lineas antes descritas tambien existe un juego de sonidos
-                    producido por las derivaciones morfol6gicas entre uxe' y uxe'nab'al;
-                    entre la combinaci6n de frases como xchiqatikib'a y utikatib'al; ojer
-                    tzij, etcetera. Vemos tambien, que la linea 1, que pareda ser un "verso
-                    huerfano" esta en realidad atado a la linea 3 por la frase ojer tzij, ya
-                    las lineas 5 y 6 por el nominativo K'iche'.</p>
+                <p>En las líneas antes descritas también existe un juego de sonidos
+                    producido por las derivaciones morfológicas entre <hi rend="italics">uxe'</hi> y <hi rend="italics">uxe'nab'al</hi>;
+                    entre la combinación de frases como <hi rend="italics">xchiqatikib'a</hi> y <hi rend="italics">utikatib'al</hi>; <hi rend="italics">ojer
+                    tzij</hi>, etcetera. Vemos también, que la línea 1, que pareda ser un "verso
+                    huérfano" esta en realidad atado a la línea 3 por la frase <hi rend="italics">ojer tzij</hi>, ya
+                    las líneas 5 y 6 por el nominativo K'iche'.</p>
                 <p>En otro parte del texto se decribe el silencio primigenio con los
-                    siguientes versos (n6tese el juego de vocales en negrillas):</p>
+                    siguientes versos (nótese el juego de vocales en negrillas):</p>
                 <list>
-                    Patron de vocales
-                    k'a katz'ininoq
-                    k' a kachamamoq
-                    katz'inonik
-                    k' a kasilanik
-                    k' a kalolinik
-                    katolona' puch
+                    <hi rend="underline"><center>Patron de vocales</center></hi>
+                    <hi rend="italics">k'a ka<hi rend="bold">tz'ininoq</hi></hi><space quantity="10" unit="chars" />/iio/<space quantity="17" unit="chars" />1
+                    <hi rend="italics">k' a ka<hi rend="bold">chamamoq</hi></hi><space quantity="8" unit="chars" />/aao/<space quantity="17" unit="chars" />2
+                    <hi rend="italics">ka<hi rend="bold">tz'inonik</hi></hi><space quantity="10" unit="chars" />/ioi/<space quantity="17" unit="chars" />3
+                    <hi rend="italics">k' a ka<hi rend="bold">silanik</hi></hi><space quantity="12" unit="chars" />/iai/<space quantity="17" unit="chars" />4
+                    <hi rend="italics">k' a ka<hi rend="bold">lolinik</hi></hi><space quantity="12" unit="chars" />/oii/<space quantity="17" unit="chars" />5
+                    <hi rend="italics">ka<hi rend="bold">tolona'</hi>puch</hi><space quantity="7" unit="chars" />/ooa/<space quantity="17" unit="chars" />6
 
-                    /iio/
-                    /aao/
-                    /ioi/
-                    /iai/
-                    /oii/
-
-                    /ooa/
-
-                    esta en silencio,
-                    esta en calma,
-                    es murmullo,
-                    esta en calma,
-                    existe palpitaci6n,
-                    y esta vacio.
+                    está en silencio,<space quantity="30" unit="chars" />1
+                    está en calma,<space quantity="30" unit="chars" />2
+                    es murmullo,<space quantity="30" unit="chars" />3
+                    Está en calma,<space quantity="30" unit="chars" />4
+                    existe palpitación,<space quantity="30" unit="chars" />5
+                    y está vacío.<space quantity="30" unit="chars" />6
                 </list>
                 <p>En estos versos se trata de representar a las cosas como si 
                     estuvieran presentes (hipotiposis); el silencio originario 
-                    de la creaci6n es recreado en lugar de ser narrado . 
-                    En estas lineas hay asonancia y aliteraci6n, 
-                    es decir que hay una repetici6n y juego de vocales y una
-                    repetici6n y juego de consonantes que sirven para conseguir ciertos
-                    efectos, queen este caso es una armonia imitativa del silencio primigenio.</p>
+                    de la creación es recreado en lugar de ser narrado. 
+                    En estas líneas hay asonancia y aliteración, 
+                    es decir que hay una repetición y juego de vocales y una
+                    repetición y juego de consonantes que sirven para conseguir ciertos
+                    efectos, que en este caso es una armonia imitativa del silencio primigenio.</p>
                 <pb xml:id="colop1999-017" />
-                <p>En la primera tripleta, las lineas 1 y 3 tienen la misma raiz verbal
-                    tz'inin-. La primera frase tiene la inflexion imperativa -oq, mientras
-                    que la tercera el marcador intransitivo -ik. Estos verbos debian tener la
-                    forma tz'ininoqy tz'ininik, sin embargo en el segundo se produce una
-                    metatesis en el patron vocalico establecido por el primero (/i/, fol-&gt; fol
-                    , Ii/). Aqui encontramos variacion dentro de lo invariable, que es un
+                <p>En la primera tripleta, las líneas 1 y 3 tienen la misma raíz verbal
+                    <hi rend="italics">tz'inin-</hi>. La primera frase tiene la inflexión imperativa <hi rend="italics">-oq</hi>, mientras
+                    que la tercera el marcador intransitivo <hi rend="italics">-ik</hi>. Estos verbos debian tener la
+                    forma <hi rend="italics">tz'ininoq</hi> y <hi rend="italics">tz'ininik</hi>, sin embargo en el segundo se produce una
+                    metatesis en el patrón vocálico establecido por el primero (<hi rend="bold">/i/,</hi> <hi rend="bold">/o/</hi> -> <hi rend="bold">/o/</hi>, <hi rend="bold">/i/</hi>). 
+                    Aquí encontramos variación dentro de lo invariable, que es un
                     principio inherente del verso paralelo. En la segunda tripleta, 
                     la asonancia permite a los narradores reproducir el silencio 
                     sobre el agua reposada y transmitir la idea de que 
-                    solo el "sonido del silencio" existia
-                    en ese entonces. Esto del "sonido del silencio" parece paradojico, pero
-                    es una meta.fora como otra donde se dice "la muerte de la muerte."</p>
-                <p>En esas tripletas, ademas, vemos que en sus terceras lineas se
-                    omite el modificador k' a, lo cual tarnbien sucede en el paralelisrno de
-                    dos lineas. Esta tendencia esta relacionada a la estructura intema de
-                    los pareados pero con una rnanifestacion externa de tres lineas. Esto
-                    quiere decir, que las tripletas tienen dos dirnensiones: 
-                    una que es estrictarnente formal y que 
-                    la conforrnan dos lineas; y otra dimension
-                    en la que una tercera linea supra-paralela a las dos primeras .</p>
-                <p>La otra variante del verso paralelo de dos lineas, corno ya se
-                    anticipo, lo constituyen los cuartetos o contiguidad de cuatro versos.
-                    Vease este ejernplo:</p>
+                    solo el "sonido del silencio" existía
+                    en ese entonces. Esto del "sonido del silencio" parece paradójico, pero
+                    es una metáfora como otra donde se dice "la muerte de la muerte."</p>
+                <p>En esas tripletas, además, vemos que en sus terceras líneas se
+                    omite el modificador <hi rend="italics">k'a</hi>, lo cual también sucede en el paralelisrno de
+                    dos líneas. Esta tendencia está relacionada a la estructura interna de
+                    los pareados pero con una manifestación externa de tres líneas. Esto
+                    quiere decir, que las tripletas tienen dos dimensiones: 
+                    una que es estrictamente formal y que 
+                    la conformnan dos líneas; y otra dimensión
+                    en la que una tercera línea supra-paralela a las dos primeras .</p>
+                <p>La otra variante del verso paralelo de dos líneas, como ya se
+                    anticipó, lo constituyen los cuartetos o contiguidad de cuatro versos.
+                    Véase este ejemplo:</p>
                 <list>
-                Ju
-                Ju
-                Ju
-                Ju
+                <hi rend="italics"><center>Ju tiq'ab' kaqa muchij</center></hi>
+                <hi rend="italics"><center>Ju tiq'ab' saqi muchit</center></hi>
+                <hi rend="italics"><center>Ju tiq'ab' q'ana muchit</center></hi>
+                <hi rend="italics"><center>Ju tiq'ab' k'a ri nima'q</center></hi>
 
-                tiq'ab' kaqa muchij
-                tiq'ab' saqi muchit
-                tiq'ab' q'ana muchit
-                tiq' ab' k' a ri nima' q
-
-                Un recipiente
-                un recipiente
-                un recipiente
-                un recipiente
-
-                de [flores] rojas
-                de blancas
-                de arnarillas
-                de las grandes .
+                <center>Un recipiente de [<rs ana="KOTZ'I'J">flores</rs>] rojas</center>
+                <center>un recipiente de blancas</center>
+                <center>un recipiente de amarillas</center>
+                <center>un recipiente de las grandes.</center>
                 </list>
-                <p>En estos versos, los tres primeros son sirnilares, 
-                    y el cuarto rornpe con el paradigma de los tres precedentes. 
-                    Esta estructura se repiteen otros cuartetos; 
-                    aunque en algunos es el tercer verso el que rornpe
-                    con el paradigrna, corno en las siguientes lineas que identifican a los
-                    caminos de Xib'alb'a:</p>
+                <p>En estos versos, los tres primeros son similares, 
+                    y el cuarto rompe con el paradigma de los tres precedentes. 
+                    Esta estructura se repite en otros cuartetos; 
+                    aunque en algunos es el tercer verso el que rompe
+                    con el paradigma, como en las siguientes líneas que identifican a los
+                    caminos de <rs ana="XIB'ALB'A">Xib'alb'a</rs>:</p>
                 <list>
-                Junkaqab'e
-                jun k' ut q' eqa b' e
-                saqi b'ejun
-                jun k'utq'ana b'e.
-                Un carnino rojo
-                un carnino negro
-                carnino blanco
-                un carnino amarillo
+                <hi rend="italics"><center>Jun <rs ana="KAQA_B'E">kaqab'e</rs></center></hi>
+                <hi rend="italics"><center>jun k'ut <rs ana="Q'EQA_B'E">q'eqa b'e</rs></center></hi>
+                <hi rend="italics"><center><space quantity="10" unit="chars" /><rs ana="SAQI_B'E">saqi b'e</rs> jun</center></hi>
+                <hi rend="italics"><center>jun k'ut <rs ana="Q'ANA_B'E">q'ana b'e</rs>.</center></hi>
+                
+                <center><rs ana="KAQA_B'E">Un camino rojo</rs></center>
+                <center><rs ana="Q'EQA_B'E">un camino negro</rs></center>
+                <center><rs ana="SAQI_B'E">camino blanco</rs></center>
+                <center><rs ana="Q'ANA_B'E">un camino amarillo</rs></center>
                 </list>
+
                 <pb xml:id="colop1999-018" />
-                <p>Otro aspecto del verso en el Popol Wuj, es el uso de la paronomasia, 
-                    o sea a la semejanza fonetica entre dos vocablos pero de
+                <p>Otro aspecto del verso en el <rs ana="POPOL_WUJ">Popol Wuj</rs>, es el uso de la paronomasia, 
+                    o sea a la semejanza fonética entre dos vocablos pero de
                     significado diferente. Este es un artificio literario 
                     con diferentes consecuencias. Veamos:</p>
                 <list>
-                Taxkam k! ut ri Wuqub' Kai!ix
-                Ta xuk' am k! ut uq' ab' ri Junajpu
-                Fue entonces cuando muri6 Wuqub' Kak'ix
-                fue entonces cuando recuper6 su brazo Junajpu .
+                <hi rend="italics"><center>Ta xkam k'ut ri <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs></center></hi>
+                <hi rend="italics"><center>Ta xuk'am k'ut uq'ab' ri <rs ana="JUNAJPU">Junajpu</rs></center></hi>
+                
+                <center>Fue entonces cuando murió <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs></center>
+                <center>fue entonces cuando recuperó su brazo <rs ana="JUNAJPU">Junajpu</rs>.</center>
                 </list>
-                <p>En estos versos, las frases verbales xkam y xuk! am tienen 
-                    la misma estructura sintactica, una fonologia semejante; 
+                <p>En estos versos, las frases verbales <hi rend="italics">xkam</hi> y <hi rend="italics">xuk'am</hi> tienen 
+                    la misma estructura sintáctica, una fonología semejante; 
                     pero un significado bastante diferente: 
-                    'morir' y 'llevar" literalmente ('recuperar' por el contexto).</p>
+                    'morir' y 'llevar' literalmente ('recuperar' por el contexto).</p>
                 <p>Otro ejemplo de paronomasia lo constituye el nominativo que
-                    identifica a los 400 muchachos que se convierten en estrellas: 
-                    cuatrocientos se dice omuch' y cuando suben a 
-                    la constelaci6n celestial se les
-                    denomina motz' que a su vez tiene parecido con mutz, moch y much
-                    (ver Edmonson, 1971:48). Este artificio literario tambien lo usan los
-                    gemelos, Junajpu e lxb'alanke, cuando estan en Xib'alb'a, 
-                    concretamente en Chayim ja. 
+                    identifica a <rs ana="MOTZ">los 400 muchachos</rs> que se convierten en estrellas: 
+                    <rs ana="MOTZ">cuatrocientos</rs> se dice <rs ana="MOTZ">omuch'</rs> y cuando suben a 
+                    la constelación celestial se les
+                    denomina <rs ana="MOTZ">motz'</rs> que a su vez tiene parecido con <rs ana="MOTZ">mutz</rs>, <rs ana="MOTZ">moch</rs> y <rs ana="MOTZ">much</rs>
+                    (ver Edmonson, 1971:48). Este artificio literario también lo usan <rs ana="KA'IB'_K'AJOLAB'">los
+                    gemelos</rs>, <rs ana="JUNAJPU">Junajpu</rs> e <rs ana="XB'ALAMQ'E">Ixb'alanke</rs>, cuando estan en <rs ana="XIB'ALB'A">Xib'alb'a</rs>, 
+                    concretamente en <rs ana="CHAYIM_JA">Chayim ja</rs>. 
                     Desde ese lugar mandan a recolectar los cuatro
-                    recipientes de flores y para el efecto Haman 
-                    a las hormigas identificadas como chay sanik y ch' eken sanik. 
-                    El objetivo de los gemelos es
+                    recipientes de flores y para el efecto llaman 
+                    a <rs ana="SANIK">las hormigas</rs> identificadas como <rs ana="SANIK">chay sanik</rs> y <rs ana="SANIK">ch'eken sanik</rs>. 
+                    El objetivo de <rs ana="KA'IB'_K'AJOLAB'">los gemelos</rs> es
                     derrotar a sus enemigos y para ello recurren a un juego de palabras
-                    cuyos significados les permite lograr ese objetivo . N6tese que ellos
-                    estan en, Chayim ja, 'Casa de las obsidianas (que cortan)', identifican
-                    a las hormigas como chay sanik, 'hormigas cortadoras' y como ch'eken
-                    sanik, 'hormigas ganadoras '.</p>
+                    cuyos significados les permite lograr ese objetivo . Nótese que ellos
+                    estan en, <rs ana="CHAYIM_JA">Chayim ja</rs>, '<rs ana="CHAYIM_JA">Casa de las obsidianas (que cortan)</rs>', identifican
+                    a <rs ana="SANIK">las hormigas</rs> como <rs ana="SANIK">chay sanik</rs>, '<rs ana="SANIK">hormigas cortadoras</rs>' y como <rs ana="SANIK">ch'eken
+                    sanik</rs>, '<rs ana="SANIK">hormigas ganadoras</rs>'.</p>
                 <p>Otro de los puntos sobre los cuales el lector debe estar atento, es
-                    al uso de formas sintacticas en desuso (pero recuperables); tales como
-                    el empleo de la 3ra . persona singular para significar 
+                    al uso de formas sintácticas en desuso (pero recuperables); tales como
+                    el empleo de la 3ra persona singular para significar 
                     3ra persona plural; por ejemplo:</p>
                 <list>
-                x-f!-cha'
-                k'u ri
-                Asp.-3ps-verb.
-                k'ajol-ab'
-                adv. art.
-                lit. 'Dijo entonces los j6venes'
-                sust .-pl.
-                'Dijeron entonces los j6venes'
+                <hi rend="bold">x-∅-cha'</hi><space quantity="7" unit="chars" /><hi rend="bold">k'u ri</hi><space quantity="5" unit="chars" /><hi rend="bold">k'ajol-ab'</hi><space quantity="2" unit="chars" />lit. 'Dijo entonces los jóvenes'
+                Asp.-3ps-verb.<space quantity="2" unit="chars" />adv. art.<space quantity="3" unit="chars" />sust .-pl.<space quantity="5" unit="chars" />'Dijeron entonces los jóvenes'
                 </list>
-                <p>Tambien se debe prestar atenci6n a frases verbales 
-                    con modifi cadores insertos, como se ilustra a continuaci6n:</p>
+                <p>También se debe prestar atención a frases verbales con modificadores insertos, como se ilustra a continuación:</p>
                 <list>
-                x-e-k'is-war-ik
-                lit. 'Se terminaron de suefto'
-                Asp .-3pp-adv .-verb .-suf .intr.
-                'Durmieron profundamente '
+                <hi rend="bold">x-e-k'is-war-ik</hi><space quantity="17" unit="chars" />lit. 'Se terminaron de sueño'
+                Asp .-3pp-adv .-verb .-suf.intr.<space quantity="10" unit="chars" />'Durmieron profundamente'
                 </list>
-                <p>Asimismo, hay que percatarse de las frases negativas 
-                    con adverbio inserto como en ma k'u ja b'i, 'todavia no '; 
-                    ya la derivaci6n de frases en las que, 
+                <p>Asimismo, hay que percatarse de las frases negativas con adverbio inserto como en <hi rend="bold">ma k'u ja b'i</hi>, 'todavía no '; 
+                    y a la derivación de frases en las que, 
                     hasta el reflexivo puede ser verbalizado, como en:</p>
                 <list>
-                k-ib' -ii
-                k-ib'
-                Asp.-refl .-suf.
-                Asp .-refl.
-                lit . 'Conformarse entre ellos'
+                <hi rend="bold">k-ib' -ii</hi><space quantity="15" unit="chars" /><hi rend="bold">k-ib'</hi>lit.<space quantity="2" unit="chars" />'Conformarse entre ellos'
+                Asp.-refl.-suf.<space quantity="2" unit="chars" />Asp.-refl.
                 </list>
                 <pb xml:id="colop1999-019" />
-                <p>Finalmente cabe anotar queen esta version se utiliza el alfabeto
+                <p>Finalmente cabe anotar queen esta versión se utiliza el alfabeto
                     oficial, excepto en lo relativo a las vocales, 
-                    y que se trata de representar el .texto en la forma 
-                    mas acorde con el original disponible. 
+                    y que se trata de representar el texto en la forma 
+                    más acorde con el <hi rend="italics">original</hi> disponible. 
                     El conjunto de vocales del alfabeto oficial no representa 
                     a cabalidad el sistema de vocales K'iche', 
-                    y el sistema tecnico lingiiistico solo es irnportante para especialistas, 
-                    no para la mayoria de K'iche' hablantes. De
-                    alli ha surgido una discusion que masque promover la produccion
-                    literaria ha resultado en un disuasivo. Por esa razon, aqui se adopta
-                    un sistema que puede resultar mas practico y que eventualrnente puede
-                    promover la eficiencia educativa y la produccion de materiales escritos. 
-                    De esa cuenta solo se explicitan diferencias obviamente relevantes, 
-                    como las que existen entre chaj, "pino, ocote"; chaj "ceniza" y
-                    chaaj "juego de pelota"; k'ol, k'ool. Respecto a la puntuacion en citas
-                    textuales, la comilla de cierre se escribe despues del punto o despues
-                    de otros signos ortograficos para evitar que el apostrofe se confunda
-                    con esas comillas. Por ultimo, las citas entre citas, se presentan en
-                    italicas.</p>
-                <p>Sirva entonces esta nota introductoria como invitacion para leer
-                    el Popol Wz.ifen su version K'iche', 
-                    esperando que la misma sea accesible al mayor ntimero de lectores posible.</p>
+                    y el sistema técnico lingüístico sólo es importante para especialistas, 
+                    no para la mayoría de K'iche' hablantes. De
+                    allí ha surgido una discusión que más que promover la producción
+                    literaria ha resultado en un disuasivo. Por esa razón, aquí se adopta
+                    un sistema que puede resultar más práctico y que eventualmente puede
+                    promover la eficiencia educativa y la producción de materiales escritos. 
+                    De esa cuenta sólo se explicitan diferencias obviamente relevantes, 
+                    como las que existen entre <hi rend="bold">chäj</hi>, "pino, ocote"; <hi rend="bold">chaj</hi> "ceniza" y
+                    <hi rend="bold">chaaj</hi> "juego de pelota"; <hi rend="bold">k'ol</hi>, <hi rend="bold">k'ool</hi>. Respecto a la puntuación en citas
+                    textuales, la comilla de cierre se escribe despues del punto o después
+                    de otros signos ortográficos para evitar que el apostrofe se confunda
+                    con esas comillas. Por último, las citas entre citas, se presentan en
+                    <hi rend="italics">itálicas</hi>.</p>
+                <p>Sirva entonces esta nota introductoria como invitación para leer
+                    el <hi rend="italics"><rs ana="POPOL_WUJ">Popol Wuj</rs></hi> en su versión K'iche', 
+                    esperando que la misma sea accesible al mayor número de lectores posible.</p>
                 <pb xml:id="colop1999-020" />
             </div>
         </front>
