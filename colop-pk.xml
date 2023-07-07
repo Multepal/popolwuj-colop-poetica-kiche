@@ -93,14 +93,6 @@
                 </list>
                 <l><hi rend="emph">UKAB'</hi></l>
                 <list>
-                    <item>ARE K'UT XA JUB'IQ' SAQNATONOJ UWACH ULEW 39</item>
-                    <item>K'EJE K'UT XCHIQAB'IJ CHIK TA XKAMIK WUQUB' KAK'IX    40</item>
-                    <item>WA'E CHI K'UTE UB' ANOJ CHIK <rs ana="SIPAKNA">SIPAKNA</rs>  45</item>
-                    <item>ARE CHIK UCH'AKATAJIK, UKAMIK <rs ana="SIPAKNA">SIPAKNA</rs> 49</item>
-                    <item>JUN CHI K'UT XCHIQAB'IJ UB'IXIK   52</item>
-                </list>
-                <l><hi rend="emph">ROX</hi></l>
-                <list>
                     <item>ARE CHI K'UT XCHIQAB'IJ CHIK UB'I' KIQAJAW RI <rs ana="JUNAJPU">JUNAJPU</rs>, <rs ana="XB'ALAMQ'E">XB'ALANKE</rs>  57</item>
                     <item>ARE CHI K'UT XCHIQAB'IJ' CHIK KIB'E'IK CHI <rs ana="XIB'ALB'A">XIB'ALB'A</rs>  60</item>
                     <item>K'ATE PUCH TA XEB'EK <rs ana="JUN_JUNAJPU">JUN JUNAJPU</rs>, <rs ana="WUQUB'_JUNAJPU">WUQUB' JUNAJPU</rs>  63</item>
@@ -110,8 +102,7 @@
                     <item>ARE CHIK XCHIQATZJOJ KALAXIK <rs ana="JUNAJPU">JUNAJPU</rs> <rs ana="XB'ALAMQ'E">XB'ALANKE</rs>   74</item>
                     <item>TA XEB'E K'UT CHILA' CHUXE' CHE', Q'ANTE', UB'I'    77</item>
                     <item>K'ATE K'UT XUKAQ'AT ULA CH'O RI KIK'  87</item>
-                    <item>TA XEPE K'UT NIMA JOK K'U KIB'E RI <rs ana="KA'IB'_K'AJOLAB'">K'AJOLAB'</rs>
-                     CHI KOCHOCH    88</item>
+                    <item>TA XEPE K'UT NIMA JOK K'U KIB'E RI <rs ana="KA'IB'_K'AJOLAB'">K'AJOLAB'</rs> CHI KOCHOCH    88</item>
                     <item>TA XEB'E K'UT     92</item>
                     <item>K'ATE K'UT TA XE'OK PA <rs ana="Q'EQUMA_JA">Q'EQUMA JA</rs>      95</item>
                     <item>ARE K'UT WA'E KINAB'AL, KIKAMIK <rs ana="JUNAJPU">JUNAJPU</rs>, <rs ana="XB'ALAMQ'E">XB'ALANKE</rs>    106</item>
@@ -138,19 +129,19 @@
                 <list>
                     <item>K'ATE PUCH TA XKIK'UXLAJ KIB'IK   173</item>
                     <item>TA XE'UL CHI K'U CHIRI'   176</item>
-                    <item>WA'E K'UTE KIB'I' AJAWAB' CHUWACH KAWIQIB'    181</item>
-                    <item>ARE CHI K'U AJAWAB' WA' CHUCHA NIJA'IB'AB'   182</item>
-                    <item>ARE CHI K'UT AJAW K'ICHE' WA' 182</item>
-                    <item>KA'IB' CHINAMIT CHI NAY PUCH SAQIKIB' AJAWAB' 182</item>
+                    <item>WA'E K'UTE KIB'I' AJAWAB' CHUWACH <rs ana="KAWEQ">KAWIQIB'</rs>   181</item>
+                    <item>ARE CHI K'U AJAWAB' WA' CHUCHA <rs ana="NIJA'IB'">NIJA'IB'AB'</rs>   182</item>
+                    <item>ARE CHI K'UT <rs ana="AJAW_K'ICHE'">AJAW K'ICHE'</rs> WA' 182</item>
+                    <item>KA'IB' CHINAMIT CHI NAY PUCH <rs ana="SAQIK">SAQIKIB'</rs> AJAWAB' 182</item>
                     <item>WA' CHI K'UTE KIB'I' CHIK UWAQ LE' AJAW   185</item>
-                    <item>ARE K'UT XCHIQAB'IJ CHIK UB'I' ROCHOCH KAB'AWIL  191</item>
+                    <item>ARE K'UT XCHIQAB'IJ CHIK UB'I' ROCHOCH <rs ana="TOJIL">KAB'AWIL</rs>  191</item>
                     <item>ARE CHI K'UT XCHIQACHOLO ULE'EL AJAWAB' RUK' KIB'I' KONOJEL AJAWAB' XCHIQAB'IJ CHIK   196</item>
                     <item>ARE CHI XCHIQAB'IJ CHIK RE CHINAMIT   198</item>
-                    <item>ARE UB'INA'M WI B'ELEJEB' CHINAMIT CHI KAWIQIB'   198</item>
-                    <item>WA K'UTE RECH NIJA'IB'AB' 199</item>
-                    <item>ARE CHIK XCHIQAB'IJ RAJAWAL JUJUN CHI NIM JA  199</item>
-                    <item>ARE CHI K'UT RECH AJAW K'ICHE'    200</item>
-                    <item>ARE K'U RI E OXIB' CHI NIM CHOKOJ 200</item>
+                    <item>ARE UB'INA'M WI B'ELEJEB' CHINAMIT CHI <rs ana="KAWEQ">KAWIQIB'</rs>   198</item>
+                    <item>WA K'UTE RECH <rs ana="NIJA'IB'">NIJA'IB'AB'</rs> 199</item>
+                    <item>ARE CHIK XCHIQAB'IJ RAJAWAL JUJUN <rs ana="OXIB_RI_NIM_JA">CHI NIM JA</rs>  199</item>
+                    <item>ARE CHI K'UT RECH <rs ana="AJAW_K'ICHE'">AJAW K'ICHE'</rs>    200</item>
+                    <item>ARE K'U RI E OXIB' CHI <rs ana="NIM_CH'OKOJ">NIM CHOKOJ</rs> 200</item>
                     <item>BIBLIOGRAFIA  203</item>
                 </list>
             </div>
