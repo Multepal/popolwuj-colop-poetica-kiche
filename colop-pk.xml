@@ -3167,47 +3167,49 @@
                     <l n="101">Ri e k'o ri wi e nawinaq chik.- Xuchax k'ut <rs ana="IXKIK'">q'apoj</rs>.</l>
                 </lg>
                 <lg type="tasik" xml:id="lg3.07">
-                    <l n="1"><seg rend="caps" type="tasik-header">ARE CHIK XCHIQATZIJOJ KALAXIK JUNAJPU,</seg></l>
-                    <l n="2"><seg rend="caps" type="tasik-header"><space quantity="30" unit="chars" />SXB'ALANKE.</seg></l>
+                <!--editor's note: corresponds to XOM paragraph 24, folio 18r -->
+                    <l n="1"><seg rend="caps" type="tasik-header">ARE CHIK XCHIQATZIJOJ KALAXIK <rs ana="JUNAJPU">JUNAJPU</rs>,</seg></l>
+                    <l n="2"><seg rend="caps" type="tasik-header"><space quantity="30" unit="chars" /><rs ana="XB'ALAMQ'E">SXB'ALANKE</rs>.</seg></l>
+                <!--editor's note: corresponds to XOM paragraph 25, folio 18r -->
                     <l n="3">Are k'ut kalaxik wa'e xchiqab'ij:</l>
                     <l n="4">ta xuriq uq'ij kalaxik,</l>
-                    <l n="5">ta xalan puch ri q'apoj, Xkik' ub'i'.</l>
-                    <l n="6">Ma k'u xuwachij ati't ta xe'alaxik;</l>
-                    <l n="7">lib'aj chi' xeyake'ik<ref target="n178"><hi rend="superscript">178</hi></ref> e ka'ib' chi kalaxik, Junajpu,</l>
+                    <l n="5">ta xalan puch ri <rs ana="IXKIK'">q'apoj</rs>, <rs ana="IXKIK'">Xkik'</rs> ub'i'.</l>
+                    <l n="6">Ma k'u xuwachij <rs ana="IXMUKANE">ati't</rs> ta xe'alaxik;</l>
+                    <l n="7">lib'aj chi' xeyake'ik<ref target="n178"><hi rend="superscript">178</hi></ref> e <rs ana="KA'IB'_K'AJOLAB'">ka'ib'</rs> chi kalaxik, <rs ana="JUNAJPU">Junajpu</rs>,</l>
                     <note place="left" xml:id="n178"><seg type="note-symbol"><hi rend="superscript">178</hi></seg>Viene de <hi rend="bold">yakej</hi>,
                     'descansar después de parto', 'acostarse, nacer la criatura' dicen Basseta y Ximénez.</note>
-                    <l n="8"><space quantity="44" unit="chars" />Xb'alanke kib'i'.</l>
+                    <l n="8"><space quantity="44" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs> kib'i'.</l>
                     <pb xml:id="colop1999-075" />
                     <l n="9">Pa juyub' xeyake wi.</l>
                     <l n="10">Ta xe'ok k'ut pa ja ma k'u kewarik.</l>
                     <l n="11">-Je'atzaqa uloq,</l>
-                    <l n="12">qitzij chach kichi'<ref target="n179"><hi rend="superscript">179</hi></ref>.- Xcha' ri ati't.</l>
+                    <l n="12">qitzij chach kichi'<ref target="n179"><hi rend="superscript">179</hi></ref>.- Xcha' ri <rs ana="IXMUKANE">ati't</rs>.</l>
                     <note place="right" xml:id="n179"><seg type="note-symbol"><hi rend="superscript">179</hi></seg><hi rend="bold">Chach</hi> es hacer
                     callar a alguien, que no hable recio; y <hi rend="bold">chach kichi'</hi> es
                     '(ellos) hacen mucha bulla' (Basseta).</note>
-                    <l n="13">K'ate k'ut ta xeya' pa sanik,</l>
+                    <l n="13">K'ate k'ut ta xeya' pa <rs ana="SANIK">sanik</rs>,</l>
                     <l n="14">kus k'u kiwaram chiri'.</l>
                     <l n="15">Xe'el chi k'u chiri', xeya' chik chuwi k'ix.</l>
-                    <l n="16">Are ta k'ut xkaj Jun B'atz',</l>
-                    <l n="17"><space quantity="17" unit="chars" />Jun Chowen xekam ta chiri' pa sanik,</l>
+                    <l n="16">Are ta k'ut xkaj <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
+                    <l n="17"><space quantity="17" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs> xekam ta chiri' pa <rs ana="SANIK">sanik</rs>,</l>
                     <l n="18"><space quantity="28" unit="chars" />xekam ta pu chuwi k'ix.</l>
                     <l n="19">Xkaj rumal kichakimal<ref target="n180"><hi rend="superscript">180</hi></ref>,</l>
                     <note place="right" xml:id="n180"><seg type="note-symbol"><hi rend="superscript">180</hi></seg><hi rend="bold">Chakimal</hi> es 
                     'alboroto, tumulto, vocerío de muchachos' (Basseta).</note>
-                    <l n="20"><space quantity="11" unit="chars" />kikaq'wachib'al puch kumal Jun B'atz',</l>
-                    <l n="21"><space quantity="38" unit="chars" />Jun Chowen.</l>
-                    <l n="22">Mawi xek'ulax pa ja kumal kichaq'<ref target="n181"><hi rend="superscript">181</hi></ref> nab'ek,</l>
+                    <l n="20"><space quantity="11" unit="chars" />kikaq'wachib'al puch kumal <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
+                    <l n="21"><space quantity="38" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs>.</l>
+                    <l n="22">Mawi xek'ulax pa ja kumal <rs ana="KA'IB'_K'AJOLAB'">kichaq'<ref target="n181"><hi rend="superscript">181</hi></ref> nab'ek</rs>,</l>
                     <note place="right" xml:id="n181"><seg type="note-symbol"><hi rend="superscript">181</hi></seg>Aquí probablemente debe ser
                     <hi rend="bold">katz</hi>, 'sus hnos. mayores' y no <hi rend="bold">kichaq'</hi>,
-                    'sus hnos. menores' porque se está hablando de <hi rend="bold">Jun B'atz'</hi> y
-                    <hi rend="bold">Jun Chowen</hi>, que son en efecto, los hermanos mayores. Sin embargo,
+                    'sus hnos. menores' porque se está hablando de <hi rend="bold"><rs ana="JUN_B'ATZ">Jun B'atz'</rs></hi> y
+                    <hi rend="bold"><rs ana="JUN_CHOWEN">Jun Chowen</rs></hi>, que son en efecto, los hermanos mayores. Sin embargo,
                     en el plano retórico se puede estar 'minorizando' a esos hermanos mayores.</note>
                     <l n="23">xa mawi keta'm,</l>
                     <l n="24">xawi k'u pa juyub' xek'iy wi.</l>
                     <lb n="25" />
-                    <l n="26">E k'u nima'q ajsu,</l>
-                    <l n="27"><space quantity="16" unit="chars" />ajb'ix ri Jun B'atz',</l>
-                    <l n="28"><space quantity="26" unit="chars" />Jun Chowen.</l>
+                    <l n="26">E k'u nima'q aj<rs ana="SU'">su</rs>,</l>
+                    <l n="27"><space quantity="16" unit="chars" />ajb'ix ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
+                    <l n="28"><space quantity="26" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs>.</l>
                     <l n="29">Xenimaqir k'ut,</l>
                     <l n="30">nima k'axk'ol,</l>
                     <l n="31"><space quantity="5" unit="chars" />ra'il<ref target="n182"><hi rend="superscript">182</hi></ref> xe'ik'ow wi,</l>
@@ -3216,33 +3218,33 @@
                     (Ximénez, Basseta). En otras partes, el texto se dice <hi rend="bold">ra</hi>, únicamente.</note>
                     <l n="32">xek'axk'ob'isaxik.</l>
                     <l n="33">E nima'q etamanel chik xe'uxik.</l>
-                    <l n="34">Xawi xere e ajsu,</l>
+                    <l n="34">Xawi xere e aj<rs ana="SU'">su</rs>,</l>
                     <l n="35"><space quantity="10" unit="chars" />e ajb'ix,</l>
                     <l n="36"><space quantity="10" unit="chars" />e pu ajtzib'ab',</l>
                     <l n="37"><space quantity="10" unit="chars" />ajk'ot xe'uxik.</l>
                     <l n="38">Ronojel chutzin kumal.</l>
                     <l n="39">Xa xketa'm wi xe'alaxik,</l>
                     <l n="40">xa xenawinaq;</l>
-                    <l n="41">e pu uk'exel kiqajaw,</l>
-                    <l n="42">ri xeb'e chi Xib'alb'a.</l>
+                    <l n="41">e pu uk'exel <rs ana="JUN_JUNAJPU">kiqajaw</rs>,</l>
+                    <l n="42">ri xeb'e chi <rs ana="XIB'ALB'A">Xib'alb'a</rs>.</l>
                     <l n="43">Kaminaq wi kiqajaw.</l>
-                    <l n="44">E k'u nima'q etamanel ri Jun B'atz',</l>
-                    <l n="45"><space quantity="25" unit="chars" />Jun Chowen:</l>
+                    <l n="44">E k'u nima'q etamanel ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
+                    <l n="45"><space quantity="25" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs>:</l>
                     <l n="46">chi kik'ux ronojel nab'ek keta'm.</l>
-                    <l n="47">Ta xewinaqir ri kichaq'</l>
+                    <l n="47">Ta xewinaqir ri <rs ana="KA'IB'_K'AJOLAB'">kichaq'</rs></l>
                     <pb xml:id="colop1999-076" />
                     <l n="48">ma k'u xel apanoq kinawikil rumal kikaqwachib'al.</l>
                     <l n="49">Xa chi kij xqaj wi uyoq' kik'ux.</l>
-                    <l n="50">Mawi b'anoj xepoysaxik kumal ri Junajpu,</l>
-                    <l n="51"><space quantity="32" unit="chars" />Xb'alanke.</l>
-                    <l n="52">Xa k'u wub'anik chikib'ano juta q'ij.</l>
-                    <l n="53">Mawi keloq'oxik rumal ri kati't,</l>
-                    <l n="54"><space quantity="22" unit="chars" />Jun B'atz'</l>
-                    <l n="55"><space quantity="22" unit="chars" />Jun Chowen.</l>
+                    <l n="50">Mawi b'anoj xepoysaxik kumal ri <rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="51"><space quantity="32" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
+                    <l n="52">Xa k'u <rs ana="WUB">wub'anik</rs> chikib'ano juta q'ij.</l>
+                    <l n="53">Mawi keloq'oxik rumal ri <rs ana="IXMUKANE">kati't</rs>,</l>
+                    <l n="54"><space quantity="22" unit="chars" /><rs ana="JUN_B'ATZ">Jun B'atz'</rs></l>
+                    <l n="55"><space quantity="22" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs>.</l>
                     <l n="56">Mawi chiya' kiwa</l>
                     <l n="57">xb'aninaq wa'im;</l>
-                    <l n="58">xe pu wa'inaq ri Jun B'atz',</l>
-                    <l n="59"><space quantity="17" unit="chars" />Jun Chowen ta kewulik.</l>
+                    <l n="58">xe pu wa'inaq ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
+                    <l n="59"><space quantity="17" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs> ta kewulik.</l>
                     <l n="60">Ma k'u keq'aq'arik,</l>
                     <l n="61"><space quantity="7" unit="chars" />oyowarik,</l>
                     <l n="62">xa chikikuyu.</l>
