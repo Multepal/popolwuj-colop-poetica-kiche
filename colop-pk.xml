@@ -4611,28 +4611,28 @@
                     <l n="402">K'eje k'ut kich'akatajik <rs ana="RAJAWAL_XIB'ALB'A">rajawal Xib'alb'a</rs>, rumal <rs ana="JUNAJPU">Junajpu</rs>,</l>
                     <l n="403"><space quantity="50" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                     <pb xml:id="colop1999-106" />
-                    <!--editor's note: corresponds to XOM paragraph 37, folio 28v -->
                     <l n="404">Nima k'axkol xek'oje wi,</l>
                     <l n="405">mawi are xekam wi ri ronojel xb'an chi ke.</l>
                 </lg>
                 <lg type="tasik" xml:id="lg3.13">
+                <!--editor's note: corresponds to XOM paragraph 37, folio 28v -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE K'UT WA'E KINAB'AL,</seg></l>
-                    <l n="2"><seg rend="caps" type="tasik-header"><space quantity="14" unit="chars" />KIKAMIK JUNAJPU,</seg></l>
-                    <l n="3"><seg rend="caps" type="tasik-header"><space quantity="22" unit="chars" />XB'ALANKE</seg></l>
+                    <l n="2"><seg rend="caps" type="tasik-header"><space quantity="14" unit="chars" />KIKAMIK <rs ana="JUNAJPU">JUNAJPU</rs>,</seg></l>
+                    <l n="3"><seg rend="caps" type="tasik-header"><space quantity="22" unit="chars" /><rs ana="XB'ALAMQ'E">XB'ALANKE</rs></seg></l>
                     <l n="4">Are wa kinab'al,</l>
                     <l n="5"><space quantity="7" unit="chars" />kikamik xchiqab'ij chik.</l>
                     <l n="6">Ta xepixab'aj k'ut,</l>
                     <l n="7">xkib'ano ronojel k'axk'ol,</l>
                     <l n="8"><space quantity="17" unit="chars" />ra'il xb'an chi ke.</l>
-                    <l n="9">Mawi xekamik rumal utijob'al Xib'alb'a,</l>
-                    <l n="10">mawi xech'akatajik rumal ronojel tiyonel chikop k'o chi Xib'alb'a.</l>
+                    <l n="9">Mawi xekamik rumal utijob'al <rs ana="XIB'ALB'A">Xib'alb'a</rs>,</l>
+                    <l n="10">mawi xech'akatajik rumal ronojel tiyonel chikop k'o chi <rs ana="XIB'ALB'A">Xib'alb'a</rs>.</l>
                     <lb n="11" />
                     <l n="12">K'ate k'ut ta xkitaq chi ka'ib' nik'wachinel,</l>
                     <l n="13">k'eje ri e ilol.</l>
-                    <l n="14">Are kib'i' wa: Xulu',</l>
-                    <l n="15"><space quantity="15" unit="chars" />Pakam.</l>
+                    <l n="14">Are kib'i' wa: <rs ana="XULU">Xulu'</rs>,</l>
+                    <l n="15"><space quantity="15" unit="chars" /><rs ana="PAK'AM">Pakam</rs>.</l>
                     <l n="16">E eta'manel.</l>
-                    <l n="17">-We kojtz'onoxik chi we kumal rajawal Xib'alb'a</l>
+                    <l n="17">-We kojtz'onoxik chi we kumal <rs ana="RAJAWAL_XIB'ALB'A">rajawal Xib'alb'a</rs></l>
                     <l n="18"><space quantity="24" unit="chars" />rumal ri qakamik.</l>
                     <l n="19">Kina'oj kakinuk' rumal ri mawi mixojkamik,</l>
                     <l n="20"><space quantity="26" unit="chars" />ma pu mixojch'akatajik,</l>
@@ -4640,15 +4640,15 @@
                     <l n="22"><space quantity="26" unit="chars" />ma xa chikop chok chi qe.</l>
                     <l n="23">Are k'u retal wa chi qak'ux:</l>
                     <l n="24">chojim ab'aj kamisab'al qe kumal.</l>
-                    <l n="25">Mixekuchu kib' ronojel Xib'alb'a.</l>
+                    <l n="25">Mixekuchu kib' ronojel <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>.</l>
                     <l n="26">Ma k'u qitzij ta kojkamik.</l>
                     <l n="27">Are k'u ina'oj wa' xchiqab'ij:</l>
                     <l n="28">We kixultz'onob'exoq<ref target="n244"><hi rend="superscript">244</hi></ref> kumal chi rech qakamik,</l>
                     <note place="left" xml:id="n244"><seg type="note-symbol"><hi rend="superscript">244</hi></seg>Aquí hay una <hi rend="bold">x</hi>
                     de más. El texto dice: <hi rend="bold">tzonobex xoc</hi>.</note>
                     <l n="29">ta kojk'atoq.</l>
-                    <l n="30">Naki xchikuchaj ix Xulu',</l>
-                    <l n="31"><space quantity="16" unit="chars" />ix Pakam.</l>
+                    <l n="30">Naki xchikuchaj ix <rs ana="XULU">Xulu'</rs>,</l>
+                    <l n="31"><space quantity="16" unit="chars" />ix <rs ana="PAK'AM">Pakam</rs>.</l>
                     <l n="32">We kecha' chi we?</l>
                     <l n="33">-Ma utz lo chiqatix ta kib'aqil pa siwan?</l>
                     <l n="34">We ma b'a utz?</l>
@@ -4662,30 +4662,30 @@
                     <l n="41">xa chiqatix kib'aqil pa raqan ja'? We k'ut kixuchax chik kumal:</l>
                     <l n="42">-Are utz b'a la kekamik!</l>
                     <l n="43">K'ate k'u utz chijok kib'aqil chuwach ab'aj;</l>
-                    <l n="44">k'eje ri chike'x k'ajim jal;</l>
+                    <l n="44">k'eje ri chike'x k'ajim <rs ana="JAL">jal</rs>;</l>
                     <l n="45">jujunal k'u chike'ik.</l>
                     <l n="46">K'ate k'u chitix ub'ik chi raqan ja',</l>
                     <l n="47">chi ri qaj k'wa',</l>
                     <l n="48">chib'e ch'uti juyub',</l>
                     <l n="49"><space quantity="7" unit="chars" />nima juyub'.- Kixcha' k'ut.</l>
                     <l n="50">Ta chik'utunizaj ri qapixab',</l>
-                    <l n="51">mixqab'ij chi we.- Xecha' Junajpu<ref target="n245"><hi rend="superscript">245</hi></ref>,</l>
+                    <l n="51">mixqab'ij chi we.- Xecha' <rs ana="JUNAJPU">Junajpu</rs><ref target="n245"><hi rend="superscript">245</hi></ref>,</l>
                     <note place="right" xml:id="n245"><seg type="note-symbol"><hi rend="superscript">245</hi></seg>En ésta, como en otras líneas, 
-                    el texto dice <hi rend="bold">xhun ajpu</hi>.</note>
-                    <l n="52"><space quantity="26" unit="chars" />Xb'alanke.</l>
+                    el texto dice <hi rend="bold"><rs ana="JUNAJPU">xhun ajpu</rs></hi>.</note>
+                    <l n="52"><space quantity="26" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                     <l n="53">Ta xepixab'ik,</l>
                     <l n="54">xketamaj kikamik.</l>
                     <l n="55">Are kab'an ri nima chojim ab'aj,</l>
-                    <l n="56">k'eje ri chojib'al ki xkib'an Xib'alb'a,</l>
+                    <l n="56">k'eje ri chojib'al ki xkib'an <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>,</l>
                     <l n="57">nima'q xaq xkikojo.</l>
                     <lb n="58" />
-                    <l n="59">K'ate k'ut xul samajel,</l>
+                    <l n="59">K'ate k'ut xul <rs ana="USAMAJEL_XIB'ALB'A">samajel</rs>,</l>
                     <l n="60"><space quantity="15" unit="chars" />achb'ilay ke;</l>
-                    <l n="61">usamajel Jun Kame,</l>
-                    <l n="62"><space quantity="9" unit="chars" />Wuqub' Kame:</l>
+                    <l n="61"><rs ana="USAMAJEL_XIB'ALB'A">usamajel</rs> <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="62"><space quantity="9" unit="chars" /><rs ana="WUQUB'_KAME'">Wuqub' Kame</rs>:</l>
                     <l n="63">-Kepetoq!</l>
-                    <l n="64">Kojb'e ta kuk' k'ajolab'.</l>
-                    <l n="65">Chib'etakila k'a kixqachojij.- Kacha' ajaw, ix k'ajolab'.</l>
+                    <l n="64">Kojb'e ta kuk' <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>.</l>
+                    <l n="65">Chib'etakila k'a kixqachojij.- Kacha' <rs ana="RAJAWAL_XIB'ALB'A">ajaw</rs>, ix <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>.</l>
                     <l n="66"><space quantity="31" unit="chars" />Xe'ucha'xik.</l>
                     <l n="67">-Utz b'a la! Xecha' k'ut.</l>
                     <l n="68">Anim xeb'ek,</l>
@@ -4693,16 +4693,16 @@
                     <l n="70">Chiri' k'ut xerajch'ij wi chi etz'anem:</l>
                     <l n="71">-Qach'opij wa'e ri qaki.</l>
                     <l n="72">Kaj taq mul taj chi qaxik'aj,</l>
-                    <l n="73">chi qajujunal, ix k'ajolab'.- Xechax k'ut rumal Jun Kame.</l>
+                    <l n="73">chi qajujunal, ix <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>.- Xechax k'ut rumal <rs ana="JUN_KAME'">Jun Kame</rs>.</l>
                     <l n="74">-Mawi are kojimich' wi ri.</l>
-                    <l n="75">Ma pa qeta'm, qakamik, ix ajawab'?</l>
+                    <l n="75">Ma pa qeta'm, qakamik, ix <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs>?</l>
                     <pb xml:id="colop1999-108" />
                     <l n="76">Chiwila na! Xecha' k'ut.</l>
                     <l n="77">Ta xkik'ulawachij kiwach,</l>
                     <l n="78">xkirip kiq'ab' kikab'ichal,</l>
                     <l n="79">e pu jupujuj ta xeb'ek pa choj.</l>
                     <l n="80">Chiri' k'ut xekam wi kikab'ichal.</l>
-                    <l n="81">Kekikot chi k'ut ronojel Xib'alb'a,</l>
+                    <l n="81">Kekikot chi k'ut ronojel <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>,</l>
                     <l n="82">taqal kiyuyub',</l>
                     <l n="83">taqal kixulq'ab'<ref target="n246"><hi rend="superscript">246</hi></ref>.</l>
                     <note place="left" xml:id="n246"><seg type="note-symbol"><hi rend="superscript">246</hi></seg><hi rend="bold">Yuyub'</hi>, 'vocerío,
@@ -4711,102 +4711,105 @@
                     <hi rend="bold">juminik</hi> (Basseta).</note>
                     <l n="84">-Mixeqachako!</l>
                     <l n="85">Qitzij mawi atan xkiya' kib'! Xecha'.</l>
-                    <l n="86">K'ate k'ut kitaqik ri Xulu',</l>
-                    <l n="87"><space quantity="22" unit="chars" />Pakam,</l>
+                    <l n="86">K'ate k'ut kitaqik ri <rs ana="XULU">Xulu'</rs>,</l>
+                    <l n="87"><space quantity="22" unit="chars" /><rs ana="PAK'AM">Pakam</rs>,</l>
                     <l n="88">Xkanaj wi kitzij,</l>
                     <l n="89">xawi xare xtz'onox ri xb'e wi kib'aqil.</l>
-                    <l n="90">Ta xeq'ijin Xib'alb'a,</l>
+                    <l n="90">Ta xeq'ijin <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>,</l>
                     <l n="91">xjok kib'aqil,</l>
                     <l n="92">xb'etixoq chi raqan ja'.</l>
                     <l n="93">Ma k'u xeb'e ta chi naj,</l>
                     <l n="94">xa jusu xeqaj chuxe' ja',</l>
-                    <l n="95">e cha'om k'ajolab' xe'uxik.</l>
+                    <l n="95">e cha'om <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs> xe'uxik.</l>
                     <l n="96">xawi xere kiwach xuxik,</l>
                     <l n="97">xek'utun chi k'ut.</l>
                     <lb n="98" />
+                    <!--editor's note: corresponds to XOM paragraph 38, folio 29v -->
                     <l n="99">Chi rob'ix k'ut xek'utun chik,</l>
                     <l n="100">xe'il chi ya' rumal winaq,</l>
-                    <l n="101">e ka'ib' k'eje ri xa winaq kar xewachinik.</l>
-                    <l n="102">Ta xil kiwach kumal Xib'alb'a,</l>
+                    <l n="101">e ka'ib' k'eje ri xa winaq <rs ana="KAR">kar</rs> xewachinik.</l>
+                    <l n="102">Ta xil kiwach kumal <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>,</l>
                     <l n="103">xetzukux k'ut chi taq ya'.</l>
-                    <l n="104">Xchuweqa' k'ut kek'utunoq e ka'ib' chi meb'a;</l>
+                    <l n="104">Xchuweqa' k'ut kek'utunoq <rs ana="KA'IB'_K'AJOLAB'">e ka'ib' chi meb'a</rs>;</l>
                     <l n="105">atziyaq kiwach,</l>
                     <l n="106">atziyaq pu kij,</l>
                     <l n="107">atziyaq k'ut kiq'u.</l>
-                    <l n="108">Mana chib'anan ta kiwach ta k'i xe'ilik rumal Xib'alb'a.</l>
+                    <l n="108">Mana chib'anan ta kiwach ta k'i xe'ilik rumal <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>.</l>
                     <l n="109">Jalan<ref target="n247"><hi rend="superscript">247</hi></ref> chi k'ut xkib'ano:</l>
                     <note place="left" xml:id="n247"><seg type="note-symbol"><hi rend="superscript">247</hi></seg>El texto dice <hi rend="bold">hala</hi>.</note>
                     <lb n="110" /> 
-                    <l n="111">xa Xajoj Pujuy,</l>
-                    <l n="112"><space quantity="3" unit="chars" />Xajoj Kux,</l>
-                    <l n="113">xa Ib'oy xkixajo,</l>
-                    <l n="114">xa Xtzul,</l>
-                    <l n="115">xa Ch'itik xkixaj chik.</l>
+                    <l n="111">xa <rs ana="XAJOJ_PUJUY">Xajoj Pujuy</rs>,</l>
+                    <l n="112"><space quantity="3" unit="chars" /><rs ana="XAJOJ_KUX">Xajoj Kux</rs>,</l>
+                    <l n="113">xa <rs ana="IB'OY">Ib'oy</rs> xkixajo,</l>
+                    <l n="114">xa <rs ana="XTZUL">Xtzul</rs>,</l>
+                    <l n="115">xa <rs ana="CH'ITIK">Ch'itik</rs> xkixaj chik.</l>
                     <pb xml:id="colop1999-109" />
                     <l n="116">K'ya mayjab'al xkib'an chik:</l>
                     <l n="117">Xkiporoj ja,</l>
                     <l n="118">k'eje ri qitzij chik'atik.</l>
                     <l n="119">Lib'aj chi' k'ut chiwinaqir chik.</l>
-                    <l n="120">Tzatz chi Xib'alb'a chika'yik,</l>
+                    <l n="120">Tzatz chi <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs> chika'yik,</l>
                     <l n="121">k'ate chikipus kib'</l>
                     <l n="122">chikam jun chike;</l>
                     <l n="123">chi pune na chi kaminaqil.</l>
                     <l n="124">Nab'e chikikamisaj kib',</l>
                     <l n="125">xawi xere lib'aj chi' k'astaj wi chi uwach.</l>
-                    <l n="126">Xa kika'y Xib'alb'a ta chi kib'ano.</l>
+                    <l n="126">Xa kika'y <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs> ta chi kib'ano.</l>
                     <l n="127">Ronojel xkib'an chik</l>
-                    <l n="128">uxe'najik<ref target="n248"><hi rend="superscript">248</hi></ref> chik ch'akb'al kech Xib'alb'a kumal.</l>
+                    <l n="128">uxe'najik<ref target="n248"><hi rend="superscript">248</hi></ref> chik ch'akb'al kech <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs> kumal.</l>
                     <note place="right" xml:id="n248"><seg type="note-symbol"><hi rend="superscript">248</hi></seg>Viene de <hi rend="bold">xe'naj</hi>,
-                    'principiar'; <hi rend="bold">xe'nab'al</hi>, 'principio' (Basseta, Ximénez).</note>
-                    <lb n="129" /> 
+                    'principiar'; <hi rend="bold">xe'nab'al</hi>, 'principio' (Basseta, <rs ana="XIMENEZ">Ximénez</rs>).</note>
+                    <lb n="129" />
+                    <!--editor's note: corresponds to XOM paragraph 39, folio 29v --> 
                     <l n="130">K'ate chi puch roponik chik</l>
-                    <l n="131">utzijel kixajoj chi xikin ajawab' Jun Kame,</l>
-                    <l n="132"><space quantity="34" unit="chars" />Wuqub' Kame.</l>
+                    <l n="131">utzijel kixajoj chi xikin <rs ana="JUN_KAME'_WUQUB'_KAME'">ajawab'</rs> <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="132"><space quantity="34" unit="chars" /><rs ana="WUQUB'_KAME'">Wuqub' Kame</rs>.</l>
                     <l n="133">Xcha' ta xkita'o:</l>
-                    <l n="134">-Naki ri e ka'ib' meb'a?</l>
+                    <l n="134">-Naki ri <rs ana="KA'IB'_K'AJOLAB'">e ka'ib' meb'a</rs>?</l>
                     <l n="135">La qitzij wi chi kus?</l>
                     <l n="136">Qitzij wi pu chi jeb'elik kixajowik.</l>
                     <l n="137">Ronojel kakib'ano! Xcha' k'ut.</l>
-                    <l n="138">Kitzijoxik xoponik kuk' ajawab',</l>
+                    <l n="138">Kitzijoxik xoponik kuk' <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs>,</l>
                     <l n="139">kus xkita'o.</l>
-                    <l n="140">Ta xb'ochi k'ut kisamajel,</l>
+                    <l n="140">Ta xb'ochi k'ut <rs ana="USAMAJEL_XIB'ALB'A">kisamajel</rs>,</l>
                     <l n="141">taqol chi kepetoq.</l>
                     <l n="142">-Chultakib'ana',</l>
                     <l n="143">qaka'y.</l>
                     <l n="144">Keqamayjaj taj</l>
-                    <l n="145">keqaka'yij ta puch! Kecha ajawab'. Kixcha' chi ke.- Xuchax ri</l>
-                    <l n="146">samajel.</l>
+                    <l n="145">keqaka'yij ta puch! Kecha <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs>. Kixcha' chi ke.- Xuchax ri</l>
+                    <l n="146"><rs ana="USAMAJEL_XIB'ALB'A">samajel</rs>.</l>
                     <l n="147">Xe'opon k'ut kuk' ri xajol,</l>
-                    <l n="148">ta xcha'o<ref target="n249"><hi rend="superscript">249</hi></ref> k'ut kitzij ajawab' chi ke.</l>
+                    <l n="148">ta xcha'o<ref target="n249"><hi rend="superscript">249</hi></ref> k'ut kitzij <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs> chi ke.</l>
                     <note place="right" xml:id="n249"><seg type="note-symbol"><hi rend="superscript">249</hi></seg>Viene de <hi rend="bold">cha'</hi>, 
                     'decir'. Basseta lo traduce como 'hablar'.</note>
                     <l n="149">-Ma b'a chiqaj!</l>
                     <l n="150">Rumal ri qitzij kojxob'ik.</l>
-                    <l n="151">Ma xa mawi kojk'ixb'ik kojok apanoq chi ajawal ja?</l>
+                    <l n="151">Ma xa mawi kojk'ixb'ik kojok apanoq chi <rs ana="XIB'ALB'A">ajawal ja</rs>?</l>
                     <l n="152">Rumal k'i itzel qawach.</l>
                     <l n="153">Ma xa qi nima'q ub'aq qawach chi meb'a?</l>
-                    <l n="154">Ma xa on ril chi re xa oj xajol?</l>
-                    <l n="155">Naki ta chiqab'ij chi ke qachmeb'a?</l>
+                    <l n="154">Ma xa on ril chi re xa <rs ana="KA'IB'_K'AJOLAB'">oj xajol</rs>?</l>
+                    <l n="155">Naki ta chiqab'ij chi ke <rs ana="KA'IB'_K'AJOLAB'">qachmeb'a?</rs></l>
                     <l n="156">K'o kan<ref target="n250"><hi rend="superscript">250</hi></ref> k'u rayij nay pu ri qaxajoj,</l>
                     <note place="right" xml:id="n250"><seg type="note-symbol"><hi rend="superscript">250</hi></seg>El texto dice <hi rend="bold">cam</hi>.</note>
                     <pb xml:id="colop1999-110" />
                     <l n="157">kakik'astaj kiwach quk'.</l>
-                    <l n="158">Ma k'eje la k'u xchiqab'an chi ke ri ajawab'.</l>
-                    <l n="159">K'eje k'u mawi kaqaj wi. Ix samajel.- Xecha' k'ut ri Junajpu,</l>
-                    <l n="160"><space quantity="53" unit="chars" />Xb'alanke.</l>
+                    <l n="158">Ma k'eje la k'u xchiqab'an chi ke ri <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs>.</l>
+                    <l n="159">K'eje k'u mawi kaqaj wi. Ix <rs ana="USAMAJEL_XIB'ALB'A">samajel</rs>.- Xecha' k'ut ri <rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="160"><space quantity="53" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                     <l n="161">cXelejeb'ex na kiwach chuwi ra'il,</l>
                     <l n="162"><space quantity="22" unit="chars" />chuwi k'ax,</l>
                     <l n="163">Kaq ra'il xeb'ek.</l>
                     <l n="164">Mawi atan xqaj b'enam.</l>
                     <l n="165">K'ya mul xech'ijik,</l>
-                    <l n="166">xa chimachka'ij<ref target="n251"><hi rend="superscript">251</hi></ref> samajel chi kiwach,</l>
+                    <l n="166">xa chimachka'ij<ref target="n251"><hi rend="superscript">251</hi></ref> <rs ana="USAMAJEL_XIB'ALB'A">samajel</rs> chi kiwach,</l>
                     <note place="left" xml:id="n251"><seg type="note-symbol"><hi rend="superscript">251</hi></seg>El texto dice <hi rend="bold">mach cay</hi>,
                     'Ir y venir a menudo'. La forma completa es <hi rend="bold">machkaij</hi>, de la cual se
                     derivan <hi rend="bold">machkaila</hi>, <hi rend="bold">machkaiq'</hi> (Basseta).</note>
                     <l n="167"><space quantity="16" unit="chars" />k'amol ke.</l>
-                    <lb n="168" /> 
-                    <l n="169">Ta xeb'e k'ut ruk' ajaw.</l>
-                    <l n="170">Xe'opon puch kuk' ajawab'.</l>
+                    <lb n="168" />
+                    <l n="169">Ta xeb'e k'ut ruk' <rs ana="JUN_KAME'">ajaw</rs>.</l>
+                    <!--editor's note: corresponds to XOM paragraph 40, folio 30r --> 
+                    <l n="170">Xe'opon puch kuk' <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs>.</l>
                     <l n="171">Kemochochik<ref target="n252"><hi rend="superscript">252</hi></ref></l>
                     <note place="left" xml:id="n252"><seg type="note-symbol"><hi rend="superscript">252</hi></seg><hi rend="bold">Mochochik</hi>, quiere decir
                     entrar con humildad (Basseta).</note>
@@ -4824,16 +4827,16 @@
                     'se negaron [minimizaron] a sí mismos envolviéndose en harapos'. El término <hi rend="bold">Mayo</hi> 
                     estaría derivado de <hi rend="bold">maij</hi>; y <hi rend="bold">quih</hi> sería el reflexivo 
                     <hi rend="bold">kib'</hi>, como en las frases precedentes.</note>
-                    <l n="177">Qitzij wi, chi meb'a kiwachib'al xe'oponik.</l>
+                    <l n="177">Qitzij wi, <rs ana="KA'IB'_K'AJOLAB'">chi meb'a</rs> kiwachib'al xe'oponik.</l>
                     <lb n="178" /> 
                     <l n="179">Ta xtz'onox k'ut kijuyub'al,</l>
                     <l n="180"><space quantity="17" unit="chars" />kamaq' puch.</l>
-                    <l n="181">Xtz'onox nay puch kichuch,</l>
-                    <l n="182"><space quantity="18" unit="chars" />kiqajaw:</l>
+                    <l n="181">Xtz'onox nay puch <rs ana="IXKIK'">kichuch</rs>,</l>
+                    <l n="182"><space quantity="18" unit="chars" /><rs ana="JUN_JUNAJPU">kiqajaw</rs>:</l>
                     <l n="183">-Apa kixpe wi? Xe'ucha'xik.</l>
-                    <l n="184">-Ma b'a qeta'on, at ajaw,</l>
-                    <l n="185">mawi xqeta'maj uwach qachuch,</l>
-                    <l n="186"><space quantity="21" unit="chars" />qaqajaw.</l>
+                    <l n="184">-Ma b'a qeta'on, at <rs ana="JUN_KAME'_WUQUB'_KAME'">ajaw</rs>,</l>
+                    <l n="185">mawi xqeta'maj uwach <rs ana="IXKIK'">qachuch</rs>,</l>
+                    <l n="186"><space quantity="21" unit="chars" /><rs ana="JUN_JUNAJPU">qaqajaw</rs>.</l>
                     <l n="187">K'a oj chutikoq ta xekamik.- Xa xecha'.</l>
                     <l n="188">Mawi naki la xkib'ij.</l>
                     <l n="189">-Utz b'a la,</l>
@@ -4841,7 +4844,7 @@
                     <l n="191">Naki chiwaj?</l>
                     <l n="192">Iwajil chiqaya'o! Xe'ucha'xik.</l>
                     <l n="193">-Ma b'a kaqaj!</l>
-                    <l n="194">Qitzij chi kaqaxib'ij qib'.- Xecha' chik chi re ajaw.</l>
+                    <l n="194">Qitzij chi kaqaxib'ij qib'.- Xecha' chik chi re <rs ana="JUN_KAME'_WUQUB'_KAME'">ajaw</rs>.</l>
                     <l n="195">-Mixib'ij iwib'!</l>
                     <l n="196">mixxob'ik!</l>
                     <pb xml:id="colop1999-111" />
@@ -4850,18 +4853,18 @@
                     <l n="199">Chiporoj ta k'u ri wochoch.</l>
                     <l n="200">Chib'ana' ronojel ri iweta'm.</l>
                     <l n="201">Kojka'y taj kaqaj.</l>
-                    <l n="202">Are uma qak'ux kixb'etaqoq rumal, ix meb'a.</l>
+                    <l n="202">Are uma qak'ux kixb'etaqoq rumal, ix <rs ana="KA'IB'_K'AJOLAB'">meb'a</rs>.</l>
                     <l n="203">Chiqaya' iwajil! Xe'uchax k'ut.</l>
                     <lb n="204" /> 
                     <l n="205">Ta xkitikib'a k'ut kib'ix,</l>
                     <l n="206"><space quantity="19" unit="chars" />kixajoj.</l>
-                    <l n="207">Ta xul k'ut ronojel ri Xib'alb'a,</l>
+                    <l n="207">Ta xul k'ut ronojel ri <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>,</l>
                     <l n="208">xepulik e kayel.</l>
                     <l n="209">Ronojel k'ut xkixajo,</l>
-                    <l n="210">xkixaj Kux,</l>
-                    <l n="211">xkixaj Pujuy,</l>
-                    <l n="212">xkixaj Ib'oy.</l>
-                    <l n="213">Xcha' k'u ajaw chi ke:</l>
+                    <l n="210">xkixaj <rs ana="XAJOJ_KUX">Kux</rs>,</l>
+                    <l n="211">xkixaj <rs ana="XAJOJ_PUJUY">Pujuy</rs>,</l>
+                    <l n="212">xkixaj <rs ana="IB'OY">Ib'oy</rs>.</l>
+                    <l n="213">Xcha' k'u <rs ana="JUN_KAME'_WUQUB'_KAME'">ajaw</rs> chi ke:</l>
                     <l n="214">-Chipusu' ri nutz'i'!</l>
                     <l n="215">Chik'astaj chi uwach iwumal! Xe'ucha'xik.</l>
                     <l n="216">-We! Xecha'.</l>
@@ -4871,19 +4874,19 @@
                     <l n="220">ta xk'astaj uwach,</l>
                     <l n="221">chusaqb'isala'<ref target="n255"><hi rend="superscript">255</hi></ref> uje'</l>
                     <note place="right" xml:id="n255"><seg type="note-symbol"><hi rend="superscript">255</hi></seg>Viene de <hi rend="bold">saqb'isaj</hi>,
-                    'meneo de la cola del perro' (Basseta, Ximénez).</note>
+                    'meneo de la cola del perro' (Basseta, <rs ana="XIMENEZ">Ximénez</rs>).</note>
                     <l n="222">ta xk'astaj uwach.</l>
-                    <l n="223">Xcha' k'u ajaw chi ke:</l>
+                    <l n="223">Xcha' k'u <rs ana="JUN_KAME'_WUQUB'_KAME'">ajaw</rs> chi ke:</l>
                     <l n="224">-Chiporoj na b'a wochoch! Xe'uchax chik.</l>
-                    <l n="225">Ta xkiporoj k'ut rochoch ajaw;</l>
-                    <l n="226">e pulinaq ajawab' pa ja konojel,</l>
+                    <l n="225">Ta xkiporoj k'ut rochoch <rs ana="JUN_KAME'_WUQUB'_KAME'">ajaw</rs>;</l>
+                    <l n="226">e pulinaq <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs> pa ja konojel,</l>
                     <l n="227">Mawi xek'atik.</l>
                     <l n="228">Lib'aj chi' chik xkutzinisaj,</l>
-                    <l n="229">mana jusu sachik ri rochoch Jun Kame.</l>
-                    <l n="230">Xkimayjaj k'ut konojel ajawab'.</l>
+                    <l n="229">mana jusu sachik ri rochoch <rs ana="JUN_KAME'">Jun Kame</rs>.</l>
+                    <l n="230">Xkimayjaj k'ut konojel <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs>.</l>
                     <l n="231">Xawi k'u xere kexajowik.</l>
                     <l n="232">Nim kekikotik.</l>
-                    <l n="233">Xe'uchax chi k'ut rumal ajaw:</l>
+                    <l n="233">Xe'uchax chi k'ut rumal <rs ana="JUN_KAME'_WUQUB'_KAME">ajaw</rs>:</l>
                     <l n="234">-Chikamisaj na k'u jun winaq!</l>
                     <l n="235">Chipusu', ma ta k'u chikamik! Xe'uchax k'ut.</l>
                     <l n="236">-Utz b'a la! Xecha'.</l>
@@ -4891,81 +4894,82 @@
                     <pb xml:id="colop1999-112" />
                     <l n="238">k'ate xkipusu',</l>
                     <l n="239"><space quantity="6" unit="chars" />xkipoq'oj k'u aq'anoq uk'ux ri jun winaq,</l>
-                    <l n="240">xkik'olob'a k'ut chi kiwach ajawab'.</l>
-                    <l n="241">Xkimayjaj<ref target="n256"><hi rend="superscript">256</hi></ref> chi k'ut Jun Kame,</l>
+                    <l n="240">xkik'olob'a k'ut chi kiwach <rs ana="JUN_KAME'_WUQUB'_KAME">ajawab'</rs>.</l>
+                    <l n="241">Xkimayjaj<ref target="n256"><hi rend="superscript">256</hi></ref> chi k'ut <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
                     <note place="left" xml:id="n256"><seg type="note-symbol"><hi rend="superscript">256</hi></seg>El texto dice <hi rend="bold">xquimaiha</hi>;
                     pero líneas más adelante se encuentra la misma frase verbal en su forma completa:
                     <hi rend="bold">xquimaihah</hi>.</note>
-                    <l n="242"><space quantity="19" unit="chars" />Wuqub' Kame.</l>
+                    <l n="242"><space quantity="19" unit="chars" /><rs ana="WUQUB'_KAME'">Wuqub' Kame</rs>.</l>
                     <l n="243">Lib'aj chi' k'ut xk'astaj<ref target="n257"><hi rend="superscript">257</hi></ref> chi uwach ri jun winaq kumal.</l>
                     <note place="left" xml:id="n257"><seg type="note-symbol"><hi rend="superscript">257</hi></seg>El texto dice <hi rend="bold">xqazta</hi>;
                     pero líneas más adelante se encuentra la misma frase verbal en su forma completa:
                     <hi rend="bold">xqaztah</hi>.</note>
                     <l n="244">Nim chi kikot uk'ux ta xk'astaj uwach.</l>
-                    <l n="245">Xkimayjaj k'ut ajawab'.</l>
+                    <l n="245">Xkimayjaj k'ut <rs ana="JUN_KAME'_WUQUB'_KAME">ajawab'</rs>.</l>
                     <l n="246">-Chipusu' china k'u iwib'!</l>
                     <l n="247">chiqil taj.</l>
-                    <l n="248">Qitzij kurayij qak'ux ri ixajoj! Xecha' chi k'u ajawab'.</l>
+                    <l n="248">Qitzij kurayij qak'ux ri ixajoj! Xecha' chi k'u <rs ana="JUN_KAME'_WUQUB'_KAME">ajawab'</rs>.</l>
                     <l n="249">-Utz b'a la, at ajaw! Xecha' k'ut.</l>
                     <lb n="250" /> 
                     <l n="251">K'ate puch xkipus kib':</l>
-                    <l n="252">are k'u xpus ri Xjunajpu rumal Xb'alanke.</l>
+                    <l n="252">are k'u xpus ri <rs ana="JUNAJPU">Xjunajpu</rs> rumal <rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                     <l n="253">Jujunal k'u xperepoxik raqan,</l>
                     <l n="254"><space quantity="23" unit="chars" />uq'ab';</l>
                     <l n="255">xel ujolom,</l>
                     <l n="256">xk'ole aponoq chi naj;</l>
                     <l n="257">xk'otix uloq uk'ux,</l>
                     <l n="258">xch'eqe chuwach tz'alik.</l>
-                    <l n="259">Keq'ab'ar k'u ri ronojel rajawal Xib'alb'a chi ka'y.</l>
-                    <l n="260">Xa k'u jun chi kaxajowilab'ik: ri Xb'alanke.</l>
+                    <l n="259">Keq'ab'ar k'u ri ronojel <rs ana="RAJAWAL_XIB'ALB'A">rajawal Xib'alb'a</rs> chi ka'y.</l>
+                    <l n="260">Xa k'u jun chi kaxajowilab'ik: ri <rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                     <l n="261">-Katwalijoq!<ref target="n258"><hi rend="superscript">258</hi></ref> Xcha' k'ut.</l>
                     <note place="left" xml:id="n258"><seg type="note-symbol"><hi rend="superscript">258</hi></seg>El texto dice <hi rend="bold">cavalihoc</hi>.</note>
                     <l n="262">Lib'aj chi' k'ut xk'astaj uwach.</l>
                     <l n="263">Nim kekikotik.</l>
-                    <l n="264">Xawi k'eje kekikot ajawab'.</l>
+                    <l n="264">Xawi k'eje kekikot <rs ana="JUN_KAME'_WUQUB'_KAME">ajawab'</rs>.</l>
                     <l n="265">Xawi are keb'anowik,</l>
-                    <l n="266">kakikot kik'ux Jun Kame,</l>
-                    <l n="267"><space quantity="15" unit="chars" />Wuqub' Kame.</l>
+                    <l n="266">kakikot kik'ux <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="267"><space quantity="15" unit="chars" /><rs ana="WUQUB'_KAME'">Wuqub' Kame</rs>.</l>
                     <l n="268">K'eje ri are kexajowik,</l>
                     <l n="269"><space quantity="13" unit="chars" />kakina'o.</l>
                 </lg>
                 <lg type="tasik" xml:id="lg3.14">
+                <!--editor's note: corresponds to XOM paragraph 41, folio 31r -->
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE PUCH URAYINIK,</seg></l>
-                    <l n="2"><seg rend="caps" type="tasik-header"><space quantity="11" unit="chars" />UMALINIK<ref target="n259"><hi rend="superscript">259</hi></ref> PU KIK'UX AJAWAB' CHI RE KIXAJOJ XJUNAJPU,</seg></l>
+                    <l n="2"><seg rend="caps" type="tasik-header"><space quantity="11" unit="chars" />UMALINIK<ref target="n259"><hi rend="superscript">259</hi></ref> PU KIK'UX <rs ana="RAJAWAL_XIB'ALB'A">AJAWAB'</rs> CHI RE KIXAJOJ <rs ana="JUNAJPU">XJUNAJPU</rs>,</seg></l>
                     <note place="left" xml:id="n259"><seg type="note-symbol"><hi rend="superscript">259</hi></seg>Viene de <hi rend="bold">malij</hi>,
-                    'desesperarse' (Ximénez).</note>
-                    <l n="3"><seg rend="caps" type="tasik-header"><space quantity="53" unit="chars" />XB'ALANKE.</seg></l>
-                    <l n="4">Ta xel k'u kitzij Jun Kame,</l>
-                    <l n="5"><space quantity="18" unit="chars" />Wuqub' Kame:</l>
+                    'desesperarse' (<rs ana="XIMENEZ">Ximénez</rs>).</note>
+                    <l n="3"><seg rend="caps" type="tasik-header"><space quantity="53" unit="chars" /><rs ana="XB'ALAMQ'E">XB'ALANKE</rs>.</seg></l>
+                    <l n="4">Ta xel k'u kitzij <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="5"><space quantity="18" unit="chars" /><rs ana="WUQUB'_KAME'">Wuqub' Kame</rs>:</l>
                     <l n="6">-Chib'ana' chi qe!</l>
                     <l n="7">Kojipusu'! Xecha' k'ut.</l>
                     <pb xml:id="colop1999-113" />
-                    <l n="8">-Junal taj kojipusu'! Xecha' k'ut Jun Kame,</l>
-                    <l n="9"><space quantity="34" unit="chars" />Wuqub' Kame chi ke ri Xjunajpu,</l>
-                    <l n="10"><space quantity="34" unit="chars" />Xb'alanke.</l>
+                    <l n="8">-Junal taj kojipusu'! Xecha' k'ut <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="9"><space quantity="34" unit="chars" /><rs ana="WUQUB'_KAME'">Wuqub' Kame</rs> chi ke ri <rs ana="JUNAJPU">Xjunajpu</rs>,</l>
+                    <l n="10"><space quantity="34" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                     <l n="11">-Utz b'a la; chi k'astaj iwach.</l>
                     <l n="12">Ma pa ix k'o kam?</l>
                     <l n="13">Oj pu kikotirisaj iwe.</l>
-                    <l n="14">Ix pu rajawal iwal,</l>
-                    <l n="15"><space quantity="14" unit="chars" />ik'ajol.- Xecha' k'ut chi ke ajawab'.</l>
-                    <l n="16">Are k'u nab'e xpus ri k'i ujolom ajaw:</l>
-                    <l n="17"><space quantity="24" unit="chars" />Jun Kame ub'i'.</l>
-                    <l n="18"><space quantity="24" unit="chars" />Rajawal Xib'alb'a.</l>
-                    <l n="19">Kaminaq chi k'ut Jun Kame,</l>
-                    <l n="20">ta xchap chik Wuqub' Kame.</l>
+                    <l n="14">Ix pu <rs ana="RAJAWAL_XIB'ALB'A">rajawal</rs> iwal,</l>
+                    <l n="15"><space quantity="14" unit="chars" />ik'ajol.- Xecha' k'ut chi ke <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs>.</l>
+                    <l n="16">Are k'u nab'e xpus ri k'i ujolom <rs ana="JUN_KAME'">ajaw</rs>:</l>
+                    <l n="17"><space quantity="24" unit="chars" /><rs ana="JUN_KAME'">Jun Kame</rs> ub'i'.</l>
+                    <l n="18"><space quantity="24" unit="chars" /><rs ana="RAJAWAL_XIB'ALB'A">Rajawal Xib'alb'a</rs>.</l>
+                    <l n="19">Kaminaq chi k'ut <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="20">ta xchap chik <rs ana="WUQUB'_KAME'">Wuqub' Kame</rs>.</l>
                     <l n="21">Mawi xk'astaj chi kiwach.</l>
                     <lb n="22" />
-                    <l n="23">K'ate pu kelik Xib'alb'a chi kaqan,</l>
-                    <l n="24">are xkil ri ajawab' xekamik.</l>
+                    <l n="23">K'ate pu kelik <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs> chi kaqan,</l>
+                    <l n="24">are xkil ri <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs> xekamik.</l>
                     <l n="25">E xaraxoj<ref target="n260"><hi rend="superscript">260</hi></ref> chub'ik</l>
                     <note place="right" xml:id="n260"><seg type="note-symbol"><hi rend="superscript">260</hi></seg>Sacrificados. De acuerdo con Basseta,
                     <hi rend="bold">xaraxoj</hi> quiere decir 'cortar o abrir el pecho, sacar el corazón'.
-                    Viene de <hi rend="bold">xar</hi>, que conforme a Ximénez es 'abrir de piernas' (sic).</note>
+                    Viene de <hi rend="bold">xar</hi>, que conforme a <rs ana="XIMENEZ">Ximénez</rs> es 'abrir de piernas' (sic).</note>
                     <l n="26">e pu xaraxoxinaq kikab'ichal.</l>
                     <l n="27">Xa k'u k'ajisab'al kiwach xb'anik.</l>
-                    <l n="28">Jusuk' xukamib'ej ri jun ajaw,</l>
+                    <l n="28">Jusuk' xukamib'ej ri jun <rs ana="JUN_KAME'_WUQUB'_KAME">ajaw</rs>,</l>
                     <l n="29">mana xkik' as taj chi uwach.</l>
-                    <l n="30">Are k'u ri jun ajaw xelaj na,</l>
+                    <l n="30">Are k'u ri jun <rs ana="JUN_KAME'_WUQUB'_KAME">ajaw</rs> xelaj na,</l>
                     <l n="31"><space quantity="20" unit="chars" />xok na chi kiwach ri e xajol;</l>
                     <l n="32">mawi xuk'ulu,</l>
                     <l n="33">ma pu xuriqo:</l>
@@ -4974,32 +4978,33 @@
                     <l n="36"><space quantity="24" unit="chars" />kik'ajol pa nima siwan.</l>
                     <l n="37">Xa jun xkib'alij<ref target="n261"><hi rend="superscript">261</hi></ref> wi kib' pa nima xolob'achan<ref target="n262"><hi rend="superscript">262</hi></ref>.</l>
                     <note place="right" xml:id="n261"><seg type="note-symbol"><hi rend="superscript">261</hi></seg>Llenar, rellenar. Es sinónimo de
-                    <hi rend="bold">nojik</hi> (Basseta, Ximénez).</note>
-                    <note place="right" xml:id="n262"><seg type="note-symbol"><hi rend="superscript">262</hi></seg>Abismo, hoyo muy profundo (Ximenez).</note>
+                    <hi rend="bold">nojik</hi> (Basseta, <rs ana="XIMENEZ">Ximénez</rs>).</note>
+                    <note place="right" xml:id="n262"><seg type="note-symbol"><hi rend="superscript">262</hi></seg>Abismo, hoyo muy profundo (<rs ana="XIMENEZ">Ximenez</rs>).</note>
                     <l n="38">chiri' k'ut e tub'ul wi;</l>
-                    <l n="39">ta xk'ulun k'ut mawi ajilan chi sanik,</l>
+                    <l n="39">ta xk'ulun k'ut mawi ajilan chi <rs ana="SANIK">sanik</rs>,</l>
                     <l n="40">tukulij ula' ke pa siwan.</l>
                     <l n="41">K'eje ri xeb'eyo'x uloq,</l>
                     <l n="42">ta xe'ul k'ut,</l>
                     <l n="43">xkixulkiya' chi kib' konojel.</l>
                     <l n="44">Xe'ulelajoq,</l>
                     <l n="45">xe'ul pu okoq.</l>
-                    <l n="46">K'eje k'ut kich'akatajik rajawal Xib'alb'a;</l>
+                    <l n="46">K'eje k'ut kich'akatajik <rs ana="RAJAWAL_XIB'ALB'A">rajawal Xib'alb'a</rs>;</l>
                     <l n="47">xa mayjab'al,</l>
                     <l n="48">xa pu kijalwachib'al kib' ta xkib'ano.</l>
                     <pb xml:id="colop1999-114" />
                     <l n="49">K'ate puch ta xkib'ij kib'i',</l>
-                    <l n="50"><space quantity="14" unit="chars" />xkikob'isaj kib' chi kiwach konojel Xib'alb'a:</l>
+                    <l n="50"><space quantity="14" unit="chars" />xkikob'isaj kib' chi kiwach konojel <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>:</l>
+                    <!--editor's note: corresponds to XOM paragraph 42, folio 31v -->
                     <l n="51">-Chita' qab'i:</l>
                     <l n="52">xchiqab'ij!</l>
-                    <l n="53">Xchiqab'ij nay puch ub'i' qaqajaw chi we.</l>
+                    <l n="53">Xchiqab'ij nay puch ub'i' <rs ana="JUN_JUNAJPU">qaqajaw</rs> chi we.</l>
                     <l n="54">Oj wa':</l>
-                    <l n="55">oj Xjunajpu,</l>
-                    <l n="56"><space quantity="3" unit="chars" />Xb'alanke qab'i'!</l>
-                    <l n="57">Are k'u qaqajaw, ri xikamisaj, Jun Junajpu,</l>
-                    <l n="58"><space quantity="31" unit="chars" />Wuqub' Junajpu, kib'i'!</l>
+                    <l n="55">oj <rs ana="JUNAJPU">Xjunajpu</rs>,</l>
+                    <l n="56"><space quantity="3" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs> qab'i'!</l>
+                    <l n="57">Are k'u qaqajaw, ri xikamisaj, <rs ana="JUN_JUNAJPU">Jun Junajpu</rs>,</l>
+                    <l n="58"><space quantity="31" unit="chars" /><rs ana="WUQUB'_JUNAJPU">Wuqub' Junajpu</rs>, kib'i'!</l>
                     <l n="59">Oj k'u pak'ol re wa'e kira'il,</l>
-                    <l n="60"><space quantity="22" unit="chars" />kik'axk'ol ri qaqajaw!</l>
+                    <l n="60"><space quantity="22" unit="chars" />kik'axk'ol ri <rs ana="JUN_JUNAJPU">qaqajaw</rs>!</l>
                     <l n="61">K'eje k'ut mixqakuyu wi ronojel k'axk'ol,</l>
                     <l n="62">mixib'an chi qe.</l>
                     <l n="63">K'eje k'ut kixqasach wi iwonojel,</l>
@@ -5007,14 +5012,14 @@
                     <l n="65">maja b'i chik k'olotajel chi we.- Xe'uchax k'ut.</l>
                     <lb n="66" /> 
                     <l n="67">K'ate puch kelajik</l>
-                    <l n="68">koq'ik konojel Xib'alb'a:</l>
-                    <l n="69">-Toq'ob' qawach, ix Junajpu,</l>
-                    <l n="70"><space quantity="20" unit="chars" />Xb'alanke!</l>
-                    <l n="71">Qitzij wi xojmakunik chi ke ri iqajaw kib'ij la,</l>
-                    <l n="72">k'ute e muqul chi pusb'al chaaj.- Xecha' k'ut.</l>
+                    <l n="68">koq'ik konojel <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>:</l>
+                    <l n="69">-Toq'ob' qawach, ix <rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="70"><space quantity="20" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>!</l>
+                    <l n="71">Qitzij wi xojmakunik chi ke ri <rs ana="JUN_JUNAJPU">iqajaw</rs> kib'ij la,</l>
+                    <l n="72">k'ute e muqul chi <rs ana="PUSB'AL_CHAAJ">pusb'al chaaj</rs>.- Xecha' k'ut.</l>
                     <l n="73">-Utz b'a la!</l>
                     <l n="74">Are b'a ri qatzij xchiqab'ij chi we.</l>
-                    <l n="75">Chita' iwonojel, ix Xib'alb'a:</l>
+                    <l n="75">Chita' iwonojel, ix <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>:</l>
                     <l n="76">rumal mana nim chi iq'ij,</l>
                     <l n="77">iwalaxik chuxik,</l>
                     <l n="78">ruk' nay puch mawi nim chi ikochib'al.</l>
@@ -5030,14 +5035,14 @@
                     <l n="87"><space quantity="24" unit="chars" />saqil k'ajol.</l>
                     <pb xml:id="colop1999-115" />
                     <l n="88">Xa no'j chitzaqo rib' chi wach,</l>
-                    <l n="89">are ri ajmak,</l>
-                    <l n="90"><space quantity="7" unit="chars" />ajlab'al,</l>
-                    <l n="91"><space quantity="7" unit="chars" />ajb'is,</l>
-                    <l n="92"><space quantity="7" unit="chars" />ajmoken,</l>
+                    <l n="89">are ri <rs ana="AJMAK">ajmak</rs>,</l>
+                    <l n="90"><space quantity="7" unit="chars" /><rs ana="AJLAB'AL">ajlab'al</rs>,</l>
+                    <l n="91"><space quantity="7" unit="chars" /><rs ana="AJB'IS">ajb'is</rs>,</l>
+                    <l n="92"><space quantity="7" unit="chars" /><rs ana="AJMOKEN">ajmoken</rs>,</l>
                     <l n="93">chok na;</l>
                     <l n="94">umak kixok wi!</l>
                     <l n="95">Mana xa rax chapom ronojel winaq chib'ano!</l>
-                    <l n="96">Kixta'on puch chuwi ri kik' jolomax! Xe'uchax k'ut konojel Xib'alb'a.</l>
+                    <l n="96">Kixta'on puch chuwi ri <rs ana="KIK'">kik'</rs> jolomax! Xe'uchax k'ut konojel <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>.</l>
                     <l n="97">K'eje k'ut tikarinaq kisachik</l>
                     <l n="98">umayixik nay puch kisik'ixik.</l>
                     <l n="99">Mawi nim kiq'ij ojer;</l>
@@ -5047,40 +5052,40 @@
                     <l n="101">Qitzij mana kab'awil kib'i' ojer.</l>
                     <l n="102">Xawi xib'al,</l>
                     <l n="103">itzel kiwach.</l>
-                    <l n="104">E ajtza,</l>
-                    <l n="105"><space quantity="2" unit="chars" />ajtukur,<ref target="n265"><hi rend="superscript">265</hi></ref></l>
+                    <l n="104">E <rs ana="AJTZA">ajtza</rs>,</l>
+                    <l n="105"><space quantity="2" unit="chars" /><rs ana="AJTUKUR">ajtukur</rs>,<ref target="n265"><hi rend="superscript">265</hi></ref></l>
                     <note place="right" xml:id="n265"><seg type="note-symbol"><hi rend="superscript">265</hi></seg>Literalmente "los que son como
-                    los tecolotes"; sin embargo es una figura que quiere decir 'traidores' 
-                    (Ximenez, Basseta).</note>
+                    <rs ana="TUKUR">los tecolotes</rs>"; sin embargo es una figura que quiere decir 'traidores' 
+                    (<rs ana="XIMENEZ">Ximenez</rs>, Basseta).</note>
                     <l n="106">e taqchinel chi mak,</l>
                     <l n="107"><space quantity="12" unit="chars" />chi lab'al.</l>
-                    <l n="108">E nay pu ajmuqulik k'ux,</l>
+                    <l n="108">E nay pu <rs ana="AJMUQULIK_K'U'X">ajmuqulik k'ux</rs>,</l>
                     <l n="109">e q'eqa il,</l>
                     <l n="110"><space quantity="2" unit="chars" />saqil;</l>
-                    <l n="111">ajmox wach,</l>
-                    <l n="112">ajlatzab' ke'ucha'xik.</l>
+                    <l n="111"><rs ana="AJMOX_WACH">ajmox wach</rs>,</l>
+                    <l n="112"><rs ana="AJLATZAB'">ajlatzab'</rs> ke'ucha'xik.</l>
                     <l n="113">Chixe'on<ref target="n266"><hi rend="superscript">266</hi></ref> kiwach kek'ulutajik.</l>
                     <note place="right" xml:id="n266"><seg type="note-symbol"><hi rend="superscript">266</hi></seg><hi rend="bold">-on</hi>, 'pintarse' (Basseta).</note>
                     <l n="114">K'eje k'ut usachik kinimal,</l>
                     <l n="115"><space quantity="19" unit="chars" />q'aq'al.</l>
                     <l n="116">Mawi nim chi kajawarem xuxik.</l>
-                    <l n="117">Are xeb'anow ri Xjunajpu,</l>
-                    <l n="118"><space quantity="16" unit="chars" />Xb'alanke.</l>
+                    <l n="117">Are xeb'anow ri <rs ana="JUNAJPU">Xjunajpu</rs>,</l>
+                    <l n="118"><space quantity="16" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                 </lg>
                 <lg type="tasik" xml:id="lg3.15">
                     <l n="1">ARE K'UT KOQ'IK,</l>
-                    <l n="2"><space quantity="9" unit="chars" />KASIK'IN RI KATI'T CHUWACH RI AJ,</l>
+                    <l n="2"><space quantity="9" unit="chars" />KASIK'IN RI <rs ana="IXMUKANE">KATI'T</rs> CHUWACH RI <rs ana="AJ">AJ</rs>,</l>
                     <l n="3"><space quantity="36" unit="chars" />RI XKITIK KANOQ.</l>
-                    <l n="4">Xpe utux ri aj,</l>
+                    <l n="4">Xpe utux ri <rs ana="AJ">aj</rs>,</l>
                     <l n="5">k'ate xchaqij chik.</l>
                     <l n="6">Are k'ut ta xek'at pa choj,</l>
-                    <l n="7">ta xpe chi k'ut utux ri aj.</l>
-                    <l n="8">K'ate k'ut xk'aton ri kati't:</l>
+                    <l n="7">ta xpe chi k'ut utux ri <rs ana="AJ">aj</rs>.</l>
+                    <l n="8">K'ate k'ut xk'aton ri <rs ana="IXMUKANE">kati't</rs>:</l>
                     <pb xml:id="colop1999-116" />
-                    <l n="9">xuk'at ri pom chuwach ri aj,</l>
+                    <l n="9">xuk'at ri pom chuwach ri <rs ana="AJ">aj</rs>,</l>
                     <l n="10">unatab'al kech ri'.</l>
-                    <l n="11">Are xkikot wi uk'ux kati't ri chu kamul xpe utux ri aj.</l>
-                    <l n="12">Ta xkab'awilax rumal kati't,</l>
+                    <l n="11">Are xkikot wi uk'ux <rs ana="IXMUKANE">kati't</rs> ri chu kamul xpe utux ri <rs ana="AJ">aj</rs>.</l>
+                    <l n="12">Ta xkab'awilax rumal <rs ana="IXMUKANE">kati't</rs>,</l>
                     <l n="13">ta xub'inatisaj k'ut Nik'aj Ja,</l>
                     <l n="14"><space quantity="21" unit="chars" />Nik'aj B'ichoq';<ref target="n267"><hi rend="superscript">267</hi></ref></l>
                     <note place="left" xml:id="n267"><seg type="note-symbol"><hi rend="superscript">267</hi></seg>Conforme a Chávez,
@@ -5089,30 +5094,31 @@
                     <l n="16"><space quantity="21" unit="chars" />Ch'atam Ulew; ub'i' xuxik.</l>
                     <l n="17">Are k'ut xub'ina'j wi Nik'aj Ja,</l>
                     <l n="18"><space quantity="22" unit="chars" />Nik'aj B'ichoq';</l>
-                    <l n="19">rumal xa chunik'ajal upa kokoch xkitij aj.</l>
+                    <l n="19">rumal xa chunik'ajal upa kokoch xkitij <rs ana="AJ">aj</rs>.</l>
                     <l n="20">Are chi k'u xub'ina'j wi Ch'atam Ulew,</l>
                     <l n="21"><space quantity="25" unit="chars" />K'asam Aj;</l>
-                    <l n="22">chuwi ch'ata ulew kitik wi aj.</l>
+                    <l n="22">chuwi ch'ata ulew kitik wi <rs ana="AJ">aj</rs>.</l>
                     <l n="23">Are nay pu xub'ina'j wi K'asam Aj,</l>
-                    <l n="24">rumal xpe utux aj.</l>
-                    <l n="25">Ta xkoj ub'i rumal Xmukane;</l>
-                    <l n="26">xkitik kanoq Junajpu,</l>
-                    <l n="27"><space quantity="13" unit="chars" />Xb'alanke</l>
-                    <l n="28">Xa natab'al ke rumal kati't.</l>
+                    <l n="24">rumal xpe utux <rs ana="AJ">aj</rs>.</l>
+                    <l n="25">Ta xkoj ub'i rumal <rs ana="IXMUKANE">Xmukane</rs>;</l>
+                    <l n="26">xkitik kanoq <rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="27"><space quantity="13" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs></l>
+                    <l n="28">Xa natab'al ke rumal <rs ana="IXMUKANE">kati't</rs>.</l>
                 </lg>
                 <lg type="tasik" xml:id="lg3.16">
-                    <l n="1">ARE K'U RI NAB'E KIQAJAW,</l>
-                    <l n="2">xojeroq kekamoq, ri Jun Junajpu,</l>
-                    <l n="3"><space quantity="20" unit="chars" />Wuqub' Junajpu.</l>
-                    <l n="4">Xkil chi k'ut uwach ri kiqajaw chila',</l>
-                    <l n="5"><space quantity="31" unit="chars" />chi Xib'alb'a;</l>
-                    <l n="6">xch'aw chik kiqajaw chi ke</l>
-                    <l n="7">ta xkich'ak Xib'alb'a.</l>
-                    <lb n="8" /> 
-                    <l n="9">Wa k'ute uwiqik chik kiqajaw kumal.</l>
-                    <l n="10">Are xkiwiq ri Wuqub' Junajpu:</l>
+                    <l n="1">ARE K'U RI NAB'E <rs ana="JUN_JUNAJPU">KIQAJAW</rs>,</l>
+                    <l n="2">xojeroq kekamoq, ri <rs ana="JUN_JUNAJPU">Jun Junajpu</rs>,</l>
+                    <l n="3"><space quantity="20" unit="chars" /><rs ana="WUQUB'_JUNAJPU">Wuqub' Junajpu</rs>.</l>
+                    <l n="4">Xkil chi k'ut uwach ri <rs ana="JUN_JUNAJPU">kiqajaw</rs> chila',</l>
+                    <l n="5"><space quantity="31" unit="chars" />chi <rs ana="XIB'ALB'A">Xib'alb'a</rs>;</l>
+                    <l n="6">xch'aw chik <rs ana="JUN_JUNAJPU">kiqajaw</rs> chi ke</l>
+                    <l n="7">ta xkich'ak <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>.</l>
+                    <lb n="8" />
+                    <!--editor's note: corresponds to XOM paragraph 43, folio 32r -->
+                    <l n="9">Wa k'ute uwiqik chik <rs ana="JUN_JUNAJPU">kiqajaw</rs> kumal.</l>
+                    <l n="10">Are xkiwiq ri <rs ana="WUQUB'_JUNAJPU">Wuqub' Junajpu</rs>:</l>
                     <l n="11">chila' xb'ekiwiqa wi</l>
-                    <l n="12">chi pusb'al chaaj.</l>
+                    <l n="12">chi <rs ana="PUSB'AL_CHAAJ">pusb'al chaaj</rs>.</l>
                     <l n="13">Xawi xere uwach xrajuxik.</l>
                     <l n="14">Xtz'onox k'ut chi re ub'i ronojel;</l>
                     <l n="15">uchi',</l>
@@ -5123,16 +5129,16 @@
                     <l n="19">Xa k'u sqaqi'n chik xcha'taj wi.</l>
                     <l n="20">Xere mawi xub'ij chi ub'i' ri ujunal puwi' uchi',</l>
                     <l n="21">xere pu xcha'taj chi wi.</l>
-                    <l n="22">K'eje k'ut ta xkinimaj wi kanajoq uk'ux kiqajaw.</l>
-                    <l n="23">Xawi xkanaj chi pusb'a chaaj.</l>
+                    <l n="22">K'eje k'ut ta xkinimaj wi kanajoq uk'ux <rs ana="JUN_JUNAJPU">kiqajaw</rs>.</l>
+                    <l n="23">Xawi xkanaj chi <rs ana="PUSB'AL_CHAAJ">pusb'a chaaj</rs>.</l>
                     <l n="24">-Chiri' kixsik'ix wi.</l>
-                    <l n="25">Chuxikl Xecha' chi uk'ajol chi rech,</l>
+                    <l n="25">Chuxik! Xecha' chi uk'ajol chi rech,</l>
                     <l n="26">ta xk'ub'ax uk'ux.</l>
                     <l n="27">-Nab'e chel iwe,</l>
                     <l n="28">nab'e nay puch kixq'ijiloxik rumal saqil al,</l>
                     <l n="29"><space quantity="35" unit="chars" />saqil k'ajol.</l>
                     <l n="30">Mawi chisachik ib'i'.</l>
-                    <l n="31">Ta chuxoq! Xecha' chi rech kiqajaw,</l>
+                    <l n="31">Ta chuxoq! Xecha' chi rech <rs ana="JUN_JUNAJPU">kiqajaw</rs>,</l>
                     <l n="32">ta xkik'ub'a' uk'ux.</l>
                     <l n="33">-Xa ojpak'ol ikamik,</l>
                     <l n="34"><space quantity="13" unit="chars" />isachik;</l>
@@ -5140,7 +5146,7 @@
                     <l n="36"><space quantity="13" unit="chars" />ra'il xb'an chiwe!</l>
                     <l n="37">K'eje k'ut kipixab'ik.</l>
                     <lb n="38" />
-                    <l n="39">Ri xch'akatajinaqoq ronojel Xib'alb'a.</l>
+                    <l n="39">Ri xch'akatajinaqoq ronojel <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>.</l>
                     <l n="40">Ta xe'aq'an k'u loq waral,</l>
                     <l n="41">e nik'aj saq.</l>
                     <l n="42">Jusu k'u xe'aq'an chi kaj:</l>
@@ -5150,8 +5156,8 @@
                     <l n="46"><space quantity="12" unit="chars" />uwach ulew.</l>
                     <l n="47">Chi kaj xek'oje wi.</l>
                     <lb n="48" />
-                    <l n="49">Are k'ut kachakanik ri omuch k'ajolab',</l>
-                    <l n="50">xekam rumal Sipakna.</l>
+                    <l n="49">Are k'ut kachakanik ri <rs ana="MOTZ">omuch k'ajolab'</rs>,</l>
+                    <l n="50">xekam rumal <rs ana="SIPAKNA">Sipakna</rs>.</l>
                     <l n="51">Are k'ut kachb'il xuxik.</l>
                     <l n="52">E uch'umilal kaj xe'uxik.</l>
                     <pb xml:id="colop1999-118" />
@@ -5161,6 +5167,7 @@
                 <head>UKAJ</head>
                 <lg type="tasik" xml:id="lg4.01">
                     <pb xml:id="colop1999-119" />
+                <!--editor's note: corresponds to XOM paragraph 44, folio 32v -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA'E K'UT UTIKERIK TA XNA'OJIX WINAQ,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header">TA XTZUKUX PUCH RI CHOK UTYO'JIL WINAQ</seg></l>
                     <l n="3">Xecha' k'ut ri Alom,</l>
