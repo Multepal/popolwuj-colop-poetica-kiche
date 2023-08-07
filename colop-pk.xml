@@ -594,54 +594,54 @@
                     <l n="2">Waral xchiqatz'ib'aj wi,</l>
                     <l n="3"><space quantity="6" unit="chars" />xchiqatikib'a' wi ojer tzij</l>
                     <l n="4">utikarib'al,</l>
-                    <l n="5">uxe'nab'al puch ronojel xb'an pa tinamit K'iche'</l>
+                    <l n="5">uxe'nab'al puch ronojel xb'an pa <rs ana="TINAMIT_K'ICHE'">tinamit K'iche'</rs></l>
                     <l n="6"><space quantity="33" unit="chars" />ramaq' K'iche' winaq.</l>
                     <l n="7">Are k'ut xchiqak'am wi:</l>
                     <l n="8">uk'utunisaxik,</l>
                     <l n="9">uq'alajob'isaxik,</l>
                     <l n="10">utzijoxik puch</l>
                     <l n="11">ewaxib'al,</l>
-                    <l n="12">saqirib'al rumal Tz'aqol,</l>
-                    <l n="13"><space quantity="17" unit="chars" />B'itol,</l>
-                    <l n="14"><space quantity="17" unit="chars" />Alom,</l>
-                    <l n="15"><space quantity="17" unit="chars" />K'ajolom kib'i'.</l>
-                    <l n="16"><space quantity="17" unit="chars" />Junajpu Wuch',</l>
-                    <l n="17"><space quantity="17" unit="chars" />Junajpu Utiw,</l>
-                    <l n="18"><space quantity="17" unit="chars" />Saqinim Aq</l>
-                    <l n="19"><space quantity="25" unit="chars" />Sis</l>
-                    <l n="20"><space quantity="17" unit="chars" />Tepew,</l>
-                    <l n="21"><space quantity="17" unit="chars" />Q'ukumatz,</l>
-                    <l n="22"><space quantity="17" unit="chars" />Uk'ux Cho,</l>
-                    <l n="23"><space quantity="17" unit="chars" />Uk'ux Palo,</l>
-                    <l n="24"><space quantity="17" unit="chars" />Ajraxa Laq,</l>
-                    <l n="25"><space quantity="17" unit="chars" />Ajraxa Tzel. Chucha'xik,</l>
+                    <l n="12">saqirib'al rumal <rs ana="TZ'AQOL">Tz'aqol</rs>,</l>
+                    <l n="13"><space quantity="17" unit="chars" /><rs ana="B'ITOL">B'itol</rs>,</l>
+                    <l n="14"><space quantity="17" unit="chars" /><rs ana="ALOM">Alom</rs>,</l>
+                    <l n="15"><space quantity="17" unit="chars" /><rs ana="K'AJOLOM">K'ajolom</rs> kib'i'.</l>
+                    <l n="16"><space quantity="17" unit="chars" /><rs ana="JUNAJPU_WUCH'">Junajpu Wuch'</rs>,</l>
+                    <l n="17"><space quantity="17" unit="chars" /><rs ana="JUNAJPU_UTIW">Junajpu Utiw</rs>,</l>
+                    <l n="18"><space quantity="17" unit="chars" /><rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs></l>
+                    <l n="19"><space quantity="25" unit="chars" /><rs ana="SAQI_NIM_AQ_SIS">Sis</rs></l>
+                    <l n="20"><space quantity="17" unit="chars" /><rs ana="TEPEW_Q'UKUMATZ">Tepew</rs>,</l>
+                    <l n="21"><space quantity="17" unit="chars" /><rs ana="TEPEW_Q'UKUMATZ">Q'ukumatz</rs>,</l>
+                    <l n="22"><space quantity="17" unit="chars" /><rs ana="UK'U'X_CHO">Uk'ux Cho</rs>,</l>
+                    <l n="23"><space quantity="17" unit="chars" /><rs ana="UK'U'X_PALO">Uk'ux Palo</rs>,</l>
+                    <l n="24"><space quantity="17" unit="chars" /><rs ana="AJRAXA_LAQ">Ajraxa Laq</rs>,</l>
+                    <l n="25"><space quantity="17" unit="chars" /><rs ana="AJRAXA_TZEL">Ajraxa Tzel</rs>. Chucha'xik,</l>
                     <l n="26"><space quantity="30" unit="chars" />rachb'ixik,</l>
-                    <l n="27"><space quantity="30" unit="chars" />rachtzijoxik ri Iyom,</l>
-                    <l n="28"><space quantity="46" unit="chars" />Mamom,</l>
-                    <l n="29"><space quantity="46" unit="chars" />Xpiyakok,</l>
-                    <l n="30"><space quantity="46" unit="chars" />Xmukane, ub'i'.</l>
+                    <l n="27"><space quantity="30" unit="chars" />rachtzijoxik ri <rs ana="IXMUKANE">Iyom</rs>,</l>
+                    <l n="28"><space quantity="46" unit="chars" /><rs ana="XPIYAKOK">Mamom</rs>,</l>
+                    <l n="29"><space quantity="46" unit="chars" /><rs ana="XPIYAKOK">Xpiyakok</rs>,</l>
+                    <l n="30"><space quantity="46" unit="chars" /><rs ana="XMUKANE">Xmukane</rs>, ub'i'.</l>
                     <pb xml:id="colop1999-022" />
-                    <l n="31"><space quantity="46" unit="chars" />Matzanel,</l>
-                    <l n="32"><space quantity="46" unit="chars" />Chuqenel,</l>
-                    <l n="33"><space quantity="46" unit="chars" />Kamul Iyom,</l>
-                    <l n="34"><space quantity="46" unit="chars" />Kamul Mamom.</l>
-                    <l n="35"><space quantity="46" unit="chars" />Chucha'xik pa K'iche' tzij.</l>
+                    <l n="31"><space quantity="46" unit="chars" /><rs ana="IXMUKANE">Matzanel</rs>,</l>
+                    <l n="32"><space quantity="46" unit="chars" /><rs ana="XPIYAKOK">Chuqenel</rs>,</l>
+                    <l n="33"><space quantity="46" unit="chars" /><rs ana="IXMUKANE">Kamul Iyom</rs>,</l>
+                    <l n="34"><space quantity="46" unit="chars" /><rs ana="XPIYAKOK">Kamul Mamom</rs>.</l>
+                    <l n="35"><space quantity="46" unit="chars" />Chucha'xik <rs ana="TINAMIT_K'ICHE'">pa K'iche'</rs> tzij.</l>
                     <lb n="36"/>
                     <l n="37">Ta xkitzijoj ronojel</l>
                     <l n="38">ruk' xkib'an chik</l>
                     <l n="39">chi saqil k'olem,</l>
                     <l n="40"><space quantity="4" unit="chars" />saqil tzij.</l>
                     <l n="41">Wa'e xchiqatz'ib'aj chi upam chik</l>
-                    <l n="42"><space quantity="24" unit="chars" />uch'ab'al Dios,</l>
+                    <l n="42"><space quantity="24" unit="chars" />uch'ab'al <rs ana="DIOS">Dios</rs>,</l>
                     <l n="43"><space quantity="24" unit="chars" />pa christianoil chik.</l>
-                    <l n="44">xchiqelesaj rumal maja b'i chik ilb'al re Popo Wuj<ref target="n001"><hi rend="superscript">1</hi></ref>,</l>
+                    <l n="44">xchiqelesaj rumal maja b'i chik ilb'al re <rs ana="POPOL_WUJ">Popo Wuj</rs><ref target="n001"><hi rend="superscript">1</hi></ref>,</l>
                     <note place="left" xml:id="n001"><seg type="note-symbol"><hi rend="superscript">1</hi></seg>Aquí se identifica el nombre del libro 
                     como Popo Wuj y en la parte final como Popol Wuj. En el texto también encontramos la palabra popol en otras frases, como
                     en ajpopol (dos veces), popol winaq (cuatro veces). En los diccionarios de la época
                     se encuentran registrados los términos popol, popol ech, popol ja, popol tzij.
                     Por esta razón, es plausible creer que en la primera identificación del libro hubo 
                     un error y se escribió Popo Wuj en lugar del Popol Wuj.</note>
-                    <l n="45"><space quantity="32" unit="chars" />ilb'al saq petenaq ch'aqa palo</l>
+                    <l n="45"><space quantity="32" unit="chars" />ilb'al saq petenaq ch'aqa <rs ana="PALO">palo</rs></l>
                     <l n="46"><space quantity="39" unit="chars" />utzijoxik qamujib'al,</l>
                     <l n="47"><space quantity="32" unit="chars" />ilb'al saq k'aslem'; chucha'xik.</l>
                     <l n="48">K'o nab'e wujil,</l>
@@ -660,10 +660,10 @@
                     <l n="61">uyuq k'a'maxik upa kaj,</l>
                     <l n="62"><space quantity="15" unit="chars" />upa ulew;</l>
                     <l n="63">kaj tz'uq,</l>
-                    <l n="64">kaj xukut, chucha'xik rumal ri Tz'aqol,</l>
-                    <l n="65"><space quantity="31" unit="chars" />B'itol;</l>
-                    <l n="66">Uchuch,</l>
-                    <l n="67">Uqajaw k'aslem,</l>
+                    <l n="64">kaj xukut, chucha'xik rumal ri <rs ana="TZ'AQOL">Tz'aqol</rs>,</l>
+                    <l n="65"><space quantity="31" unit="chars" /><rs ana="B'ITOL">B'itol</rs>;</l>
+                    <l n="66"><rs ana="ALOM">Uchuch</rs>,</l>
+                    <l n="67"><rs ana="K'AJOLOM">Uqajaw</rs> k'aslem,</l>
                     <l n="68"><space quantity="7" unit="chars" />Winaqirem:</l>
                     <l n="69">Ab'anel,</l>
                     <l n="70">K'uxlanel;</l>
@@ -675,7 +675,7 @@
                     <l n="75"><space quantity="13" unit="chars" />saqil k'ajol;</l>
                     <l n="76">Ajb'is,</l>
                     <l n="77">Ajna'oj chi rech ronojel a ta k'ol wi kaj-ulew,</l>
-                    <l n="78"><space quantity="38" unit="chars" />cho-palo.</l>
+                    <l n="78"><space quantity="38" unit="chars" />cho-<rs ana="PALO">palo</rs>.</l>
                 </lg>
                 <lg type="tasik" xml:id="lg1.02">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE UTZIJOXIK WA'E</seg></l>
