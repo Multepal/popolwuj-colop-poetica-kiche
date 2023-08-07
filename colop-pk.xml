@@ -1290,7 +1290,7 @@
                     como 'mostrar' y 'deshacer entre los dedos como <hi rend="bold">chile'</hi>.</note>
                     <l n="4">xekamisax chik poy,</l>
                     <l n="5"><space quantity="15" unit="chars" />ajam che'.</l>
-                    <l n="6">Ta xna'ojix kib'utik<ref target="n035"><hi rend="superscript">35</hi></ref> rumal Uk'ux Kaj;</l>
+                    <l n="6">Ta xna'ojix kib'utik<ref target="n035"><hi rend="superscript">35</hi></ref> rumal <rs ana="UK'U'X_KAJ">Uk'ux Kaj</rs>;</l>
                     <note place="right" xml:id="n035"><seg type="note-symbol"><hi rend="superscript">35</hi></seg><hi rend="bold">B'utik</hi>
                     quiere decir 'inundación, lluvia abundante (diluvio)' (Basseta, Ximénez).
                     Por extensión significa 'cantidad grande' como en <hi rend="bold">b'utik chikop</hi>,
@@ -1298,16 +1298,16 @@
                     <l n="7">nima b'utik xb'anik:</l>
                     <l n="8">xpe pa kiwi ri e poy,</l>
                     <l n="9"><space quantity="15" unit="chars" />e ajam che'.</l>
-                    <l n="10">Tz'ite' utyo'jil ri achij<ref target="n036"><hi rend="superscript">36</hi></ref> ta xajaxik<ref target="n037"><hi rend="superscript">37</hi></ref> rumal Tz'aqol,</l>
+                    <l n="10"><rs ana="TZ'ITE'">Tz'ite'</rs> utyo'jil ri achij<ref target="n036"><hi rend="superscript">36</hi></ref> ta xajaxik<ref target="n037"><hi rend="superscript">37</hi></ref> rumal <rs ana="TZ'AQOL">Tz'aqol</rs>,</l>
                     <note place="right" xml:id="n036"><seg type="note-symbol"><hi rend="superscript">36</hi></seg><hi rend="bold">Achij</hi> es la forma antigua
                     de <hi rend="bold">achi</hi>.</note>
                     <note place="right" xml:id="n037"><seg type="note-symbol"><hi rend="superscript">37</hi></seg>Viene de
                     <hi rend="bold">-ajaj</hi>, 'hacer trabajo en madera (carpintería), labrar
                     madera'. De ahí se deriva <hi rend="bold">ajanel</hi>, 'carpintero',
                     <hi rend="bold">ajam che'</hi>, 'madera/palo labrado'.</note>
-                    <l n="11"><space quantity="43" unit="chars" />B'itol;</l>
-                    <l n="12">ixoq, sib'ak k'ut utyo'jil ixoq xraj okik rumal Tz'aqol,</l>
-                    <l n="13"><space quantity="48" unit="chars" />B'itol.</l>
+                    <l n="11"><space quantity="43" unit="chars" /><rs ana="B'ITOL">B'itol</rs>;</l>
+                    <l n="12">ixoq, sib'ak k'ut utyo'jil ixoq xraj okik rumal <rs ana="TZ'AQOL">Tz'aqol</rs>,</l>
+                    <l n="13"><space quantity="48" unit="chars" /><rs ana="B'ITOL">B'itol</rs>.</l>
                     <l n="14">Mawi xena'wik,</l>
                     <l n="15">ma pu xech'awik chuwach kajtz'aq,</l>
                     <l n="16"><space quantity="24" unit="chars" />kajb'it;</l>
@@ -1315,19 +1315,19 @@
                     <l n="18"><space quantity="24" unit="chars" />winaqirisay kech.</l>
                     <l n="19">K'eje k'ut kikamisaxik,</l>
                     <l n="20"><space quantity="11" unit="chars" />xeb'utik:</l>
-                    <l n="21">xpe nima q'ol chila' chi kaj,</l>
-                    <l n="22">xpe k'otk'owach ub'i' xk'otin uloq ub'aq' kiwach;</l>
-                    <l n="23">xepe kamalotz' xqupin ula kijolom.</l>
-                    <l n="24">xpe kotzb'alam xti'o kityo'jil.</l>
-                    <l n="25">xpe tukumb'alam xtukuwik,</l>
+                    <l n="21">xpe <rs ana="Q'OL">nima q'ol</rs> chila' chi kaj,</l>
+                    <l n="22">xpe <rs ana="K'OTK'OWACH">k'otk'owach</rs> ub'i' xk'otin uloq ub'aq' kiwach;</l>
+                    <l n="23">xepe <rs ana="KAMALOTZ'">kamalotz'</rs> xqupin ula kijolom.</l>
+                    <l n="24">xpe <rs ana="KOTZB'ALAM">kotzb'alam</rs> xti'o kityo'jil.</l>
+                    <l n="25">xpe <rs ana="TUKUMB'ALAM">tukumb'alam</rs> xtukuwik,</l>
                     <l n="26"><space quantity="16" unit="chars" />xkichowik kib'aqil,</l>
                     <l n="27"><space quantity="26" unit="chars" />kib'ochil.</l>
                     <l n="28">Xqajixik,</l>
                     <l n="29">xmuchulixik kib'aqil;</l>
-                    <l n="30">k'ajisab'al kiwach rumal mawi kinawik chuwach kichuch,</l>
-                    <l n="31"><space quantity="38" unit="chars" />chuwach puch kikajaw;</l>
-                    <l n="32"><space quantity="38" unit="chars" />Ri Uk'ux Kaj,</l>
-                    <l n="33"><space quantity="38" unit="chars" />Juraqan ub'i'.</l>
+                    <l n="30">k'ajisab'al kiwach rumal mawi kinawik chuwach <rs ana="ALOM">kichuch</rs>,</l>
+                    <l n="31"><space quantity="38" unit="chars" />chuwach puch <rs ana="K'AJOLOM">kikajaw</rs>;</l>
+                    <l n="32"><space quantity="38" unit="chars" />Ri <rs ana="UK'U'X_KAJ">Uk'ux Kaj</rs>,</l>
+                    <l n="33"><space quantity="38" unit="chars" /><rs ana="JUN_RAQAN">Juraqan</rs> ub'i'.</l>
                     <l n="34">Kumal xq'equ'marik uwach ulew:</l>
                     <l n="35">xtikarik q'eqal jab',</l>
                     <l n="36">q'ijil jab',</l>
@@ -1342,14 +1342,14 @@
                     <l n="44"><space quantity="17" unit="chars" />kilaq,</l>
                     <l n="45"><space quantity="17" unit="chars" />kib'o'j,</l>
                     <l n="46"><space quantity="17" unit="chars" />kitz'i',</l>
-                    <l n="47"><space quantity="17" unit="chars" />kika';</l>
+                    <l n="47"><space quantity="17" unit="chars" /><rs ana="KA'">kika'</rs>;</l>
                     <l n="48">jaruj pa' la ronojel xkutu kiwach.</l>
                     <l n="49">-k'ax xib'an chi qe:</l>
                     <l n="50">xojitiyo,</l>
                     <l n="51">ix chi k'ut</l>
                     <l n="52">xkixqati' chik! Xcha' ri kitz'i'</l>
                     <l n="53"><space quantity="25" unit="chars" />kak' chi kech.</l>
-                    <l n="54">Are k'u ri ka':</l>
+                    <l n="54">Are k'u ri <rs ana="KA'">ka'</rs>:</l>
                     <l n="55">- xojk'ok'onik<ref target="n038"><hi rend="superscript">38</hi></ref> iwumal juta q'ij,</l>
                     <note place="left" xml:id="n038"><seg type="note-symbol"><hi rend="superscript">38</hi></seg>Viene de
                     <hi rend="bold">k'ok'</hi>, 'molienda fina' o 'material bien molido'
@@ -1454,10 +1454,10 @@
                     <l n="109">xk'utuxik kichi',</l>
                     <l n="110"><space quantity="10" unit="chars" />kiwach konojel.</l>
                     <lb n="111" />
-                    <l n="112">Xcha' k'ut are retal ri k'oy k'o pa k'echelaj wakamik.</l>
-                    <l n="113">Are xk'oje wi retal rumal xa che' kityo'jil xkojik rumal Ajtz'aq,</l>
-                    <l n="114"><space quantity="57" unit="chars" />Ajb'it.</l>
-                    <l n="115">Are k'u ri k'oy keje ri winaq chiwachinik,</l>
+                    <l n="112">Xcha' k'ut are retal ri <rs ana="K'OY">k'oy</rs> k'o pa k'echelaj wakamik.</l>
+                    <l n="113">Are xk'oje wi retal rumal xa che' kityo'jil xkojik rumal <rs ana="TZ'AQOL">Ajtz'aq</rs>,</l>
+                    <l n="114"><space quantity="57" unit="chars" /><rs ana="B'ITOL">Ajb'it</rs>.</l>
+                    <l n="115">Are k'u ri <rs ana="K'OY">k'oy</rs> keje ri winaq chiwachinik,</l>
                     <l n="116">retal ju le'<ref target="n052"><hi rend="superscript">52</hi></ref> winaq tz'aq,</l>
                     <note place="right" xml:id="n052"><seg type="note-symbol"><hi rend="superscript">52</hi></seg><hi rend="bold">Le'</hi> quiere
                     decir orden o grado de parentesco (Basseta).</note>
