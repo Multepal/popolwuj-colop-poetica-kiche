@@ -691,9 +691,9 @@
                     <l n="11">maja' b'i oq</l>
                     <l n="12"><space quantity="6" unit="chars" />jun winaq,</l>
                     <l n="13"><space quantity="6" unit="chars" />jun chikop,</l>
-                    <l n="14"><space quantity="6" unit="chars" />tz'ikin,</l>
-                    <l n="15"><space quantity="6" unit="chars" />kar,</l>
-                    <l n="16"><space quantity="6" unit="chars" />tap,</l>
+                    <l n="14"><space quantity="6" unit="chars" /><rs ana="TZ'IKIN">tz'ikin</rs>,</l>
+                    <l n="15"><space quantity="6" unit="chars" /><rs ana="KAR">kar</rs>,</l>
+                    <l n="16"><space quantity="6" unit="chars" /><rs ana="TAP">tap</rs>,</l>
                     <l n="17"><space quantity="6" unit="chars" />che',</l>
                     <l n="18"><space quantity="6" unit="chars" />ab'aj,</l>
                     <l n="19"><space quantity="6" unit="chars" />jul,</l>
@@ -704,7 +704,7 @@
                     <l n="24">Mawi<ref target="n002"><hi rend="superscript">2</hi></ref> q'alaj uwach ulew,</l>
                     <note place="right" xml:id="n002"><seg type="note-symbol"><hi rend="superscript">2</hi></seg>Quiere decir no
                     Es equivalente a <hi rend="bold">maja'</hi></note>
-                    <l n="25">xa utukel remanik palo</l>
+                    <l n="25">xa utukel remanik <rs ana="PALO">palo</rs></l>
                     <l n="26"><space quantity="12" unit="chars" />upa kaj, ronojel.</l>
                     <l n="27">Maja' b'i naki la' kamolob'ik,</l>
                     <l n="28"><space quantity="19" unit="chars" />k'akotzob'ik,</l>
@@ -721,16 +721,16 @@
                     <l n="38"><space quantity="3" unit="chars" />katz'ininik chi q'equ'm,</l>
                     <l n="39"><space quantity="15" unit="chars" />chi aq'ab'.</l>
                     <lb n="40" />
-                    <l n="41">Xa utukel ri Tz'aqol,</l>
-                    <l n="42"><space quantity="13" unit="chars" />B'itol,</l>
-                    <l n="43"><space quantity="13" unit="chars" />Tepew,</l>
-                    <l n="44"><space quantity="13" unit="chars" />Q'ukumatz,</l>
-                    <l n="45"><space quantity="13" unit="chars" />e Alom,</l>
-                    <l n="46"><space quantity="13" unit="chars" />e K'ajolom k'o pa ja'</l>
+                    <l n="41">Xa utukel ri <rs ana="TZ'AQOL">Tz'aqol</rs>,</l>
+                    <l n="42"><space quantity="13" unit="chars" /><rs ana="B'ITOL">B'itol</rs>,</l>
+                    <l n="43"><space quantity="13" unit="chars" /><rs ana="TEPEW_Q'UKUMATZ">Tepew</rs>,</l>
+                    <l n="44"><space quantity="13" unit="chars" /><rs ana="TEPEW_Q'UKUMATZ">Q'ukumatz</rs>,</l>
+                    <l n="45"><space quantity="13" unit="chars" />e <rs ana="ALOM">Alom</rs>,</l>
+                    <l n="46"><space quantity="13" unit="chars" />e <rs ana="K'AJOLOM">K'ajolom</rs> k'o pa ja'</l>
                     <l n="47"><space quantity="13" unit="chars" />saqtetoj e k'o wi.</l>
                     <l n="48">E muqutal pa q'uq',</l>
                     <l n="49"><space quantity="10" unit="chars" />pa raxon;</l>
-                    <l n="50">are ub'inam wi ri Q'ukumatz.</l>
+                    <l n="50">are ub'inam wi ri <rs ana="Q'UKUMATZ">Q'ukumatz</rs>.</l>
                     <l n="51">E nimaq etamanel,</l>
                     <l n="52">e nimaq ajna'oj chi kik'oje'ik.<ref target="n003"><hi rend="superscript">3</hi></ref></l>
                     <note place="left" xml:id="n003"><seg type="note-symbol"><hi rend="superscript">3</hi></seg>Literalmente 'su estado' o su esencia
@@ -739,16 +739,16 @@
                     <note place="left" xml:id="n004"><seg type="note-symbol"><hi rend="superscript">4</hi></seg>El texto dice <hi rend="bold">quehe</hi>, que 
                     se transcribe <hi rend="bold">k'ehe</hi> y cuya variante dialectal es <hi rend="bold">k'aje'</hi>, 'así pues, como, de esta manera'.
                     Es la forma antigua del adverbio <hi rend="bold">je</hi> (Ximénez, Basseta).</note>
-                    <l n="54">k'o wi nay puch<ref target="n005"><hi rend="superscript">5</hi></ref> Uk'ux Kaj,</l>
+                    <l n="54">k'o wi nay puch<ref target="n005"><hi rend="superscript">5</hi></ref> <rs ana="UK'U'X_KAJ">Uk'ux Kaj</rs>,</l>
                     <note place="left" xml:id="n005"><seg type="note-symbol"><hi rend="superscript">5</hi></seg>'Y también.' <hi rend="bold">Nay</hi>,
                     'también'; <hi rend="bold">puch</hi>, 'y'.</note>
                     <l n="55">are' ub'i' ri kab'awil. Chuchaxik.</l>
                     <l n="56">Ta xpe k'ut utzij waral,</l>
-                    <l n="57">xul kuk' ri Tepew,</l>
-                    <l n="58"><space quantity="12" unit="chars" />Q'ukumatz waral chi q'equmal</l>
+                    <l n="57">xul kuk' ri <rs ana="TEPEW_Q'UKUMATZ">Tepew</rs>,</l>
+                    <l n="58"><space quantity="12" unit="chars" /><rs ana="TEPEW_Q'UKUMATZ">Q'ukumatz</rs> waral chi q'equmal</l>
                     <l n="59"><space quantity="28" unit="chars" />chi aq'ab'al;</l>
-                    <l n="60">xch'aw ruk' ri Tepew,</l>
-                    <l n="61"><space quantity="15" unit="chars" />Q'ukumatz.</l>
+                    <l n="60">xch'aw ruk' ri <rs ana="TEPEW_Q'UKUMATZ">Tepew</rs>,</l>
+                    <l n="61"><space quantity="15" unit="chars" /><rs ana="TEPEW_Q'UKUMATZ">Q'ukumatz</rs>.</l>
                     <l n="62">Xecha' k'ut:</l>
                     <l n="63">ta xena'ojinik,</l>
                     <l n="64">ta xeb'isonik,</l>
@@ -765,14 +765,14 @@
                     <l n="74"><space quantity="14" unit="chars" />utz'uquxik puch k'aslem</l>
                     <l n="75"><space quantity="30" unit="chars" />winaqirem</l>
                     <l n="76">chi q'equmal,</l>
-                    <l n="77">chi aq'ab'al; rumal ri Uk'ux Kaj, Jun Raqan ub'i;</l>
-                    <l n="78"><space quantity="23" unit="chars" />Kaqulja Jun Raqan, nab'e;</l>
-                    <l n="79"><space quantity="23" unit="chars" />ukab' k'ut, Ch'ipi Kaqulja;</l>
-                    <l n="80"><space quantity="23" unit="chars" />rox chik, Raxa Kaqulja;</l>
-                    <l n="81"><space quantity="2" unit="chars" />chi e k'u oxib' ri', Uk'ux Kaj.</l>
+                    <l n="77">chi aq'ab'al; rumal ri <rs ana="UK'U'X_KAJ">Uk'ux Kaj</rs>, <rs ana="JUN_RAQAN">Jun Raqan</rs> ub'i;</l>
+                    <l n="78"><space quantity="23" unit="chars" /><rs ana="KAQUILJA_JUN_RAQAN">Kaqulja Jun Raqan</rs>, nab'e;</l>
+                    <l n="79"><space quantity="23" unit="chars" />ukab' k'ut, <rs ana="CH'IPI_KAQULJA">Ch'ipi Kaqulja</rs>;</l>
+                    <l n="80"><space quantity="23" unit="chars" />rox chik, <rs ana="RAXA_KAQULJA">Raxa Kaqulja</rs>;</l>
+                    <l n="81"><space quantity="2" unit="chars" />chi e k'u oxib' ri', <rs ana="UK'U'X_KAJ">Uk'ux Kaj</rs>.</l>
                     <lb n="82" />
-                    <l n="83">Ta xe'ul kuk' ri Tepew,</l>
-                    <l n="84"><space quantity="17" unit="chars" />Q'ukumatz,</l>
+                    <l n="83">Ta xe'ul kuk' ri <rs ana="TEPEW_Q'UKUMTAZ">Tepew</rs>,</l>
+                    <l n="84"><space quantity="17" unit="chars" /><rs ana="TEPEW_Q'UKUMATZ">Q'ukumatz</rs>,</l>
                     <l n="85">ta xna'ojixik saq k'aslem:</l>
                     <l n="86">-Jupa cha ta chawaxoq,</l>
                     <l n="87"><space quantity="10" unit="chars" />ta saqiroq puch?<ref target="n006"><hi rend="superscript">6</hi></ref></l>
@@ -782,7 +782,7 @@
                     además, unas líneas más abajo donde vuelve a repetirse la misma
                     fórmula verbal: <hi rend="bold">ta chawaxoq, ta saqiroq</hi>...</note>
                     <l n="88">Apachinaq tzuqul,</l>
-                    <l n="89"><space quantity="10" unit="chars" />k'ool?</l>
+                    <l n="89"><space quantity="10" unit="chars" /><rs ana="K'OOL">k'ool</rs>?</l>
                     <l n="90">Ta chuxoq!</l>
                     <l n="91">Kixnojin taj:</l>
                     <l n="92">Are ri ja' chel taj!,</l>
