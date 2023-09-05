@@ -2011,24 +2011,24 @@
                 </lg>
                 <lg type="tasik" xml:id="lg2.04">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHIK UCH'AKATAJIK,</seg></l>
-                    <l n="2"><seg rend="caps" type="tasik-header"><space quantity="9" unit="chars" />UKAMIK SIPAKNA;</seg></l>
-                    <l n="3">Ta xch'ak chik kumal ri e ka'ib' k'ajolab'</l>
-                    <l n="4">Junajpu,</l>
-                    <l n="5">Xb'alanke.</l>
-                    <l n="6">Are chi kuyoq' kik'ux k'ajolab',</l>
-                    <l n="7">ri omuch' chi k'ajolab' xekamik rumal Sipakna.</l>
-                    <l n="8">Xa kar,</l>
-                    <l n="9">xa tap chutzukuj chi tak a'<ref target="n098"><hi rend="superscript">98</hi></ref>,</l>
+                    <l n="2"><seg rend="caps" type="tasik-header"><space quantity="9" unit="chars" />UKAMIK <rs ana="SIPAKNA">SIPAKNA</rs>;</seg></l>
+                    <l n="3">Ta xch'ak chik kumal ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs></l>
+                    <l n="4"><rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="5"><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
+                    <l n="6">Are chi kuyoq' kik'ux <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>,</l>
+                    <l n="7">ri <rs ana="MOTZ">omuch'</rs> chi k'ajolab' xekamik rumal <rs ana="SIPAKNA">Sipakna</rs>.</l>
+                    <l n="8">Xa <rs ana="KAR">kar</rs>,</l>
+                    <l n="9">xa <rs ana="TAP">tap</rs> chutzukuj chi tak a'<ref target="n098"><hi rend="superscript">98</hi></ref>,</l>
                     <note place="right" xml:id="n098"><seg type="note-symbol"><hi rend="superscript">98</hi></seg>Aquí y en otras partes el texto dice <hi rend="bold">a</hi> o 
                     <hi rend="bold">ya'</hi> por <hi rend="bold">ja'</hi>, 'agua, río'.</note>
                     <l n="10">xere chi recha'j juta q'ij.</l>
                     <l n="11">Pa q'ij chiwa'katik ta chutzukuj recha',</l>
                     <l n="12">chaq'ab' k'ut chireqaj juyub'.</l>
                     <lb n="13" />
-                    <l n="14">K'ate k'ut ujalwachixik jun nima tap kumal Junajpu,</l>
-                    <l n="15"><space quantity="43" unit="chars" />Xb'alanke:</l>
-                    <l n="16">are k'ut xkikoj ri uwach ek',</l>
-                    <l n="17">ri mak<ref target="n099"><hi rend="superscript">99</hi></ref> ek' k'o pa taq k'echelaj,</l>
+                    <l n="14">K'ate k'ut ujalwachixik jun nima tap kumal <rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="15"><space quantity="43" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>:</l>
+                    <l n="16">are k'ut xkikoj ri uwach <rs ana="MAK_EK'">ek'</rs>,</l>
+                    <l n="17">ri <rs ana="MAK_EK'">mak</rs><ref target="n099"><hi rend="superscript">99</hi></ref> <rs ana="MAK_EK'">ek'</rs> k'o pa taq k'echelaj,</l>
                     <note place="right" xml:id="n099"><seg type="note-symbol"><hi rend="superscript">99</hi></seg><hi rend="bold">Mak</hi> viene de <hi rend="bold">makow</hi>, 
                     acto de recoger flores, frutas con los dedos'.</note>
                     <l n="18">are uxul tap xuxik,</l>
@@ -2039,50 +2039,50 @@
                     en forma de bateo que sirvió para imitar el caparazón trasero del cangrero.</note>
                     <l n="21">K'ate k'ut ta xkikoj ukoq chuxe' pek,</l>
                     <l n="22"><space quantity="26" unit="chars" />chuxe' nima juyub',</l>
-                    <l n="23"><space quantity="26" unit="chars" />Me'awan, ub'i' juyub' xch'akataj wi.</l>
-                    <l n="24">K'ate k'ut ta xpe ri k'ajolab',</l>
-                    <l n="25">xkik'ulaj<ref target="n101"><hi rend="superscript">101</hi></ref> ri Sipakna chi ja':</l>
+                    <l n="23"><space quantity="26" unit="chars" /><rs ana="ME'AWAN">Me'awan</rs>, ub'i' juyub' xch'akataj wi.</l>
+                    <l n="24">K'ate k'ut ta xpe ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>,</l>
+                    <l n="25">xkik'ulaj<ref target="n101"><hi rend="superscript">101</hi></ref> ri <rs ana="SIPAKNA">Sipakna</rs> chi ja':</l>
                     <note place="right" xml:id="n101"><seg type="note-symbol"><hi rend="superscript">101</hi></seg>El texto dice <hi rend="bold">xqui cu</hi> por lo que
                     debió ser <hi rend="bold">xqui culah</hi>.</note>
-                    <l n="26">-Apa kat b'e wi, at k'ajol? Xuchax k'u ri Sipakna.</l>
-                    <l n="27">-Maja b'i kinb'e wi, xa wecha' kanutzukuj, ix k'ajolab'.- Xcha'</l>
-                    <l n="28">k'u ri Sipakna.</l>
+                    <l n="26">-Apa kat b'e wi, <rs ana="SIPAKNA">at k'ajol</rs>? Xuchax k'u ri <rs ana="SIPAKNA">Sipakna</rs>.</l>
+                    <l n="27">-Maja b'i kinb'e wi, xa wecha' kanutzukuj, ix <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>.- Xcha'</l>
+                    <l n="28">k'u ri <rs ana="SIPAKNA">Sipakna</rs>.</l>
                     <l n="29">-Naki pa awecha'?</l>
                     <pb xml:id="colop1999-050" />
-                    <l n="30">-Xa kar,</l>
-                    <l n="31"><space quantity="3" unit="chars" />xa top; xma<ref target="n102"><hi rend="superscript">102</hi></ref> k'o chi wi kanuriqo.</l>
+                    <l n="30">-Xa <rs ana="KAR">kar</rs>,</l>
+                    <l n="31"><space quantity="3" unit="chars" />xa <rs ana="TAP">tap</rs>; xma<ref target="n102"><hi rend="superscript">102</hi></ref> k'o chi wi kanuriqo.</l>
                     <note place="left" xml:id="n102"><seg type="note-symbol"><hi rend="superscript">102</hi></seg><hi rend="bold">Xma</hi> es igual que
                     <hi rend="bold">ma</hi> y es probable que sea una variante dialectal o una forma 
                     antigua del negativo.</note>
                     <l n="32">kab'ijir chinkanaj rechaxik,</l>
-                    <l n="33">mawi kanuch'ij chik wa'ij.- Xcha' Sipakna chi kech Junajpu,</l>
-                    <l n="34"><space quantity="51" unit="chars" />Xb'alanke.</l>
-                    <l n="35">-Jun are la top k'o ula xe' siwan,</l>
+                    <l n="33">mawi kanuch'ij chik wa'ij.- Xcha' <rs ana="SIPAKNA">Sipakna</rs> chi kech <rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="34"><space quantity="51" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
+                    <l n="35">-Jun are la <rs ana="TAP">tap</rs> k'o ula xe' siwan,</l>
                     <l n="36">qitzij chi nima top!</l>
                     <l n="37">kaq'ij ta la,</l>
                     <l n="38">chawecha'j lo!</l>
                     <l n="39">xa kojuti'o,</l>
                     <l n="40">mi xraj qachapo,</l>
                     <l n="41">kaqaxib'ij qib' rumal.</l>
-                    <l n="42">Ma chib'e on kachapa.- Xecha' ri Junajpu,</l>
-                    <l n="43"><space quantity="33" unit="chars" />Xb'alanke.</l>
+                    <l n="42">Ma chib'e on kachapa.- Xecha' ri <rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="43"><space quantity="33" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                     <l n="44">-kitoq'ob'a nuwach,</l>
-                    <l n="45">kib'e ta iwab'a, ix k'ajolab'? Xcha' ri Sipakna.</l>
+                    <l n="45">kib'e ta iwab'a, <rs ana="KA'IB'_K'AJOLAB'">ix k'ajolab'</rs>? Xcha' ri <rs ana="SIPAKNA">Sipakna</rs>.</l>
                     <l n="46">-Ma b'a chiqaj, xa ta katb'ek,</l>
                     <l n="47">ma sachib'al taj, xa raqan ja' katb'ek.</l>
                     <l n="48">At k'u taqal apanoq xe nima juyub',</l>
-                    <l n="49">jowol ula chuxe' siwan xa katel apanoq! Xecha' Junajpu,</l>
-                    <l n="50"><space quantity="47" unit="chars" />Xb'alanke.</l>
+                    <l n="49">jowol ula chuxe' siwan xa katel apanoq! Xecha' <rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="50"><space quantity="47" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                     <l n="51">-Laq'ij b'a<ref target="n103"><hi rend="superscript">103</hi></ref> toqob' nuwach!</l>
                     <note place="left" xml:id="n103"><seg type="note-symbol"><hi rend="superscript">103</hi></seg>El texto dice <hi rend="bold">laquiba</hi>.</note>
-                    <l n="52">mab'a xuk'ulu, ix k'ajolab'.</l>
+                    <l n="52">mab'a xuk'ulu, <rs ana="KA'IB'_K'AJOLAB'">ix k'ajolab'</rs>.</l>
                     <l n="53">Kixb'e na k'u nuwab'a,</l>
                     <l n="54">k'o k'i</l>
-                    <l n="55"><space quantity="4" unit="chars" />xo<ref target="n104"><hi rend="superscript">104</hi></ref> wi ri tz'ikin!</l>
+                    <l n="55"><space quantity="4" unit="chars" />xo<ref target="n104"><hi rend="superscript">104</hi></ref> wi ri <rs ana="TZ'IKIN">tz'ikin</rs>!</l>
                     <note place="left" xml:id="n104"><seg type="note-symbol"><hi rend="superscript">104</hi></seg><hi rend="bold">Xo</hi> es sinónimo de <hi rend="bold">k'i</hi>,
                     'mucho, bastante' (Basseta).</note>
-                    <l n="56">chib'e taj iwub'aj weta'm k'o wi! Xcha' chi k'ut Sipakna.</l>
-                    <l n="57">Xelajik,<ref target="n105"><hi rend="superscript">105</hi></ref> xok na chi kiwach k'ajolab'.</l>
+                    <l n="56">chib'e taj <rs ana="WUB">iwub'aj</rs> weta'm k'o wi! Xcha' chi k'ut <rs ana="SIPAKNA">Sipakna</rs>.</l>
+                    <l n="57">Xelajik,<ref target="n105"><hi rend="superscript">105</hi></ref> xok na chi kiwach <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>.</l>
                     <note place="left" xml:id="n105"><seg type="note-symbol"><hi rend="superscript">105</hi></seg>Quiere decir humillarse, prometer enmienda (Basseta). Esto
                     quiere decir que <hi rend="bold">Sipakna</hi> tuvo que 'rogar' a los gemelos, ofreciendoles enseñar un 
                     lugar con abundancia de pájaros si ellos le enseñaban a él, dónde estaba el cangrejo.</note>
@@ -2091,18 +2091,18 @@
                     <l n="60">oj jupulik kojok ub'ik k'ate k'ut kuxib'ij rib' ri',</l>
                     <l n="61">oj pak'alik kojok ub'ik xa k'u sqaqi'n chik mawi chiqariqo.</l>
                     <l n="62">K'ate k'u utz at pak'alik katok ub'ik.- Xuchax k'ut.</l>
-                    <l n="63">- Utz b'a la'.- Xcha' k'u ri Sipakna.</l>
-                    <l n="64">Ta xb'e k'ut achb'ilan chi k'ut ri Sipakna,</l>
+                    <l n="63">- Utz b'a la'.- Xcha' k'u ri <rs ana="SIPAKNA">Sipakna</rs>.</l>
+                    <l n="64">Ta xb'e k'ut achb'ilan chi k'ut ri <rs ana="SIPAKNA">Sipakna</rs>,</l>
                     <l n="65">xb'ek,</l>
                     <l n="66">xe'opon chuxe' siwan.</l>
                     <lb n="67" />
                     <pb xml:id="colop1999-051" />
-                    <l n="68">Tzalam k'u la ri top,</l>
+                    <l n="68">Tzalam k'u la ri <rs ana="TAP">top</rs>,</l>
                     <l n="69">kaq wak'awoj<ref target="n106"><hi rend="superscript">106</hi></ref> ula rij xe' siwan</l>
                     <note place="right" xml:id="n106"><seg type="note-symbol"><hi rend="superscript">106</hi></seg>La manera de pararse y 
                     de caminar del cangrego.</note>
                     <l n="70">ri k'ute kikumatzej.</l>
-                    <l n="71">-Utz b'a la! Chikikot k'u ri Sipakna.</l>
+                    <l n="71">-Utz b'a la! Chikikot k'u ri <rs ana="SIPAKNA">Sipakna</rs>.</l>
                     <l n="72">Karaj taj xkok ta pu chi' rumal qitzij kutzin chi wa'ij;</l>
                     <l n="73">xraj kutij ri'.</l>
                     <lb n="74" /> 
@@ -2122,15 +2122,15 @@
                     <l n="88">Xk'is biq'itajik ,</l>
                     <l n="89">xlilob' k'u qajoq nima juyub' chi uk'ux.</l>
                     <l n="90">Mawi xsolkopij chik,</l>
-                    <l n="91">ab'aj k'ut xuxik ri Sipakna.</l>
-                    <l n="92">K'ejeuch'akatajik chik Sipakna kumal k'ajolab' Junajpu,</l>
-                    <l n="93"><space quantity="47" unit="chars" />Xb'alanke</l>
+                    <l n="91">ab'aj k'ut xuxik ri <rs ana="SIPAKNA">Sipakna</rs>.</l>
+                    <l n="92">K'ejeuch'akatajik chik <rs ana="SIPAKNA">Sipakna</rs> kumal <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs> <rs ana="JUNAJPU">Junajpu</rs>,</l>
+                    <l n="93"><space quantity="47" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs></l>
                     <l n="94">Ri b'anol juyub' xcha' utzijoxik, ojer,</l>
-                    <l n="95">unab'e k'ajol Wuqub' Kak'ix.</l>
+                    <l n="95"><rs ana="SIPAKNA">unab'e k'ajol</rs> <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs>.</l>
                     <l n="96">Chuxe' juyub',</l>
-                    <l n="97">Me'awan ub'i,</l>
+                    <l n="97"><rs ana="ME'AWAN">Me'awan</rs> ub'i,</l>
                     <l n="98">xch'akataj wi.</l>
-                    <l n="99">Xanawal xch'akataj wi ukab' nimarisay rib'.</l>
+                    <l n="99">Xanawal xch'akataj wi <rs ana="KAB'RAQAN">ukab' nimarisay rib'</rs>.</l>
                     <lb n="100" />
                 </lg>
                 <lg type="tasik" xml:id="lg2.05">
