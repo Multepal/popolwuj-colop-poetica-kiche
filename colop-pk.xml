@@ -1672,8 +1672,8 @@
                     <l n="86">ta xb'e chi rochoch.</l>
                     <l n="87">Xa chi k'u ulotem<ref target="n073"><hi rend="superscript">73</hi></ref> ukakate' xoponik.</l>
                     <note place="left" xml:id="n073"><seg type="note-symbol"><hi rend="superscript">73</hi></seg>Viene de <hi rend="bold">lotej</hi>, 'llevar en
-                    brazos, en las manos' algo con cuidado (Ximénez, Basseta).</note>
-                    <l n="88">-Naki pa mixk'amow chi la? Xcha' k'u ri <rs ana="CHIMALMAT">Chimalmat</rs>, rixoqil <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs>.</l>
+                    brazos, en las manos' algo con cuidado (<rs ana="XIMENEZ">Ximénez</rs>, Basseta).</note>
+                    <l n="88">-Naki pa mixk'amow chi la? Xcha' k'u ri <rs ana="CHIMALMAT">Chimalmat</rs>, <rs ana="CHIMALMAT">rixoqil</rs> <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs>.</l>
                     <l n="89">-Naki pa ri'?</l>
                     <l n="90">Ri e ka'ib' k'axtok' mixikiwub'aj!</l>
                     <l n="91">Mixsilib'ataj nukakate' rumal xa kachuywaj<ref target="n074"><hi rend="superscript">74</hi></ref> e we,</l>
@@ -1799,7 +1799,7 @@
                     <l n="184">Ta xkam k'ut ri <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs>.</l>
                     <l n="185">ta xuk'am k'ut uq'ab' ri <rs ana="JUNAJPU">Junajpu</rs>.</l>
                     <l n="186">Xkam nay puch <rs ana="CHIMALMAT">Chimalmat</rs>,</l>
-                    <l n="187"><space quantity="14" unit="chars" />rixoqil <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs>.</l>
+                    <l n="187"><space quantity="14" unit="chars" /><rs ana="CHIMALMAT">rixoqil</rs> <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs>.</l>
                     <lb n="188" />
                     <l n="189">K'eje k'ut usachik uq'inomal <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs> ri',</l>
                     <l n="190">xa ajkun xk'amowik ri k'uwal,</l>
