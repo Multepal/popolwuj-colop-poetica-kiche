@@ -1587,8 +1587,8 @@
                     <l n="29">Are k'u ri <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs> e ka'ib' uk'ajol:</l>
                     <l n="30">are nab'e al ri <rs ana="SIPAKNA">Sipakna</rs>,</l>
                     <l n="31">ukab' al chi k'ut ri <rs ana="KAB'RAQAN">Kab'raqan</rs>;</l>
-                    <l n="32"><rs ana="CHIMALMAT">Chimalmat</rs> k'ut ub'i' kichuch,</l>
-                    <l n="33"><space quantity="21" unit="chars" />rixoqil ri <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs>.</l>
+                    <l n="32"><rs ana="CHIMALMAT">Chimalmat</rs> k'ut ub'i' <rs ana="CHIMALMAT">kichuch</rs>,</l>
+                    <l n="33"><space quantity="21" unit="chars" /><rs ana="CHIMALMAT">rixoqil</rs> ri <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs>.</l>
                     <lb n="34" />
                     <l n="35">Are k'u ri <rs ana="SIPAKNA">Sipakna</rs> are chi re <rs ana="CHAAJ">chaaj</rs><ref target="n065"><hi rend="superscript">65</hi></ref> ri nimaq juyub':</l>
                     <note place="right" xml:id="n065"><seg type="note-symbol"><hi rend="superscript">65</hi></seg>Juego, diversión;
