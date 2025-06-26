@@ -2382,7 +2382,7 @@
                     <l n="59"><space quantity="29" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs>.</l>
                     <lb n="60" /> 
                     <l n="61">Are k'ut ub'e'el <rs ana="XIB'ALB'A">Xib'alb'a</rs> xe<rs ana="CHAAJ">chaaj</rs> wi.</l>
-                    <l n="62">Ta xkita' k'ut <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="62">Ta xkita' k'ut <rs ana="JUN_KAME">Jun Kame</rs>,</l>
                     <l n="63"><space quantity="15" unit="chars" /><rs ana="WUQUB'_KAME">Wuqub' Kame</rs>, <rs ana="RAJAWAL_XIB'ALB'A">rajawal Xib'alb'a</rs>:</l>
                     <l n="64">- Naki pa ri kab'an chuwach ulew?</l>
                     <l n="65">Xa kenik'notik<ref target="n125"><hi rend="superscript">125</hi></ref>,</l>
@@ -2404,10 +2404,10 @@
                     <hi rend="bold">conohel</hi>.</note>
                     <lb n="74" />
                     <l n="75">Ta xkik'am kina'oj konojel.</l>
-                    <l n="76">Ri kib'i' <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="76">Ri kib'i' <rs ana="JUN_KAME">Jun Kame</rs>,</l>
                     <l n="77"><space quantity="10" unit="chars" /><rs ana="WUQUB'_KAME">Wuqub' Kame</rs>, e nima'q q'atol tzij.</l>
                     <l n="78">Are k'u ri <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs> ronojel ya'ol upatan,</l>
-                    <l n="79">rajawarem puch jujun chi ajawab' rumal <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="79">rajawarem puch jujun chi ajawab' rumal <rs ana="JUN_KAME">Jun Kame</rs>,</l>
                     <l n="80"><space quantity="39" unit="chars" /><rs ana="WUQUB'_KAME">Wuqub' Kame</rs>:</l>
                     <l n="81">Are k'u ri <rs ana="XIKIRIPAT">Xik'iri Pat</rs>,</l>
                     <l n="82"><space quantity="11" unit="chars" /><rs ana="KUCHUMA_KIK'">Kuchuma Kik'</rs> ub'i' ajaw.</l>
@@ -2504,7 +2504,7 @@
                     <l n="7"><space quantity="34" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs> kumal <rs ana="JUNAJPU">Junajpu</rs>,</l>
                     <l n="8"><space quantity="51" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                 <!--editor's note: corresponds to XOM paragraph 18, folio 13r -->
-                    <l n="9">K'ate k'ut kipetik <rs ana="USAMAJEL_XIB'ALB'A">samajel</rs> rumal <rs ana="JUN_KAME'">Jun Kame</rs>,</l>
+                    <l n="9">K'ate k'ut kipetik <rs ana="USAMAJEL_XIB'ALB'A">samajel</rs> rumal <rs ana="JUN_KAME">Jun Kame</rs>,</l>
                     <l n="10"><space quantity="33" unit="chars" /><rs ana="WUQUB'_KAME">Wuqub' Kame</rs>:</l>
                     <pb xml:id="colop1999-061" />
 
