@@ -587,7 +587,7 @@
         <body>
             <div type="part">
                 <head>NAB'E</head>
-                <lg type="tasik" xml:id="lg1.01">
+                <lg type="tasik" xml:id="ckp-lg1.01">
                     <pb xml:id="colop1999-021" />
                     <l n="1"><seg rend="caps" type="tasik-header">ARE' UXE' OJER TZIJ WARAL K'ICHE' UB'I'</seg></l>
                     <l n="2">Waral xchiqatz'ib'aj wi,</l>
@@ -676,7 +676,7 @@
                     <l n="77">Ajna'oj chi rech ronojel a ta k'ol wi kaj-ulew,</l>
                     <l n="78"><space quantity="38" unit="chars" />cho-<rs ana="PALO">palo</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg1.02">
+                <lg type="tasik" xml:id="ckp-lg1.02">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE UTZIJOXIK WA'E</seg></l>
                     <l n="2">k'akatz'ininoq,</l>
                     <l n="3">k'akachamamoq,</l>
@@ -805,7 +805,7 @@
                     <l n="103">Ta winaqiroq: winaq tz'aq,</l>
                     <l n="104"><space quantity="14" unit="chars" />winaq b'it! Xecha' k'ut.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg1.03">
+                <lg type="tasik" xml:id="ckp-lg1.03">
                     <pb xml:id="colop1999-026" />
                     <l n="1"><seg rend="caps" type="tasik-header">TA XWINAQIR K'U RI ULEW KUMAL</seg></l>                    
                     <l n="2">Xa kitzij xk'oje wi uwinaqirik.</l>
@@ -1005,7 +1005,7 @@
                     <l n="168">Xkipatanij: xetiyik,</l>
                     <l n="169"><space quantity="12" unit="chars" />xekamisaxik ri chikop k'o waral chuwach ulew.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg1.04">
+                <lg type="tasik" xml:id="ckp-lg1.04">
                     <l n="1"><seg rend="caps" type="tasik-header">K'EJE K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ,</seg></l>
                     <l n="2"><space quantity="29" unit="chars" /><seg rend="caps" type="tasik-header">WINAQ B'IT KUMAL</seg> <rs ana="TZ'AQOL">Tz'aqol</rs></l>
                     <l n="3"><space quantity="46" unit="chars" /><rs ana="B'ITOL">B'itol</rs>;</l>
@@ -1086,7 +1086,7 @@
                     <l n="62">Ta xkib'ij k'ut chi re <rs ana="XPIYAKOK">Xpiyakok</rs>,</l>
                     <l n="63"><space quantity="23" unit="chars" /><rs ana="IXMUKANE">Xmukane</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg1.05">
+                <lg type="tasik" xml:id="ckp-lg1.05">
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL,<ref target="n020"><hi rend="superscript">20</hi></ref></seg></l>
                     <note place="right" xml:id="n020"><seg type="note-symbol"><hi rend="superscript">20</hi></seg><hi rend="bold">Nik'wachinel</hi>,
                     que 've lo distante' o que tiene capacidad para adivinar lo distante. Este facultad
@@ -1275,7 +1275,7 @@
                     <l n="131"><space quantity="39" unit="chars" />K'uxla'y Qech.</l>
                     <l n="132">E nab'e tzatz chi winaq xe'uxik waral chuwach ulew.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg1.06">
+                <lg type="tasik" xml:id="ckp-lg1.06">
                     <pb xml:id="colop1999-035" />
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE K'UT KIK'ISIK CHIK,</seg></l>
                     <l n="2">kima'ixik<ref target="n033"><hi rend="superscript">33</hi></ref>,</l>
@@ -1470,7 +1470,7 @@
             <div type="part">
                 <pb xml:id="colop1999-039" />
                 <head>UKAB'</head>
-                <lg type="tasik" xml:id="lg2.01">
+                <lg type="tasik" xml:id="ckp-lg2.01">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE K'UT XA JUB'IQ' SAQNATANOJ<ref target="n053"><hi rend="superscript">53</hi></ref> UWACH ULEW,</seg></l>
                     <note place="right" xml:id="n053"><seg type="note-symbol"><hi rend="superscript">53</hi></seg>No muy claro, lugar obscuro'
                     de acuerdo con Ximénez; y '[a] la luz de la luna' de acuerdo con
@@ -1544,7 +1544,7 @@
                     <l n="47">Are ta xb'anik b'utik kumal poy</l>
                     <l n="48"><space quantity="28" unit="chars" />ajam che'.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg2.02">
+                <lg type="tasik" xml:id="ckp-lg2.02">
                     <l n="1"><seg rend="caps" type="tasik-header">K'EJE K'UT XCHIQAB'IJ CHIK TA XKAMIK <rs ana="WUQUB'_KAQIX">WUQUB' KAK'IX</rs>,</seg></l>
                     <l n="2">ta xchakatajik,</l>
                     <l n="3">ta xb'anatajik winaq rumal <rs ana="TZ'AQOL">Ajtz'aq</rs>,</l>
@@ -1823,7 +1823,7 @@
                     <l n="203">xa utzij ri <rs ana="UK'U'X_KAJ">Uk'ux Kaj</rs> ta xkib'ano.</l>
                     <l n="204">Wa'e chi k'ute ub'anoj chik <rs ana="SIPAKNA">sipakna</rs>,</l>
                 </lg>
-                <lg type="tasik" xml:id="lg2.03">
+                <lg type="tasik" xml:id="ckp-lg2.03">
                     <l n="1"><seg rend="caps" type="tasik-header">WA'E CHI K'UTE UB'ANOJ CHIK <rs ana="SIPAKNA">SIPAKNA</rs>,</seg></l>
                     <l n="2">unab'e k'ajol <rs ana="WUQUB'_KAQIX">Wuqub' Kak'ix</rs>.</l>
                     <l n="3">- In b'anol juyub'! Kacha' ri <rs ana="SIPAKNA">Sipakna</rs>.</l>
@@ -2008,7 +2008,7 @@
                     <l n="145"><rs ana="JUNAJPU">Junajpu</rs>,</l>
                     <l n="146"><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg2.04">
+                <lg type="tasik" xml:id="ckp-lg2.04">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHIK UCH'AKATAJIK,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="9" unit="chars" />UKAMIK <rs ana="SIPAKNA">SIPAKNA</rs>;</seg></l>
                     <l n="3">Ta xch'ak chik kumal ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs></l>
@@ -2132,7 +2132,7 @@
                     <l n="99">Xanawal xch'akataj wi <rs ana="KAB'RAQAN">ukab' nimarisay rib'</rs>.</l>
                     <lb n="100" />
                 </lg>
-                <lg type="tasik" xml:id="lg2.05">
+                <lg type="tasik" xml:id="ckp-lg2.05">
                     <pb xml:id="colop1999-052" />
 
                     <l n="1"><seg rend="caps" type="tasik-header">JUN CHI K'UT XCHIQAB'IJ UB'IXIK</seg></l>
@@ -2310,7 +2310,7 @@
             </div>
             <div type="part">
                 <head>ROX</head>
-                <lg type="tasik" xml:id="lg3.01">
+                <lg type="tasik" xml:id="ckp-lg3.01">
                     <pb xml:id="colop1999-057" />
                     <!-- editor's note: corresponds to XOM paragraph 16, folio 12r -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHI K'UT XCHIQAB'IJ CHIK UB'I' KIQAJAW RI <rs ana="JUNAJPU">JUNAJPU</rs>,</seg></l>
@@ -2493,7 +2493,7 @@
                     son sinónimos.</note>
                     <l n="137"><space quantity="11" unit="chars" /><rs ana="WUQUB'_JUNAJPU">Wuqub' Junajpu</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.02">
+                <lg type="tasik" xml:id="ckp-lg3.02">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHI K'UT XCHIQAB'IJ CHIK KIB'E'IK<ref target="n138"><hi rend="superscript">138</hi></ref> CHI <rs ana="XIB'ALB'A">XIB'ALB'A</rs></seg></l>
                     <note place="left" xml:id="n138"><seg type="note-symbol"><hi rend="superscript">138</hi></seg>El texto dice <hi rend="bold">qui bijc</hi>.</note>
                     <l n="2">Xekanaj k'u kanoq ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
@@ -2607,7 +2607,7 @@
                     <l n="92">Mixb'isonik.- Xecha' ta xeb'ek <rs ana="JUN_JUNAJPU">Jun Junajpu</rs></l>
                     <l n="93"><space quantity="31" unit="chars" /><rs ana="WUQUB'_JUNAJPU">Wuqub' Junajpu</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.03">
+                <lg type="tasik" xml:id="ckp-lg3.03">
                 <!--editor's note: corresponds to XOM paragraph 19, folio 14r -->
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE PUCH TA XEB'EK <rs ana="JUN_JUNAJPU">JUN JUNAJPU</rs>,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="21" unit="chars" /><rs ana="WUQUB'_JUNAJPU">WUQUB' JUNAJPU</rs>.</seg></l>
@@ -2710,7 +2710,7 @@
                     <l n="65"><space quantity="15" unit="chars" />isik'</l>
                     <l n="66">chi warab'al.- Xe'uchax k'ut.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.04">
+                <lg type="tasik" xml:id="ckp-lg3.04">
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE K'UT XE'OPONIK PA <rs ana="Q'EQUMA_JA">Q'EQUMA JA</rs>,</seg></l>
                     <l n="2">utukel q'equm upam chi ja.</l>
                     <l n="3">Ta xkik'am k'ut kina'oj <rs ana="XIB'ALB'A">Xib'alb'a</rs>:</l>
@@ -2846,7 +2846,7 @@
                     <l n="118">Xuta' jun <rs ana="IXKIK'">q'apoj</rs>.</l>
                     <l n="119">Wa k'ute xchiqab'ij roponik.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.05">
+                <lg type="tasik" xml:id="ckp-lg3.05">
                 <!--editor's note: corresponds to XOM paragraph 20, folio 15v -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA CHI K'UTE UTZIJOXIK JUN <rs ana="IXKIK'">Q'APOJ</rs>,</seg></l>
                     <l n="2">ume'al jun ajaw, <rs ana="KUCHUMA_KIK'">Kuchumakik'</rs> ub'i'.</l>
@@ -3062,7 +3062,7 @@
                     <l n="180">K'eje k'ut xech'akataj wi <rs ana="RAJAWAL_XIB'ALB'A">rajawal Xib'alb'a</rs> ri'</l>
                     <l n="181">rumal <rs ana="IXKIK'">q'apoj</rs> xemoywachixik <rs ana="RAJAWAL_XIB'ALB'A">konojel</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.06">
+                <lg type="tasik" xml:id="ckp-lg3.06">
                     <!--editor's note: corresponds to XOM paragraph 23, folio 17r -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE K'UTE K'O RI <rs ana="IXMUKANE">UCHUCH</rs> <rs ana="JUN_B'ATZ">JUN B'ATZ'</rs>,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="24" unit="chars" /><rs ana="JUN_CHOWEN">JUN CHOWEN</rs>,</seg></l>
@@ -3173,7 +3173,7 @@
                     <l n="100">Chiwil china ab'anoj!</l>
                     <l n="101">Ri e k'o ri wi e nawinaq chik.- Xuchax k'ut <rs ana="IXKIK'">q'apoj</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.07">
+                <lg type="tasik" xml:id="ckp-lg3.07">
                 <!--editor's note: corresponds to XOM paragraph 24, folio 18r -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHIK XCHIQATZIJOJ KALAXIK <rs ana="JUNAJPU">JUNAJPU</rs>,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="30" unit="chars" /><rs ana="XB'ALAMQ'E">SXB'ALANKE</rs>.</seg></l>
@@ -3294,7 +3294,7 @@
                     <l n="97">K'eje k'ut keqach'ak wi,</l>
                     <l n="98">xa retal chiqab'ano! Xecha' chi kib'il kib'.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.08">
+                <lg type="tasik" xml:id="ckp-lg3.08">
                     <l n="1"><seg rend="caps" type="tasik-header">TA XEB'E K'UT CHILA' CHUXE' CHE',</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="28" unit="chars" />Q'ANTE' UB'I';</seg></l>
                     <l n="3">kachb'ilan k'u ri <rs ana="JUN_B'ATZ'_JUN_CHOWEN">katz</rs> ta xeb'ek.</l>
@@ -3744,7 +3744,7 @@
                     <l n="389">kojutzin rumal chaqij chi'.- Xecha' chik chi re <rs ana="IXKIK'">kichuch</rs>,</l>
                     <l n="390"><space quantity="29" unit="chars" />ta xkitaq ub'ik.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.09">
+                <lg type="tasik" xml:id="ckp-lg3.09">
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE K'UT XUKAQ'AT ULA <rs ana="CH'O">CH'O</rs> RI <rs ana="KIK'">KIK'</rs></seg></l>
                     <l n="2">xqaj ula pu tum ja ruk' <rs ana="B'ATE">b'ate</rs>,</l>
                     <l n="3"><space quantity="24" unit="chars" /><rs ana="PACHQ'AB">pachq'ab'</rs>,</l>
@@ -3788,7 +3788,7 @@
                     <l n="38">wuqub'ix kojetz'anik. Kecha' <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs>.</l>
                     <l n="39"><space quantity="22" unit="chars" />Kixcha' kixoponik.- Xe'uchax k'ut ri <rs ana="USAMAJEL_XIB'ALB'A">samajel</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.10">
+                <lg type="tasik" xml:id="ckp-lg3.10">
                     <l n="1"><seg rend="caps" type="tasik-header">TA XEPE K'UT NIMA JOK</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="8" unit="chars" />K'U KIB'E RI <rs ana="KA'IB'_K'AJOLAB'">K'AJOLAB'</rs> CHI KOCHOCH,</seg></l>
                     <l n="3">k'a toqol chi kochoch.</l>
@@ -3985,7 +3985,7 @@
                     <l n="171">chunik'ajal upa kochoch,</l>
                     <l n="172">xkitik wi kanoq.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.11">
+                <lg type="tasik" xml:id="ckp-lg3.11">
                     <l n="1"><seg rend="caps" type="tasik-header">TA XEB'E K'UT,</seg></l>
                     <l n="2">jujun chi <rs ana="WUB">wub'</rs> chi ke,</l>
                     <l n="3">xeqaj chi <rs ana="XIB'ALB'A">Xib'alb'a</rs>.</l>
@@ -4146,7 +4146,7 @@
                     <l n="136">-Utz b'a la!</l>
                     <l n="137">Xa b'a jix pa ja.- Xe'ucha'xik.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.12">
+                <lg type="tasik" xml:id="ckp-lg3.12">
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE K'UT TA XE'OK PA <rs ana="Q'EQUMA_JA">Q'EQUMA JA</rs>,</seg></l>
                     <l n="2">mawi xech'akatajik chiri'.</l>
                     <l n="3">Are nab'e utijob'al <rs ana="XIB'ALB'A">Xib'alb'a</rs></l>
@@ -4621,7 +4621,7 @@
                     <l n="404">Nima k'axkol xek'oje wi,</l>
                     <l n="405">mawi are xekam wi ri ronojel xb'an chi ke.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.13">
+                <lg type="tasik" xml:id="ckp-lg3.13">
                 <!--editor's note: corresponds to XOM paragraph 37, folio 28v -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE K'UT WA'E KINAB'AL,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="14" unit="chars" />KIKAMIK <rs ana="JUNAJPU">JUNAJPU</rs>,</seg></l>
@@ -4939,7 +4939,7 @@
                     <l n="268">K'eje ri are kexajowik,</l>
                     <l n="269"><space quantity="13" unit="chars" />kakina'o.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.14">
+                <lg type="tasik" xml:id="ckp-lg3.14">
                 <!--editor's note: corresponds to XOM paragraph 41, folio 31r -->
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE PUCH URAYINIK,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="11" unit="chars" />UMALINIK<ref target="n259"><hi rend="superscript">259</hi></ref> PU KIK'UX <rs ana="RAJAWAL_XIB'ALB'A">AJAWAB'</rs> CHI RE KIXAJOJ <rs ana="JUNAJPU">XJUNAJPU</rs>,</seg></l>
@@ -5079,7 +5079,7 @@
                     <l n="117">Are xeb'anow ri <rs ana="JUNAJPU">Xjunajpu</rs>,</l>
                     <l n="118"><space quantity="16" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.15">
+                <lg type="tasik" xml:id="ckp-lg3.15">
                     <l n="1">ARE K'UT KOQ'IK,</l>
                     <l n="2"><space quantity="9" unit="chars" />KASIK'IN RI <rs ana="IXMUKANE">KATI'T</rs> CHUWACH RI <rs ana="AJ">AJ</rs>,</l>
                     <l n="3"><space quantity="36" unit="chars" />RI XKITIK KANOQ.</l>
@@ -5112,7 +5112,7 @@
                     <l n="27"><space quantity="13" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs></l>
                     <l n="28">Xa natab'al ke rumal <rs ana="IXMUKANE">kati't</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg3.16">
+                <lg type="tasik" xml:id="ckp-lg3.16">
                     <l n="1">ARE K'U RI NAB'E <rs ana="JUN_JUNAJPU">KIQAJAW</rs>,</l>
                     <l n="2">xojeroq kekamoq, ri <rs ana="JUN_JUNAJPU">Jun Junajpu</rs>,</l>
                     <l n="3"><space quantity="20" unit="chars" /><rs ana="WUQUB'_JUNAJPU">Wuqub' Junajpu</rs>.</l>
@@ -5172,7 +5172,7 @@
             </div>
             <div type="part">
                 <head>UKAJ</head>
-                <lg type="tasik" xml:id="lg4.01">
+                <lg type="tasik" xml:id="ckp-lg4.01">
                     <pb xml:id="colop1999-119" />
                 <!--editor's note: corresponds to XOM paragraph 44, folio 32v -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA'E K'UT UTIKERIK TA XNA'OJIX WINAQ,</seg></l>
@@ -5272,7 +5272,7 @@
                     <l n="91">E kajib' chi winaq tz'aq,</l>
                     <l n="92">Xa echa' okinaq kityo'jil.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.02">
+                <lg type="tasik" xml:id="ckp-lg4.02">
                 <!--editor's note: corresponds to XOM paragraph 47, folio 33r -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA'E KIB'I <rs ana="XA_Q'ANA_JAL">NAB'E WINAQ</rs> XETZ'AQIK,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="23" unit="chars" />XEB'ITIK:</seg></l>
@@ -5474,7 +5474,7 @@
                     <l n="180">E poq'ol winaq ch'uti amaq',</l>
                     <l n="181"><space quantity="15" unit="chars" />nima amaq'.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.03">
+                <lg type="tasik" xml:id="ckp-lg4.03">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE K'UT UXE' QECH,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header">RI OJ <rs ana="TINAMIT_K'ICHE'">K'ECHE' WINAQ</rs></seg></l>
                     <l n="3">Tzatz k'ut xuxik ri ajk'ixb',</l>
@@ -5667,7 +5667,7 @@
                     <l n="173">Xkita'o utzijel jun tinamit.</l>
                     <l n="174">Xeb'e wi.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.04">
+                <lg type="tasik" xml:id="ckp-lg4.04">
                 <!--editor's note: corresponds to XOM paragraph 52, folio 32v -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE K'UT UB'I' JUYUB' WA',</seg></l>
                     <l n="2">xeb'e wi <rs ana="B'ALAM_KI'TZE'">B'alam Kitze'</rs>,</l>
@@ -5684,6 +5684,7 @@
                     <l n="12">xe'opon wi,</l>
                     <l n="13">e k'amol re kab'awil.</l>
                     <pb xml:id="colop1999-131" />
+                    <!--editor's note: corresponds to XOM paragraph 53, folio 35v -->
                     <l n="14">Xe'opon k'ut chila' <rs ana="TULÁN">Tulan</rs> konojel;</l>
                     <l n="15">mawi ajilan chi winaq xoponik,</l>
                     <l n="16">tzatz k'ut chub'inik,</l>
@@ -5887,11 +5888,11 @@
                     <l n="201"><space quantity="9" unit="chars" /><rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs>,</l>
                     <l n="202"><space quantity="9" unit="chars" /><rs ana="MAJUK'UTAJ">Majukutaj</rs>,</l>
                     <l n="203"><space quantity="9" unit="chars" /><rs ana="IQ'I_B'ALAM">Ik'i B'alam</rs>.</l>
-                <!--editor's note: corresponds to XOM paragraph 56, folio 37r -->
                     <l n="204">Nim uq'atat kik'ux</l>
                     <l n="205">chikimaj kichi',</l>
                     <l n="206">chikimaj kiwach.</l>
                     <lb n="207" />
+                <!--editor's note: corresponds to XOM paragraph 56, folio 37r -->
                     <l n="208">K'ate puch kulik chik e eleq'om chi kiwach <rs ana="B'ALAM_KI'TZE'">B'alam Kitze'</rs>,</l>
                     <l n="209"><space quantity="43" unit="chars" /><rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs>,</l>
                     <l n="210"><space quantity="43" unit="chars" /><rs ana="MAJUK'UTAJ">Majukutaj</rs>,</l>
@@ -6073,6 +6074,7 @@
                     <l n="371">xa junam qatzij.- Xecha' k'ut,</l>
                     <l n="372">ta xkoj kib'i'.</l>
                     <pb xml:id="colop1999-140" />
+                <!--editor's note: corresponds to XOM paragraph 58, folio 38r -->
                     <l n="373">Ta xb'inaj chi k'u ri <rs ana="KAQCHIKELEB'">Q'aq'chekeleb'</rs>:</l>
                     <l n="374"><rs ana="KAQCHIKELEB'">Q'aq'chekeleb'</rs> ub'i' xuxik;</l>
                     <l n="375">ruk' chik <rs ana="RAB'INALEB'">Rab'inaleb'</rs>,</l>
@@ -6278,7 +6280,7 @@
                     <l n="569"><space quantity="31" unit="chars" />ik',</l>
                     <l n="570"><space quantity="31" unit="chars" />ch'umil.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.05">
+                <lg type="tasik" xml:id="ckp-lg4.05">
                     <pb xml:id="colop1999-145" />
                 <!--editor's note: corresponds to XOM paragraph 60, folio 40r -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA'E K'UTE' USAQIRIK,</seg></l>
@@ -6504,7 +6506,7 @@
                     <l n="203">Are k o chik <rs ana="MAK_EK'">pa ek'</rs>,</l>
                     <l n="204"><space quantity="13" unit="chars" />pa tz'yaq kumal.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.06">
+                <lg type="tasik" xml:id="ckp-lg4.06">
                     <pb xml:id="colop1999-150" />
                 <!--editor's note: corresponds to XOM paragraph 62, folio 41v -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA K'UTE' KIK'ATONIK,</seg></l>
@@ -6686,7 +6688,7 @@
                     <l n="168">ruk' <rs ana="AWILIX">Awilix</rs>,</l>
                     <l n="169"><space quantity="5" unit="chars" /><rs ana="JAQAWITZ">Jakawitz</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.07">
+                <lg type="tasik" xml:id="ckp-lg4.07">
                 <!--editor's note: corresponds to XOM paragraph 63, folio 42v -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA'E UTIKARIK CHIK RELEQ'AXIK WINAQ,</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header"><space quantity="30" unit="chars" />AMAQ'</seg> kumal <rs ana="B'ALAM_KI'TZE'">B'alam Kitze'</rs>,</l>
@@ -6770,7 +6772,7 @@
                     <l n="76"><space quantity="33" unit="chars" /><rs ana="MAJUK'UTAJ">Majukutaj</rs>,</l>
                     <l n="77"><space quantity="33" unit="chars" /><rs ana="IQ'I_B'ALAM">Ik'i B'alam</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.08">
+                <lg type="tasik" xml:id="ckp-lg4.08">
                 <!--editor's note: corresponds to XOM paragraph 65, folio 43r -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE K'U WA' UK'AMIK UNA'OJ AMAQ'</seg></l>
                     <l n="2">chi re ukamisaxik taj.</l>
@@ -6872,7 +6874,7 @@
                     <l n="87"><space quantity="27" unit="chars" /><rs ana="JAQAWITZ">Jakawitz</rs>.</l>
                     <l n="88">Are kina'oj ronojel amaq' ri'.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.09">
+                <lg type="tasik" xml:id="ckp-lg4.09">
                 <!--editor's note: corresponds to XOM paragraph 66, folio 44r -->
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE PUCH XEB'EK,</seg></l>
                     <l n="2">xekawuxik,</l>
@@ -6915,6 +6917,7 @@
                     <l n="38">Xecha' k'u ri <rs ana="TOJIL">Tojil</rs>,</l>
                     <l n="39"><space quantity="14" unit="chars" /><rs ana="AWILIX">Awilix</rs>,</l>
                     <l n="40"><space quantity="14" unit="chars" /><rs ana="JAQAWITZ">Jakawitz</rs></l>
+                    <!-- look into discrepancy here -->
                     <l n="41">ta xech'awik chik chi kech ri <rs ana="IXTAJ">Xtaj</rs>,</l>
                     <l n="42"><space quantity="30" unit="chars" /><rs ana="IXPUCH'">Xpuch'</rs>, kib'i'</l>
                     <l n="43"><space quantity="38" unit="chars" />ri e <rs ana="IXTAJ_IXPUCH'">ka'ib' q'apojib'</rs>.</l>
@@ -7061,7 +7064,7 @@
                     <l n="176">Xepoponik,</l>
                     <l n="177">xetaqo kib' konojel.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.10">
+                <lg type="tasik" xml:id="ckp-lg4.10">
                 <!--editor's note: corresponds to XOM paragraph 68, folio 45v -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA'E K'UTE KIMOLOWIK KIB' KONOJEL AMAQ',</seg></l>
                     <l n="2">e kawutal chik chi ch'ab',</l>
@@ -7201,8 +7204,8 @@
                     <l n="126">Are k'o chuwi <rs ana="JAQAWITZ_JUYUB'">juyub'</rs></l>
                     <l n="127"><rs ana="JAQAWITZ_JUYUB'">Jakawitz</rs> ub'i' e k'o wi.</l>
                     <lb n="128" />
-                <!--editor's note: corresponds to XOM paragraph 69, folio 46v --> 
                     <l n="129">Are k'ut kokib'exik wa' xchiqab'ij chik.</l>
+                <!--editor's note: corresponds to XOM paragraph 69, folio 46v --> 
                     <l n="130">Are k'ut e k'o chiri' <rs ana="B'ALAM_KI'TZE'">B'alam Kitze'</rs>,</l>
                     <l n="131"><space quantity="22" unit="chars" /><rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs>,</l>
                     <l n="132"><space quantity="22" unit="chars" /><rs ana="MAJUK'UTAJ">Majukutaj</rs>,</l>
@@ -7314,7 +7317,7 @@
                     <l n="233">kekamoq.</l>
                     <l n="234">Ta k'i xeraj kamisaxik.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg4.11">
+                <lg type="tasik" xml:id="ckp-lg4.11">
                     <pb xml:id="colop1999-169" />
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHIK WI XCHIQAB'IJ CHIK</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header">KIKAMIK</seg> <rs ana="B'ALAM_KI'TZE'">B'alam Kitze'</rs>,</l>
@@ -7453,7 +7456,7 @@
             </div>
             <div type="part">
                 <head>RO'</head>
-                <lg type="tasik" xml:id="lg5.01">
+                <lg type="tasik" xml:id="ckp-lg5.01">
                     <pb xml:id="colop1999-173" />
             <!--editor's note: corresponds to XOM 71, folio 48r -->
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE PUCH TA XKIK'UXLAJ KIB'IK</seg></l>
@@ -7570,7 +7573,7 @@
                     <l n="106">kanajoq nab e kitinamit,</l>
                     <l n="107"><rs ana="JAQAWITZ_JUYUB'">Jakawitz</rs> ub'i'.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.02">
+                <lg type="tasik" xml:id="ckp-lg5.02">
                     <pb xml:id="colop1999-176" />
                     <l n="1"><seg rend="caps" type="tasik-header">TA XE'UL CHI K'U CHIRI'</seg></l>
                     <l n="2">xkitikilib'ej chik jun tinamit.</l>
@@ -7610,6 +7613,7 @@
                     <l n="36"><space quantity="31" unit="chars" />e pu qajawixel.</l>
                     <lb n="37" />
                     <l n="38">Wa' k'u ub'i' <rs ana="CHI_ISMACHI'">tinamit</rs> e xe'ul wi:</l>
+                <!-- editor's note: corresponds to XOM paragraph 74, 48r -->
                     <l n="39"><rs ana="CHI_ISMACHI'">Chi Ismachi'</rs> k'ut ub'i' juyub'</l>
                     <l n="40"><space quantity="24" unit="chars" />kitinamit xek'oje wi;</l>
                     <pb xml:id="colop1999-177" />
@@ -7820,7 +7824,7 @@
                     <l n="227">Chiqab'ij kib'i' ri ajawab' chu jujunal</l>
                     <l n="228"><space quantity="32" unit="chars" />jujun unim ja.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.03">
+                <lg type="tasik" xml:id="ckp-lg5.03">
                 <!--editor's note: corresponds to XOM paragraph 76, folio 51r -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA'E K'UTE KIB'I' AJAWAB' CHUWACH <rs ana="KAWEQ">KAWIQIB'</rs>.</seg></l>
                     <l n="2">Are nab'e ajaw wa':</l>
@@ -7840,7 +7844,7 @@
                     <l n="14">k'oleje unim ja chu jujunal;</l>
                     <l n="15">k'ate chik chiwachin uwach.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.04">
+                <lg type="tasik" xml:id="ckp-lg5.04">
                 <!--editor's note: corresponds to XOM paragraph 78, folio 51r -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHI K'U AJAWAB' WA' CHUWACH <rs ana="NIJA'IB">NIJA'IB'AB'</rs>:</seg></l>
                     <l n="2">are nab'e ajaw wa:</l>
@@ -7855,7 +7859,7 @@
                     <l n="11"><rs ana="NIMA_LOLMET_YE'OLTUX">Nima Lolmet Ye'oltux</rs>.</l>
                     <l n="12">B'elejeb' k'ut chi ajawab' chuwach <rs ana="NIJA'IB">Nija'ib'ab'</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.05">
+                <lg type="tasik" xml:id="ckp-lg5.05">
                 <!--editor's note: corresponds to XOM paragraph 79, folio 51r -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHI K'UT <rs ana="AJAW_K'ICHE'">AJAW K'ICHE'</rs> WA'.</seg></l>
                     <l n="2">Wa'e kib'i' ajawab':</l>
@@ -7866,7 +7870,7 @@
                     <l n="7">Kajib' ajawab' chuwach <rs ana="AJAW_K'ICHE'">ajaw K'iche'ib'</rs>,</l>
                     <l n="8">k'oleje unim ja.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.06">
+                <lg type="tasik" xml:id="ckp-lg5.06">
                 <!--corresponds to XOM paragraph 80, folio 51v -->
                     <l n="1"><seg rend="caps" type="tasik-header">KA'IB' CHINAMIT CHI NAY PUCH <rs ana="SAQIK">SAQIKIB'</rs> AJAWAB':</seg></l>
                     <l n="2"><rs ana="TZ'UTUJA">Tz'utuja</rs>,</l>
@@ -7964,7 +7968,7 @@
                     <l n="90">ro le ajaw xuxik.</l>
                     <l n="91">Xawi xek'ajolanik jutaq le chi ajawab'.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.07">
+                <lg type="tasik" xml:id="ckp-lg5.07">
                 <!--editor's note: corresponds to XOM paragraph 82, folio 52r -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA' CHI K'UTE KIB'I' CHIK UWAQ LE' AJAW,</seg></l>
                     <l n="2">E ka'ib' chi nimaq ajawab',</l>
@@ -8210,7 +8214,7 @@
                     <l n="228">chi rij puch <rs ana="Q'ALEL">Q'alel</rs></l>
                     <l n="229"><space quantity="13" unit="chars" /><rs ana="AJTZIK_WINAQ">Ajtzik' Winaq</rs> xel wi.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.08">
+                <lg type="tasik" xml:id="ckp-lg5.08">
                     <pb xml:id="colop1999-191" />
                 <!--editor's note: corresponds to XOM paragraph 86, folio 53v -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE K'UT XCHIQAB'IJ CHIK UB'I' ROCHOCH KAB'AWIL</seg></l>
@@ -8452,7 +8456,7 @@
                     <l n="219">K'eje k'ut utikarik unimarik,</l>
                     <l n="220">ri unimarik puch <rs ana="TINAMIT_K'ICHE'">K'iche'</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.09">
+                <lg type="tasik" xml:id="ckp-lg5.09">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHI K'UT XCHIQACHOLO ULE'EL AJAWAB'</seg></l>
                     <l n="2"><seg rend="caps" type="tasik-header">RUK' KIB'I' KONOJEL AJAWAB' XCHIQAB'IJ CHIK</seg></l>
                 <!--editor's note: corresponds to XOM paragraph 88, folio 55r-->
@@ -8523,13 +8527,13 @@
                     <l n="60"><space quantity="9" unit="chars" />utasel ajawarem ri ajaw <rs ana="AJPOP">Ajpop</rs>,</l>
                     <l n="61"><space quantity="33" unit="chars" /><rs ana="AJPOP_K'AMJA">Ajpop Q'amja</rs> chuwach <rs ana="KAWEQ">Kawiqib' K'iche'</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.10">
+                <lg type="tasik" xml:id="ckp-lg5.10">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHI XCHIQAB'IJ CHIK RE CHINAMIT,</seg></l>
                     <l n="2">wa chi k'ute nim ja rech jujun chi ajawab'</l>
                     <l n="3">chi rij <rs ana="AJPOP">Ajpop</rs>,</l>
                     <l n="4"><space quantity="8" unit="chars" /><rs ana="AJPOP_K'AMJA">Ajpop Q'amja</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.11">
+                <lg type="tasik" xml:id="ckp-lg5.11">
                     <l n="1"><seg rend="caps" type="tasik-header">ARE UB'INA'M WI B'ELEJEB' CHINAMIT CHI <rs ana="KAWEQ">KAWIQIB'</rs>,</seg></l>
                     <l n="2">b'elejeb' unim ja.</l>
                     <l n="3">Wa' taq ub'i' e rajawal jujun chi nim ja:</l>
@@ -8557,7 +8561,7 @@
                     <l n="23">Tzatz ral,</l>
                     <l n="24"><space quantity="6" unit="chars" />uk'ajol ajilatal chi rij b'elejeb' chi nim ja.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.12">
+                <lg type="tasik" xml:id="ckp-lg5.12">
                 <!--editor's note: corresponds to XOM paragraph 91, folio 55v -->
                     <l n="1"><seg rend="caps" type="tasik-header">WA K'UTE RECH <rs ana="NIJA'IB">NIJA'IB'AB'</rs></seg></l>
                     <l n="2">b'elejeb' chi wi chi nim ja.</l>
@@ -8586,7 +8590,7 @@
                     <l n="23"><rs ana="AJAQ_Q'ALEL_NJDOCE">Ajaw Q'alel</rs> wakamik.</l>
                     <l n="24">Are k'u ri chi ronojel ajawab' elenaq chi rij ri <rs ana="AJAW_Q'ALEL">ajaw q'alel</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.13">
+                <lg type="tasik" xml:id="ckp-lg5.13">
                 <!--editor's note: corresponds to XOM paragraph 92, folio 56r -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHIK XCHIQAB'IJ RAJAWAL JUJUN CHI NIM JA:</seg></l>
                     <l n="2"><rs ana="AJAW_Q'ALEL">Ajaw Q'alel</rs>,</l>
@@ -8608,7 +8612,7 @@
                     <l n="14">K'i ya' taq k'ut uchinamital jujun chi ke ajawab',</l>
                     <l n="15">are unab'e ri mixqab'ij kib'i'.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.14">
+                <lg type="tasik" xml:id="ckp-lg5.14">
                 <!--editor's note: corresponds to XOM paragraph 94, folio 56r -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE CHI K'UT RECH <rs ana="AJAW_K'ICHE'">AJAW K'ICHE'</rs></seg></l>
                     <l n="2">Wa' umam,</l>
@@ -8635,7 +8639,7 @@
                     <l n="22"><rs ana="AJAW_JAQAWITZ">Jakawitz</rs> k'ut ukaj ajaw, jun unim ja.</l>
                     <l n="23">Chi <rs ana="KAJIB'_UNIM_JA">kajib' k'ut nim ja</rs> chuwach <rs ana="AJAW_K'ICHE'">Ajaw K'iche'</rs>.</l>
                 </lg>
-                <lg type="tasik" xml:id="lg5.15">
+                <lg type="tasik" xml:id="ckp-lg5.15">
                 <!--editor's note: corresponds to XOM paragraph 96, folio 56v -->
                     <l n="1"><seg rend="caps" type="tasik-header">ARE K'U RI E OXIB' CHI <rs ana="NIM_CH'OKOJ">NIM CHOKOJ</rs></seg></l>
                     <l n="2">K'eje ri e qajawixel rumal ronojel <rs ana="TINAMIT_K'ICHE'">ajawab' K'iche'</rs>,</l>
@@ -8669,6 +8673,469 @@
                     <l n="23"><rs ana="SANTA_CRUZ">Sta. Cruz</rs>, ub'i'.</l>
                 </lg>
             </div>
+            <ab type="mapping">
+                <joinGrp type="mapa-cpk-xkom">
+                    <join target="#xkom-p01 #ckp-lg1.01" />
+                    <join target="#xkom-p02 #ckp-lg1.01">
+                        <desc>
+                            xkom-p02 corresponds to ckp-lg1.01 line 2
+                        </desc>
+                    </join>
+                    <join target="#xkom-p03 #ckp-lg1.02" />
+                    <join target="#xkom-p04 #ckp-lg1.02">
+                        <desc>
+                            xkom-p04 corresponds to ckp-lg1.02 line 9
+                        </desc>
+                    </join>
+                    <join target="#xkom-p05 #ckp-lg1.02">
+                        <desc>
+                            xkom-p05 corresponds to ckp-lg1.02 line 56
+                        </desc>
+                    </join>
+                    <join target="#xkom-p05 #ckp-lg1.03">
+                        <desc>
+                            ckp-lg1.03 corresponds to xkom-p05, folio ID xom-f03-s1 lb 16. 
+                            note-prev-attr: Consider @prev attr on ckp-lg1.03 to point to prev
+                        </desc>
+                    </join>
+                    <join target="#xkom-p06 #ckp-lg1.03">
+                        <desc>
+                            xkom-p06 corresponds to ckp-lg1.03 line 42
+                        </desc>
+                    </join>
+                    <join target="#xkom-p07 #ckp-lg1.03">
+                        <desc>
+                            xkom-p07 corresponds to ckp-lg1.03 line 92
+                        </desc>
+                    </join>
+                    <join target="#xkom-p07 #ckp-lg1.04">
+                        <desc>
+                            ckp-lg1.04 corresponds to xkom-p07, folio ID xom-f03-s1 lb 38.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p08 #ckp-lg1.05">
+                        <desc>
+                            ckp-lg1.05 corresponds to xkom-p08, folio ID xom-f03-s2 lb 31.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p08 #ckp-lg1.05">
+                        <desc>
+                            xkom-p08 corresponds to ckp-lg1.05 line 7
+                        </desc>
+                    </join>
+                    <join target="#xkom-p09 #ckp-lg1.06"/>
+                    <join target="#xkom-p10 #ckp-lg2.01"/>
+                    <join target="#xkom-p11 #ckp-lg2.02">
+                        <desc>
+                            xkom-p11 corresponds to ckp-lg2.02 line 5
+                        </desc>
+                    </join>
+                    <join target="#xkom-p12 #ckp-lg2.02">
+                        <desc>
+                            xkom-p12 corresponds to ckp-lg2.02 line 60
+                        </desc>
+                    </join>
+                    <join target="#xkom-p13 #ckp-lg2.03"/>
+                    <join target="#xkom-p14 #ckp-lg2.04"/>
+                    <join target="#xkom-p15 #ckp-lg2.05">
+                        <desc>
+                            xkom-p15 corresponds to ckp2.05 line 2
+                        </desc>
+                    </join>
+                    <join target="#xkom-p16 #ckp-lg3.01"/>
+                    <join target="#xkom-p17 #ckp-lg3.01">
+                        <desc>
+                            xkom-p17 corresponds to ckp3.01 line 10
+                        </desc>
+                    </join>
+                    <join target="#xkom-p17 #ckp-lg3.01">
+                        <desc>
+                            ckp-lg3.01 corresponds to xkom-p17, folio ID xom-f13-s1 lb 28.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p18 #ckp-lg3.02"/>
+                    <join target="#xkom-p19 #ckp-lg3.03"/>
+                    <join target="#xkom-p19 #ckp-lg3.04">
+                        <desc>
+                            ckp-lg3.04 corresponds to xkom-p19, folio ID xom-f14-s2 lb 16.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p20 #ckp-lg3.05"/>
+                    <join target="#xkom-p21 #ckp-lg3.05">
+                        <desc>
+                            xkom-p21 corresponds to ckp-lg3.05 line 4
+                        </desc>
+                    </join>
+                    <join target="#xkom-p22 #ckp-lg3.05">
+                        <desc>
+                            xkom-p22 corresponds to ckp-lg3.05 line 82
+                        </desc>
+                    </join>
+                    <join target="#xkom-p23 #ckp-lg3.06"/>
+                    <join target="#xkom-p24 #ckp-lg3.07"/>
+                    <join target="#xkom-p24 #ckp-lg3.07">
+                        <desc>
+                            xkom-p24 corresponds to ckp-lg3.07 line 3
+                        </desc>
+                    </join>
+                    <join target="#xkom-p25 #ckp-lg3.08">
+                        <desc>
+                            ckp-lg3.08 corresponds to xkom-p25, folio ID xom-f18-s2 lb 38.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p26 #ckp-lg3.08">
+                        <desc>
+                            xkom-p26 corresponds to ckp-lg3.08 line 65
+                        </desc>
+                    </join>
+                    <join target="#xkom-p27 #ckp-lg3.08">
+                        <desc>
+                            xkom-p27 corresponds to ckp-lg3.08 line 157
+                        </desc>
+                    </join>
+                    <join target="#xkom-p28 #ckp-lg3.08">
+                        <desc>
+                            xkom-p28 corresponds to ckp-lg3.08 line 355
+                        </desc>
+                    </join>
+                    <join target="#xkom-p28 #ckp-lg3.09">
+                        <desc>
+                            ckp-lg3.09 corresponds to xkom-p28, folio ID xom-f21-s2 lb 47.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p29 #ckp-lg3.09">
+                        <desc>
+                            xkom-p29 corresponds to ckp-lg3.09 line 21
+                        </desc>
+                    </join>
+                    <join target="#xkom-p29 #ckp-lg3.10">
+                        <desc>
+                            ckp-lg3.10 corresponds to xkom-p29, folio ID xom-f22-s1 lb 32.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p30 #ckp-lg3.10">
+                        <desc>
+                            xkom-p30 corresponds to ckp-lg3.10 line 78
+                        </desc>
+                    </join>
+                    <join target="#xkom-p31 #ckp-lg3.10">
+                        <desc>
+                            xkom-p31 corresponds to ckp-lg3.10 line 149
+                        </desc>
+                    </join>
+                    <join target="#xkom-p31 #ckp-lg3.11">
+                        <desc>
+                            ckp-lg3.11 corresponds to xkom-p31, folio ID xom-f22-s1 lb 27.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p31 #ckp-lg3.12">
+                        <desc>
+                            ckp-lg3.12 corresponds to xkom-p31, folio ID xom-f24-s2 lb 33.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p32 #ckp-lg3.12">
+                        <desc>
+                            xkom-p32 corresponds to ckp-lg3.12 line 201
+                        </desc>
+                    </join>
+                    <join target="#xkom-p33 #ckp-lg3.12">
+                        <desc>
+                            xkom-p33 corresponds to ckp-lg3.12 line 219
+                        </desc>
+                    </join>
+                    <join target="#xkom-p34 #ckp-lg3.12">
+                        <desc>
+                            xkom-p34 corresponds to ckp-lg3.12 line 236
+                        </desc>
+                    </join>
+                    <join target="#xkom-p35 #ckp-lg3.12">
+                        <desc>
+                            xkom-p35 corresponds to ckp-lg3.12 line 246
+                        </desc>
+                    </join>
+                    <join target="#xkom-p36 #ckp-lg3.12">
+                        <desc>
+                            xkom-p36 corresponds to ckp-lg3.12 line 356
+                        </desc>
+                    </join>
+                    <join target="#xkom-p37 #ckp-lg3.13"/>
+                    <join target="#xkom-p38 #ckp-lg3.13">
+                        <desc>
+                            xkom-p38 corresponds to ckp-lg3.13 line 99
+                        </desc>
+                    </join>
+                    <join target="#xkom-p39 #ckp-lg3.13">
+                        <desc>
+                            xkom-p39 corresponds to ckp-lg3.13 line 130
+                        </desc>
+                    </join>
+                    <join target="#xkom-p40 #ckp-lg3.13">
+                        <desc>
+                            xkom-p40 corresponds to ckp-lg3.13 line 170
+                        </desc>
+                    </join>
+                    <join target="#xkom-p41 #ckp-lg3.14"/>
+                    <join target="#xkom-p42 #ckp-lg3.14">
+                        <desc>
+                            xkom-p42 corresponds to ckp-lg3.14 line 51
+                        </desc>
+                    </join>
+                    <join target="#xkom-p42 #ckp-lg3.15">
+                        <desc>
+                            ckp-lg3.15 corresponds to xkom-p42, folio ID xom-f32-s1 lb 9.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p42 #ckp-lg3.16">
+                        <desc>
+                            ckp-lg3.16 corresponds to xkom-p42, folio ID xom-f32-s1 lb 33.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p43 #ckp-lg3.16">
+                        <desc>
+                            xkom-p43 corresponds to ckp-lg3.16 line 9
+                        </desc>
+                    </join>
+                    <join target="#xkom-p44 #ckp-lg4.01"/>
+                    <join target="#xkom-p45 #ckp-lg4.01">
+                        <desc>
+                            xkom-p45 corresponds to ckp-lg4.01 line 32
+                        </desc>
+                    </join>
+                    <join target="#xkom-p46 #ckp-lg4.01">
+                        <desc>
+                            xkom-p46 corresponds to ckp-lg4.01 line 36
+                        </desc>
+                    </join>
+                    <join target="#xkom-p47 #cpk-lg4.02"/>
+                    <join target="#xkom-p48 #ckp-lg4.02">
+                        <desc>
+                            xkom-p48 corresponds to ckp-lg4.02 line 9
+                        </desc>
+                    </join>
+                    <join target="#xkom-p49 #ckp-lg4.02">
+                        <desc>
+                            xkom-p49 corresponds to ckp-lg4.02 line 63
+                        </desc>
+                    </join>
+                    <join target="#xkom-p50 #ckp-lg4.02">
+                        <desc>
+                            xkom-p50 corresponds to ckp-lg4.02 line 113
+                        </desc>
+                    </join>
+                    <join target="#xkom-p51 #ckp-lg4.02">
+                        <desc>
+                            xkom-p51 corresponds to ckp-lg4.02 line 149
+                        </desc>
+                    </join>
+                    <join target="#xkom-p51 #ckp-lg4.03">
+                        <desc>
+                            ckp-lg4.03 corresponds to xkom-p51, folio ID xom-f34-s2 lb 1.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p52 #ckp-lg4.04"/>
+                    <join target="#xkom-p53 #ckp-lg4.04">
+                        <desc>
+                            xkom-p53 corresponds to ckp-lg4.04 line 14
+                        </desc>
+                    </join>
+                    <join target="#xkom-p54 #ckp-lg4.04">
+                        <desc>
+                            xkom-p54 corresponds to ckp-lg4.04 line 44
+                        </desc>
+                    </join>
+                    <join target="#xkom-p55 #ckp-lg4.04">
+                        <desc>
+                            xkom-p55 corresponds to ckp-lg4.04 line 109
+                        </desc>
+                    </join>
+                    <join target="#xkom-p56 #ckp-lg4.04">
+                        <desc>
+                            xkom-p56 corresponds to ckp-lg4.04 line 208
+                        </desc>
+                    </join>
+                    <join target="#xkom-p57 #ckp-lg4.04">
+                        <desc>
+                            xkom-p57 corresponds to ckp-lg4.04 line 352
+                        </desc>
+                    </join>
+                    <join target="#xkom-p58 #ckp-lg4.04">
+                        <desc>
+                            xkom-p58 corresponds to ckp-lg4.04 line 373
+                        </desc>
+                    </join>
+                    <join target="#xkom-p59 #ckp-lg4.04">
+                        <desc>
+                            xkom-p59 corresponds to ckp-lg4.04 line 430
+                        </desc>
+                    </join>
+                    <join target="#xkom-p60 #ckp-lg4.05"/>
+                    <join target="#xkom-p61 #ckp-lg4.05">
+                        <desc>
+                            xkom-p61 corresponds to ckp-lg4.05 line 5
+                        </desc>
+                    </join>
+                    <join target="#xkom-p62 #ckp-lg4.06"/>
+                    <join target="#xkom-p63 #ckp-lg4.07"/>
+                    <join target="#xkom-p64 #ckp-lg4.07">
+                        <desc>
+                            xkom-p64 corresponds to ckp-lg4.07 line 6
+                        </desc>
+                    </join>
+                    <join target="#xkom-p65 #ckp-lg4.08">
+                        <desc>
+                            xkom-p65 corresponds to ckp-lg4.08 line 3
+                        </desc>
+                    </join>
+                    <join target="#xkom-p66 #ckp-lg4.09"/>
+                    <join target="#xkom-p67 #ckp-lg4.09">
+                        <desc>
+                            xkom-p67 corresponds to ckp-lg4.09 line 61
+                        </desc>
+                    </join>
+                    <join target="#xkom-p68 #ckp-lg4.10"/>
+                    <join target="#xkom-p69 #ckp-lg4.10">
+                        <desc>
+                            xkom-p69 corresponds to ckp-lg4.10 line 130
+                        </desc>
+                    </join>
+                    <join target="#xkom-p69 #ckp-lg4.11">
+                        <desc>
+                            ckp-lg4.11 corresponds to xkom-p69, folio ID xom-f47-s1 lb 41.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p70 #ckp-lg4.11">
+                        <desc>
+                            xkom-p70 corresponds to ckp-lg4.11 line 6
+                        </desc>
+                    </join>
+                    <join target="#xkom-p71 #ckp-lg5.01"/>
+                    <join target="#xkom-p72 #ckp-lg5.01">
+                        <desc>
+                            xkom-p72 corresponds to ckp-lg5.01 line 37
+                        </desc>
+                    </join>
+                    <join target="#xkom-p73 #ckp-lg5.01">
+                        <desc>
+                            xkom-p73 corresponds to ckp-lg5.01 line 71
+                        </desc>
+                    </join>
+                    <join target="#xkom-p73 #ckp-lg5.02">
+                        <desc>
+                            ckp-lg5.02 corresponds to xkom-p73, folio ID xom-f49-s1 lb 21.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p74 #ckp-lg5.02">
+                        <desc>
+                            xkom-p74 corresponds to ckp-lg5.02 line 39
+                        </desc>
+                    </join>
+                    <join target="#xkom-p75 #ckp-lg5.02">
+                        <desc>
+                            xkom-p75 corresponds to ckp-lg5.02 line 172
+                        </desc>
+                    </join>
+                    <join target="#xkom-p76 #ckp-lg5.03"/>
+                    <join target="#xkom-p77 #ckp-lg5.03">
+                        <desc>
+                            xkom-p77 corresponds to ckp-lg5.03 line 12
+                        </desc>
+                    </join>
+                    <join target="#xkom-p78 #ckp-lg5.04"/>
+                    <join target="#xkom-p79 #ckp-lg5.05"/>
+                    <join target="#xkom-p80 #ckp-lg5.06"/>
+                    <join target="#xkom-p81 #ckp-lg5.06">
+                        <desc>
+                            xkom-p81 corresponds to ckp-lg5.06 line 7
+                        </desc>
+                    </join>
+                    <join target="#xkom-p82 #ckp-lg5.07"/>
+                    <join target="#xkom-p83 #ckp-lg5.07">
+                        <desc>
+                            xkom-p83 corresponds to ckp-lg5.07 line 63
+                        </desc>
+                    </join>
+                    <join target="#xkom-p84 #ckp-lg5.07">
+                        <desc>
+                            xkom-p84 corresponds to ckp-lg5.07 line 181
+                        </desc>
+                    </join>
+                    <join target="#xkom-p85 #ckp-lg5.07">
+                        <desc>
+                            xkom-p85 corresponds to ckp-lg5.07 line 187
+                        </desc>
+                    </join>
+                    <join target="#xkom-p86 #ckp-lg5.08"/>
+                    <join target="#xkom-p87 #ckp-lg5.08">
+                        <desc>
+                            xkom-p87 corresponds to ckp-lg5.08 line 85
+                        </desc>
+                    </join>
+                    <join target="#xkom-p88 #ckp-lg5.09">
+                        <desc>
+                            xkom-p88 corresponds to ckp-lg5.09 line 3
+                        </desc>
+                    </join>
+                    <join target="#xkom-p89 #ckp-lg5.09">
+                        <desc>
+                            xkom-p89 corresponds to ckp-lg5.09 line 59
+                        </desc>
+                    </join>
+                    <join target="#xkom-p89 #ckp-lg5.10">
+                        <desc>
+                            ckp-lg5.10 corresponds to xkom-p89, folio ID xom-f55-s1 lb 24.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p89 #ckp-lg5.11">
+                        <desc>
+                            ckp-lg5.11 corresponds to xkom-p89, folio ID xom-f55-s1 lb 27.
+                            note-prev-attr
+                        </desc>
+                    </join>
+                    <join target="#xkom-p90 #ckp-lg5.11">
+                        <desc>
+                            xkom-p90 corresponds to ckp-lg5.11 line 22
+                        </desc>
+                    </join>
+                    <join target="#xkom-p91 #ckp-lg5.12"/>
+                    <join target="#xkom-p92 #ckp-lg5.13">
+                        <desc>
+                            xkom-p92 corresponds to ckp-lg5.12 line 24
+                        </desc>
+                    </join>
+                    <join target="#xkom-p93 #ckp-lg5.13">
+                        <desc>
+                            xkom-p93 corresponds to ckp-lg5.13 line 12
+                        </desc>
+                    </join>
+                    <join target="#xkom-p94 #ckp-lg5.14"/>
+                    <join target="#xkom-p95 #ckp-lg5.14">
+                        <desc>
+                            xkom-p95 corresponds to ckp-lg5.14 line 13
+                        </desc>
+                    </join>
+                    <join target="#xkom-p96 #ckp-lg5.15"/>
+                    <join target="#xkom-p97 #ckp-lg5.15">
+                        <desc>
+                            xkom-p97 corresponds to ckp-lg5.15 line 9
+                        </desc>
+                    </join>
+                </joinGrp>
+            </ab>
         </body>
         <back>
             <div type="bibliography">
