@@ -2754,8 +2754,8 @@
                     <l n="35">xkik'is ri chäj,</l>
                     <l n="36">xkik'is k'u ri sik', xb'eya'o chi ke.</l>
                     <lb n="37" />
-                    <l n="38">Tzatz k'u ri utijob'al <rs ana="XIB'ALB'A">Xib'alb'a</rs>,</l>
-                    <l n="39">k'ya molaj chi tijob'al:</l>
+                    <l n="38">Tzatz k'u ri <rs ana="TIJOB'AL_JA">utijob'al</rs> <rs ana="XIB'ALB'A">Xib'alb'a</rs>,</l>
+                    <l n="39">k'ya molaj chi <rs ana="TIJOB'AL_JA">tijob'al</rs>:</l>
                     <l n="40">are unab'e ri <rs ana="Q'EQUMA_JA">Q'equma Ja</rs>;</l>
                     <l n="41">utukel q'equm upam.</l>
                     <l n="42">Ukab' chi k'ut <rs ana="XUXULIM_JA">Xuxulim Ja</rs>, ub'i';</l>
@@ -2770,7 +2770,7 @@
                     <l n="50">keb'uchuwik chi matat<ref target="n159"><hi rend="superscript">159</hi></ref>,</l>
                     <note place="left" xml:id="n159"><seg type="note-symbol"><hi rend="superscript">159</hi></seg>Apretar los dientes, rechinándolos (<rs ana="XIMENEZ">Ximénez</rs>).</note>
                     <l n="51">kech'ikitit, ke'etzapim <rs ana="B'ALAM">b'alam</rs> <rs ana="B'ALAM_JA">pa ja</rs>.</l>
-                    <l n="52"><rs ana="SOTZ'I_JA">Sotz'i ja</rs> ub'i' ukaj utijob'al;</l>
+                    <l n="52"><rs ana="SOTZ'I_JA">Sotz'i ja</rs> ub'i' ukaj <rs ana="TIJOB'AL_JA">utijob'al</rs>;</l>
                     <l n="53">utukel <rs ana="SOTZ">sotz'</rs> upam <rs ana="SOTZ'I_JA">chi ja</rs>.</l>
                     <l n="54">ketzitzotik,</l>
                     <l n="55">ketz'itilajik;</l>
@@ -4149,7 +4149,7 @@
                 <lg type="tasik" xml:id="ckp-lg3.12">
                     <l n="1"><seg rend="caps" type="tasik-header">K'ATE K'UT TA XE'OK PA <rs ana="Q'EQUMA_JA">Q'EQUMA JA</rs>,</seg></l>
                     <l n="2">mawi xech'akatajik chiri'.</l>
-                    <l n="3">Are nab'e utijob'al <rs ana="XIB'ALB'A">Xib'alb'a</rs></l>
+                    <l n="3">Are nab'e <rs ana="TIJOB'AL_JA">utijob'al</rs> <rs ana="XIB'ALB'A">Xib'alb'a</rs></l>
                     <pb xml:id="colop1999-096" />
                     <l n="4">ri xe'ok wi ke.</l>
                     <l n="5">Chi k'u utikarik kich'akatajik ta chik</l>
@@ -4270,7 +4270,7 @@
                     <l n="106">Aq'ab' chi k'ut <rs ana="CHAAJ">kojchaajik</rs>.- Xecha' k'ut ta xepixab'an kib'.</l>
                     <lb n="107" /> 
                     <l n="108">K'ate chi k'ut ta xe'ok chi <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs> pa <rs ana="CHAYIM_JA">Chayim Ja</rs>,</l>
-                    <l n="109">ukab' tijob'al <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>.</l>
+                    <l n="109">ukab' <rs ana="TIJOB'AL_JA">tijob'al</rs> <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>.</l>
                     <l n="110">Are ta k'ut xajawax chik;</l>
                     <l n="111">xek'atak'ox taj rumal cha.</l>
                     <l n="112">Chanim taj chi kik'ux,</l>
@@ -4631,7 +4631,7 @@
                     <l n="6">Ta xepixab'aj k'ut,</l>
                     <l n="7">xkib'ano ronojel k'axk'ol,</l>
                     <l n="8"><space quantity="17" unit="chars" />ra'il xb'an chi ke.</l>
-                    <l n="9">Mawi xekamik rumal utijob'al <rs ana="XIB'ALB'A">Xib'alb'a</rs>,</l>
+                    <l n="9">Mawi xekamik rumal <rs ana="TIJOB'AL_JA">utijob'al</rs> <rs ana="XIB'ALB'A">Xib'alb'a</rs>,</l>
                     <l n="10">mawi xech'akatajik rumal ronojel tiyonel chikop k'o chi <rs ana="XIB'ALB'A">Xib'alb'a</rs>.</l>
                     <lb n="11" />
                     <l n="12">K'ate k'ut ta xkitaq chi ka'ib' nik'wachinel,</l>
@@ -4643,7 +4643,7 @@
                     <l n="18"><space quantity="24" unit="chars" />rumal ri qakamik.</l>
                     <l n="19">Kina'oj kakinuk' rumal ri mawi mixojkamik,</l>
                     <l n="20"><space quantity="26" unit="chars" />ma pu mixojch'akatajik,</l>
-                    <l n="21"><space quantity="26" unit="chars" />mixqasach kitijob'al,</l>
+                    <l n="21"><space quantity="26" unit="chars" />mixqasach <rs ana="TIJOB'AL_JA">kitijob'al</rs>,</l>
                     <l n="22"><space quantity="26" unit="chars" />ma xa chikop chok chi qe.</l>
                     <l n="23">Are k'u retal wa chi qak'ux:</l>
                     <l n="24">chojim ab'aj kamisab'al qe kumal.</l>
