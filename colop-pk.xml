@@ -4556,8 +4556,8 @@
                     <note place="left" xml:id="n240"><seg type="note-symbol"><hi rend="superscript">240</hi></seg>El texto dice <hi rend="bold">cat qole</hi>
                     en lugar de <hi rend="bold">cat qohe</hi>.</note>
                     <l n="348">chi' wi katk'oje wi,</l>
-                    <l n="349">chi upam pix<ref target="n241"><hi rend="superscript">241</hi></ref>.- Xuchax <rs ana="UMUL">umul</rs> rumal <rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
-                    <note place="left" xml:id="n241"><seg type="note-symbol"><hi rend="superscript">241</hi></seg>El texto dice <hi rend="bold">pixc</hi>.</note>
+                    <l n="349">chi upam <rs ana="PIX">pix</rs><ref target="n241"><hi rend="superscript">241</hi></ref>.- Xuchax <rs ana="UMUL">umul</rs> rumal <rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
+                    <note place="left" xml:id="n241"><seg type="note-symbol"><hi rend="superscript">241</hi></seg>El texto dice <hi rend="bold"><rs ana="PIX">pixc</rs></hi>.</note>
                     <l n="350">-Chopon na kik' awuk',</l>
                     <l n="351">k'ate katelik,</l>
                     <l n="352">k'a in kinb'anowik.- Xuchax ri <rs ana="UMUL">umul</rs>,</l>
@@ -4583,7 +4583,7 @@
                     <l n="369">chi tanenik.</l>
                     <l n="370">Ta xelik jusu k'u xik'ow kik' chuwi <rs ana="JOM">jom</rs>,</l>
                     <l n="371">xa jun,</l>
-                    <l n="372">xa ka nab' wi taqal pa pix.</l>
+                    <l n="372">xa ka nab' wi taqal pa <rs ana="PIX">pix</rs>.</l>
                     <l n="373">Ta xel k'u ri <rs ana="UMUL">umul</rs>,</l>
                     <l n="374">chi k'oxk'otik ta xb'ek;</l>
                     <l n="375">Oqotal k'ut ta xb'e kumal ri <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>.</l>
@@ -4599,7 +4599,7 @@
                     <l n="385">Are k'ut keb'etzukun na<ref target="n243"><hi rend="superscript">243</hi></ref> <rs ana="KIK'">kik'</rs> ri <rs ana="RAJAWAL_XIB'ALB'A">Xib'alb'a</rs>;</l>
                     <note place="right" xml:id="n243"><seg type="note-symbol"><hi rend="superscript">243</hi></seg>El texto dice <hi rend="bold">tzucuna</hi>,
                     en vez de <hi rend="bold">tzucunna</hi>.</note>
-                    <l n="386">k'ate k'ut xkik'amixtaj chi ri <rs ana="KIK'">kik'</rs> pa pix.</l>
+                    <l n="386">k'ate k'ut xkik'amixtaj chi ri <rs ana="KIK'">kik'</rs> pa <rs ana="PIX">pix</rs>.</l>
                     <l n="387">Ta xesik'in chi k'ut:</l>
                     <l n="388">-Kixpetoq!</l>
                     <l n="389">Wa'e <rs ana="KIK'">kik'</rs> qe,</l>
