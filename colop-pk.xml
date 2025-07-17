@@ -5639,8 +5639,8 @@
                     <pb xml:id="colop1999-130" />
                     <l n="150">E nima'q etamanel,</l>
                     <l n="151">e na'onel,</l>
-                    <l n="152">e ajk'ixb',</l>
-                    <l n="153">e ajnim. Ke'ucha'xik.</l>
+                    <l n="152">e <rs ana="XA_Q'ANA_JAL">ajk'ixb'</rs>,</l>
+                    <l n="153">e <rs ana="XA_Q'ANA_JAL">ajnim</rs>. Ke'ucha'xik.</l>
                     <l n="154">Maja b'i k'u jab'i'oq che'-ab'aj,</l>
                     <l n="155">chichajin <rs ana="IXOQ_AJAWAB'">e qanab'e chuch</rs>,</l>
                     <l n="156"><space quantity="20" unit="chars" /><rs ana="XA_Q'ANA_JAL">qajaw</rs>.</l>
@@ -5779,8 +5779,8 @@
                     <l n="102">Qitzij in ikab'awil.</l>
                     <l n="103">Ta chuxoq!</l>
                     <l n="104">In iwajawal.</l>
-                    <l n="105">Ta chuxoq! Xe'ucha'xik ri ajk'ixb',</l>
-                    <l n="106"><space quantity="26" unit="chars" />ajk'ajb' rumal <rs ana="TOJIL">Tojil</rs>.</l>
+                    <l n="105">Ta chuxoq! Xe'ucha'xik ri <rs ana="XA_Q'ANA_JAL">ajk'ixb'</rs>,</l>
+                    <l n="106"><space quantity="26" unit="chars" /><rs ana="XA_Q'ANA_JAL">ajk'ajb'</rs> rumal <rs ana="TOJIL">Tojil</rs>.</l>
                     <l n="107">Are k'ut kiq'aq'al wi amaq',</l>
                     <l n="108">kekikotik rumal kiq'aq'.</l>
                 <!--editor's note: corresponds to XOM paragraph 55, folio 36r -->
