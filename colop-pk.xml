@@ -2350,13 +2350,13 @@
                     <l n="30"><space quantity="7" unit="chars" />kiyake'ik puch.</l>
                     <l n="31">Xkik'utu nawikil chi kiwach ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
                     <l n="32"><space quantity="31" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs>, uk'ajol <rs ana="JUN_JUNAJPU">Jun Junajpu</rs>.</l>
-                    <l n="33">E ajsu',</l>
-                    <l n="34">e ajb'ix,</l>
-                    <l n="35">e ajpu,</l>
-                    <l n="36"><space quantity="2" unit="chars" />ajtz'ib',</l>
-                    <l n="37">e nay pu ajk'ot,</l>
-                    <l n="38">e ajxit,</l>
-                    <l n="39">e ajpuwaq xe'uxik ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
+                    <l n="33">E <rs ana="SU'">ajsu'</rs>,</l>
+                    <l n="34">e <rs ana="AJB'IX">ajb'ix</rs>,</l>
+                    <l n="35">e <rs ana="AJPU">ajpu</rs>,</l>
+                    <l n="36"><space quantity="2" unit="chars" /><rs ana="AJTZ'IB'">ajtz'ib'</rs>,</l>
+                    <l n="37">e nay pu <rs ana="AJK'OT">ajk'ot</rs>,</l>
+                    <l n="38">e <rs ana="AJXIT">ajxit</rs>,</l>
+                    <l n="39">e <rs ana="AJPUWAQ">ajpuwaq</rs> xe'uxik ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
                     <l n="40"><space quantity="21" unit="chars" /><rs ana="JUN_JUNAJPU">Jun Chowen</rs>.</l>
                     <l n="41">Are k'u ri <rs ana="JUN_JUNAJPU">Jun Junajpu</rs>,</l>
                     <l n="42"><space quantity="8" unit="chars" /><rs ana="WUQUB'_JUNAJPU">Wuqub' Junajpu</rs> xa sak'<ref target="n122"><hi rend="superscript">122</hi></ref>,</l>
@@ -3215,7 +3215,7 @@
                     <l n="24">xawi k'u pa juyub' xek'iy wi.</l>
                     <lb n="25" />
                     <l n="26">E k'u nima'q aj<rs ana="SU'">su</rs>,</l>
-                    <l n="27"><space quantity="16" unit="chars" />ajb'ix ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
+                    <l n="27"><space quantity="16" unit="chars" /><rs ana="AJB'IX">ajb'ix</rs> ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>,</l>
                     <l n="28"><space quantity="26" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs>.</l>
                     <l n="29">Xenimaqir k'ut,</l>
                     <l n="30">nima k'axk'ol,</l>
@@ -3226,9 +3226,9 @@
                     <l n="32">xek'axk'ob'isaxik.</l>
                     <l n="33">E nima'q etamanel chik xe'uxik.</l>
                     <l n="34">Xawi xere e aj<rs ana="SU'">su</rs>,</l>
-                    <l n="35"><space quantity="10" unit="chars" />e ajb'ix,</l>
+                    <l n="35"><space quantity="10" unit="chars" />e <rs ana="AJB'IX">ajb'ix</rs>,</l>
                     <l n="36"><space quantity="10" unit="chars" />e pu ajtzib'ab',</l>
-                    <l n="37"><space quantity="10" unit="chars" />ajk'ot xe'uxik.</l>
+                    <l n="37"><space quantity="10" unit="chars" /><rs ana="AJK'OT">ajk'ot</rs> xe'uxik.</l>
                     <l n="38">Ronojel chutzin kumal.</l>
                     <l n="39">Xa xketa'm wi xe'alaxik,</l>
                     <l n="40">xa xenawinaq;</l>
@@ -3461,10 +3461,10 @@
                     <l n="137"><space quantity="17" unit="chars" /><rs ana="JUN_CHOWEN">Jun Chowen</rs>, ke'ucha'xik.- Xecha' ri <rs ana="JUNAJPU">Junajpu</rs>,</l>
                     <l n="138"><space quantity="53" unit="chars" /><rs ana="XB'ALAMQ'E">Xb'alanke</rs>.</l>
                     <l n="139">Xesik'ix k'ut rumal ri <rs ana="SU'">ajsu'</rs>,</l>
-                    <l n="140"><space quantity="23" unit="chars" />ajb'ix,</l>
+                    <l n="140"><space quantity="23" unit="chars" /><rs ana="AJB'IX">ajb'ix</rs>,</l>
                     <l n="141"><space quantity="23" unit="chars" />ri ojer winaq.</l>
-                    <l n="142">Are puch chusik'ij ri ajtz'ib',</l>
-                    <l n="143"><space quantity="22" unit="chars" />ajk'ot.</l>
+                    <l n="142">Are puch chusik'ij ri <rs ana="AJTZ'IB'">ajtz'ib'</rs>,</l>
+                    <l n="143"><space quantity="22" unit="chars" /><rs ana="AJK'OT">ajk'ot</rs>.</l>
                     <l n="144">Ojer xechikopirik,</l>
                     <l n="145">e <rs ana="K'OY">k'oy</rs> xe'uxik rumal xa xkinimarisaj kib',</l>
                     <l n="146"><space quantity="24" unit="chars" />xkiyoq' ri <rs ana="KA'IB'_K'AJOLAB'">kichaq'</rs>;</l>
@@ -3476,7 +3476,7 @@
                     <l n="151">E chikop xe'uxik.</l>
                     <l n="152">Are k'ut e ramaq'elal kochoch chik,</l>
                     <l n="153">xawi xere e <rs ana="SU'">ajsu'</rs>,</l>
-                    <l n="154"><space quantity="10" unit="chars" />e ajb'ix;</l>
+                    <l n="154"><space quantity="10" unit="chars" />e <rs ana="AJB'IX">ajb'ix</rs>;</l>
                     <l n="155">nim chik xkib'ano ta xek'oje'ik ruk' <rs ana="IXMUKANE">rati't</rs>,</l>
                     <l n="156"><space quantity="31" unit="chars" />ruk' pu <rs ana="IXB'AQIYALO">kichuch</rs>.</l>
                     <l n="157">Ta xkitik'ib'a chi k'ut kib'anoj,</l>
